@@ -1,0 +1,357 @@
+:root {
+    --bg-color: #050510;
+    --text-primary: #ffffff;
+    --text-secondary: #a0a0b0;
+    --accent-color: #d4af37;
+    /* Gold */
+    --accent-glow: #d4af3766;
+    --primary-gradient: linear-gradient(135deg, #d4af37 0%, #aa8c2c 100%);
+    --card-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --font-heading: 'Texturina', serif;
+    --font-body: 'Texturina', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    line-height: 1.6;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+/* Background Effects */
+.background-globes {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    background-image: linear-gradient(rgba(5, 5, 16, 0.85), rgba(5, 5, 16, 0.7)), url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* Optional: maintain a slow zoom effect or just static */
+}
+
+/* Removing previous globe animations as they would clash with the image */
+.globe {
+    display: none;
+}
+
+/* Header */
+.glass-header {
+    background: rgba(5, 5, 16, 0.7);
+    backdrop-filter: blur(15px);
+    border-bottom: 1px solid var(--glass-border);
+    padding: 1.5rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+}
+
+.logo {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: var(--text-primary);
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    align-items: center;
+}
+
+nav a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: var(--accent-color);
+}
+
+.btn-primary {
+    background: var(--primary-gradient);
+    color: #000;
+    padding: 0.8rem 1.8rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(212, 175, 55, 0.2);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: var(--text-primary);
+    padding: 0.8rem 1.8rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid var(--glass-border);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 1rem;
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: var(--text-primary);
+}
+
+/* Hero Section */
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8rem 10%;
+    position: relative;
+}
+
+.hero-content {
+    flex: 1;
+    max-width: 600px;
+}
+
+h1 {
+    font-family: var(--font-heading);
+    font-size: 4.5rem;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+}
+
+.text-gradient {
+    background: var(--primary-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    margin-bottom: 2.5rem;
+    max-width: 480px;
+}
+
+/* Card Stack Visual */
+.hero-visual {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    height: 400px;
+}
+
+.card-stack {
+    position: relative;
+    width: 320px;
+    height: 100%;
+}
+
+.card {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background: rgba(20, 20, 35, 0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
+    border-radius: 20px;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.card h3 {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--accent-color);
+}
+
+.card-1 {
+    z-index: 3;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card-2 {
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-45%, -55%) rotate(5deg) scale(0.95);
+    opacity: 0.7;
+}
+
+.card-3 {
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -60%) rotate(10deg) scale(0.9);
+    opacity: 0.4;
+}
+
+.hero-visual:hover .card-1 {
+    transform: translate(-50%, -60%);
+}
+
+.hero-visual:hover .card-2 {
+    transform: translate(-50%, -45%) rotate(-2deg) scale(0.95);
+    opacity: 0.9;
+}
+
+.hero-visual:hover .card-3 {
+    transform: translate(-50%, -30%) rotate(2deg) scale(0.9);
+    opacity: 0.8;
+}
+
+/* Stats Section */
+.stats-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem 10%;
+    background: rgba(255, 255, 255, 0.02);
+    border-top: 1px solid var(--glass-border);
+    margin-bottom: 4rem;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-size: 3rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 0.9rem;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    border-top: 1px solid var(--glass-border);
+}
+
+/* Animations */
+.fade-in-up {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s forwards ease-out;
+}
+
+.fade-in-left {
+    opacity: 0;
+    transform: translateX(30px);
+    animation: fadeInLeft 0.8s forwards ease-out;
+}
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 1s forwards ease-out;
+}
+
+.delay-1 {
+    animation-delay: 0.2s;
+}
+
+.delay-2 {
+    animation-delay: 0.4s;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+/* Responsive */
+@media (max-width: 968px) {
+    .hero {
+        flex-direction: column;
+        padding-top: 120px;
+        text-align: center;
+    }
+
+    .hero-content {
+        margin-bottom: 4rem;
+        width: 100%;
+    }
+
+    .hero p {
+        margin: 0 auto 2.5rem;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    .card-stack {
+        width: 100%;
+        min-width: 300px;
+    }
+
+    .stats-section {
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    nav ul {
+        display: none;
+        /* simple hiding for mobile MVP */
+    }
+}
