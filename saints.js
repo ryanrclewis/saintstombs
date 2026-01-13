@@ -91,7 +91,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const h1Headers = tempDiv.querySelectorAll('h1');
             let tocHtml = '';
 
-            if (h1Headers.length > 0) {
+            // Do not render the "Jump to Country" TOC for the Italy file
+            const isItalyFile = typeof filename === 'string' && filename.toLowerCase().includes('italy');
+
+            if (!isItalyFile && h1Headers.length > 0) {
                 tocHtml = `
                     <div class="toc-container glass">
                         <h3>Jump to Country</h3>
