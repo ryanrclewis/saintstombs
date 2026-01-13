@@ -117,10 +117,14 @@ footer a {
 
 #contactLink {
     font-weight: 700;
-    color: var(--text-secondary);
+    color: var(--accent-color);
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease;
+}
+
+#contactLink:hover {
+    color: var(--text-secondary);
 }
 
 footer a:hover {
