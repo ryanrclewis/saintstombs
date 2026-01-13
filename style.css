@@ -9,7 +9,7 @@
     --card-bg: rgba(255, 255, 255, 0.05);
     --glass-border: rgba(255, 255, 255, 0.1);
     --font-heading: 'Texturina', serif;
-    --font-body: 'Texturina', sans-serif;
+    --font-body: 'Texturina', serif;
 }
 
 * {
@@ -72,6 +72,18 @@ body {
     font-weight: 700;
     letter-spacing: 1px;
     color: var(--text-primary);
+}
+
+.logo-link {
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease;
+    display: flex;
+    align-items: center;
+}
+
+.logo-link:hover {
+    transform: scale(1.02);
 }
 
 nav ul {
@@ -631,4 +643,136 @@ footer {
     border-color: var(--accent-color);
     color: #fff;
     transform: translateY(-2px);
+}
+
+/* Nav Donate Button */
+.nav-donate {
+    border: 1px solid var(--accent-color) !important;
+    background: rgba(212, 175, 55, 0.1) !important;
+    color: var(--accent-color) !important;
+    border-radius: 50px !important;
+    padding: 6px 16px !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.1);
+}
+
+.nav-donate:hover {
+    background: var(--accent-color) !important;
+    color: var(--dark-bg) !important;
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.4) !important;
+    transform: translateY(-2px);
+}
+
+.nav-donate.active {
+    background: var(--accent-color) !important;
+    color: var(--dark-bg) !important;
+    border-color: var(--accent-color) !important;
+}
+
+/* Sub Table of Contents */
+.sub-toc-container {
+    margin: 1.5rem 0 2.5rem 0;
+    padding: 1.25rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.sub-toc-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    opacity: 0.8;
+}
+
+.sub-toc-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.sub-toc-pill {
+    padding: 0.35rem 0.75rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 100px;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.sub-toc-pill:hover {
+    background: rgba(212, 175, 55, 0.15);
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+    transform: translateY(-1px);
+}
+
+/* Contact Page Styles */
+.contact-section {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+.contact-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.contact-icon {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.contact-button {
+    display: inline-block;
+    padding: 1rem 2.5rem;
+    background: var(--accent-color);
+    color: var(--dark-bg);
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(212, 175, 55, 0.3);
+}
+
+.contact-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(212, 175, 55, 0.5);
+    background: #fff;
+    color: #000;
+}
+
+.contact-note {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-top: 1rem;
+    opacity: 0.7;
+}
+
+.town-pill {
+    font-weight: 500;
+    background: rgba(212, 175, 55, 0.05);
+}
+
+.site-pill {
+    font-style: italic;
+    opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+    .sub-toc-container {
+        padding: 1rem;
+    }
 }

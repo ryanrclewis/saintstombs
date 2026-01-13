@@ -31,6 +31,63 @@ document.addEventListener('DOMContentLoaded', () => {
             const tempDiv = document.createElement('div');
             tempDiv.innerHTML = html;
 
+            const h1Groups = [];
+            let currentGroup = null;
+
+            // Group elements by Country (H1)
+            Array.from(tempDiv.children).forEach(el => {
+                if (el.tagName === 'H1') {
+                    currentGroup = { h1: el, items: [] };
+                    h1Groups.push(currentGroup);
+                } else if (currentGroup) {
+                    currentGroup.items.push(el);
+                }
+            });
+
+            // Process each country group to add IDs and build sub-TOCs
+            h1Groups.forEach((group, gIdx) => {
+                const subTocLinks = [];
+                const countryId = group.h1.id;
+
+                group.items.forEach((el, iIdx) => {
+                    if (el.tagName === 'P') {
+                        // Likely a Town
+                        const text = el.textContent.trim();
+                        if (text && text.length > 1) {
+                            const townId = `${countryId}-${text.toLowerCase().replace(/[^\w]+/g, '-')}`;
+                            el.id = townId;
+                            subTocLinks.push(`<a href="#${townId}" class="sub-toc-pill town-pill">${text}</a>`);
+                        }
+                    } else if (el.tagName === 'UL') {
+                        // Likely a list of sites
+                        Array.from(el.children).forEach((li, lIdx) => {
+                            if (li.parentElement === el) {
+                                // Extract site name (first text node normally)
+                                const siteText = li.childNodes[0].textContent.trim().replace(/^[-*+]\s+/, '');
+                                if (siteText && siteText !== '???' && siteText.length > 2) {
+                                    const siteId = `${countryId}-site-${gIdx}-${iIdx}-${lIdx}`;
+                                    li.id = siteId;
+                                    subTocLinks.push(`<a href="#${siteId}" class="sub-toc-pill site-pill">${siteText}</a>`);
+                                }
+                            }
+                        });
+                    }
+                });
+
+                if (subTocLinks.length > 0) {
+                    const subToc = document.createElement('div');
+                    subToc.className = 'sub-toc-container glass';
+                    subToc.innerHTML = `
+                        <div class="sub-toc-label">Jump to:</div>
+                        <div class="sub-toc-links">
+                            ${subTocLinks.join('')}
+                        </div>
+                    `;
+                    group.h1.after(subToc);
+                }
+            });
+
+            const finalHtml = tempDiv.innerHTML;
             const h1Headers = tempDiv.querySelectorAll('h1');
             let tocHtml = '';
 
@@ -47,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             }
 
-            resultsContainer.innerHTML = tocHtml + html;
+            resultsContainer.innerHTML = tocHtml + finalHtml;
             resultsContainer.classList.add('fade-in');
 
             // Scroll to results on mobile
