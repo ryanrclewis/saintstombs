@@ -131,6 +131,8 @@ footer a:hover {
     color: var(--accent-color);
 }
 
+
+
 .btn-primary {
     background: var(--primary-gradient);
     color: #000;
@@ -703,6 +705,14 @@ footer {
 .markdown-content p {
     margin-bottom: 1rem;
     color: var(--text-secondary);
+}
+
+.markdown-content a {
+    color: var(--accent-color);
+}
+
+.markdown-content a:visited {
+    color: var(--accent-color);
 }
 
 .markdown-content ul,

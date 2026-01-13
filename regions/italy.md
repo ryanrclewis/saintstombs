@@ -15245,24 +15245,24 @@ Alacrinus of Casamari, 1/5
 
   - Bl. Zefirino Agostini, possibly Verona, 4/6
 
-[[http://www.op.org/domcentral/life/martyr11.htm]{.underline}](http://www.op.org/domcentral/life/martyr11.htm)
+[[http://www.op.org/domcentral/life/martyr11.htm]](http://www.op.org/domcentral/life/martyr11.htm)
 
   - Saints of Northern Italy --
-    [[http://www.saintpatrickdc.org/ss/italy-ss.htm]{.underline}](http://www.saintpatrickdc.org/ss/italy-ss.htm)
+    [[http://www.saintpatrickdc.org/ss/italy-ss.htm]](http://www.saintpatrickdc.org/ss/italy-ss.htm)
 
-[[http://www.capuchins.org/saints.html]{.underline}](http://www.capuchins.org/saints.html)
+[[http://www.capuchins.org/saints.html]](http://www.capuchins.org/saints.html)
 
-[[http://www.ewtn.com/library/MARY/bios97.htm]{.underline}](http://www.ewtn.com/library/MARY/bios97.htm)
+[[http://www.ewtn.com/library/MARY/bios97.htm]](http://www.ewtn.com/library/MARY/bios97.htm)
 
-[[http://www.catholic-truth.info/saintyear/july.htm]{.underline}](http://www.catholic-truth.info/saintyear/july.htm)
+[[http://www.catholic-truth.info/saintyear/july.htm]](http://www.catholic-truth.info/saintyear/july.htm)
 
-[[http://server.icvbc.cnr.it/bivi/eng/schede/Vaosta/Aosta/4cattedrale.htm]{.underline}](http://server.icvbc.cnr.it/bivi/eng/schede/Vaosta/Aosta/4cattedrale.htm)
+[[http://server.icvbc.cnr.it/bivi/eng/schede/Vaosta/Aosta/4cattedrale.htm]](http://server.icvbc.cnr.it/bivi/eng/schede/Vaosta/Aosta/4cattedrale.htm)
 
-[[http://www.op.org/domcentral/trad/disciples/]{.underline}](http://www.op.org/domcentral/trad/disciples/)
+[[http://www.op.org/domcentral/trad/disciples/]](http://www.op.org/domcentral/trad/disciples/)
 
-[[http://www.osa-west.org/]{.underline}](http://www.osa-west.org/)
+[[http://www.osa-west.org/]](http://www.osa-west.org/)
 
-[[http://www.cordier.it/MIRACOLI.HTM]{.underline}](http://www.cordier.it/MIRACOLI.HTM)
+[[http://www.cordier.it/MIRACOLI.HTM]](http://www.cordier.it/MIRACOLI.HTM)
 
 http://www.le.ac.uk/elh/grj1/ssmain.html
 
