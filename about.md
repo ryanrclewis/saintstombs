@@ -85,7 +85,7 @@ it is very possible that the remains of the holy still lie beneath them.
 
 If you discover any errors on this website, or know of a Servant of God,
 Venerable, Blessed, or Saint whose burial place is not listed here,
-please let me know via the Contact page.
+please let me know via the <a href="/contact.html">Contact</a> page.
 
 Also, if you make it to any of these places, please say a prayer for me
 there, too. Know that I am praying for you.
