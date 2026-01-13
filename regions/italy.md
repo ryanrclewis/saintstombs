@@ -15044,11 +15044,7 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
 
 ## Undetermined
 
-# \*A
-
-#
-
-# Bl. Agathangelus of Vendome (d. 1638)
+Bl. Agathangelus of Vendome (d. 1638)
 
 - St. Agnellus, abbot @ San Gaudioso monastery, Abitni (Naples?) 12/14
 
@@ -15071,11 +15067,11 @@ Alacrinus of Casamari, 1/5
 
   - St. Amasius of Teano, 1/23
 
-# St. Andrew of Strumi (Milan?), 3/10
+  - St. Andrew of Strumi (Milan?), 3/10
 
-# Blessed Angela Maria Astorch (d. 1665)
+  - Blessed Angela Maria Astorch (d. 1665)
 
-# Bl. Angelus of Acri (d. 1739)
+  - Bl. Angelus of Acri (d. 1739)
 
   - Bl. Antonio Baldinucci, SJ, missionary preacher, 11/7
 
@@ -15087,8 +15083,6 @@ Alacrinus of Casamari, 1/5
 
   - Blessed Aurelio Ample Alcaide of Vinalesa (d. 1936)
 
-\*B
-
   - St. Barsanuphius of Gaza, hermit, 4/11 & 2/6, relics in village near
     Sipontum, so. Italy
 
@@ -15099,14 +15093,14 @@ Alacrinus of Casamari, 1/5
   - St. Bellinus, Bishop of Padua, died at the village called Fratta near
     Rovigo
 
-# St. Benedict dell'Antella, 2/17
+  - St. Benedict dell'Antella, 2/17
 
   - St. Benedict of Campagna, 3/23
 
   - St. Berardo, patron saint of his diocese, Marsi, where his body is kept,
     possibly at an eponymous church in San Palomba, Albano
 
-Bernard of Bologna, OP
+  - Bernard of Bologna, OP
 
   - St. Bernard Tolomeo, 8/21
 
@@ -15114,23 +15108,17 @@ Bernard of Bologna, OP
 
   - St. Bonfilio Monaldo, OSM, 9/17
 
-#
+  - Bl. Caesarius of Speyer, early Franciscan, 4/1
 
-# \*C
-
-#
-
-# Bl. Caesarius of Speyer, early Franciscan, 4/1
-
-# Bl. Calimerius of Montechiaro, 11/28
+  - Bl. Calimerius of Montechiaro, 11/28
 
   - Servant of God Carlo Grisolia, layman, d. 9/29/1980
 
-# Bl. Cassian of Nantes
+  - Bl. Cassian of Nantes
 
   - Bl. Caterina Colombini
 
-- St. Christopher of Milan, probably at Our Lady of Mercy Convent, Taggia,
+  - St. Christopher of Milan, probably at Our Lady of Mercy Convent, Taggia,
   3/1
 
   - St. Crisogono/Chrysogonus, martyr, 11/24 (full body possibly at Venice
@@ -15142,11 +15130,7 @@ Bernard of Bologna, OP
 
   - St. Crescentian, martyr, 7/2 in the Campania region
 
-\*D
-
   - Servant of God Domenico Cesari, layman, d. 3/9/1949
-
-\*E
 
   - Bl. Elizabeth Batholomea Picenardi of Mantua, Servite nun, 2/20
 
@@ -15158,21 +15142,17 @@ Bernard of Bologna, OP
 
   - St. Evellio, imperial counselor/martyr, 5/11 (died near Pisa)
 
-\*F
-
   - St. Felicissimus, martyr, somewhere in Campania region, 7/2
 
   - St. Felix, martyr, somewhere in Campania region, 7/2
 
   - Bl. Ferdinand Mary Baccilleri, 7/13 (Galeazza?)
 
-- Bl. Filippa Guidoni, abbey foundress/abbess, 8/29
+  - Bl. Filippa Guidoni, abbey foundress/abbess, 8/29
 
   - Bl. Filippo Carisi di Vercelli, OP, 4/14
 
   - St. Firmina of Amelia (America), Umbria, 11/24
-
-\*G
 
   - Bl. Giacomo l\'Elemosiniere/James the Almsgiver, OFM, murdered monk,
     1/15 (supposedly in Vecciano)
@@ -15193,24 +15173,18 @@ Bernard of Bologna, OP
   - St. Guarinus/Guarino, Cardinal Bishop of Palestrina, probably at
     Palestrina or Pavia (feast celebrated in Bologna, Feb. 6)
 
-- Bl. Guido Maramaldi, OP, preacher, 6/25 (buried in the Rosary chapel of
+  - Bl. Guido Maramaldi, OP, preacher, 6/25 (buried in the Rosary chapel of
   San Domenico, but where?)
-
-\*H
-
-\*I
 
   - St. Illuminato da Rieti, OFM, friar, 7/8
 
   - Bl. Isnard da Chiampo, OP, 3/22
 
-\*J
-
   - Servant of God Jakob Ukmar, priest, d. 11/2/1971
 
   - St. James the Almsgiver, 1/28
 
-# Blessed Jeremy of Valachia (d. 1625)
+  - Blessed Jeremy of Valachia (d. 1625)
 
   - St. John Buonagiunta Monetti, 2/17
 
@@ -15218,17 +15192,11 @@ Bernard of Bologna, OP
 
   - Bl. John of Rieti, 8/9
 
-\*L
+  - St Laurence of Brindisi, OFM Cap.
 
-St Laurence of Brindisi, OFM Cap.
+  - Venerable Leopoldine Naudet
 
-Venerable Leopoldine Naudet
-
-#
-
-# \*M
-
-# Bl. Magdalene Albrizzi, 5/15
+  - Bl. Magdalene Albrizzi, 5/15
 
   - St. Margaret of Amelia, 4/20
 
@@ -15245,17 +15213,11 @@ Venerable Leopoldine Naudet
 
   - Ss. Mauro and his wife Beneria, 10/25
 
-\*N
-
   - St. Nicone/Nicon/Nikon of Sicily and companions, martyrs, 3/23 (he may
     be at the Chiesa di San Pancrazio in Taormina or he may be only
     commemorated there in a side altar \[most likely\]. "The bishop of the
     city of Messina \... and his clergy buried the bodies of Saint Nikon and
     his disciples.")
-
-\*O
-
-\*P
 
   - St. Paulinus of Antioch, 7/12
 
@@ -15265,32 +15227,19 @@ Venerable Leopoldine Naudet
 
   - Bl. Possidius/Possidio of Calama, bishop, 5/16
 
-\*Q
-
-\*R
-
-\***S
-
   - St. Severinus of Sanseverino, bishop, 5/15 & 6/8 (possibly at Monte
     Nero)
 
   - St. Simone del Monte Mercurio/Simon of Mount Mercury, abbot/hermit,
     11/19
 
-\**
-\*T
+  - Venerable Teodora Campestrini
 
-Venerable Teodora Campestrini
-
-# St. Theobald of Vico, 6/1
+  - St. Theobald of Vico, 6/1
 
   - Bl. Thomas Bellaci, 10/29
 
-\*U
-
-\*V
-
-# St. Veronica Giuliani, 7/9 (d. 1727)
+  - St. Veronica Giuliani, 7/9 (d. 1727)
 
   - Valentine, priest, and Hilary, deacon, martyred at Viterbo
 
