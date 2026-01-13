@@ -40,14 +40,24 @@
                 <div class="contact-icon">✉️</div>
                 <h2>Email Us</h2>
                 <p>For research corrections, new saint locations, or general inquiries, please</p>
-                <a href="mailto:catholicpbwriter@yahoo.com?subject=RE: SaintsTombs" class="contact-button">Contact Us</a>
-                <p class="contact-note">Clicking the link above will open your default email client.</p>
+                <form class="contact-form" action="https://formspree.io/f/mykkyvqz" method="POST">
+                    <label class="form-field">
+                        <span>Your email</span>
+                        <input type="email" name="email" required placeholder="you@example.com">
+                    </label>
+                    <label class="form-field">
+                        <span>Your message</span>
+                        <textarea name="message" rows="4" required placeholder="How can we help?"></textarea>
+                    </label>
+                    <button type="submit" class="contact-submit">Send message</button>
+                </form>
             </div>
         </section>
     </main>
 
     <footer class="glass">
-        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank">ARCHANGEL LABORATORIES</a>.</p>
+        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank">ARCHANGEL
+                LABORATORIES</a>.</p>
     </footer>
 
     <div class="background-overlay"></div>
