@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             // Process each country group to add IDs and build sub-TOCs
-            h1Groups.forEach((group, gIdx) => {
+            /* h1Groups.forEach((group, gIdx) => {
                 const subTocLinks = [];
                 const countryId = group.h1.id;
 
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `;
                     group.h1.after(subToc);
                 }
-            });
+            }); */
 
             const finalHtml = tempDiv.innerHTML;
             const h1Headers = tempDiv.querySelectorAll('h1');
