@@ -1,4 +1,4 @@
-# Armenia
+﻿# Armenia
 
 Arabissus
 
@@ -217,7 +217,7 @@ Guiyang, Province of Guizhou
 - ???
 
 - St. Ioachim Hao, lay catechist, 7/9 (Maybe at the North Church of
-  Guiyang \[贵阳北堂\], which he helped build.)
+  Guiyang \贵阳北堂\, which he helped build.)
 
   - St. Peter Lieou/Liu Wenyuan Petrus (彼得·列欧), martyr, 5/17 (his wife
     buried him in a garden she had tended)
@@ -414,7 +414,7 @@ Shenzhou City, Hebei Province
   - St. Paulus Wu Wanshu, lay martyr, 6/29 (supposedly in the town of
     Xiaoluyi territory, but no such place seems to exist)
 
-Shuanzhong (maybe Sungezhuang \[孙各庄满族乡\]?), Jizhou (蓟州区)
+Shuanzhong (maybe Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区)
 district, Metropolitan City of Tianjin
 
 - ???
@@ -532,7 +532,7 @@ Xingyi Qianxinan Buyei, Miao Autonomous Prefecture, Guizhou Province
 
 Yerkalo, Markham County, Tibet
 
-[ཡེ་ཤུའི་ལྷ་ཁང་གི་ཡེ་ཤུའི་ལྷ་ཁང་།]{dir="rtl"}/圣心圣母教堂/Our Lady of the
+ཡེ་ཤུའི་ལྷ་ཁང་གི་ཡེ་ཤུའི་ལྷ་ཁང་།/圣心圣母教堂/Our Lady of the
 Sacred Heart Parish Church (the only Catholic church in all Tibet, aka
 盐井天主教堂)
 
@@ -569,7 +569,7 @@ Zhujiaxie village, Shenzhou County, Hebei Province
   - St. Petrus Liu Zeyu, lay martyr, 7/17
 
   - Servant of God Albert L\'Heureux (Alphonse), OCSO, priest/martyr, d.
-    9/12/1947 (supposedly buried in Teng Chia Yu \[邓家瑜?\] along with
+    9/12/1947 (supposedly buried in Teng Chia Yu \邓家瑜?\ along with
     seven other monks, but if it still exists, the town is no longer called
     that)
 
@@ -683,8 +683,8 @@ Alappuzha (Alleppey) Alappuzha district, Kerala state
 
 - Mount Carmel Cathedral cemetery
 
-  - Servant of God Reynolds Purackal ([റെയ്‌നോൾഡ്‌സ്]{dir="rtl"}
-    [പുരയ്ക്കൽ]{dir="rtl"}), priest, d. 10/14/1988
+  - Servant of God Reynolds Purackal (റെയ്‌നോൾഡ്‌സ്
+    പുരയ്ക്കൽ), priest, d. 10/14/1988
 
 Ambapara (Amba Para), Banswara (city), Rajasthan
 
@@ -714,8 +714,8 @@ Athirampuzha, Kottayam district, Kerala state
 - Shrine of St. Sebastian
 
   - Servant of God Philomena Vallayil (Mother Mary Frances de Chantal)
-    ([ഫിലോമിന]{dir="rtl"} [വല്ലയിൽ]{dir="rtl"} ([മേരി]{dir="rtl"}
-    [ഫ്രാൻസിസ്‌കാ]{dir="rtl"} [ദ]{dir="rtl"} [ഷന്താൾ]{dir="rtl"}),
+    (ഫിലോമിന വല്ലയിൽ (മേരി
+    ഫ്രാൻസിസ്‌കാ ദ ഷന്താൾ),
     foundress, d. 5/25/1972
 
 Bendur, Mangalore, Dakshina Kannada district, Karnataka state
@@ -779,7 +779,7 @@ Cherthala, Alappuzha district, Kerala state
 - ???
 
   - Servant of God Joseph Kandathil Warkey Thomas Kandathil
-    ([ജോസഫ്]{dir="rtl"} [കണ്ടത്തില്‍]{dir="rtl"}), priest/founder, d.
+    (ജോസഫ് കണ്ടത്തില്‍), priest/founder, d.
     12/12/1991
 
 Chowannur, Thrissur district, Kerala state
@@ -842,9 +842,9 @@ Edakochi, Ernakulam, Kerala state
 
 Edapally, Kochi
 
-- St. George's Syro-Malabar Forane Church ([മാർ]{dir="rtl"}
-  [ഗീവർഗ്ഗീസ്]{dir="rtl"} [സഹദാ]{dir="rtl"} [പള്ളി]{dir="rtl"},
-  [ഇടപ്പള്ളി]{dir="rtl"})
+- St. George's Syro-Malabar Forane Church (മാർ
+  ഗീവർഗ്ഗീസ് സഹദാ പള്ളി,
+  ഇടപ്പള്ളി)
 
 - Shrine of St. George
 
@@ -865,8 +865,8 @@ Ernakulam, City of Kochi, Ernakulam district, Kerala state
 
 - St. Francis Assisi Cathedral "Smrithimandhiram"
 
-  - Servant of God Joseph Attipetty ([ജോസഫ്]{dir="rtl"}
-    [അട്ടിപ്പേറ്റി]{dir="rtl"}), archbishop, d. 1/21/1970
+  - Servant of God Joseph Attipetty (ജോസഫ്
+    അട്ടിപ്പേറ്റി), archbishop, d. 1/21/1970
 
 Goa
 
@@ -918,7 +918,7 @@ Kannur, Kannur district, Kerala state
 
 One of the city\'s cemeteries (probably Holy Family)
 
-[മരിയ]{dir="rtl"} [സെലിന്‍]{dir="rtl"} [കണ്ണനായ്ക്കല്‍]{dir="rtl"}/Ven.
+മരിയ സെലിന്‍ കണ്ണനായ്ക്കല്‍/Ven.
 Maria Celine Kannanaikal, UMI, religious/mystic, d. 7/26/1957
 
 Karukutty, Ernakulam district, Kerala state
@@ -939,10 +939,10 @@ Kilacheri, Tiruvallur district, Tamil Nadu state
 
 - Sacred Heart Church cemetery
 
-  - Servant of God Thatipatri Gnanamma ([தாடிபத்திரி]{dir="rtl"}
-    [ஞானம்மா]{dir="rtl"}
+  - Servant of God Thatipatri Gnanamma (தாடிபத்திரி
+    ஞானம்மா
 
-  - > [తతిపత్రి]{dir="rtl"} [జ్ఞానమ్మ]{dir="rtl"}), widow/foundress, d. 12/21/1874
+  - > తతిపత్రి జ్ఞానమ్మ), widow/foundress, d. 12/21/1874
 
 Kochi (Ernakulam Island), Kerala
 
@@ -954,8 +954,8 @@ Kochi (Ernakulam Island), Kerala
 
 - St. Antony's Church (Kacheripady, Kochi, Kerala 682018)
 
-  - Servant of God Immanuel Lopez ([ഇമ്മാനുവൽ]{dir="rtl"}
-    [ലോപ്പസ്]{dir="rtl"}), "the Vianney of Kerala," priest, d. 3/20/2004
+  - Servant of God Immanuel Lopez (ഇമ്മാനുവൽ
+    ലോപ്പസ്), "the Vianney of Kerala," priest, d. 3/20/2004
 
 Konthuruthy Island, Thevara, Kochi, Kerala state
 
@@ -1004,10 +1004,10 @@ Kuzhikattussery, Thrissur district, Kerala state
 
   - St. Mariam Thresia Chiramel Mankidiyan, cofoundress, 6/8
 
-Mumbai, Mahim/[माहिम]{dir="rtl"} neighborhood, Konkan division,
+Mumbai, Mahim/माहिम neighborhood, Konkan division,
 Maharashtra state
 
-[सेंट]{dir="rtl"} [मायकल]{dir="rtl"} [चर्च]{dir="rtl"}/St. Michael\'s
+सेंट मायकल चर्च/St. Michael\'s
 Church cemetery (+91 77383 89886; Lady Jamshedji Road)
 
   - Ven. Fernanda Riva, FdCC, religious, d. 1/22/1956
@@ -1036,15 +1036,15 @@ Manjummel, Ernakulam district, Kerala state
 
 Mannanam, Kerala state
 
-[സെൻ്റ്]{dir="rtl"} [ജോസഫ്]{dir="rtl"} [പള്ളി]{dir="rtl"}/St. Joseph
+സെൻ്റ് ജോസഫ് പള്ളി/St. Joseph
 Church
 
   - Bl. Kuriakose (aka, Cyriac) Elias Chavara, priest, 1/3 & 2/18
 
 Mariyapuram (near Pariyaram) Kannur district, Kerala state
 
-[ഔർ]{dir="rtl"} [ലേഡി]{dir="rtl"} [ഓഫ്]{dir="rtl"}
-[പെർപെച്വൽ]{dir="rtl"} [സക്കർ]{dir="rtl"} [ചർച്ച്]{dir="rtl"}/Our Lady of
+ഔർ ലേഡി ഓഫ്
+പെർപെച്വൽ സക്കർ ചർച്ച്/Our Lady of
 Perpetual Succour Church
 
   - Servant of God Lino Maria "Zucolachan" Zucol, SJ, priest, d.
@@ -1154,8 +1154,8 @@ Pattaram, Iritty municipality, Kannur district, Kerala state
 
 - Vimalagiri Ashram
 
-  - Servant of God Armond "Armandachan" Madhavath ([ആര്‍മണ്ട്]{dir="rtl"}
-    [മാധവത്ത്]{dir="rtl"}), OFM Cap., priest, d. 1/12/2001
+  - Servant of God Armond "Armandachan" Madhavath (ആര്‍മണ്ട്
+    മാധവത്ത്), OFM Cap., priest, d. 1/12/2001
 
 Pattom region of Thiruvananthapuram, Kerala state
 
@@ -1198,8 +1198,8 @@ Poondi, Thiruvallur taluk of Tiruvallur district, Tamil Nadu state
 
 Prayagraj, Prayagraj district, Prayagraj division, Uttar Pradesh
 
-[सेंट]{dir="rtl"} [जोसेफ़्स]{dir="rtl"} [कैथेड्रल]{dir="rtl"},
-[इलाहाबाद]{dir="rtl"}/St. Joseph Cathedral
+सेंट जोसेफ़्स कैथेड्रल,
+इलाहाबाद/St. Joseph Cathedral
 
   - Ven. Anastasius of Altwis (nee Joseph Alois Hartmann), OFM. Cap.,
     bishop, d. 4/24/1886
@@ -1307,9 +1307,9 @@ Vadakkankulam, Radhapuram Taluka, Tirunelveli District, Tamil Nadu state
 
 - Fatimagiri Ashram (Rosarians House)
 
-  - Servant of God Antony Susainather/[அந்தோனி]{dir="rtl"}
-    [சூசைநாதர்]{dir="rtl"} (nee Antony Fernando/[அந்தோனி]{dir="rtl"}
-    [பர்னாந்து]{dir="rtl"}), CR, priest/hermit, d. 6/8/1968
+  - Servant of God Antony Susainather/அந்தோனி
+    சூசைநாதர் (nee Antony Fernando/அந்தோனி
+    பர்னாந்து), CR, priest/hermit, d. 6/8/1968
 
 Vagamon village, Peerumedu Taluk, Kottayam district, Kerala state
 
@@ -1322,7 +1322,7 @@ Velankanni, Nagapattinam district, Tamil Nadu state
 
 - Basilica of Our Lady of Good Health
 
-[ஆரோக்கிய]{dir="rtl"} [அன்னை]{dir="rtl"}/Our Lady of Health of Velankanni,
+ஆரோக்கிய அன்னை/Our Lady of Health of Velankanni,
 9/8
 
 Varapuzha/Varappuzha, Ernakulam district, Kerala state
@@ -1384,8 +1384,8 @@ province
 
 Hamadan, Central district, Hamadan County, Hamadan Province
 
-- Tomb of Esther and Mordechai (Persian: [آرامگاه استر و
-  مردخای]{dir="rtl"})
+- Tomb of Esther and Mordechai (Persian: آرامگاه استر و
+  مردخای)
 
   - Queen St. Esther
 
@@ -1411,12 +1411,12 @@ Susa, Shush, Khuzestan province
 
   - St. Daniel the Prophet, 7/21 (his relics are reputedly in Venice)
 
-Tuyserkan/[تويسركان]{dir="rtl"}, Central district, Tuyserkan county,
+Tuyserkan/تويسركان, Central district, Tuyserkan county,
 Province of Hamadan
 
-- [زیارتگاه حبقوق]{dir="rtl"}/Shrine of Habakkuk
+- زیارتگاه حبقوق/Shrine of Habakkuk
 
-[حبقوق پیامبر]{dir="rtl"}/The Old Testament Prophet Habakkuk, 12/2
+حبقوق پیامبر/The Old Testament Prophet Habakkuk, 12/2
 
   - Some 16,000 were martyred in the reign of King Sapor II.
 
@@ -1494,15 +1494,15 @@ Al Kifl, Al-Hillah district, Babylon province
 
 Prophet Ezekiel, 7/23
 
-Alqosh/[ألقوش]{dir="rtl"}, Tel Kaif District, Nineveh governorate
+Alqosh/ألقوش, Tel Kaif District, Nineveh governorate
 
-[الكنيس]{dir="rtl"}/The synagogue
+الكنيس/The synagogue
 
-[ناحوم]{dir="rtl"}/The Prophet Nahum, 12/1
+ناحوم/The Prophet Nahum, 12/1
 
-- [دير الربان هرمزد]{dir="rtl"}/Rabban Hormizd Monastery
+- دير الربان هرمزد/Rabban Hormizd Monastery
 
-  - [هرمزد الراهب]{dir="rtl"}/Rabban Mar Hormizd, monk/founder, 2nd
+  - هرمزد الراهب/Rabban Mar Hormizd, monk/founder, 2nd
     Sunday after Easter
 
 Der Serkis, west of Edessa
@@ -1514,32 +1514,32 @@ Der Serkis, west of Edessa
 
 Kirkuk
 
-- [كنيسة القديس يوسف]{dir="rtl"}/Church of Saint Joseph
+- كنيسة القديس يوسف/Church of Saint Joseph
 
-  - Servant of God Cecilia Moshi Hanna ([سيسيل موشي حنا]{dir="rtl"}),
+  - Servant of God Cecilia Moshi Hanna (سيسيل موشي حنا),
     RSCJ, religious/martyr, d. 8/15/2002 (Sacred Heart of Jesus
     Monastery)
 
 Mosul
 
-[كنيسة القديس بولس الكلدانية الكاثوليكية]{dir="rtl"}/ St. Paul
+كنيسة القديس بولس الكلدانية الكاثوليكية/ St. Paul
 Chaldean Catholic Church
 
-[رغيد عزيز كني]{dir="rtl"}/Servant of God Ragheed Aziz Ganni,
+رغيد عزيز كني/Servant of God Ragheed Aziz Ganni,
 priest/martyr, d. 6/3/2007
 
-[بسمان يوسف داود اليوسف]{dir="rtl"}/Servant of God Basman Yousef
+بسمان يوسف داود اليوسف/Servant of God Basman Yousef
 Daud, subdeacon/martyr, d. 6/3/2007
 
-[وحيد حنا ايشو]{dir="rtl"}/Servant of God Wahid Hanna Isho,
+وحيد حنا ايشو/Servant of God Wahid Hanna Isho,
 subdeacon/martyr, d. 6/3/2007
 
-[غسان عصام بيداويذ]{dir="rtl"}/Servant of God Gassan Isam Bidawed,
+غسان عصام بيداويذ/Servant of God Gassan Isam Bidawed,
 subdeacon/martyr, d. 6/3/2007
 
 # Israel / Palestine
 
-Al-Qubeiba, Jerusalem/[القبيبة]{dir="rtl"}/Emmaus Al Qubeibeh
+Al-Qubeiba, Jerusalem/القبيبة/Emmaus Al Qubeibeh
 
 - Shrine of the Manifestation of Jesus/House of Cleopas
 
@@ -1563,12 +1563,12 @@ Ashkelon
 
 - Monastery
 
-Beit Shemesh/[בית שמש]{dir="rtl"}, Jerusalem District
+Beit Shemesh/בית שמש, Jerusalem District
 
-[בית ג]{dir="rtl"}\'[מאל]{dir="rtl"}/[بيت جمال]{dir="rtl"}
-/[الحك]{dir="rtl"}/Beit Jimal Salesian Monastery
+בית ג\'מאל/بيت جمال
+/الحك/Beit Jimal Salesian Monastery
 
-  - Ven. [سمعان سروجي]{dir="rtl"}/Sim\'ān "Simon" Srūjī, SDB,
+  - Ven. سمعان سروجي/Sim\'ān "Simon" Srūjī, SDB,
     religious, d. 11/27/1943
 
 Bethlehem, West Bank
@@ -1582,7 +1582,7 @@ Carmel of the Holy Child Jesus
   - St. Mary of Jesus Crucified ("Al Qiddisa," Mariam/Maram Baouardy),
     Bethlehem, 8/25
 
-- Rachel\'s Tomb/ [קבר רחל]{dir="rtl"}/ [قبر راحيل]{dir="rtl"} at the
+- Rachel\'s Tomb/ קבר רחל/ قبر راحيل at the
   Bilal bin Rabah mosque (on the road to Ephrat between Bethlehem and
   Gilo)
 
@@ -1650,7 +1650,7 @@ The prophet Nathan
 
 Hebron
 
-[מְעָרַת הַמַּכְפֵּלָה]{dir="rtl"}/[الحرم الإبراهيمي]{dir="rtl"}/Cave of the
+מְעָרַת הַמַּכְפֵּלָה/الحرم الإبراهيمي/Cave of the
 Patriarchs/Tomb of the Patriarchs/Cave of Machpela/Ma'arat
 ha-Makhpela/Sanctuary of Abraham
 
@@ -1772,30 +1772,30 @@ The Old Testament Prophet Zechariah
 
   - St. Stefano of Cuneo, OFM, priest/martyr, 11/14 (burned alive)
 
-Jish/Gush Halav/[الجش]{dir="rtl"}/[גִ]{dir="rtl"}\'[שׁ]{dir="rtl"}, [גּוּשׁ
-חָלָב]{dir="rtl"}, Upper Galilee, Northern District
+Jish/Gush Halav/الجش/גִ\'שׁ, גּוּשׁ
+חָלָב, Upper Galilee, Northern District
 
-- [קברו של הנביא יו]{dir="rtl"}/[אלمقابر النبي يوئيل]{dir="rtl"}/Tomb of
+- קברו של הנביא יו/אלمقابر النبي يوئيل/Tomb of
   the Prophet Joel
 
   - St. Joel, Old Testament prophet, 10/19
 
-[مقابر شمعايا وافتاليون]{dir="rtl"}/ [קברי שמעיה
-ואבטליון]{dir="rtl"}/Tombs of Shemaiah and Avtalion
+مقابر شمعايا وافتاليون/ קברי שמעיה
+ואבטליון/Tombs of Shemaiah and Avtalion
 
   - St. Shemaiah the Prophet, 1/8 & 1/9
 
 Kever Shmuel ha-Navi/Nebi Samuel/Nebi Samwil
 
-- Tomb of Samuel/[النبي صموئيل]{dir="rtl"}/[קבר שמואל
-  הנביא]{dir="rtl"}/Nabi Samwil mosque
+- Tomb of Samuel/النبي صموئيل/קבר שמואל
+  הנביא/Nabi Samwil mosque
 
 The Prophet Samuel, 8/20
 
-[الخان الأحمر]{dir="rtl"}/[חאן אל]{dir="rtl"}-[אחמאר]{dir="rtl"}/Khan
+الخان الأحمر/חאן אל-אחמאר/Khan
 al-Ahmar, Jerusalem Governorate, West Bank
 
-- [دير أوثيميوس]{dir="rtl"}/[מנזר אותימיוס]{dir="rtl"}/Monastery of
+- دير أوثيميوس/מנזר אותימיוס/Monastery of
   Euthymius/Lavra of Euthymius (its ruins stand on the main
   Jerusalem-Jericho highway)
 
@@ -1849,15 +1849,15 @@ Mar Saba, Kidron Valley, West Bank (east of Bethlehem)
 
   - St. Sophia, mother of St. Sabas
 
-Malkia Kibbutz /[מַלְכִּיָּה]{dir="rtl"}, Upper Galilee, Northern district
+Malkia Kibbutz /מַלְכִּיָּה, Upper Galilee, Northern district
 
 Tel Kedesh archaeological site (near the spring beneath the town of
 Kedesh)
 
 Deborah the Judge, 11/1
 
-Mount Carmel (Hebrew: [‏הַר הַכַּרְמֶל]{dir="rtl"}, Har HaKarmel, Arabic: [‏جبل
-الكرمل]{dir="rtl"}, Jabal al-Karma)
+Mount Carmel (Hebrew: ‏הַר הַכַּרְמֶל, Har HaKarmel, Arabic: ‏جبل
+الكرمل, Jabal al-Karma)
 
 - ???
 
@@ -1871,14 +1871,14 @@ Mount of Olives
 
 Nazareth, Northern District
 
-[כנסיית המולד]{dir="rtl"}/[كنيسة المهد]{dir="rtl"}/Εκκλησία της
+כנסיית המולד/كنيسة المهد/Εκκλησία της
 Γεννήσεως/Սուրբ Ծննդյան եկեղեցի/Church of the Nativity
 
   - St. Eustochia, laywoman
 
-Sebastia/[سبسطية]{dir="rtl"}, Nablus Governorate, Palestinian Authority
+Sebastia/سبسطية, Nablus Governorate, Palestinian Authority
 
-[مسجد النبي يحيى]{dir="rtl"}/Nabi Yahya Mosque
+مسجد النبي يحيى/Nabi Yahya Mosque
 
 The Prophet Obadiah, 11/19
 
@@ -1890,11 +1890,11 @@ Tekoa, West Bank
 
 Wadi Qelt, Area C, West Bank, near Jericho
 
-- [دير القديس جورج]{dir="rtl"}/Monastery of St. George of Choziba
+- دير القديس جورج/Monastery of St. George of Choziba
 
-  - St. [جورج الخوزيبى]{dir="rtl"}/George of Chozeb, monk/hermit, 1/8
+  - St. جورج الخوزيبى/George of Chozeb, monk/hermit, 1/8
 
-  - St. [يوحنا الخوزيبى]{dir="rtl"}/John of Choziba, bishop/monk,
+  - St. يوحنا الخوزيبى/John of Choziba, bishop/monk,
 
 Albert of Jerusalem, died at Acre, 9/25
 
@@ -1957,7 +1957,7 @@ Fuchu City
   no. 12-1-25
 
   - Ven. Elizabeth Maria Satoko Kitahara/エリザベト マリア 北原怜子,
-    laywoman, d. 1/23/1958[^1]
+    laywoman, d. 1/23/1958^1
 
 Hiroshima
 
@@ -2533,7 +2533,7 @@ Our Lady of Akita (秋田の聖母マリア), 7/6
 
 # Jordan
 
-[جبل هارون]{dir="rtl"} /Jabal Hārūn (Aaron's Mountain)
+جبل هارون /Jabal Hārūn (Aaron's Mountain)
 
 Mosque at the summit
 
@@ -3007,19 +3007,19 @@ Rice field
 
   - Bl. Louis Leroy, missionary, martyr, 4/18
 
-Luang Namtha/[ມ]{dir="rtl"}. [ຫລວງນໍ້າທາ]{dir="rtl"} (Talang), Luang
+Luang Namtha/ມ. ຫລວງນໍ້າທາ (Talang), Luang
 Namtha Province, northern Laos or Ban Talang/Ban Ta Lang, Houaphanh
 Province,
 
 - ???
 
-  - Bl. Joseph Thąo Tiěn ([ໂຈ]{dir="rtl"}​[ເຊັບ]{dir="rtl"}
-    [ເທ]{dir="rtl"}​[ໂວ]{dir="rtl"}​[ຕີ້]{dir="rtl"}), priest/martyr, 6/2 (he
+  - Bl. Joseph Thąo Tiěn (ໂຈ​ເຊັບ
+    ເທ​ໂວ​ຕີ້), priest/martyr, 6/2 (he
     died at Talang/Ban Talang prison camp)
 
-Pakse ([ປາກເຊ]{dir="rtl"}), Pakse district, Champasak province
+Pakse (ປາກເຊ), Pakse district, Champasak province
 
-- ??? Possibly Sacred Heart Cathedral [ວິຫານຫົວໃຈສັກສິດ]{dir="rtl"}
+- ??? Possibly Sacred Heart Cathedral ວິຫານຫົວໃຈສັກສິດ
 
   - Bl. Lucien Galan, MEP, priest/martyr, 5/12
 
@@ -3027,8 +3027,8 @@ Pakse ([ປາກເຊ]{dir="rtl"}), Pakse district, Champasak province
 
 Vientiane, Vientiane Prefecture
 
-- Sacred Heart Cathedral (Lao: [ວັດກາໂທລິກ]{dir="rtl"}
-  [ນະຄອນວຽງຈັນ]{dir="rtl"}; French: Cathédrale du Sacré-Cœur de Vientiane)
+- Sacred Heart Cathedral (Lao: ວັດກາໂທລິກ
+  ນະຄອນວຽງຈັນ; French: Cathédrale du Sacré-Cœur de Vientiane)
 
   - Bl. Jean Wauthier, priest/martyr, 12/16
 
@@ -3114,7 +3114,7 @@ confused with Aannaya in the Keserwan District)
 
   - St. Charbel Makhlouf, monk/wonderworker12/24
 
-Baalbek ([بَعْلَبَكّ]{dir="rtl"}), Baalbek-Hermel Governorate
+Baalbek (بَعْلَبَكّ), Baalbek-Hermel Governorate
 
 - St. Barbara Melkite Cathedral
 
@@ -3128,81 +3128,81 @@ Batroun
 
 Beirut
 
-[كاتدرائية القديس إيليا والقديس غريغوريوس المنير للأرمن
-الكاثوليك]{dir="rtl"}/Armenian Catholic Cathedral of St. Elias and St.
+كاتدرائية القديس إيليا والقديس غريغوريوس المنير للأرمن
+الكاثوليك/Armenian Catholic Cathedral of St. Elias and St.
 Gregory the Illuminator
 
   - Servant of God Gregorio Pietro XV Agagianian/Գրիգոր Պետրոս ԺԵ.
     Աղաճանեան, cardinal, d. 5/16/1971 (incorrupt)
 
-Between Becharré and Ehden, Qadicha Valley ([وادي قاديشا]{dir="rtl"})
+Between Becharré and Ehden, Qadicha Valley (وادي قاديشا)
 
 - Monastère Saint-Elysée (aka, St. Alichaa, Mar Lichaa or Elisha)
 
-  - Servant of God Antonios (Jibrayl) Tarabay [أنطونيوس]{dir="rtl"})
-    [جبرائيل طربيه]{dir="rtl"}), monk/priest, d. 6/4/1998 (buried in the
+  - Servant of God Antonios (Jibrayl) Tarabay أنطونيوس)
+    جبرائيل طربيه), monk/priest, d. 6/4/1998 (buried in the
     cave in which he lived)
 
 Bqennaya, Metn District, Jall el Dib, Mount Lebanon governorate
 
-- Couvent de la Croix/[دير الصليب]{dir="rtl"}/Convent of the Cross
+- Couvent de la Croix/دير الصليب/Convent of the Cross
 
   - Bl. Khalīl al-Haddād/Haddad (Ya'Qūb from Ghazīr/Jacques de Ghazir),
     OFM Cap., priest/founder, 6/26
 
-En-Nabi Safi/Nabi Safa/[النبي صفا]{dir="rtl"}, Rashaya District, Beqaa
+En-Nabi Safi/Nabi Safa/النبي صفا, Rashaya District, Beqaa
 Governorate
 
-- [مقام النبي صفي]{dir="rtl"}/The shrine of Prophet Safi
+- مقام النبي صفي/The shrine of Prophet Safi
 
 Zephaniah the Old Testament Prophet, 12/3
 
-Jounieh ([جونيه]{dir="rtl"}), Keserwan District
+Jounieh (جونيه), Keserwan District
 
-- Holy Savior Monastery of the Basilian Allepian monks ([دير المخلص
-  المقدس للرهبان الحلبيين الباسيليين]{dir="rtl"})
+- Holy Savior Monastery of the Basilian Allepian monks (دير المخلص
+  المقدس للرهبان الحلبيين الباسيليين)
 
   - Servant of God Fathi Baladi, layman/likely martyr, d. 12/31/1980
 
 Kadisha Valley
 
-- Qannoubine/Qannubin Monastery/Deir Qannubin ([دير قنوبين]{dir="rtl"})
+- Qannoubine/Qannubin Monastery/Deir Qannubin (دير قنوبين)
 
   - Bl. Istifan al-Duwayhi/Estephan Douaihy, patriarch,
 
 Kfifan, Batrūn, Ash Shamāl
 
-- [دير القديسين كبريانوس و جوستين]{dir="rtl"}/ Monastère de Saint
+- دير القديسين كبريانوس و جوستين/ Monastère de Saint
   Cyprien et Sainte Justine/Monastery of Ss. Cyprian and Justina
 
-  - Bl. [يوسف نعمة]{dir="rtl"}/Esțfān (nee Yūsuf) Nehmé, monk, 8/30
+  - Bl. يوسف نعمة/Esțfān (nee Yūsuf) Nehmé, monk, 8/30
 
-  - St. [نعمة الله الحرديني]{dir="rtl"}/Nimatullah Kassab
+  - St. نعمة الله الحرديني/Nimatullah Kassab
     al-Hardini/Yusuf Jurj Kassab al-Hardini, OLM, monk/priest12/14
 
 Maghdouché, Sidon District, South Governorate
 
 - Shrine of Our Lady of Mantara/Our Lady of Awaiting, 6/11
 
-Qannoubine ([قنوبين]{dir="rtl"}), North
+Qannoubine (قنوبين), North
 
-- [دير سيدة قنوبين]{dir="rtl"}/Monastery of Our Lady of Qannubin
+- دير سيدة قنوبين/Monastery of Our Lady of Qannubin
 
-  - Bl. [اسطفانوس الثاني]{dir="rtl"}/Istifan al-Duwayhi/Stephane
+  - Bl. اسطفانوس الثاني/Istifan al-Duwayhi/Stephane
     Douaihy, patriarch, 5/3
 
-Roumieh/[رومية]{dir="rtl"}, Matn District, Mount Lebanon Governorate
+Roumieh/رومية, Matn District, Mount Lebanon Governorate
 
 - ???
 
-  - Servant of God [يزابيل خوري]{dir="rtl"}/Isabelle Abdullah El-Khoury,
+  - Servant of God يزابيل خوري/Isabelle Abdullah El-Khoury,
     religious, d. 7/20/1953
 
-Sidon Al-Janub/[صيدا الجنوب]{dir="rtl"}
+Sidon Al-Janub/صيدا الجنوب
 
-- [كنيسة المخلص المقدس]{dir="rtl"}/Holy Saviour Church
+- كنيسة المخلص المقدس/Holy Saviour Church
 
-[الموقر بشارة أبو مراد]{dir="rtl"}/Ven. Béchara Abou Mrad, BSO,
+الموقر بشارة أبو مراد/Ven. Béchara Abou Mrad, BSO,
 Melkite priest, d. 2/22/1930
 
 Tanaïl, Beqaa Valley
@@ -3237,18 +3237,18 @@ Ipoh, Perak state
 
 # Myanmar (Burma)
 
-Kangyi Taw village/[အသျှင်ဘုရား]{dir="rtl"}, Shwe Bo district, Sagaing
+Kangyi Taw village/အသျှင်ဘုရား, Shwe Bo district, Sagaing
 region
 
-[လော့ဒ်မြို့]{dir="rtl"} [မယ်တော်ဘုရားကျောင်း]{dir="rtl"}/Our Lady of Lourdes
+လော့ဒ်မြို့ မယ်တော်ဘုရားကျောင်း/Our Lady of Lourdes
 Church
 
-Fr. [ဘုန်းကြီးအဖေ]{dir="rtl"} [ဒေါ်နယ်မာတင်]{dir="rtl"}
-[ရဲနိုင်ဝင်း]{dir="rtl"}/Donald Martin Ye Naing Win, a murdered priest
+Fr. ဘုန်းကြီးအဖေ ဒေါ်နယ်မာတင်
+ရဲနိုင်ဝင်း/Donald Martin Ye Naing Win, a murdered priest
 whose last words were, "I only kneel before God.", d. 2/14/2025 (He
 was killed here, but where is he buried?)
 
-Kutkai/[ကွတ်ခိုင်မြို့နယ်]{dir="rtl"}, Kutkai township, Muse district, Shan state
+Kutkai/ကွတ်ခိုင်မြို့နယ်, Kutkai township, Muse district, Shan state
 
 - ???
 
@@ -3262,7 +3262,7 @@ Mong Ping, Mongsat District, Shan State
 
   - Bl. Clemente Vismara, PIME, missionary priest, 6/15
 
-Shadaw/[ရှားတောမြို့]{dir="rtl"}, Loikaw District, Kayah State
+Shadaw/ရှားတောမြို့, Loikaw District, Kayah State
 
 - ???
 
@@ -3272,16 +3272,16 @@ Shadaw/[ရှားတောမြို့]{dir="rtl"}, Loikaw District, Kayah
   - Bl. Mario Vergara, PIME, priest/martyr, 5/24 (body put into a sack
     and thrown into the Salween River)
 
-Taunggyi/[တောင်ကြီးမြို့]{dir="rtl"} (Payaphyu suburb/Phaya Phyi village),
+Taunggyi/တောင်ကြီးမြို့ (Payaphyu suburb/Phaya Phyi village),
 Pa'O Taunggyi district, Shan state
 
 Holy Infant Jesus Center for the Disabled and Orphans
 
   - Ven. Felice Tantardini, PIME, religious, d. 3/23/1991
 
-Taungoo/[တောင်ငူမြို့]{dir="rtl"}, Bago Region
+Taungoo/တောင်ငူမြို့, Bago Region
 
-- [တောင်ငူသုသာန်]{dir="rtl"}/Cemetery in Taunggngu
+- တောင်ငူသုသာန်/Cemetery in Taunggngu
 
   - Bl. Alfredo Cremonesi, PIME, priest/martyr, 2/7
 
@@ -3289,10 +3289,10 @@ Taungoo/[တောင်ငူမြို့]{dir="rtl"}, Bago Region
 
 Khushpur, Samundri Theshil, Faisalabad District, Province of Punjab
 
-- Shrine of Baba Gurbaksh Das ([کش داس دی سمادھی]{dir="rtl"}) Isaaion da
-  mazaar ([عیسائی]{dir="rtl"})
+- Shrine of Baba Gurbaksh Das (کش داس دی سمادھی) Isaaion da
+  mazaar (عیسائی)
 
-- [خوش پور میں مسیحی قبرستان]{dir="rtl"}/Christian Cemetery in Khushpur
+- خوش پور میں مسیحی قبرستان/Christian Cemetery in Khushpur
 
   - Servant of God Clement Shahbaz Bhatti, lay martyr, 3/2/2011
 
@@ -3416,7 +3416,7 @@ Jesuit Sacred Heart Novitiate (Km. 23, 1118 Quirino Hwy)
 
 Parañaque, National Capital Region
 
-Manila Memorial Park -- Paranaque (Dr. A. Santos Ave. \[Sucat Road\])
+Manila Memorial Park -- Paranaque (Dr. A. Santos Ave. \Sucat Road\)
 
   - Servant of God Giuseppe (Joseph) Aveni, RCJ, priest, d. 7/24/2010
 
@@ -3492,7 +3492,7 @@ Mecca
 
   - St. Ernest of Mecca/of Zwiefalten, OSB, abbot/martyr, 11/7
 
-Najran/[نجران]{dir="rtl"}, Najran region
+Najran/نجران, Najran region
 
 - ???
 
@@ -3517,11 +3517,11 @@ Colombo
   - Servant of God Michel-Jean-Alexandre Guillaume, OMI, priest, d.
     5/29/1951
 
-Gonawila/[ගෝනවිල]{dir="rtl"}, Central-Western Province
+Gonawila/ගෝනවිල, Central-Western Province
 
-- [සුසාන]{dir="rtl"} [භූමිය]{dir="rtl"}/Cemetery
+- සුසාන භූමිය/Cemetery
 
-  - Servant of God [ගෝනවිල]{dir="rtl"} [හෙලේනා]{dir="rtl"}/Helena of
+  - Servant of God ගෝනවිල හෙලේනා/Helena of
     Gonawila, consecrated woman, d. 2/8/1931
 
 Jaffna, Northern Province
@@ -3531,33 +3531,33 @@ Jaffna, Northern Province
   - Ven Bastiampillai Anthonipillai Thomas, OMI, priest/founder, d.
     1/26/1964
 
-Kochchikade/[කොච්චිකඩේ]{dir="rtl"}, Kotahena suburb/[කොටහේන]{dir="rtl"},
+Kochchikade/කොච්චිකඩේ, Kotahena suburb/කොටහේන,
 Colombo District, Western Province
 
-[ශාන්ත]{dir="rtl"} [අන්තෝනි]{dir="rtl"} [සිද්ධස්ථානය]{dir="rtl"}/St.
+ශාන්ත අන්තෝනි සිද්ධස්ථානය/St.
 Anthony's Shrine
 
   - St. Anthony of Padua (relic only)
 
-[ශාන්ත]{dir="rtl"} [ජුසේ]{dir="rtl"} [වාස්]{dir="rtl"}
-[තුමා]{dir="rtl"}/St.. Joseph Vaz, CO, priest from India, worked in
+ශාන්ත ජුසේ වාස්
+තුමා/St.. Joseph Vaz, CO, priest from India, worked in
 secret in Calvinist territory, apostle of Sri Lanka, 1/16
 
-Mannar District ([மன்னார்]{dir="rtl"} [மாவட்டம்]{dir="rtl"})
+Mannar District (மன்னார் மாவட்டம்)
 
-[මඩු]{dir="rtl"} [අප]{dir="rtl"} [ස්වාමිදූගේ]{dir="rtl"} [ජාතික]{dir="rtl"}
-[සිද්ධස්ථානය]{dir="rtl"}/National Shrine of Our Lady of Madhu/Sanctuary
+මඩු අප ස්වාමිදූගේ ජාතික
+සිද්ධස්ථානය/National Shrine of Our Lady of Madhu/Sanctuary
 of Mantai
 
 Our Lady of Madhu, 7/2 & 8/15
 
 Telwatta, Galle District, Southern
 
-[ලංකා]{dir="rtl"} [අප]{dir="rtl"} [ස්වාමිදූගේ]{dir="rtl"}
-[බැසිලිකා]{dir="rtl"} [දෙව්මැදුර]{dir="rtl"}/Basilica of Our Lady of Lanka
+ලංකා අප ස්වාමිදූගේ
+බැසිලිකා දෙව්මැදුර/Basilica of Our Lady of Lanka
 
-  - Servant of God [තෝමස්]{dir="rtl"} [බෙන්ජමින්]{dir="rtl"}
-    [කුරේ]{dir="rtl"}/Thomas Cooray, OMI, cardinal, d. 10/29/1988
+  - Servant of God තෝමස් බෙන්ජමින්
+    කුරේ/Thomas Cooray, OMI, cardinal, d. 10/29/1988
 
 Suriname**
 
@@ -3569,17 +3569,17 @@ Paramaribo, Batavia
 
 # Syria
 
-Aleppo/ﺣ[َ]{dir="rtl"}ﻠ[َ]{dir="rtl"}ﺐ
+Aleppo/ﺣَﻠَﺐ
 
-- Church of St. Simeon Stylites/[كنيسة القديس سمعان العمودي]{dir="rtl"}
+- Church of St. Simeon Stylites/كنيسة القديس سمعان العمودي
 
 - St. Simeon Stylites the Elder, confessor, 7/27 (the church is in
   ruins, but he is thought to still be buried here)
 
-- [كنيسة الساليزيان]{dir="rtl"}/Salesian Church
+- كنيسة الساليزيان/Salesian Church
 
-  - Servant of God Mātīld (nee Shel[ḩ]{dir="rtl"}ot) Salīm/[ماتيلد
-    شلحت]{dir="rtl"} ﺴﻟﻳﻢ, ASC, laywoman, d. 2/27/1961
+  - Servant of God Mātīld (nee Shelḩot) Salīm/ماتيلد
+    شلحت ﺴﻟﻳﻢ, ASC, laywoman, d. 2/27/1961
 
 Antioch
 
@@ -3656,18 +3656,18 @@ Edessa
 
   - St. Mary of Edessa, converted prostitute, anchoress, 10/29
 
-Himo village ([قرية هيمو]{dir="rtl"}), Qamishli district, Al-Hasakah
+Himo village (قرية هيمو), Qamishli district, Al-Hasakah
 governorate, northeastern Syria
 
-- Monastery of Saint Febronia of Nisibis ([دير القديسة فيبرونيا
-  النصيبين]{dir="rtl"})
+- Monastery of Saint Febronia of Nisibis (دير القديسة فيبرونيا
+  النصيبين)
 
   - St. Febronia of Nisibis, martyr, 6/25 (allegedly, her body was
     transferred to Constantinople in 363)
 
 Homs (formerly Emesa)
 
-- Church of Saint Elian ([كنيسة مار اليان]{dir="rtl"}, Kaneesat Mar
+- Church of Saint Elian (كنيسة مار اليان, Kaneesat Mar
   Elian)
 
   - St. Elian/Julian of Emesa, physician/martyr, 2/6, 2/7, & 3/7
@@ -3692,13 +3692,13 @@ Rufiananas
 
   - St. Auxentius of Bithynia, hermit, 2/14
 
-Saidnaya/[صيدنايا]{dir="rtl"}, al-Tall district, Rif Dimashq governorate
+Saidnaya/صيدنايا, al-Tall district, Rif Dimashq governorate
 
-- [دير سيدة صيدنايا البطريركي]{dir="rtl"}/Our Lady of Saidnaya Monastery
+- دير سيدة صيدنايا البطريركي/Our Lady of Saidnaya Monastery
 
-[سيدة صيدنايا]{dir="rtl"}/Our Lady of Saidnaya/Our Lady of
-Saideneida icon ([شاغورة]{dir="rtl"}/Shaghoura \["the
-Illustrious"\], 2/3
+سيدة صيدنايا/Our Lady of Saidnaya/Our Lady of
+Saideneida icon (شاغورة/Shaghoura \"the
+Illustrious"\, 2/3
 
 Anatolius of Alexandria, Laodicea, Syria, 7/3
 
@@ -3716,7 +3716,7 @@ Anatolius of Alexandria, Laodicea, Syria, 7/3
 
 Bangkok
 
-- [อาสนวิหารอัสสัมชัญ]{dir="rtl"}/Assumption Cathedral
+- อาสนวิหารอัสสัมชัญ/Assumption Cathedral
 
   - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
 
@@ -3730,36 +3730,36 @@ Penang
 
   - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
 
-Songkhon/[ทรงคน]{dir="rtl"}, Pong Kham subdistrict, Wan Yai
-District,\[2\] Mukdahan Province, northeastern Thailand
+Songkhon/ทรงคน, Pong Kham subdistrict, Wan Yai
+District,\2\ Mukdahan Province, northeastern Thailand
 
-- [ศาลพระแม่มารีแห่งมรณสักขี]{dir="rtl"}/Shrine of Our Lady of the Martyrs of
+- ศาลพระแม่มารีแห่งมรณสักขี/Shrine of Our Lady of the Martyrs of
   Thailand
 
-Tambon Chanot/[ตำบลชะโนด]{dir="rtl"}, Province of Mukdahan
+Tambon Chanot/ตำบลชะโนด, Province of Mukdahan
 
-[วัดทรงขันธ์]{dir="rtl"}/Wat Song Khan/Our Lady of the Martyrs of
+วัดทรงขันธ์/Wat Song Khan/Our Lady of the Martyrs of
 Thailand Shrine
 
   - Proto-martyrs of Thailand, 12/26
 
-  - Bl. [อากาตะ]{dir="rtl"} [พุทธบี]{dir="rtl"}/Agatha Phutta,
+  - Bl. อากาตะ พุทธบี/Agatha Phutta,
     cook/laywoman
 
-  - Bl. [อักเนส]{dir="rtl"} [ฟิลา]{dir="rtl"}/Agnes Phila, religious
+  - Bl. อักเนส ฟิลา/Agnes Phila, religious
 
-  - Bl. [เซซิเลีย]{dir="rtl"} [บัตซี่]{dir="rtl"}/Cecilia Butsi,
+  - Bl. เซซิเลีย บัตซี่/Cecilia Butsi,
     cook/laywoman
 
-  - Bl. [ฟิลิป]{dir="rtl"} [ซิพงศ์]{dir="rtl"} [โอนพิทัก]{dir="rtl"}/Filip
+  - Bl. ฟิลิป ซิพงศ์ โอนพิทัก/Filip
     Siphong Onphitak, layman, 12/16
 
-  - Bl. [ลูซี่]{dir="rtl"} [คำบัง]{dir="rtl"}/Lucy Khambang, religious
+  - Bl. ลูซี่ คำบัง/Lucy Khambang, religious
 
-  - Bl. [มาเรีย]{dir="rtl"} [ฟอน]{dir="rtl"}/Maria Phon,
+  - Bl. มาเรีย ฟอน/Maria Phon,
     student/laywoman
 
-  - Bl. [วิเวียน]{dir="rtl"} [คัมฟายฟ์]{dir="rtl"}/Vivian Khamphaiv,
+  - Bl. วิเวียน คัมฟายฟ์/Vivian Khamphaiv,
     student/laywoman
 
 Tha Kham sub-district, Sam Phran district, Nakhon Pathom province
@@ -3771,13 +3771,13 @@ Tha Kham sub-district, Sam Phran district, Nakhon Pathom province
 
 # Vietnam
 
-An Bài, Qu[ỳ]{dir="rtl"}nh Ph[ụ]{dir="rtl"} District, Thai Binh
+An Bài, Quỳnh Phụ District, Thai Binh
 
 - ???
 
   - St. Giuse Tuân, layman/martyr, 1/7
 
-An Hòa, Tr[ả]{dir="rtl"}ng Bàng, Province of Tây Ninh,
+An Hòa, Trảng Bàng, Province of Tây Ninh,
 
 - ???
 
@@ -3787,14 +3787,14 @@ Ba Giong parish, Mekong Delta, Tien Giang Province (Diocese of My Tho)
 
 - Parish Church
 
-  - St. Phêrô Nguy[ễ]{dir="rtl"}n Văn L[ự]{dir="rtl"}u, priest, 4/7
+  - St. Phêrô Nguyễn Văn Lựu, priest, 4/7
 
-B[ắ]{dir="rtl"}c Ninh City/Thành ph[ố]{dir="rtl"} B[ắ]{dir="rtl"}c Ninh,
-Ninh Xa ward/phư[ờ]{dir="rtl"}ng Ninh Xá, Province of B[ắ]{dir="rtl"}c
+Bắc Ninh City/Thành phố Bắc Ninh,
+Ninh Xa ward/phường Ninh Xá, Province of Bắc
 Ninh
 
-Toà giám m[ụ]{dir="rtl"}c/Bishop\'s palace (537 Đ. Ng. Gia
-T[ự]{dir="rtl"}, P.Ti[ề]{dir="rtl"}n An)
+Toà giám mục/Bishop\'s palace (537 Đ. Ng. Gia
+Tự, P.Tiền An)
 
   - St. Phanxicô Xaviê Hà Trong Mau, OP, priest, 12/19 (relics)
 
@@ -3806,19 +3806,19 @@ Ban-Ho, Tonkin
 
 Bien-Hoa, Dong-Nai Province (near Saigon)
 
-Dòng Hospitaller c[ủ]{dir="rtl"}a Thánh Gioan Thiên Chúa/Garden of the
+Dòng Hospitaller của Thánh Gioan Thiên Chúa/Garden of the
 house of the Hospitaller Order of St. John of God
 
   - Ven. William Gagnon, OH, religious, d. 2/28/1972
 
-B[ồ]{dir="rtl"} Ng[ọ]{dir="rtl"}c, Qu[ỳ]{dir="rtl"}nh Hoa commune,
-Qu[ỳ]{dir="rtl"}nh Ph[ụ]{dir="rtl"} district, Thái Bình
+Bồ Ngọc, Quỳnh Hoa commune,
+Quỳnh Phụ district, Thái Bình
 
-- Giáo x[ứ]{dir="rtl"} B[ồ]{dir="rtl"} Ng[ọ]{dir="rtl"}c/Parish church,
+- Giáo xứ Bồ Ngọc/Parish church,
 
   - St. Tôma Nguyen Van Ðe, tailor/martyr, 11/24 & 12/19 (relics)
 
-Bùi Chu, Xuân Trư[ờ]{dir="rtl"}ng District, Nam Đ[ị]{dir="rtl"}nh
+Bùi Chu, Xuân Trường District, Nam Định
 Province
 
 - ???
@@ -3829,34 +3829,34 @@ Province
 
   - St. Phanxicô (Francis) Đo Van Chieu (Minh Chieu), martyr, 6/25
 
-Cù Lao Gi[ế]{dir="rtl"}ng island, Cho Moi district, Province of An Giang
+Cù Lao Giếng island, Cho Moi district, Province of An Giang
 
-Ch[ủ]{dir="rtl"}ng vi[ệ]{dir="rtl"}n Cù Lao Gi[ế]{dir="rtl"}ng/Cu Lao
+Chủng viện Cù Lao Giếng/Cu Lao
 Gieng seminary
 
   - St. Phêrô Đoàn Công Quí, priest/martyr, 7/31
 
-Đ[ầ]{dir="rtl"}u Nư[ớ]{dir="rtl"}c, Cù lao Gi[ế]{dir="rtl"}ng island,
+Đầu Nước, Cù lao Giếng island,
 Cho Moi district, Province of An Giang
 
-Nhà th[ờ]{dir="rtl"} h[ọ]{dir="rtl"} Đ[ầ]{dir="rtl"}u
-Nư[ớ]{dir="rtl"}c (this is the best guess)
+Nhà thờ họ Đầu
+Nước (this is the best guess)
 
   - St. Emanuele Lê Van Phung, lay martyr, 7/31 (His body was buried in
-    the foundation of the Dau Nuoc family church. \["Thi
-    th[ể]{dir="rtl"} ông đư[ợ]{dir="rtl"}c an táng trong
-    n[ề]{dir="rtl"}n nhà th[ờ]{dir="rtl"} h[ọ]{dir="rtl"}
-    Đ[ầ]{dir="rtl"}u Nư[ớ]{dir="rtl"}c."\])
+    the foundation of the Dau Nuoc family church. \"Thi
+    thể ông được an táng trong
+    nền nhà thờ họ
+    Đầu Nước."\)
 
-Di Linh, Di Linh district, Province of Lâm Đ[ồ]{dir="rtl"}ng
+Di Linh, Di Linh district, Province of Lâm Đồng
 
-Tr[ạ]{dir="rtl"}i phong [ở]{dir="rtl"} Di Linh/The leper colony in Di
+Trại phong ở Di Linh/The leper colony in Di
 Linh
 
   - Servant of God Marie-Pierre-Jean Cassaigne, MEP, bishop, d.
     10/31/1973
 
-Đ[ồ]{dir="rtl"}ng H[ớ]{dir="rtl"}i, Qu[ả]{dir="rtl"}ng Bình Province
+Đồng Hới, Quảng Bình Province
 
 - ???
 
@@ -3866,16 +3866,16 @@ Linh
 
   - St. Vincent Diem, martyr, 11/24
 
-Đông Ti[ế]{dir="rtl"}n commune, Qu[ỳ]{dir="rtl"}nh Ph[ụ]{dir="rtl"}
+Đông Tiến commune, Quỳnh Phụ
 district, Province of Thái Bình
 
-th[ờ]{dir="rtl"} h[ọ]{dir="rtl"} Đông Ti[ế]{dir="rtl"}n/Catholic
+thờ họ Đông Tiến/Catholic
 church
 
   - St. Đa Minh Bùi Văn Úy/Dominic Bùi Văn Úy, catechist/martyr, 11/24 &
     12/19
 
-H[ả]{dir="rtl"}i Dương, H[ả]{dir="rtl"}i Dương Province, Red River Delta
+Hải Dương, Hải Dương Province, Red River Delta
 
 - ???
 
@@ -3883,13 +3883,13 @@ H[ả]{dir="rtl"}i Dương, H[ả]{dir="rtl"}i Dương Province, Red River Delta
 
   - St. Pere Josep Almato Ribera Auras, OP, priest/martyr, 11/1
 
-H[ả]{dir="rtl"}i Lý, huy[ệ]{dir="rtl"}n H[ả]{dir="rtl"}i
-H[ậ]{dir="rtl"}u, t[ỉ]{dir="rtl"}nh Nam Đ[ị]{dir="rtl"}nh/Hai Ly, Hai
-Hau district, Nam Đ[ị]{dir="rtl"}nh Province
+Hải Lý, huyện Hải
+Hậu, tỉnh Nam Định/Hai Ly, Hai
+Hau district, Nam Định Province
 
-th[ờ]{dir="rtl"} Xương Đi[ề]{dir="rtl"}n/Xuong Dien parish
+thờ Xương Điền/Xuong Dien parish
 
-  - St. Ðaminh Vũ Ðình Tư[ớ]{dir="rtl"}c, priest/martyr, 4/2
+  - St. Ðaminh Vũ Ðình Tước, priest/martyr, 4/2
 
 Hanoi
 
@@ -3907,7 +3907,7 @@ Hanoi
 
 Ho Chi Minh City (aka, Saigon)
 
-Nhà th[ờ]{dir="rtl"} chính tòa Đ[ứ]{dir="rtl"}c Bà Sài Gòn/Notre Dame
+Nhà thờ chính tòa Đức Bà Sài Gòn/Notre Dame
 Cathedral
 
   - St. Joseph Marchand, MEP, priest/martyr, d. 11/30
@@ -3916,33 +3916,33 @@ Cathedral
 
   - St. Philiphê Phan Van Minh, PIME, priest/martyr, 7/3
 
-Nhà th[ờ]{dir="rtl"} Ch[ợ]{dir="rtl"} Quán/Sacred Heart of Jesus
-Church (120 đư[ờ]{dir="rtl"}ng Tr[ầ]{dir="rtl"}n Bình
-Tr[ọ]{dir="rtl"}ng)
+Nhà thờ Chợ Quán/Sacred Heart of Jesus
+Church (120 đường Trần Bình
+Trọng)
 
-  - Bl. Matthew Lê Văn G[ẫ]{dir="rtl"}m, shopkeeper/martyr, 5/11[^2]
+  - Bl. Matthew Lê Văn Gẫm, shopkeeper/martyr, 5/11^2
 
-Hue/Hu[ế]{dir="rtl"}/Ngo Mon, Th[ừ]{dir="rtl"}a Thiên Hu[ế]{dir="rtl"}
+Hue/Huế/Ngo Mon, Thừa Thiên Huế
 province
 
-- Nhà th[ờ]{dir="rtl"} chính tòa Ph[ủ]{dir="rtl"} Cam/Phu Cam Cathedral
+- Nhà thờ chính tòa Phủ Cam/Phu Cam Cathedral
 
   - St. Giuse Lê Dang Thi, soldier/martyr, 10/24 (he's at the Nhà
-    th[ờ]{dir="rtl"} Chúa C[ứ]{dir="rtl"}u Th[ế]{dir="rtl"}/Redemptorist
+    thờ Chúa Cứu Thế/Redemptorist
     church; is this it?)
 
   - St. Phaolô Tong Viet Buong, layman/martyr, 10/23
 
-x[ứ]{dir="rtl"} Th[ợ]{dir="rtl"} Đúc/Tho Duc parish
+xứ Thợ Đúc/Tho Duc parish
 
-  - St. Emmanuel Nguy[ễ]{dir="rtl"}n Văn Tri[ệ]{dir="rtl"}u, martyr,
+  - St. Emmanuel Nguyễn Văn Triệu, martyr,
     9/17
 
 - ???
 
   - St. Andrew Trong Van Tram, 11/24
 
-  - St. Augustinô Phan Vi[ế]{dir="rtl"}t Huy, soldier/martyr, 6/13 &
+  - St. Augustinô Phan Viết Huy, soldier/martyr, 6/13 &
     11/24
 
   - St. Nicolas Bùi Ðuc The, soldier/martyr, 6/13 & 11/24
@@ -3953,32 +3953,32 @@ Hưng Yên, Province of Hưng Yên
 
   - St. Tôma Khuông, TOSD, priest/martyr, 1/30
 
-Hư[ớ]{dir="rtl"}ng Phương, Qu[ả]{dir="rtl"}ng Trach, Province of
-Qu[ả]{dir="rtl"}ng Bình (near the town of Đ[ồ]{dir="rtl"}ng
-H[ớ]{dir="rtl"}i)
+Hướng Phương, Quảng Trach, Province of
+Quảng Bình (near the town of Đồng
+Hới)
 
-h[ọ]{dir="rtl"} đ[ạ]{dir="rtl"}o Hư[ớ]{dir="rtl"}ng Phương/Huong Phuong
+họ đạo Hướng Phương/Huong Phuong
 church
 
-  - St. Vinh Sơn Nguy[ễ]{dir="rtl"}n Th[ế]{dir="rtl"} Đi[ể]{dir="rtl"}m,
+  - St. Vinh Sơn Nguyễn Thế Điểm,
     priest/martyr, 11/24
 
-Hương Trà town/tx Hương Trà, Province of Th[ừ]{dir="rtl"}a Thiên
-Hu[ế]{dir="rtl"}
+Hương Trà town/tx Hương Trà, Province of Thừa Thiên
+Huế
 
 Dương Sơn, Hương Toàn, tx Hương Trà,
 
-Giáo x[ứ]{dir="rtl"} Dương Sơn/Duong Son parish
+Giáo xứ Dương Sơn/Duong Son parish
 
-  - St. Emmanuel Nguy[ễ]{dir="rtl"}n Văn Tri[ệ]{dir="rtl"}u, martyr, 9/17
+  - St. Emmanuel Nguyễn Văn Triệu, martyr, 9/17
     (skull only)
 
-  - St. Phanxicô/Francis Tr[ầ]{dir="rtl"}n Văn Trung, layman/marytr, 10/6
+  - St. Phanxicô/Francis Trần Văn Trung, layman/marytr, 10/6
 
-K[ẻ]{dir="rtl"} Máy
+Kẻ Máy
 
-- th[ờ]{dir="rtl"} K[ẻ]{dir="rtl"} Máy/Ke May church (ngôi nhà
-  c[ủ]{dir="rtl"}a góa ph[ụ]{dir="rtl"} tím/in the house of the purple
+- thờ Kẻ Máy/Ke May church (ngôi nhà
+  của góa phụ tím/in the house of the purple
   widow)
 
   - St. Phaolô Nguyen Van My, layman/martyr, 12/18
@@ -3987,106 +3987,106 @@ K[ẻ]{dir="rtl"} Máy
 
   - St. Phêrô Vu Van Truat, catechist/martyr, 12/18
 
-K[ẻ]{dir="rtl"} M[ộ]{dir="rtl"}t, Kien Giang Province
+Kẻ Một, Kien Giang Province
 
-- Nhà th[ờ]{dir="rtl"} K[ẻ]{dir="rtl"} M[ộ]{dir="rtl"}t/Church of
-  K[ẻ]{dir="rtl"} M[ộ]{dir="rtl"}t
+- Nhà thờ Kẻ Một/Church of
+  Kẻ Một
 
   - St. Giuse Nguyen Duy Khang, TOSD, layman/martyr, 12/6
 
-Khánh Nh[ạ]{dir="rtl"}c commune, Yên Khánh district, Ninh Bình Province
+Khánh Nhạc commune, Yên Khánh district, Ninh Bình Province
 
-Mi[ế]{dir="rtl"}u Phúc Nh[ạ]{dir="rtl"}c/Giáo x[ứ]{dir="rtl"} Phúc
-Nh[ạ]{dir="rtl"}c/Phúc Nh[ạ]{dir="rtl"}c Shrine and Parish)
+Miếu Phúc Nhạc/Giáo xứ Phúc
+Nhạc/Phúc Nhạc Shrine and Parish)
 
   - St. Agnes De (Anê Lê Thi Thành/Bà Ðê), wife/mother/martyr, 7/12 (The
     Vietnamese Wikipedia page for her says that the priest from Phúc
-    Nh[ạ]{dir="rtl"}c collected the remains of her and several other
+    Nhạc collected the remains of her and several other
     martyrs and took them here, and that the center for honoring her is
-    the Phúc Nh[ạ]{dir="rtl"}c shrine, and that it's right next to the
-    Nhac market ("ch[ợ]{dir="rtl"} Nh[ạ]{dir="rtl"}c").)
+    the Phúc Nhạc shrine, and that it's right next to the
+    Nhac market ("chợ Nhạc").)
 
   - St. Gioan Ðat, priest/martyr, 10/28 & 11/24
 
-Ki[ệ]{dir="rtl"}n Khê, Thanh Liêm district, Province of Hà Nam
+Kiện Khê, Thanh Liêm district, Province of Hà Nam
 
-Vương cung thánh đư[ờ]{dir="rtl"}ng S[ở]{dir="rtl"}
-Ki[ệ]{dir="rtl"}n/K[ẻ]{dir="rtl"} S[ở]{dir="rtl"}/So Kien Basilica/Ke
+Vương cung thánh đường Sở
+Kiện/Kẻ Sở/So Kien Basilica/Ke
 So Church/Basilica of the Immaculate Conception
 
   - St. Anrê Tran An Dung/Andrew Dung Lac, priest/martyr, 11/24 & 12/21
 
   - St. Phêrô Truong Van Thi/Peter Truong Van Thi, priest/martyr, 12/21
 
-Kim Long village, Hu[ế]{dir="rtl"}, Province of Th[ừ]{dir="rtl"}a Thiên
-Hu[ế]{dir="rtl"}, North Central Coast region
+Kim Long village, Huế, Province of Thừa Thiên
+Huế, North Central Coast region
 
-- Nhà th[ờ]{dir="rtl"} Kim Long/Kim Long Church
+- Nhà thờ Kim Long/Kim Long Church
 
   - St. Anrê Tran Van Trông, soldier/martyr, 11/28
 
-Làng K[ẻ]{dir="rtl"} Báng/K[ẻ]{dir="rtl"} Báng village/giáo
-x[ứ]{dir="rtl"} Xuân B[ả]{dir="rtl"}ng/Xuan Bang parish, V[ụ]{dir="rtl"}
-B[ả]{dir="rtl"}n district, Nam Đ[ị]{dir="rtl"}nh Province
+Làng Kẻ Báng/Kẻ Báng village/giáo
+xứ Xuân Bảng/Xuan Bang parish, Vụ
+Bản district, Nam Định Province
 
-- Nhà th[ờ]{dir="rtl"} giáo x[ứ]{dir="rtl"}/Parish church
+- Nhà thờ giáo xứ/Parish church
 
-  - St. Gioan Baotixita C[ỏ]{dir="rtl"}n, priest/martyr, 11/8
+  - St. Gioan Baotixita Cỏn, priest/martyr, 11/8
 
   - St. Giuse Nguyen Ðình Nghi, MEP, priest/martyr, 11/8
 
-  - St. Martinô Tr[ầ]{dir="rtl"}n Ng[ọ]{dir="rtl"}c Tho, layman/martyr,
+  - St. Martinô Trần Ngọc Tho, layman/martyr,
     11/7 & 11/24
 
 Fr. Nghi
 
   - St. Phaolô Nguyen Ngân, priest/martyr, 11/8
 
-K[ẻ]{dir="rtl"} Vĩnh village
+Kẻ Vĩnh village
 
 In front of his home
 
-  - Bl. Antôn Nguy[ễ]{dir="rtl"}n Đích, layman/martyr, 8/12
+  - Bl. Antôn Nguyễn Đích, layman/martyr, 8/12
 
-X[ứ]{dir="rtl"} Kim Sen dư[ớ]{dir="rtl"}i chân dãy Trư[ờ]{dir="rtl"}ng
-Sơn, huy[ệ]{dir="rtl"}n L[ệ]{dir="rtl"} Th[ủ]{dir="rtl"}y,
-t[ỉ]{dir="rtl"}nh Qu[ả]{dir="rtl"}ng Bình/Kim Sen land (farm?) at the
-foot of Truong Son mountain range, Le Thuy district, Qu[ả]{dir="rtl"}ng
+Xứ Kim Sen dưới chân dãy Trường
+Sơn, huyện Lệ Thủy,
+tỉnh Quảng Bình/Kim Sen land (farm?) at the
+foot of Truong Son mountain range, Le Thuy district, Quảng
 Bình Province
 
 - ???
 
   - St. Antôn Nguyen Huu Quynh, physician/catechist, 7/10
 
-La Vang, Qu[ả]{dir="rtl"}ng Tr[ị]{dir="rtl"} Province
+La Vang, Quảng Trị Province
 
-- Đ[ứ]{dir="rtl"}c M[ẹ]{dir="rtl"} La Vang/Shrine of Our Lady of La Vang
+- Đức Mẹ La Vang/Shrine of Our Lady of La Vang
 
 Apparition of Our Lady of La Vang, 8/15
 
-Làng L[ạ]{dir="rtl"}c Th[ủ]{dir="rtl"}y (Lac Thuy village)
-L[ạ]{dir="rtl"}c Th[ủ]{dir="rtl"}y district, Hòa Bình Province
+Làng Lạc Thủy (Lac Thuy village)
+Lạc Thủy district, Hòa Bình Province
 
-nghĩa trang làng L[ạ]{dir="rtl"}c Thu[ỷ]{dir="rtl"}/v[ề]{dir="rtl"}
-L[ạ]{dir="rtl"}c Th[ủ]{dir="rtl"}y nghĩa đư[ờ]{dir="rtl"}ng nhà
+nghĩa trang làng Lạc Thuỷ/về
+Lạc Thủy nghĩa đường nhà
 chung/Lac Thuy village cemetery
 
   - St. Dominic/Ðaminh Nguyen Van Hanh, OP, priest/martyr, 8/1
 
   - St. Dominic/Ðaminh Trach Ðoài, OP, priest/martyr, 9/18
 
-L[ụ]{dir="rtl"}c Th[ủ]{dir="rtl"}y, Xuân H[ồ]{dir="rtl"}ng commune, Xuân
-Trư[ờ]{dir="rtl"}ng district, Province of Nam Đ[ị]{dir="rtl"}nh
+Lục Thủy, Xuân Hồng commune, Xuân
+Trường district, Province of Nam Định
 
-Nhà th[ờ]{dir="rtl"} L[ụ]{dir="rtl"}c
-Th[ủ]{dir="rtl"}y/L[ụ]{dir="rtl"}c Th[ủ]{dir="rtl"}y Cathedral or
+Nhà thờ Lục
+Thủy/Lục Thủy Cathedral or
 parish
 
   - St. Bênadô Võ Van Duê, convert/priest/martyr, 8/1
 
   - St. Ðaminh Nguyen Van Xuyên, OP, priest/martyr, 11/26 (\"tín
-    h[ữ]{dir="rtl"}u c[ả]{dir="rtl"}i táng hài c[ố]{dir="rtl"}t ngài
-    v[ề]{dir="rtl"} L[ụ]{dir="rtl"}c Th[ủ]{dir="rtl"}y\"/the faithful
+    hữu cải táng hài cốt ngài
+    về Lục Thủy\"/the faithful
     exhumed his remains and brought them to Luc Thuy)
 
   - St. Tôma Ðinh Viet Du/Thomas Dinh Viet Du, OP, priest/martyr, 11/26
@@ -4104,33 +4104,33 @@ Near Luc-Thuy Lake
   - St. Mateo Alonso de Leciñana/Matthew Alphonse de Leciniana, OP,
     priest/martyr, 1/22
 
-Mai Linh, Province of Nam Đ[ị]{dir="rtl"}nh
+Mai Linh, Province of Nam Định
 
-- Nhà th[ờ]{dir="rtl"} x[ứ]{dir="rtl"} Mai Linh/Mai Linh parish church
+- Nhà thờ xứ Mai Linh/Mai Linh parish church
 
   - St. Ðaminh Mau, OP, priest/martyr, 11/5
 
-Năm M[ẫ]{dir="rtl"}u
+Năm Mẫu
 
 - ???
 
   - Bl. Augustine Schoeffler, priest/martyr, May 1
 
-Nam Đ[ị]{dir="rtl"}nh (Nam Dinh) city, Nam Đ[ị]{dir="rtl"}nh province
+Nam Định (Nam Dinh) city, Nam Định province
 
-Nhà th[ờ]{dir="rtl"} Ninh Cư[ờ]{dir="rtl"}ng/Ninh Cư[ờ]{dir="rtl"}ng
+Nhà thờ Ninh Cường/Ninh Cường
 church
 
-  - St. Phêrô Nguy[ễ]{dir="rtl"}n Văn T[ự]{dir="rtl"}, OP,
+  - St. Phêrô Nguyễn Văn Tự, OP,
     priest/martyr, 9/5
 
-- Nhà th[ờ]{dir="rtl"} Trung Linh/Trung Linh Church (78XM+5W2, Xuân
-  Ng[ọ]{dir="rtl"}c commune, Xuân Trư[ờ]{dir="rtl"}ng district, Nam
-  Đ[ị]{dir="rtl"}nh)
+- Nhà thờ Trung Linh/Trung Linh Church (78XM+5W2, Xuân
+  Ngọc commune, Xuân Trường district, Nam
+  Định)
 
   - St. Jacinto Castaneda Gia, OP, priest/martyr, 11/7
 
-  - St. Vinh Sơn Ph[ạ]{dir="rtl"}m Hi[ế]{dir="rtl"}u Liêm/Vinh Sơn Lê
+  - St. Vinh Sơn Phạm Hiếu Liêm/Vinh Sơn Lê
     Quang Liêm/Vincent Liêm Quang Lê, OP, priest/martyr, 11/7
 
 - ???
@@ -4139,7 +4139,7 @@ church
 
   - St. Ðaminh Ðinh Ðat, layman/apostate/revert/martyr, 7/18 & 11/24
 
-  - St. Giuse Ngô Duy Hi[ể]{dir="rtl"}n, priest/martyr, 5/9
+  - St. Giuse Ngô Duy Hiển, priest/martyr, 5/9
 
   - St. Ignacio Clemente Delgado Cebrián, OP, bishop/martyr, 7/12 (a
     picture shows someone venerating his relics) (he died here; where
@@ -4149,41 +4149,41 @@ church
 
   - St. Phêrô Ða, married layman/martyr, 6/17
 
-Ng[ọ]{dir="rtl"}c Đ[ồ]{dir="rtl"}ng, Duy Tien district, Ha Nam province
+Ngọc Đồng, Duy Tien district, Ha Nam province
 
-nhà th[ờ]{dir="rtl"} Ng[ọ]{dir="rtl"}c Đ[ồ]{dir="rtl"}ng (Ngoc Dong
+nhà thờ Ngọc Đồng (Ngoc Dong
 church)
 
   - St. Giuse Túc, farmer/martyr, 6/1
 
   - St. Phêrô Nguyen Bá Tuan, priest/martyr, 7/15 & 11/24
 
-Qui Nhơn, Bình Đ[ị]{dir="rtl"}nh Province
+Qui Nhơn, Bình Định Province
 
-Tòa Giám m[ụ]{dir="rtl"}c Qui Nhơn/Bishop's Palace of Qui Nhon .
+Tòa Giám mục Qui Nhơn/Bishop's Palace of Qui Nhon .
 
   - St. Anrê Nguyen Kim Thông, mayor/lay martyr, 7/15
 
-Phat Diem town/Th[ị]{dir="rtl"} tr[ấ]{dir="rtl"}n Phát
-Di[ệ]{dir="rtl"}m, Kim Son district, Ninh Bình Province
+Phat Diem town/Thị trấn Phát
+Diệm, Kim Son district, Ninh Bình Province
 
-- Nhà Th[ờ]{dir="rtl"} Chính Tòa Phát Di[ệ]{dir="rtl"}m/Cathedral of
-  Phát Di[ệ]{dir="rtl"}m
+- Nhà Thờ Chính Tòa Phát Diệm/Cathedral of
+  Phát Diệm
 
-  - St. Jakub Đ[ỗ]{dir="rtl"} Mai Năm/Giacôbê Đ[ỗ]{dir="rtl"} Mai Năm,
+  - St. Jakub Đỗ Mai Năm/Giacôbê Đỗ Mai Năm,
     priest/martyr, 8/12 & 11/24 (other sources say he is buried in the
-    Church of Ke Non (Nhà Th[ờ]{dir="rtl"} K[ẻ]{dir="rtl"} Non, but the
+    Church of Ke Non (Nhà Thờ Kẻ Non, but the
     cathedral is the most likely place)
 
-Phong C[ố]{dir="rtl"}c, Qu[ả]{dir="rtl"}ng Yên town, Province of
-Qu[ả]{dir="rtl"}ng Ninh, Đông B[ắ]{dir="rtl"}c B[ộ]{dir="rtl"}/Northeast
+Phong Cốc, Quảng Yên town, Province of
+Quảng Ninh, Đông Bắc Bộ/Northeast
 region
 
-th[ờ]{dir="rtl"} Phong C[ố]{dir="rtl"}c
+thờ Phong Cốc
 
   - St. Tôma Nguyen Van Ðe, tailor/martyr, 11/24 & 12/19 (relics)
 
-Phúc Nh[ạ]{dir="rtl"}c, Ninh Binh province
+Phúc Nhạc, Ninh Binh province
 
 This town holds a famous martyrs commemoration on 11/24
 
@@ -4199,19 +4199,19 @@ This town holds a famous martyrs commemoration on 11/24
 
   - St. Phêrô Nguyen Van Hien, catechist/martyr, 4/28
 
-Sơn Miêng, [Ứ]{dir="rtl"}ng Hòa district, Hà N[ộ]{dir="rtl"}i/Hanoi, Red
+Sơn Miêng, Ứng Hòa district, Hà Nội/Hanoi, Red
 River Delta region
 
-- giáo x[ứ]{dir="rtl"} Sơn Miêng/Son Mieng parish church
+- giáo xứ Sơn Miêng/Son Mieng parish church
 
-  - St. Phanxicô Xaviê Nguy[ễ]{dir="rtl"}n Kh[ắ]{dir="rtl"}c
-    C[ầ]{dir="rtl"}n/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20
+  - St. Phanxicô Xaviê Nguyễn Khắc
+    Cần/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20
 
-Sơn Cư[ờ]{dir="rtl"}ng, Thanh Ba district, Phú Th[ọ]{dir="rtl"} province
+Sơn Cường, Thanh Ba district, Phú Thọ province
 
-dòng M[ế]{dir="rtl"}n Thánh Giá Chiêu [Ử]{dir="rtl"}ng/Nhà
-Th[ờ]{dir="rtl"} X[ứ]{dir="rtl"} Chiêu [Ứ]{dir="rtl"}ng/Giáo
-x[ứ]{dir="rtl"} Chiêu [Ứ]{dir="rtl"}ng
+dòng Mến Thánh Giá Chiêu Ửng/Nhà
+Thờ Xứ Chiêu Ứng/Giáo
+xứ Chiêu Ứng
 
   - St. Jean-Charles Cornay, MEP, priest/martyr, 9/20
 
@@ -4227,31 +4227,31 @@ Thánh Tâm Chúa Giêsu/Sacred Heart of Jesus
 - ???
 
   - St. Augustin Schoeffler, MEP, priest/martyr, 5/1 (died in the field of
-    Năm M[ẫ]{dir="rtl"}u) (\"đư[ợ]{dir="rtl"}c c[ả]{dir="rtl"}i táng
-    v[ề]{dir="rtl"} h[ọ]{dir="rtl"} Bách L[ộ]{dir="rtl"}c\")
+    Năm Mẫu) (\"được cải táng
+    về họ Bách Lộc\")
 
-Tan Phong/Tân Phong, Gia Rai district, Province of B[ạ]{dir="rtl"}c Liêu
+Tan Phong/Tân Phong, Gia Rai district, Province of Bạc Liêu
 
-Thánh đư[ờ]{dir="rtl"}ng T[ắ]{dir="rtl"}c S[ậ]{dir="rtl"}y/Nhà
-th[ờ]{dir="rtl"} T[ắ]{dir="rtl"}c S[ậ]{dir="rtl"}y/Tac Say Church
+Thánh đường Tắc Sậy/Nhà
+thờ Tắc Sậy/Tac Say Church
 
-  - Bl. Phanxicô Xaviê Trương B[ử]{dir="rtl"}u Di[ệ]{dir="rtl"}p/Francis
-    Xavier Truong Bui Diep/Trương B[ử]{dir="rtl"}u Di[ệ]{dir="rtl"}p/Truong
+  - Bl. Phanxicô Xaviê Trương Bửu Diệp/Francis
+    Xavier Truong Bui Diep/Trương Bửu Diệp/Truong
     Buu Diep, priest/martyr, d. 3/12/1946
 
 Tho Ninh village - Phu Luong commune - Luong Tai district - Bac Ninh
 province
 
-- Nhà th[ờ]{dir="rtl"} Th[ọ]{dir="rtl"} Ninh/Tho Ninh church
+- Nhà thờ Thọ Ninh/Tho Ninh church
 
   - St. Vihn Son Ðo Yen, OP, priest/martyr, 6/30 (relics "under the floor of
     the destroyed church of Tho Ninh, Vietnam")
 
-Th[ọ]{dir="rtl"} Nghi[ệ]{dir="rtl"}p, Xuân Trư[ờ]{dir="rtl"}ng district,
-Province of Nam Đ[ị]{dir="rtl"}nh
+Thọ Nghiệp, Xuân Trường district,
+Province of Nam Định
 
-Qu[ầ]{dir="rtl"}n C[ố]{dir="rtl"}ng/Nhà th[ờ]{dir="rtl"}
-Đ[ứ]{dir="rtl"}c M[ẹ]{dir="rtl"} Mân Côi/Church of Our Lady of the
+Quần Cống/Nhà thờ
+Đức Mẹ Mân Côi/Church of Our Lady of the
 Rosary
 
   - St. Ðaminh Pham Trong Kham, TOSD, layman/martyr, 1/13
@@ -4260,8 +4260,8 @@ Rosary
 
   - St. Luca Pham Trong Thìn, TOSD, layman/martyr, 1/13 & 11/24
 
-Thu[ậ]{dir="rtl"}n Nghĩa, Qu[ỳ]{dir="rtl"}nh Lưu district, Province of
-Ngh[ệ]{dir="rtl"} An
+Thuận Nghĩa, Quỳnh Lưu district, Province of
+Nghệ An
 
 - ???
 
@@ -4269,7 +4269,7 @@ Ngh[ệ]{dir="rtl"} An
 
 Tiên Chu commune, Khoái Châu district, Hưng Yên Province
 
-- th[ờ]{dir="rtl"} Tiên Chu/Tiên Chu church
+- thờ Tiên Chu/Tiên Chu church
 
   - St. Giuse Ðang Van Viên, priest/martyr, 8/21
 
@@ -4279,7 +4279,7 @@ Tonkin
 
 - ???
 
-  - St. Agnes Lê Th[ị]{dir="rtl"} Thành (Đê), martyr, 7/12
+  - St. Agnes Lê Thị Thành (Đê), martyr, 7/12
 
   - Bl. Bartholomew Alvarez, SJ, missionary/martyr, 1/12
 
@@ -4288,10 +4288,10 @@ Tonkin
 
   - Bl. Vicente da Cunha, SJ, missionary/martyr, 1/12
 
-T[ử]{dir="rtl"} Nê parish/x[ứ]{dir="rtl"} T[ử]{dir="rtl"} Nê, Tân Lang
-commune, Lương Tài district, Province of B[ắ]{dir="rtl"}c Ninh
+Tử Nê parish/xứ Tử Nê, Tân Lang
+commune, Lương Tài district, Province of Bắc Ninh
 
-- h[ọ]{dir="rtl"} Hương La/Hương La family church
+- họ Hương La/Hương La family church
 
   - St. Phanxicô Xaviê Hà Trong Mau, OP, priest, 12/19
 
@@ -4299,54 +4299,54 @@ commune, Lương Tài district, Province of B[ắ]{dir="rtl"}c Ninh
 
   - St. Stêphanô Nguyen Van Vinh, farmer/martyr, 12/19
 
-Vĩnh Tr[ị]{dir="rtl"}, Nam Tr[ự]{dir="rtl"}c district, Nam
-Đ[ị]{dir="rtl"}nh Province
+Vĩnh Trị, Nam Trực district, Nam
+Định Province
 
-- Nhà Th[ờ]{dir="rtl"} K[ẻ]{dir="rtl"} Vĩnh/Church of K[ẻ]{dir="rtl"}
-  Vĩnh (Nhà th[ờ]{dir="rtl"} Vĩnh Tr[ị]{dir="rtl"} là nhà
-  th[ờ]{dir="rtl"} c[ủ]{dir="rtl"}a giáo x[ứ]{dir="rtl"} Vĩnh
-  Tr[ị]{dir="rtl"} (K[ẻ]{dir="rtl"} Vĩnh))
+- Nhà Thờ Kẻ Vĩnh/Church of Kẻ
+  Vĩnh (Nhà thờ Vĩnh Trị là nhà
+  thờ của giáo xứ Vĩnh
+  Trị (Kẻ Vĩnh))
 
   - St. Antôn Nguyen Dích, farmer layman/martyr, 8/12 & 11/24
 
-  - St. Michał Nguy[ễ]{dir="rtl"}n Huy M[ỹ]{dir="rtl"}, layman/martyr,
+  - St. Michał Nguyễn Huy Mỹ, layman/martyr,
     8/12 & 11/24
 
-Vũ Đi[ệ]{dir="rtl"}n, Lý Nhân District, Province of Hà Nam
+Vũ Điện, Lý Nhân District, Province of Hà Nam
 
-Nhà th[ờ]{dir="rtl"} h[ọ]{dir="rtl"} Vũ Đi[ệ]{dir="rtl"}n/Vũ
-Đi[ệ]{dir="rtl"}n church
+Nhà thờ họ Vũ Điện/Vũ
+Điện church
 
   - St. Martinô Ta Ðuc Thinh, priest/martyr, 11/8 & 11/24
 
-Xuân Ng[ọ]{dir="rtl"}c (Trung Linh village), Xuan Truong District, Nam
+Xuân Ngọc (Trung Linh village), Xuan Truong District, Nam
 Dinh Province
 
 - ???
 
   - St. Domingo Henares de Zafra Cubero, OP, bishop, 6/25 (possibly in
-    Nhà th[ờ]{dir="rtl"} chính tòa Bùi Chu/Bùi Chu Cathedral)
+    Nhà thờ chính tòa Bùi Chu/Bùi Chu Cathedral)
 
-  - St. Dominic Ninh/Đaminh Tr[ầ]{dir="rtl"}n Duy Ninh, farmer/martyr,
-    6/2 (probably at Giáo X[ứ]{dir="rtl"} Trung Linh, i.e., the parish
+  - St. Dominic Ninh/Đaminh Trần Duy Ninh, farmer/martyr,
+    6/2 (probably at Giáo Xứ Trung Linh, i.e., the parish
     church)
 
   - St. Phanxicô Ðo Van Chieu, catechist/martyr, 6/25 (some sources say
-    here, others say Trung L[ễ]{dir="rtl"} parish)
+    here, others say Trung Lễ parish)
 
-Vĩnh H[ộ]{dir="rtl"}i parish, Ngan Sau district (This is from a news
+Vĩnh Hội parish, Ngan Sau district (This is from a news
 report. There is no Ngan Sau district; there is a Ngan Sau river
-basin)(maybe Vĩnh H[ộ]{dir="rtl"}i, Cát H[ả]{dir="rtl"}i, Phù Cát
-District, Bình Đ[ị]{dir="rtl"}nh)
+basin)(maybe Vĩnh Hội, Cát Hải, Phù Cát
+District, Bình Định)
 
 - ???
 
   - Bl. Jean-Baptiste Malo, MEP, priest, 3/28 (died in Laos)
 
-Vĩnh Tr[ị]{dir="rtl"}, Vĩnh Hưng district, Province of Long An
+Vĩnh Trị, Vĩnh Hưng district, Province of Long An
 
-College Seminary of the Foreign Missions/ Ch[ủ]{dir="rtl"}ng
-vi[ệ]{dir="rtl"}n Vĩnh Tr[ị]{dir="rtl"}
+College Seminary of the Foreign Missions/ Chủng
+viện Vĩnh Trị
 
   - St. Jean-Louis Bonnard Hương, MEP, priest/martyr, 5/1
 
@@ -4354,20 +4354,20 @@ vi[ệ]{dir="rtl"}n Vĩnh Tr[ị]{dir="rtl"}
 
   - Bl. Giacôbê (James) Do Mai Nam, priest/martyr, 8/12
 
-  - St. Lôrensô Nguy[ễ]{dir="rtl"}n Văn Hư[ở]{dir="rtl"}ng, martyr, 4/27
+  - St. Lôrensô Nguyễn Văn Hưởng, martyr, 4/27
 
   - Trùm Antôn Đích, layman/martyr
 
-  - Bl. Micae Lý Nguy[ễ]{dir="rtl"}n Huy M[ỹ]{dir="rtl"}, layman/martyr,
+  - Bl. Micae Lý Nguyễn Huy Mỹ, layman/martyr,
     8/12
 
-Huy[ệ]{dir="rtl"}n Yên Bình district, Province of Yên Bái
+Huyện Yên Bình district, Province of Yên Bái
 
 - ???
 
-  - Servant of God Marcel (nee Gioakim) Nguy[ễ]{dir="rtl"}n T[ấ]{dir="rtl"}n
+  - Servant of God Marcel (nee Gioakim) Nguyễn Tấn
     Văn, CSsR, priest/martyr, d. 7/10/1959 (he is at the bottom of
-    H[ồ]{dir="rtl"} Thác Bà/Thac Ba Hydroelectric Lake)
+    Hồ Thác Bà/Thac Ba Hydroelectric Lake)
 
   - St. Andrew Thong Kim Nguyen, 11/24
 
@@ -4412,7 +4412,7 @@ Huy[ệ]{dir="rtl"}n Yên Bình district, Province of Yên Bái
   - St. Etienne-Théodore Cuenot, MEP, bishop/martyr, 11/14 (his body was
     thrown into a river)
 
-  - St. Giuse Tuân (aka, Nguy[ễ]{dir="rtl"}n Duy Tuân/Tr[ầ]{dir="rtl"}n Văn
+  - St. Giuse Tuân (aka, Nguyễn Duy Tuân/Trần Văn
     Tuân), martyr, 4/30 (killed at Hưng Yên)
 
   - St. Hyacinth Castaneda, martyr, 11/7 (a picture shows someone venerating
@@ -4429,16 +4429,16 @@ Huy[ệ]{dir="rtl"}n Yên Bình district, Province of Yên Bái
   - Bl. Nicholas Bui Viet The, martyr, 6/13
 
   - St. Phaolô (Peter) Vu Van Ðuong, husband/father, 6/3 @ St. Vincent\'s
-    Church, Ke Men parish/K[ẻ]{dir="rtl"} Mèn
+    Church, Ke Men parish/Kẻ Mèn
 
 - St. Phêrô Hoang Khanh, priest/martyr, 7/12 (buried at the parish church
-  of K[ẻ]{dir="rtl"} G[ố]{dir="rtl"}m "h[ọ]{dir="rtl"} đ[ạ]{dir="rtl"}o
-  K[ẻ]{dir="rtl"} G[ố]{dir="rtl"}m")
+  of Kẻ Gốm "họ đạo
+  Kẻ Gốm")
 
   - St. Thomas Du, priest, martyr, 11/24
 
-  - St. Vinh Sơn Ph[ạ]{dir="rtl"}m Văn Dương, tax collector, 6/6, buried at
-    thánh Vinh Sơn, x[ứ]{dir="rtl"} K[ẻ]{dir="rtl"} Mèn (St. Vincent Church,
+  - St. Vinh Sơn Phạm Văn Dương, tax collector, 6/6, buried at
+    thánh Vinh Sơn, xứ Kẻ Mèn (St. Vincent Church,
     Ke Men parish)
 
   - St. Vinh Son Tuong, martyr, 6/16 Làng Cóc hamlet, Nam Ðình City
@@ -4454,11 +4454,12 @@ Huy[ệ]{dir="rtl"}n Yên Bình district, Province of Yên Bái
 
   - St. Quadrato/Quadratus of Magnesia, 9/21
 
-[^1]: See the book about her *The Smile of a Ragpicker*. Also,
+^1]: See the book about her *The Smile of a Ragpicker*. Also,
 unrelated, see *A Song for Nagasaki* about Catholic convert Takashi
 Nagai.
 
-  - [^2]: "The martyr's siblings and Christians approached the remains, sew
+  - ^2]: "The martyr's siblings and Christians approached the remains, sew
     the head back to the body, replaced a white robe, put a blue scarf
     around his head, and carried his remains back on a hammock for
-    burial in Ch[ợ]{dir="rtl"} Quán."
+    burial in Chợ Quán."
+
