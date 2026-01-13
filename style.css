@@ -66,6 +66,10 @@ body {
     z-index: 100;
 }
 
+.menu-toggle {
+    display: none;
+}
+
 .logo {
     font-family: var(--font-heading);
     font-size: 1.8rem;
@@ -366,9 +370,115 @@ footer {
         gap: 3rem;
     }
 
+    /* Mobile Navigation */
+    .menu-toggle {
+        display: block;
+        background: transparent;
+        border: none;
+        color: var(--text-primary);
+        font-size: 1.8rem;
+        cursor: pointer;
+        z-index: 1001;
+        transition: transform 0.3s ease;
+    }
+
+    nav {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        max-width: 300px;
+        height: 100vh;
+        background: rgba(10, 10, 11, 0.95);
+        backdrop-filter: blur(20px);
+        border-left: 1px solid var(--glass-border);
+        padding: 80px 40px;
+        transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav.active {
+        right: 0;
+        box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5);
+    }
+
     nav ul {
-        display: none;
-        /* simple hiding for mobile MVP */
+        display: flex !important;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+    }
+
+    nav ul li {
+        width: 100%;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+        display: block;
+        width: 100%;
+        padding: 0.5rem 0;
+    }
+
+    .nav-donate {
+        text-align: center;
+        margin-top: 1rem;
+    }
+}
+
+/* iPhone SE & Ultra-Mobile Optimizations */
+@media (max-width: 480px) {
+    .glass-header {
+        padding: 1rem 5%;
+    }
+
+    .logo {
+        font-size: 1.4rem;
+    }
+
+    .hero {
+        padding: 6rem 5% 4rem;
+    }
+
+    h1 {
+        font-size: 2.2rem !important;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        padding: 0 10px;
+    }
+
+    .cta-group {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .btn-secondary {
+        margin-left: 0;
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .stats-section {
+        padding: 4rem 5%;
+    }
+
+    .stat-number {
+        font-size: 2.5rem;
+    }
+
+    .stat-label {
+        font-size: 0.9rem;
     }
 }
 
