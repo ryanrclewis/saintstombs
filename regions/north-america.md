@@ -20,7 +20,7 @@ Andover Township, Sussex County, New Jersey
 
 Annapolis, Maryland
 
-Charles Carrol House
+- Charles Carrol House
 
   - St. Justin, martyr (relics are in the house attic according to the last
     word)

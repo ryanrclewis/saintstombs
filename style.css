@@ -718,12 +718,38 @@ footer {
 .markdown-content ul,
 .markdown-content ol {
     margin: 1rem 0 2rem 1.5rem;
+}
+
+.markdown-content > ul > li,
+.markdown-content > ol > li {
+    margin-bottom: 0.8rem;
     list-style-type: disc;
 }
 
-.markdown-content li {
-    margin-bottom: 0.5rem;
+.markdown-content > ul > li:has(ul),
+.markdown-content > ul > li:has(ol),
+.markdown-content > ol > li:has(ul),
+.markdown-content > ol > li:has(ol) {
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.markdown-content > ul > li:not(:has(ul)):not(:has(ol)),
+.markdown-content > ol > li:not(:has(ul)):not(:has(ol)) {
     color: var(--text-secondary);
+    font-weight: 400;
+}
+
+.markdown-content li ul,
+.markdown-content li ol {
+    margin: 0.5rem 0 0.5rem 1.5rem;
+}
+
+.markdown-content li li {
+    margin-bottom: 0.4rem;
+    color: var(--text-secondary);
+    font-weight: 400;
+    list-style-type: circle;
 }
 
 .markdown-content blockquote {
