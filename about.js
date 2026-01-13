@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function loadAbout() {
         try {
-            const response = await fetch('about.md');
-            if (!response.ok) throw new Error('Failed to fetch about.md');
+            const response = await fetch('regions/about.md');
+            if (!response.ok) throw new Error('Failed to fetch regions/about.md');
             const markdown = await response.text();
 
             const html = marked.parse(markdown);
