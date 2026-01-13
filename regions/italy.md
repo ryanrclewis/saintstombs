@@ -1,5 +1,3 @@
-í ì î è é ë ê ç æ ä á à â ò ó ö ô ü ù û ú ŭ ñ
-
 Acerno, Province of Salerno, Calabria region
 
 - Montevergine Abbey
