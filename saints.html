@@ -27,11 +27,12 @@
 </head>
 
 <body class="explorer-page">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <header class="glass-header">
         <a href="index.html" class="logo-link">
             <div class="logo">Saints<span>Tombs</span></div>
         </a>
-        <button class="menu-toggle" aria-label="Toggle Navigation">☰</button>
+        <button class="menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">☰</button>
         <nav>
             <ul class="nav-links">
                 <li><a href="about.html">About</a></li>
@@ -42,7 +43,7 @@
         </nav>
     </header>
 
-    <main class="explorer-container">
+    <main class="explorer-container" id="main-content">
         <header class="explorer-header">
             <h1 class="text-gradient">Explore Holy Graves</h1>
             <p>Select a region to discover the saints buried there.</p>
@@ -81,7 +82,7 @@
     </main>
 
     <footer class="glass">
-        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank">ARCHANGEL LABORATORIES</a>.</p>
+        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank" rel="noopener noreferrer" aria-label="Archangel Laboratories (opens in new window)">ARCHANGEL LABORATORIES</a>.</p>
     </footer>
 
     <div class="background-overlay"></div>
