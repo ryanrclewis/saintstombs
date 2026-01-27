@@ -261,6 +261,13 @@ h1 {
     position: relative;
     width: 450px;
     height: 500px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.card-stack:focus {
+    outline: 3px solid var(--accent-color);
+    outline-offset: 5px;
 }
 
 .card {

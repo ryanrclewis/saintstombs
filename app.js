@@ -72,7 +72,12 @@ const cardStack = document.querySelector('.card-stack');
 // default HTML order: card[0] has card-1, card[1] has card-2, card[2] has card-3
 let cardIndices = [0, 1, 2];
 
-cardStack.addEventListener('click', () => {
+// Make card stack keyboard accessible
+cardStack.setAttribute('tabindex', '0');
+cardStack.setAttribute('role', 'button');
+cardStack.setAttribute('aria-label', 'Shuffle saint cards - Press Enter or Space to cycle through cards');
+
+function shuffleCards() {
     // Rotate indices: last becomes first
     const last = cardIndices.pop();
     cardIndices.unshift(last);
@@ -87,4 +92,14 @@ cardStack.addEventListener('click', () => {
         const newPos = cardIndices[index] + 1;
         card.classList.add(`card-${newPos}`);
     });
+}
+
+cardStack.addEventListener('click', shuffleCards);
+
+// Add keyboard support for card shuffle
+cardStack.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault(); // Prevent space from scrolling the page
+        shuffleCards();
+    }
 });
