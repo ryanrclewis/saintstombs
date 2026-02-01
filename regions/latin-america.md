@@ -392,9 +392,7 @@ Abaetetuba, Pará State
 
 - ???
 
-  - Servant of God Angelo Frosi, SX, bishop, d. 6/28/1995 (possibly in
-
-- Catedral Nossa Senhora da Conceição)
+  - Servant of God Angelo Frosi, SX, bishop, d. 6/28/1995 (possibly in Catedral Nossa Senhora da Conceição)
 
 Álvares Machado, São Paulo state, Prudent President microregion
 
@@ -422,7 +420,7 @@ Aparecida, Metropolitan Region of Vale do Paraíba e Litoral Norte, São Paulo s
 
 Aracaju, Sergipe state, Northeast region
 
-Santuário do apóstolo São Judas Tadeu/Sanctuary of the apostle St. Jude Thaddeus
+- Santuário do apóstolo São Judas Tadeu/Sanctuary of the apostle St. Jude Thaddeus
 
   - Servant of God, Michelangelo de Cingoli (née Cesare) Sarafini, OFM Cap., priest, d. 1/9/2013
 
@@ -444,7 +442,7 @@ Sacred image of Our Lady
 
 Barretos, São Paulo state, Southeast region
 
-Santuário Diocesano Nossa Senhora do Rosário/Sanctuary of Our Lady of the Rosary
+- Santuário Diocesano Nossa Senhora do Rosário/Sanctuary of Our Lady of the Rosary
 
   - Servant of God André Bortolameotti, CGS, priest, d. 10/28/2010
 
@@ -1228,9 +1226,7 @@ El cementerio situado en el interior de la iglesia y convento de la Recoleta Fra
 
 Renca Hill
 
-  - Bl. Laura Vicuña, laywoman, 1/22 (could be buried at Junín de los Andes,
-
-Huiliches department, Neuquén Province, Argentina, at the foot of La Cruz Hill in 1904 \[first cemetery in Junín de los Andes\])
+  - Bl. Laura Vicuña, laywoman, 1/22 (could be buried at Junín de los Andes, Huiliches department, Neuquén Province, Argentina, at the foot of La Cruz Hill in 1904 \[first cemetery in Junín de los Andes\])
 
 - Convento de Belén/Belén Convent
 
@@ -1824,7 +1820,7 @@ Santiago
 
 Rivière Froide arrondissement, Port-au-Prince metropolitan region, Ouest department
 
-Cimetière des Petites Soeurs
+- Cimetière des Petites Soeurs
 
   - Servant of God Marie Françoise Camélia Lohier, cofoundress, d. 6/18/1987
 
@@ -2278,9 +2274,7 @@ Monasterio de la Visitacion, Calle Campana 47, Col. Mixcoac
 
 Monterrey
 
-- Catedral Metropolitana de Nuestra Señora de Monterrey/Metropolitan
-
-- Cathedral of Our Lady of Monterrey
+- Catedral Metropolitana de Nuestra Señora de Monterrey/Metropolitan Cathedral of Our Lady of Monterrey
 
   - Servant of God Guillermo Tritschler y Córdova, archbishop, d. 7/29/1952
 
@@ -2342,9 +2336,9 @@ San Francisco, Chapel of the Virgin of the Conquest
 
   - Bl. Sebastian of Aparicio (incorrupt), OFM, widower/monk, 2/25
 
-Jesuit College, 4 Sur corner w/Avenida Maximino Avila Camacho (next to the Colegio Carolino)
+- Jesuit College, 4 Sur corner w/Avenida Maximino Avila Camacho (next to the Colegio Carolino)
 
-The "China Poblana," Catarina of San Juan (not a saint, but venerated as one)
+  - The "China Poblana," Catarina of San Juan (not a saint, but venerated as one)
 
 Monasterio de la Purisima (Calle Diagonal Diaz Ordaz Nte. 4313, Col. San Baltazar Campeche)
 
@@ -2478,9 +2472,7 @@ Templo de San Juan Bautista
 
 Tlaxcala
 
-Gruta del Santuario de San Miguel Arcángel del Milagro/Grotto Shrine of
-
-  - St. Michael the Archangel of the Miracle (and the miraculous well)
+- Gruta del Santuario de San Miguel Arcángel del Milagro/Grotto Shrine of St. Michael the Archangel of the Miracle (and the miraculous well)
 
 - Basílica de Nuestra Señora de Ocotlán/Basilica of Our Lady of Ocotlan
 
@@ -2764,7 +2756,9 @@ Humay
 
   - Servant of God Luisa De La Torre Rojas, laywoman, d. 11/21/1869
 
-Kuyuntsa, Datén del Marañon area, Loreto region (in the Peruvian Amazon Kuyuntsa Cemetery
+Kuyuntsa, Datén del Marañon area, Loreto region (in the Peruvian Amazon)
+
+- Kuyuntsa Cemetery
 
   - Servant of God Luigi Bolla (aka, "Yankuam Jintia"), SDB, priest, d. 2/6/2013
 
@@ -2804,9 +2798,9 @@ La Basílica Menor y Convento de San Agustín
 
   - Servant of God José Álvarez Fernández, OP, (aka, Apaktone), priest, d. 10/19/1970
 
-Templo y Monasterio de Jesús, María y José
+- Templo y Monasterio de Jesús, María y José
 
-María Jacinta Montoya, wife of Nicolás and his main partner in his good works
+  - María Jacinta Montoya, wife of Nicolás and his main partner in his good works
 
   - Ven. Nicolás De Dios Ayllón, Indian layman/tailor/husband/foster father, d. 11/7/1677
 
