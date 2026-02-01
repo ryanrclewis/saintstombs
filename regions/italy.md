@@ -123,7 +123,7 @@ Agira, Enna Province, Sicily
 
   - St. Filippo of Palermo, deacon, 6/12 or 5/12
 
-- St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
+  - St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
 
   - St. Philip of Agira, 5/12
 
