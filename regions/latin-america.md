@@ -1330,7 +1330,7 @@ Cartagena
 
   - Servant of God Nicolás Rodríguez Campo (Nicolau Rodrigues), SJ, priest, d. 9/30/1900
 
-- El Santuario, Oriente subregion, Antioquia department
+El Santuario, Oriente subregion, Antioquia department
 
 - Basílica de San Judas Tadeo
 
@@ -1486,7 +1486,7 @@ Camagüey
 
 El Cobre (near Santiago de Cuba)
 
-  - Basílica Santuario Nacional de Nuestra Señora de la Caridad del Cobre/Our Lady of Charity of El Cobre, 9/8
+- Basílica Santuario Nacional de Nuestra Señora de la Caridad del Cobre/Our Lady of Charity of El Cobre, 9/8
 
 Havana
 
@@ -2106,7 +2106,7 @@ Irapuato, Guanajuato state
 
 Jalostotitlán, Jalisco
 
-Santa Ana de Guadalupe Church
+- Santa Ana de Guadalupe Church
 
   - St. Toribio Romo González, martyr, 2/25 (patron of the undocumented)
 
