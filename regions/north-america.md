@@ -57,9 +57,11 @@ Auriesville, New York
 
 Baltimore, Maryland
 
-- Our Lady of Mount Providence Convent Chapel
+- Our Lady of Mount Providence Convent Chapel (701 Gun Road)
 
   - Servant of God Mother Mary Elizabeth Lange, foundress, d. 2/3/1882
+
+- St. Jude Shrine (512 West Saratoga Street)
 
 Belleville, St. Clair County, Illinois
 
@@ -699,6 +701,7 @@ North Royalton, Ohio
   an appointment; they don't answer their door)
 
   - St. Maximina, martyr, 5/4
+  - St. Hyacinth 
 
 Notre Dame, St. Joseph County, Indiana
 
@@ -723,7 +726,7 @@ chapel)
 
 - Holy Cross Community Cemetery
 
-  - Servant of God John (Columba) O\'Neill, CSC, religious, d. 11/20/1923
+  - Servant of God Columba (née John) O'Neill, CSC, religious, d. 11/20/1923
 
   - Servant of God Vincent J. McCauley, CSC, missionary bishop, d. 11/1/1982
 
