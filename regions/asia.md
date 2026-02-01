@@ -3359,6 +3359,8 @@ Visayas
 - ???
 
   - Servant of God Amador Tajanlangit, Sr., layman, d. 3/9/1977
+ 
+Jose Dalman
 
 Malolos City, Bulacan province, Central Luzon region (III) Seat of the
 First Philippine Republic
