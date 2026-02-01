@@ -185,9 +185,9 @@ Borek forest near Berezwecz (Барэцкі лес каля Беразвечча
 
 Navumavichy, Grodno District, Grodno Region
 
-- ???
+- Common grave
 
-  - Bl. Marianna Biernacka, Polish laywoman/martyr, 7/13
+  - Bl. Marianna Biernacka, Polish laywoman/martyr, 6/12
 
 Nowogrodek/Navahradak/Наваградак, Hrodna voblast Province
 
@@ -1059,6 +1059,12 @@ Gortyna/Gortyn/Γόρτυνα/Γόρτυνα, Heraklion regional unit, Crete
     (Gortyn is disputed with Constantinople and Rome as the holder of their
     relics)
 
+Ioannina/Yannena (Γιάννενα), Ioannina regional unit, Epirus
+
+- Άγιος Νικόλαος των Κοπάνων/Church of Saint Nicholas Kopanon
+  
+  - Άγιος Γρηγόριος Ναζιανζηνός ο Θεολόγος/St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (incorrupt right hand)
+
 Kalavryta, Achaea regional unit, Western Greece region
 
 Agia Lavra
@@ -1122,6 +1128,10 @@ Mount Athos
   - St. Stephen the Abbot, 2/13
 
 - Monastery of Iviron (Μονή Ιβήρων), Church of Saint John the Baptist
+  
+- Koutloumousiou Monastery (Μονή Κουτλουμουσίου)
+  
+  - Άγιος Γρηγόριος Ναζιανζηνός ο Θεολόγος/St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (left forearm)
 
 Εικόνα της Παναγίας των Ιβήρων/Our Lady of Iviron icon, 2/12
 
@@ -1134,7 +1144,7 @@ Mount Athos
 - Holy Lavra Monastery
 
   - St. Alexander of Thessaloniki/Pydna, martyr, 3/14 (skull only
-
+    
 Lavra of St. Athanasius
 
   - St. Michael the Confessor of Synnada, bishop, 5/23 (skull)
@@ -1143,6 +1153,7 @@ Lavra of St. Athanasius
 
   - Relic of Emperor Constantine the Great (venerated as a saint in
     Orthodoxy)
+  - Άγιος Γρηγόριος Ναζιανζηνός ο Θεολόγος/St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relics)
 
 - Μονή Αγίου Παντελεήμονος/Panteleimon monastery
 
@@ -1155,7 +1166,8 @@ Lavra of St. Athanasius
 
 - Vatopedi monastery
 
-The Holy Belt of the Virgin
+  - The Holy Belt of the Virgin
+  - Άγιος Γρηγόριος Ναζιανζηνός ο ΘεολόγοςSt. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (portion of skull)
 
 Vatopedi Skete of Agios Demetrius
 
@@ -1171,6 +1183,10 @@ Vatopedi Skete of Agios Demetrius
     relic is here)
 
   - St. Nicodemus the Hagiorite, monk, 7/14
+
+Nea Karvali (Νέα Καρβάλη), Greece
+- Εκκλησία του Αγίου Γρηγορίου/Church of St. Gregory (+30 251 031 6232)
+  - Άγιος Γρηγόριος Ναζιανζηνός ο Θεολόγος/St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relics)
 
 Prousos village, Evrytania Regional Unit (31 kilometers south of
 Karpenisi and 53 northeast of Agrinio)
@@ -2386,6 +2402,12 @@ Libiąż, Chrzanów County, Lesser Poland Voivodeship
 
   - Servant of God Helena Agnieszka Kmiec, murdered missionary, d. 1/24/2017
 
+Lipske, Augustów County, Podlaskie Voivodeship
+
+- Kościół Matki Bożej Anielskiej w Lipsku/Church of Our Lady of the Angels in Leipzig (special place of veneration)
+
+  - Bl. Marianna Biernacka, laywoman/martyr, 6/12 (she is not buried here)
+
 Łodygowice village, Żywiec County, Silesian voivodeship
 
 - Cmentarzu Łodygowicach/Łodygowice cemetery
@@ -3536,11 +3558,13 @@ Smolensk, Smolensk Oblast
 
   - Stole of Fr. Constantine Budkiewicz, martyr
 
-Александро-Невская лавра/Alexander Nevsky Lavra
+- Александро-Невская лавра/Alexander Nevsky Lavra
 
   - St. Alexius of Rome, hermit, 7/17 (relics only)
 
   - St. Alexander Nevski, 8/30 & 11/23
+    
+  - Святой Григорий Назианзин Богослов St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relic)
 
 - Воскресенский Новодевичий монастырь/Resurrection Novodevichy Convent (in
   the Orthodox cathedral)
@@ -4157,6 +4181,14 @@ Burial place of the Emperors
 - Monastery of St. Andrew of Crete
 
   - St. Andrew of Crete, bishop, 7/4
+
+- Aya Yorgi Kilisesi/Patriarchal Cathedral of St. George in the Fanar (Yavuz Sultan Selim, Dr. Sadık Ahmet Cd. No:19, 34083)
+  
+  - St. Gregory of Nanzianzus, bishop, Doctor, Church Father, 1/2
+    
+  - Άγιος Γρηγόριος Ναζιανζηνός ο Θεολόγος/St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (various relics)
+    
+  - St. John Chrysostum, Church Father, 9/13
 
 - Kariye Camii/Μονή της Χώρας/Kariye Mosque/Chora Monastery (in the
   Edirnekapı neighborhood of the Fatih district)
