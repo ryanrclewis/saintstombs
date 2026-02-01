@@ -1120,7 +1120,7 @@ Bergamo, Province of Bergamo, Lombardia region
 
   - Bl. Guala de Roniis of Brescia, OP, prior and bishop, 9/3 (relics only)
 
-  - St. Narno/Narnus of Bergamo, 1^st^ bishop, 8/27
+  - St. Narno/Narnus of Bergamo, 1st bishop, 8/27
 
   - St. Viator (aka, Viater, Viateur), bishop, 12/14
 
