@@ -123,7 +123,7 @@ Agira, Enna Province, Sicily
 
   - St. Filippo of Palermo, deacon, 6/12 or 5/12
 
-- St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
+  - St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
 
   - St. Philip of Agira, 5/12
 
@@ -1120,7 +1120,7 @@ Bergamo, Province of Bergamo, Lombardia region
 
   - Bl. Guala de Roniis of Brescia, OP, prior and bishop, 9/3 (relics only)
 
-  - St. Narno/Narnus of Bergamo, 1^st^ bishop, 8/27
+  - St. Narno/Narnus of Bergamo, 1st bishop, 8/27
 
   - St. Viator (aka, Viater, Viateur), bishop, 12/14
 
