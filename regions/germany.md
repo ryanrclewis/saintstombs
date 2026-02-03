@@ -1622,9 +1622,9 @@ Munich
 
   - St. Benno of Meissen, 6/16
 
-Jakobskirche
+- Jakobskirche
 
-  - Bl. Mother M. Theresia von Jesus Gerhardinger, foundress, 5/9
+  - Bl. Mother Maria Theresia von Jesus (née Karolina) Gerhardinger, SSND, foundress, 5/9
 
 Ludwigskirche in Maxvorstadt district (Ludwigstraße 22)
 

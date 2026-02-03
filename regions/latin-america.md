@@ -1938,6 +1938,12 @@ Chilapa de Álvarez, Guerrero state
 
   - Servant of God Leopoldo Diaz Escudero, bishop, 11/24/1955
 
+Coacalco de Berriozábal, State of Mexico
+
+- Villa Spem
+
+  - Servant of God Antonieta Böhm, SDB, religious, d. 4/27/2008
+
 Coatepec, Veracruz state
 
 - Iglesia de San Jerónimo (Mateo Rebolledo, Centro)

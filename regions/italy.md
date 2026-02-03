@@ -4346,7 +4346,7 @@ Foligno, Province of Perugia, Umbria
 
   - St. Felician of Foligno, martyr, 1/24
 
-  - St. [ܡܪܘܢ]{dir="rtl"}/[مَارُون]{dir="rtl"}/Maron/Maro, hermit/monk, 2/9
+  - St. ܡܪܘܢ/مَارُون/Maron/Maro, hermit/monk, 2/9
 
 - St. Messalina, martyr, 1/23 (in the Chapel of Our Lady of Loreto)
 
@@ -11020,8 +11020,7 @@ Santa Maria della Scala (Piazza della Scala, 23)
 
 Famous miraculous icon of Our Lady
 
-  - Ven. Phanxicô Xaviê (Francis Xavier) Nguy[ễ]{dir="rtl"}n Văn
-    Thu[ậ]{dir="rtl"}n, cardinal, d. 9/16/2002
+  - Ven. Phanxicô Xaviê (Francis Xavier) Nguyễn Văn Thuận, cardinal, d. 9/16/2002
 
   - St. Teresa of Avila (her foot only)
 

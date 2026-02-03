@@ -1537,7 +1537,7 @@ subdeacon/martyr, d. 6/3/2007
 غسان عصام بيداويذ/Servant of God Gassan Isam Bidawed,
 subdeacon/martyr, d. 6/3/2007
 
-# Israel / Palestine
+# Israel / Palestinian Territories
 
 Al-Qubeiba, Jerusalem/القبيبة/Emmaus Al Qubeibeh
 
