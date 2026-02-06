@@ -10542,6 +10542,8 @@ Oratorio di Sant'Andrea al Celio/Santi Andrea e Gregorio al Celio
 
   - St. Tarsilia/Tarsilla, nun/aunt of Gregory the Great, 12/24
 
+Sant'Agostino Church
+
 Sant'Angelo in Pescheria
 
   - St. Getulius, martyr, husband of St. Symphorosa, 6/10
@@ -10577,6 +10579,8 @@ San Bartolomeo in Tevere/San Bartolomeo all'Isola
 
   - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (relic:
     the crucifix that hung from her belt)
+
+San Biagio dei Armeni Church
 
 Santa Bibiana
 
@@ -10620,6 +10624,8 @@ San Carlo ai Catinari
 
 The painting *Mater Divinae Providentiae*/Our Lady of Divine
 Providence, 11/19
+
+
 
 Santa Catarina dei Funari
 

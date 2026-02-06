@@ -3676,6 +3676,7 @@ Yekaterinburg/Ekaterinburg, Sverdlovsk Oblast, Ural Federal District
 
 Serbia**
 
+
 Belgrade
 
 Храм Светог Саве/Temple of St. Sava
@@ -3750,6 +3751,7 @@ Vladimir/Влади́мир, Vladimir Oblast
   - St. Nikolai Velimirovich, bishop, 3/5 or 18 (Serbian Orthodox saint)
 
 # Serbia
+Prijepolje
 
 Sremska Mitrovica/Сремска Митровица, Srem District, Vojvodina province
 
