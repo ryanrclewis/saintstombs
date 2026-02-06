@@ -5,6 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SaintsTombs - Contact</title>
+    <meta name="description" content="Get in touch with the SaintsTombs team. Contact us to share information about saints' resting places or learn more about our mission.">
+    <meta property="og:title" content="Contact SaintsTombs - Sacred Pilgrimage Sites">
+    <meta property="og:description" content="Get in touch with the SaintsTombs team. Contact us to share information about saints' resting places or learn more about our mission.">
+    <meta property="og:image" content="https://saintstombs.com/cover.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://saintstombs.com/contact.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact SaintsTombs - Sacred Pilgrimage Sites">
+    <meta name="twitter:description" content="Get in touch with the SaintsTombs team. Contact us to share information about saints' resting places or learn more about our mission.">
+    <meta name="twitter:image" content="https://saintstombs.com/cover.png">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,22 +26,23 @@
 </head>
 
 <body class="explorer-page">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <header class="glass-header">
         <a href="index.html" class="logo-link">
             <div class="logo">Saints<span>Tombs</span></div>
         </a>
-        <button class="menu-toggle" aria-label="Toggle Navigation">☰</button>
+        <button class="menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">☰</button>
         <nav>
             <ul class="nav-links">
-                <li><a href="saints.html">Explore</a></li>
                 <li><a href="about.html">About</a></li>
+                <li><a href="saints.html">Explore</a></li>
                 <li><a href="contact.html" class="active">Contact</a></li>
                 <li><a href="donate.html" class="nav-donate">Donate</a></li>
             </ul>
         </nav>
     </header>
 
-    <main class="explorer-container">
+    <main class="explorer-container" id="main-content">
         <header class="explorer-header">
             <h1 class="text-gradient">Get in Touch</h1>
             <p>Have a question or a discovery to share? We'd love to hear from you.</p>
@@ -37,18 +50,18 @@
 
         <section class="contact-section glass">
             <div class="contact-card">
-                <div class="contact-icon">✉️</div>
+                <div class="contact-icon" aria-hidden="true">✉️</div>
                 <h2>Email Us</h2>
                 <p>For research corrections, new saint locations, or general inquiries, please feel free to reach out!</p>
                 <form class="contact-form" action="https://formspree.io/f/mykkyvqz" method="POST">
-                    <label class="form-field">
-                        <span>Your email</span>
-                        <input type="email" name="email" required placeholder="you@example.com">
-                    </label>
-                    <label class="form-field">
-                        <span>Your message</span>
-                        <textarea name="message" rows="4" required placeholder="How can we help?"></textarea>
-                    </label>
+                    <div class="form-field">
+                        <label for="email">Your email <span aria-label="required">*</span></label>
+                        <input type="email" id="email" name="email" required placeholder="you@example.com" aria-required="true">
+                    </div>
+                    <div class="form-field">
+                        <label for="message">Your message <span aria-label="required">*</span></label>
+                        <textarea id="message" name="message" rows="4" required placeholder="How can we help?" aria-required="true"></textarea>
+                    </div>
                     <button type="submit" class="contact-submit">Send message</button>
                 </form>
             </div>
@@ -56,7 +69,7 @@
     </main>
 
     <footer class="glass">
-        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank">ARCHANGEL
+        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank" rel="noopener noreferrer" aria-label="Archangel Laboratories (opens in new window)">ARCHANGEL
                 LABORATORIES</a>.</p>
     </footer>
 

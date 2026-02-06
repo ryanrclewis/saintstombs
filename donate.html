@@ -5,6 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SaintsTombs - Donate</title>
+    <meta name="description" content="Support the SaintsTombs mission. Your donation helps us document and preserve information about sacred pilgrimage sites worldwide.">
+    <meta property="og:title" content="Support SaintsTombs - Sacred Pilgrimage Sites">
+    <meta property="og:description" content="Support the SaintsTombs mission. Your donation helps us document and preserve information about sacred pilgrimage sites worldwide.">
+    <meta property="og:image" content="https://saintstombs.com/cover.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://saintstombs.com/donate.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Support SaintsTombs - Sacred Pilgrimage Sites">
+    <meta name="twitter:description" content="Support the SaintsTombs mission. Your donation helps us document and preserve information about sacred pilgrimage sites worldwide.">
+    <meta name="twitter:image" content="https://saintstombs.com/cover.png">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,32 +26,33 @@
 </head>
 
 <body class="explorer-page">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <header class="glass-header">
         <a href="index.html" class="logo-link">
             <div class="logo">Saints<span>Tombs</span></div>
         </a>
-        <button class="menu-toggle" aria-label="Toggle Navigation">☰</button>
+        <button class="menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">☰</button>
         <nav>
             <ul class="nav-links">
-                <li><a href="saints.html">Explore</a></li>
                 <li><a href="about.html">About</a></li>
+                <li><a href="saints.html">Explore</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 <li><a href="donate.html" class="active nav-donate">Donate</a></li>
             </ul>
         </nav>
     </header>
 
-    <main class="explorer-container">
+    <main class="explorer-container" id="main-content">
         <header class="explorer-header">
             <h1 class="text-gradient">Support the Mission</h1>
         </header>
 
         <section class="contact-section glass">
             <div class="contact-card">
-                <div class="contact-icon">🙏</div>
+                <div class="contact-icon" aria-hidden="true">🙏</div>
                 <h2>Make a Donation</h2>
                 <p>If you see fit, please contribute financially to this ongoing effort. It helps.</p>
-                <a href="https://www.paypal.com/paypalme/CatholicSaintsGuy" target="_blank" class="contact-button">Donate via
+                <a href="https://www.paypal.com/paypalme/CatholicSaintsGuy" target="_blank" rel="noopener noreferrer" class="contact-button" aria-label="Donate via PayPal (opens in new window)">Donate via
                     PayPal</a>
                 <p class="contact-note">You will be redirected to PayPal's secure site.</p>
             </div>
@@ -47,7 +60,7 @@
     </main>
 
     <footer class="glass">
-        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank">ARCHANGEL LABORATORIES</a>.</p>
+        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank" rel="noopener noreferrer" aria-label="Archangel Laboratories (opens in new window)">ARCHANGEL LABORATORIES</a>.</p>
     </footer>
 
     <div class="background-overlay"></div>

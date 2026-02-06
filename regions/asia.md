@@ -1537,7 +1537,7 @@ subdeacon/martyr, d. 6/3/2007
 غسان عصام بيداويذ/Servant of God Gassan Isam Bidawed,
 subdeacon/martyr, d. 6/3/2007
 
-# Israel / Palestine
+# Israel / Palestinian Territories
 
 Al-Qubeiba, Jerusalem/القبيبة/Emmaus Al Qubeibeh
 
@@ -3359,6 +3359,8 @@ Visayas
 - ???
 
   - Servant of God Amador Tajanlangit, Sr., layman, d. 3/9/1977
+ 
+Jose Dalman
 
 Malolos City, Bulacan province, Central Luzon region (III) Seat of the
 First Philippine Republic

@@ -11,9 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
             // Toggle hamburger icon state
             if (isActive) {
                 menuToggle.innerHTML = '✕';
+                menuToggle.setAttribute('aria-expanded', 'true');
                 body.style.overflow = 'hidden'; // Prevent scrolling when menu is open
             } else {
                 menuToggle.innerHTML = '☰';
+                menuToggle.setAttribute('aria-expanded', 'false');
                 body.style.overflow = '';
             }
         });
@@ -25,8 +27,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 nav.classList.remove('active');
                 menuToggle.classList.remove('active');
                 menuToggle.innerHTML = '☰';
+                menuToggle.setAttribute('aria-expanded', 'false');
                 body.style.overflow = '';
             });
+        });
+
+        // Close menu on ESC key press
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && nav.classList.contains('active')) {
+                nav.classList.remove('active');
+                menuToggle.classList.remove('active');
+                menuToggle.innerHTML = '☰';
+                menuToggle.setAttribute('aria-expanded', 'false');
+                body.style.overflow = '';
+                menuToggle.focus(); // Return focus to the toggle button
+            }
         });
     }
 });

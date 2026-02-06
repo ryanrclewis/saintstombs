@@ -1501,6 +1501,12 @@ Mossend, North Lanarkshire, Scotland
 
   - Pope St. John Paul II, 10/22 (blood relic only)
 
+Motherwell, North Lanarkshire, Lanarkshire, Scotland
+
+- Airbles Cemetery (Airbles Rd.; 55.7812° N, 4.0037° W)
+
+  - Servant of God Joe Wilson, millennial layman, d. 12/20/2011
+
 Much Wenlock (aka, Wenlock), Shropshire
 
 - Ruined Abbey
@@ -1649,7 +1655,7 @@ Rednal, Metropolitan Borough of Birmingham, West Midlands
 
 - Oratory Retreat Cemetery
 
-  - St. John Henry Newman, cardinal, 8/11
+  - St. John Henry Newman, cardinal, 8/11 & 10/9
 
 Redruth, Cornwall
 

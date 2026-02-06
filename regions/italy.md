@@ -123,7 +123,7 @@ Agira, Enna Province, Sicily
 
   - St. Filippo of Palermo, deacon, 6/12 or 5/12
 
-- St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
+  - St. Luca Casali, abbot, 3/2 (at the Agira Monastery?)
 
   - St. Philip of Agira, 5/12
 
@@ -1120,7 +1120,7 @@ Bergamo, Province of Bergamo, Lombardia region
 
   - Bl. Guala de Roniis of Brescia, OP, prior and bishop, 9/3 (relics only)
 
-  - St. Narno/Narnus of Bergamo, 1^st^ bishop, 8/27
+  - St. Narno/Narnus of Bergamo, 1st bishop, 8/27
 
   - St. Viator (aka, Viater, Viateur), bishop, 12/14
 
@@ -4346,7 +4346,7 @@ Foligno, Province of Perugia, Umbria
 
   - St. Felician of Foligno, martyr, 1/24
 
-  - St. [ܡܪܘܢ]{dir="rtl"}/[مَارُون]{dir="rtl"}/Maron/Maro, hermit/monk, 2/9
+  - St. ܡܪܘܢ/مَارُون/Maron/Maro, hermit/monk, 2/9
 
 - St. Messalina, martyr, 1/23 (in the Chapel of Our Lady of Loreto)
 
@@ -10542,6 +10542,8 @@ Oratorio di Sant'Andrea al Celio/Santi Andrea e Gregorio al Celio
 
   - St. Tarsilia/Tarsilla, nun/aunt of Gregory the Great, 12/24
 
+Sant'Agostino Church
+
 Sant'Angelo in Pescheria
 
   - St. Getulius, martyr, husband of St. Symphorosa, 6/10
@@ -10577,6 +10579,8 @@ San Bartolomeo in Tevere/San Bartolomeo all'Isola
 
   - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (relic:
     the crucifix that hung from her belt)
+
+San Biagio dei Armeni Church
 
 Santa Bibiana
 
@@ -10620,6 +10624,8 @@ San Carlo ai Catinari
 
 The painting *Mater Divinae Providentiae*/Our Lady of Divine
 Providence, 11/19
+
+
 
 Santa Catarina dei Funari
 
@@ -11020,8 +11026,7 @@ Santa Maria della Scala (Piazza della Scala, 23)
 
 Famous miraculous icon of Our Lady
 
-  - Ven. Phanxicô Xaviê (Francis Xavier) Nguy[ễ]{dir="rtl"}n Văn
-    Thu[ậ]{dir="rtl"}n, cardinal, d. 9/16/2002
+  - Ven. Phanxicô Xaviê (Francis Xavier) Nguyễn Văn Thuận, cardinal, d. 9/16/2002
 
   - St. Teresa of Avila (her foot only)
 
@@ -11486,10 +11491,14 @@ Santo Stefano Rotondo (aka, al Monte Celio)
 
 - St. John of Matha, founder, 2/8 (tomb only; body moved to Spain)
 
-Santi Vincenzo e Anastasio alle Tre Fontane
+- Santi Vincenzo e Anastasio alle Tre Fontane
 
-Hearts of all popes from Sixtus V (1590) through Pius IX (1878),
+  - Hearts of all popes from Sixtus V (1590) through Pius IX (1878),
 except for Pius VI.
+
+- Trinità dei Monti monastery (Piazza della Trinità dei Monti, 3)
+  
+  - Mater Admirabilis fresco shrine
 
 Scala Sancta
 
@@ -14126,35 +14135,115 @@ Vasto, Province of Chieti, Abruzzo region
 
   - Servant of God Giuseppe Cinquina, priest, d. 3/14/1945
 
-Vatican
+Vatican City State
 
 San Lino
 
-  - Pope St. Cletus/Anacletus, 4/26
+- Pope St. Cletus/Anacletus, 4/26
 
-San Pietro
+Basilica di San Pietro in Vaticano
 
-  - Pope St. Anastasius II, 11/19
+- St. Abundius the Sacristan, sacristan, 4/14 (grave likely lost)
+  
+- Pope St. Agapitus I, 4/22
+  
+- Pope St. Agatone/Agatho, 1/10
+  
+- Pope St. Anastasius II, 11/19
+  
+- Pope St. Benedict II, 5/8
+  
+- Pope St. Boniface IV, 5/8
+  
+- King St. Caedwalla of Wales, 4/20
+  
+- Pope St. Cletus/Anacletus, 4/26
+  
+- St. Cyprian, martyr, 9/26
+  
+- Pope St. Adeodatus I/St. Deusdedit I, 11/8
+  
+- Pope St. Eleuterus, 5/26
+  
+- Pope St. Eugene I, 6/2
+  
+- Bl. Pope Eugene III, 7/8
+  
+- Pope St. Evaristus (Aristo), 10/26
+  
+- Pope St. Felix IV, 10/12
+  
+- Pope St. Gelasius I, 11/21
+  
+- St. Giustina, martyr, 9/26
+  
+- Pope St. Gregory the Great
+  
+- Pope St. Gregory II, 2/11 (grave lost)
+  
+- Pope St. Gregory III, 12/10
+  
+- Pope St. Hormisdas, 8/6
+  
+- Pope St. Igino/Hyginus, 1/11
+  
+- Pope St. John I, martyr, 5/18
+  
+- Pope St. John XXIII, 10/11
+  
+- Bl. Pope John Paul I, 8/26
+  
+- Pope St. John Paul II, 10/22
+  
+- St. Josaphat Kuntsevych, martyr, 11/12
+  
+- Bl. Pope Innocent XI, 8/12
+  
+- Pope St. Leo the Great, 11/10
+  
+- Pope St. Leo II, 7/3
+  
+- Pope St. Leo III, 6/12
+  
+- Pope St. Leo IV, 7/17
+  
+- Pope St. Leo IX, 4/19
+  
+- Pope St. Linus, 9/23
+  
+- Pope St. Nicholas I, 11/13
+  
+- Pope Saint Paul I, 6/26
+  
+- Pope St. Paul VI, 5/29
+  
+- St. Petronilla (in her eponymous chapel), laywoman, 5/31
+  
+- Pope St. Pius I, 7/11
+  
+- Pope St. Pius X
+  
+- Ven. Pope Pius XII, d. 10/9/1958
+  
+- Ss. Processus and Martinian, soldiers/martyrs (in their eponymous chapel), 7/2
+  
+- Pope St. Sergius I, 9/8
+  
+- Ss. Simon and Jude, apostles
+  
+- St. Simon de Crépy, monk, 9/30
+  
+- Pope St. Simplicius, 3/10
+  
+- Pope St. Symmachus, 7/19
+  
+- Pope St. Telesphorus, martyr, 1/5
+  
+- Bl. Pope Urban II, 7/29
+  
+- Pope St. Victor I, martyr, 7/28
 
-  - Pope St. Benedict II, 5/8
-
-  - King St. Caedwalla of Wales, 4/20
-
-  - St. Cyprian, martyr, 9/26
-
-  - Pope St. Deusdedit, 11/8
-
-  - Pope St. Gregory II, martyr, 2/13
-
-- St. Gregory of Nanzianzen, bishop, Doctor, Church Father, 1/2
-
-- St. John Chrysostum, Church Father, 9/13
-
-  - Pope St. Petronilla, 5/31
-
-- ???
-
-  - St. Gregory of Nyssa, bishop/theologian, 3/9
+- Pope St. Vitalian, 1/27
 
 Velletri, Città metropolitana di Roma Capitale, Lazio region
 
