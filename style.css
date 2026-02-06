@@ -453,20 +453,38 @@ footer {
         font-size: 3rem;
     }
 
-    .card-stack {
+    .hero-visual {
+        flex: none;
         width: 100%;
-        max-width: 350px;
-        height: 450px;
+        height: 320px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-stack {
+        width: 320px;
+        height: 320px;
         margin: 0 auto;
     }
 
     .card {
-        max-width: 320px;
+        max-width: 280px;
+        min-height: 200px;
+        padding: 1rem;
+    }
+
+    .card h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.3rem;
+    }
+
+    .card p {
+        font-size: 0.9rem;
     }
 
     .card img {
-        max-width: 280px;
-        max-height: 180px;
+        max-width: 240px;
+        max-height: 120px;
     }
 
     .stats-section {
