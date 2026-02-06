@@ -1,4 +1,4 @@
-**Why this website?**
+**Why this web site?**
 
 This website was more than two decades in the making. It grew out of
 several trips to Italy---beginning in 2003---during which I visited the
