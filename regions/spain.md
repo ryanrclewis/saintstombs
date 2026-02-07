@@ -2563,45 +2563,30 @@ Cruz Cubierta, Alzira, Valencia
     Ferragud\]), 10/25
 
 Cubas de la Sagra, Autonomous community of Madrid
-
-Nuestra Señora de las Apariciones (Our Lady of the Apparitions), 3/2
-
-Monestir de Santa María de la Cruz
-
+- Nuestra Señora de las Apariciones (Our Lady of the Apparitions), 3/2
+- Monestir de Santa María de la Cruz
   - St. Juana de la Cruz (née Juana) Vázquez Gutiérrez, abbess, d. 5/3
 
 Cuellar, Province of Segovia, Castile y León autonomous community
-
 - Santuario de Nuestra Señora de El Henar
-
   - Bl. Adalberto María Vicente Muñoz, O. Carm, religious/martyr, 8/18
-
   - Bl. Adalberto María (née Adalberto) Vicente y Vicente, O. Carm.,
     religious/martyr, 8/18
-
   - Bl. Ángel María (née José) Sánchez Rodríguez, O. Carm.,
     religious/martyr, 8/18
-
   - Bl. Angelo María (née Angelo) Reguilón Lobato, O. Carm.,
     religious/martyr, 8/18
-
   - Bl. Aurelio María (née Aurelio) García Anton, O. Carm.,
     religious/martyr, 8/18
-
   - Bl. Bartolomé Fanti María (née Nicomedes) Andrés Vecilla, O. Carm,
     religious/martyr, 8/18
-
   - Bl. Daniel María (née Daniel) García Antón, O. Carm., religious/martyr,
     8/18
-
   - Bl. Francisco María (née Francisco) Pérez y Pérez, O. Carm.,
     religious/martyr, 8/18
-
   - Bl. Silvano María (née Silvano) Villanueva González, O. Carm.,
     religious/martyr, 8/18
-
 - ???
-
   - Bl. Martina Vázquez Gordo, DC, religious/martyr, 10/4 ("her wish was to
     rest next to the Virgin of Henar \[la Virgen de Henar\]")
 
@@ -8258,29 +8243,21 @@ Tinéu/Tineo, Narcea comarca, Province of Asturias
 Toledo
 
 - Cathedral
-
   - Bl. Ciriaco María Sancha y Hervás, cardinal, 2/25
-
   - Bl. José Polo Benito, priest/martyr, 8/23 (capilla del Sagrado Corazón
     de Jesús)
-
   - St. Leocadia, martyr, 12/9
-
   - St. Obdulia, religious, 9/5
-
   - St. Ramon Sierrea/Raimundo de Fitero/Raymond of Fitero, abbot/founder,
     2/1 (Chapel of the Ochavo)
 
-	- Carmelitas Descalzas (Discalced Carmelites)(Plaza Capuchinas 7)
-    - Servant of God Maria Adelaida of Saint Teresa (née Joan Adelaide O’Sullivan), OCD, religious, d. 4/15/1893
-
-San Cristóbal
+- San Cristóbal
 
   - St. Gumesindo, priest/martyr, 1/13
 
   - St. Servideo/Servusdei, monk/martyr, 1/13
 
-San Juan de los Reyes
+- San Juan de los Reyes
 
   - Bl. Félix Gómez-Pinto Piñero, OFM, priest/martyr, 9/7
 
@@ -8299,11 +8276,9 @@ San Juan de los Reyes
 
   - Ven. José Rivera Ramírez, priest, d. 3/25/1991
 
-Convento de Jesús Crucificado y San José de Madres Carmelitas Descalzas
-(Plaza de Santa Teresa de Jesús, 2)
+- Carmelitas Descalzas (Discalced Carmelites)(Plaza Capuchinas 7)
 
-  - Servant of God Joan Adelaide O\'Sullivan (Madre María Adelaida de Santa
-    Teresa), religious, d. 4/15/1893
+	- Servant of God Maria Adelaida of Saint Teresa (née Joan Adelaide O’Sullivan), OCD, religious, d. 4/15/1893
 
 Convento de los Carmelitas Descalzos (Pl. de Carmelitas Descalzos, 0)
 
