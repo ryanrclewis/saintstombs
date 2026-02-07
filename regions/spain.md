@@ -8271,6 +8271,9 @@ Toledo
   - St. Ramon Sierrea/Raimundo de Fitero/Raymond of Fitero, abbot/founder,
     2/1 (Chapel of the Ochavo)
 
+	- Carmelitas Descalzas (Discalced Carmelites)(Plaza Capuchinas 7)
+    - Servant of God Maria Adelaida of Saint Teresa (née Joan Adelaide O’Sullivan), OCD, religious, d. 4/15/1893
+
 San Cristóbal
 
   - St. Gumesindo, priest/martyr, 1/13
