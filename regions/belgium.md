@@ -2,7 +2,7 @@ Aalst, East Flanders Province, Flemish region
 
 - Abdij van Sint-Cornelius en Sint-Cyprianus/Ninove Abbey
 
-- Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
+  - Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
 
 Affligem, Hekelgem section, Province of Flemish Brabant
 
@@ -77,20 +77,18 @@ Carmel at Hopeland-Antwerp
     Symforian and Victorinus)
 
 Banneux, Sprimont municipality, Louveigné, Province of Liège
-
-- Sanctuaire de Notre-Dame de Banneux/Shrine of Our Lady of Banneux
-
-Our Lady of Banneux or Our Lady of the Poor, 1/15
+- Sanctuaire de Notre-Dame de Banneux/Sanctuaire de la Vierge des Pauvres/Shrine of Our Lady of Banneux/Sanctuary of the Virgin of the Poor (rue de l’Esplanade, 57)
+  - Notre-Dame de Banneux/Sanctuaire de la Vierge des Pauvres/Our Lady of Banneux or Our Lady of the Poor, 1/15
 
 Beauraing, Namur
 
 - Sanctuaire Notre-Dame de Beauraing/Shrine of Our Lady of Beauraing
 
-Our Lady of Beauraing, 11/29
+  - Our Lady of Beauraing, 11/29
 
 Binche, Hainault
 
-Collégiale Saint-Ursmer de Binche
+- Collégiale Saint-Ursmer de Binche
 
   - St. Ursmer, abbot, 4/18
 
@@ -103,7 +101,7 @@ Bilzen, Tongeren arrondissement, Province of Limburg, Flemish region
 - Abdij van Munsterbilzen/Munsterbilzen Abbey (mostly gone because of the
   French Revolution)
 
-- St. Amor of Aquitaine, hermit/founder of this abbey, 10/8 (grave likely
+  - St. Amor of Aquitaine, hermit/founder of this abbey, 10/8 (grave likely
   lost)
 
 Blandijnberg
@@ -137,7 +135,7 @@ Bruges
 - Basilica of the Holy Blood/Blasius Chapel/Heilig-Bloedbasiliek/Basilique
   du Saint-Sang
 
-A relic of the Holy Blood of Jesus
+  - A relic of the Holy Blood of Jesus
 
 - Church of the Holy Spirit
 
@@ -146,14 +144,14 @@ A relic of the Holy Blood of Jesus
 Notre-Dame-de-la-Poterie/Onze-Lieve-Vrouw ter Potterie/Our Lady of the
 Potteries
 
-Our Lady of the Potteries miraculous statue
+- Our Lady of the Potteries miraculous statue
 
   - Bl. Idesbald des Dunes (the local bishop has his left arm, and his right
     thigh bone is at Notre Dame of the Dunes ... in Dunkerque?), 4/18
 
 - Onze-Lieve-Vrouwekerk/Church of Our Lady
 
-Michelangelo's Madonna and Child
+  - Michelangelo's Madonna and Child
 
 - ???
 
@@ -175,7 +173,7 @@ Brussels
   - Bl. Jan van Ruusbroec, religious/mystic, 12/2 (his relics were destroyed
     during the French Revolution)
 
-Église St. Nicolas---Sint Nikolaaskerk (on Boterstraat/Rue au Beurre
+- Église St. Nicolas---Sint Nikolaaskerk (on Boterstraat/Rue au Beurre
 near the Palais de la Bourse)
 
   - The 19 Martyrs of Gorcum, 7/9
@@ -191,13 +189,13 @@ near the Palais de la Bourse)
 
   - St. Wivine/Wivina, OSB, abbess/hermitess, 12/17
 
-Notre Dame de la Chapelle
+- Notre Dame de la Chapelle
 
   - St. Boniface of Brussels (aka, of Lausanne), bishop, 2/19
 
-Notre-Dame du Finistère
+- Notre-Dame du Finistère
 
-Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
+  - Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
 (this is at best a well-educated and researched guess)
 
 - Carmelite Convent
@@ -222,7 +220,7 @@ Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
 
 Brussels, Laeken/Laken neighborhood, Brussels Capital Region
 
-Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
+- Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
 
   - Servant of God Baudouin of Belgium, king, d. 7/31/1993
 
@@ -248,13 +246,12 @@ Wallonia region
 
 - Ancienne abbaye d'Aywiers
 
-- Bl. Elisabeth de Vans, religious, 7/1 (monastery demolished during the
-  French Revolution; grave likely lost)
+  - Bl. Elisabeth de Vans, religious, 7/1 (monastery demolished during the French Revolution; grave likely lost)
 
 Dendermonde (French: Termonde), Province of East Flanders, Flemish
 region
 
-Onze-Lieve-Vrouwekerk/Our Lady
+- Onze-Lieve-Vrouwekerk/Our Lady
 
   - St. Christiana of Termonde, confessor, 7/26
 
@@ -265,13 +262,13 @@ of Namur
 
 - Maredsous Abbey
 
-- Bl. Columba Marmion, abbot, 9/3 (Chapel of St. Gregory)
+  - Bl. Columba Marmion, abbot, 9/3 (Chapel of St. Gregory)
 
   - St. Gerard de Brogne, abbot, 10/3 (relics)
 
 Dilbeek, Halle-Vilvoorde arrondissement, Flemish Brabant, Flemish Region
 
-St Ambrosius/Sint-Ambrosiuskerk
+- St Ambrosius/Sint-Ambrosiuskerk
 
   - St. Alena/Alène/Alina of Dilbeek, convert/martyr, 6/18 (collarbones
     only)
@@ -289,8 +286,7 @@ kollegiatskirken Sainte-Marie
 
   - St. Perpetuus of Tongeren, bishop, 11/4
 
-- Chapelle des Sœurs de la Sainte Famille du Sacré-Cœur/Chapel of the
-  Sisters of the Holy Family of the Sacred Heart
+- Chapelle des Sœurs de la Sainte Famille du Sacré-Cœur/Chapel of the Sisters of the Holy Family of the Sacred Heart
 
   - Bl. Eugénie Joubert, religious, 7/2
 
@@ -318,7 +314,7 @@ Florennes, Namur province
 
 Forest/Vorst, Brussels Capital region
 
-Église Saint-Augustin/Sint-Augustinuskerk/St. Augustine
+- Église Saint-Augustin/Sint-Augustinuskerk/St. Augustine
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
@@ -351,23 +347,11 @@ Gembloux, Province of Namur
 Gerpinnes, Charleroi arrondissement, Province of Hainaut, Wallonia
 region
 
-  - Saints-Michel-et-Sainte-Rolende
+ - Saints-Michel-et-Sainte-Rolende
 
   - St. Rolende de Gerpinnes, laywoman, 5/13
 
 Ghent, Ghent Arrondissement, East Flanders
-
-- ???
-
-  - St. Ansbert, archbishop of Rouen, 2/9
-
-  - St. Desiderius of Fontenelle, OSB, monk, 12/18
-
-  - St. Gudwall (aka, Curval, Gurval), bishop, 6/6
-
-  - St. Hildebert of Ghent, abbot of Saint Peter, martyr, 4/4
-
-  - St. Lanoald of Maastricht, evangelist, 3/19
 
 - Abbey of Mont-Blandin à Gand
 
@@ -378,8 +362,7 @@ Ghent, Ghent Arrondissement, East Flanders
 
   - St. Bavo, nobleman/hermit, 10/1 (he was buried here; is he still?)
 
-- St. Columban of Ghent, hermit, 2/2 or 2/15 (in the Blessed Mary chapel,
-  St. Andrew altar)
+- St. Columban of Ghent, hermit, 2/2 or 2/15 (in the Blessed Mary chapel, St. Andrew altar)
 
   - St. Landrada, abbess, 7/8
 
@@ -388,9 +371,9 @@ Ghent, Ghent Arrondissement, East Flanders
 
   - St. Pharaildes, 1/4
 
-The Ghent Altarpiece
+  - The Ghent Altarpiece
 
-Sainte Collette/Sint-Coleta
+- Sainte Collette/Sint-Coleta
 
   - Bl. Edward Joannes Maria Poppe, priest, 6/10 (a relic only, if anything)
 
@@ -424,11 +407,21 @@ Bethleem
 
 - ???
 
+  - St. Ansbert, archbishop of Rouen, 2/9
+
+  - St. Desiderius of Fontenelle, OSB, monk, 12/18
+
+  - St. Gudwall (aka, Curval, Gurval), bishop, 6/6
+
+  - St. Hildebert of Ghent, abbot of Saint Peter, martyr, 4/4
+
+  - St. Lanoald of Maastricht, evangelist, 3/19
+
   - St. Veerle/Pharaïlde/Pharaildis of Ghent, virgin, 1/4 (relics
 
 Ghent, Tronchiennes/Dongen village, Province of East Flanders
 
-Sint-Gerolfkerk
+- Sint-Gerolfkerk
 
   - St. Gerulfus/Gerolf, martyr, 9/21 (skull only)
 
@@ -438,16 +431,15 @@ Ghistelles/Gistel, Ostend Arrondissement, West Flanders, Flemish Region
 
   - St. Godelieve, martyr, 7/6 or 7/30
 
-Grammont (Geraardsbergen), Aalst arrondissement, Province of
-Oost-Vlaanderen/East Flanders, Vlaanderen/Flemish Community
+Grammont (Geraardsbergen), Aalst arrondissement, Province of Oost-Vlaanderen/East Flanders, Vlaanderen/Flemish Community
 
-Sint-Bartholomeuskerk
+- Sint-Bartholomeuskerk
 
   - St. Adrian of Nicomedia, martyr, 3/4 (his relics can be found in the
     Winterkapel/Winter Chapel, a mini-museum in the church dedicated to the
     Geraardsbergen patron saints)
 
-- Silver reliquary of St. Bartholomew, apostle (relic)
+  - Silver reliquary of St. Bartholomew, apostle (relic)
 
 Grez-Doiceau (Florival district), Province of Walloon Brabant, Walloon
 region
@@ -467,9 +459,9 @@ Grimbergen, Province of Brabant
 
 Halle, Halle-Vilvoorde Arrondissement, Flemish Brabant, Flemish Region
 
-Sint-Martinusbasiliek
+- Sint-Martinusbasiliek
 
-- Shrine of Our Lady of Halle (Notre Dame de Hal)
+  - Shrine of Our Lady of Halle (Notre Dame de Hal)
 
 Hasselt, Province of Limburg, Flemish region, Flemish community
 
@@ -495,15 +487,13 @@ region
 Herne (Hérinnes), Halle-Vilvoorde arrondissement, Flemish Brabant
 Province, Flemish region
 
-- Carthusian monastery \'Capella B. Mariae\' (Chartreuse de
-  Hérinnes-lez-Enghien/Kartuizerklooster van Herne) (monastery, including
-  church destroyed about the time of the French Revolution)
+- Carthusian monastery \'Capella B. Mariae\' (Chartreuse de Hérinnes-lez-Enghien/Kartuizerklooster van Herne) (monastery, including church destroyed about the time of the French Revolution)
 
   - St. Arnold of Geertruidenberg, Carthusian, 6/1
 
 Huy (Hoei), Huy Arrondissement, Liège Province, Wallonia Region
 
-Église de Notre Dame
+- Église de Notre Dame
 
   - St. Agricole/Landbouw/Agricolus of Tongres, bishop, 2/5
 
@@ -511,8 +501,7 @@ Huy (Hoei), Huy Arrondissement, Liège Province, Wallonia Region
 
   - St. Meingold/Mengold/Meingaud, murdered nobleman, 2/8
 
-- Fort van Hoei/Citadelle de Huy, Kapel van Cosmas en Damianus (Chapel of
-  Ss. Cosmas and Damian)
+- Fort van Hoei/Citadelle de Huy, Kapel van Cosmas en Damianus (Chapel of Ss. Cosmas and Damian)
 
   - St. John I Agnus (Jan het Lam), bishop, 7/25
 
@@ -521,27 +510,25 @@ Huy (Hoei), Huy Arrondissement, Liège Province, Wallonia Region
   - Bl. Ivette de Huy/Yvette of Huy/Jutta van Hoei, anchoress, 1/13 (she was
     buried at the leper colony where her hermit cell was built against)
 
-Peter the Hermit (not a saint, historical figure)
+  - Peter the Hermit (not a saint, historical figure)
 
 Ittre, Province of Walloon Brabant, Wallonia region
 
-Église Saint-Rémy
+- Église Saint-Rémy
 
   - St. Lutgardis of Tongeren, religious/mystic/one of the first devotees to
     the Sacred Heart, 6/16
 
-Jauchelette, Jodoigne municipality, Nivelles arrondissement, Province of
-Walloon-Brabant, Walloon region
+Jauchelette, Jodoigne municipality, Nivelles arrondissement, Province of Walloon-Brabant, Walloon region
 
 - Abbaye de la Ramée (no longer in existence)
 
   - Bl. Ida of Nivelles, O.Cist., religious/mystic, 12/12 (grave likely
     lost)
 
-Koksijde-Bains, Koksijde, Veurne arrondissement, Province of West
-Flanders
+Koksijde-Bains, Koksijde, Veurne arrondissement, Province of West Flanders
 
-Notre-Dame des Dunes
+- Notre-Dame des Dunes
 
   - Bl. Idesbald des Dunes, religious, 4/18
 
@@ -551,22 +538,21 @@ Kortrijk, Province of West Flanders, Flemish region
 
   - Bl. Isidore of St. Joseph de Loor, CP, religious, 10/6
 
-Kortrijk-Dutsel (French: Courtrai-Dutsel), Province of Flemish Brabant,
-Flanders region
+Kortrijk-Dutsel (French: Courtrai-Dutsel), Province of Flemish Brabant, Flanders region
 
-Sint-Catharinakerk
+- Sint-Catharinakerk
 
   - St. Hatebrand, OSB, abbot, 7/30 (relic only; found in the attic in 2018)
 
 Leefdaal (or Sint-Verona), Bertem Gemeente, Vlaams Brabant Province
 
-De Kruiskapel (aka, Sint-Veronakapel)
+- De Kruiskapel (aka, Sint-Veronakapel)
 
   - St. Verona of Mainz, sister of St. Veronus, 8/29
 
 Lembeek, Hal-Vilvorde Arrondissement, Brabant flamand Province
 
-Sint-Veronuskerk
+- Sint-Veronuskerk
 
   - St. Veronus of Lembeek/Véron de Lembecq/Veroon van Lembeek),
     nobleman/farmer, 1/31 or 3/30
@@ -579,7 +565,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - St. Lambert of Maastricht, bishop, 9/17
 
-Église Sainte Croix/Holy Cross
+- Église Sainte Croix/Holy Cross
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
@@ -596,7 +582,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - Bl. Étienne de Liège/Stephen of Liège, OSB, abbot, 1/13
 
-Basilique Saint-Martin de Liège
+- Basilique Saint-Martin de Liège
 
   - Bl. Eve/Eva/Ève de Saint-Martin/Ève de Liège, hermitess, 3/14
 
@@ -608,8 +594,7 @@ Basilique Saint-Martin de Liège
 
   - St. Adalbert of Liège, bishop, 1/1
 
-Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters
-of the Cross (Rue Saint-Gilles 200)
+- Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters of the Cross (Rue Saint-Gilles 200)
 
   - St. Marie-Thérèse du Sacré-Cœur de Jésus (nee Jeanne) Haze,
     religious/foundress, 1/7
@@ -629,20 +614,18 @@ of the Cross (Rue Saint-Gilles 200)
 
   - Bl. Peter and Andoletus of Liège, murdered nephews of St. Lambert, 9/17
 
-Lier/Lierre, Mechelen arrondissement, Province of Antwerp, Flemish
-region
+Lier/Lierre, Mechelen arrondissement, Province of Antwerp, Flemish region
 
 - Kapel van Sint-Pieter/Chapel of Saint-Pierre
 
   - St. Gummarus of Lier, hermit/pilgrim, 10/11
 
-Abdij Onze-Lieve-Vrouw van Nazareth (Nazaretdreef 99-103)
+- Abdij Onze-Lieve-Vrouw van Nazareth (Nazaretdreef 99-103)
 
   - Bl. Beatrix of Valfleury/of Nazareth, abbess, 7/29 (grave lost to the
     Revolution)
 
-Lievegem/Lovendegem, Ghent arrondissement, Province of East Flanders,
-Flemish region
+Lievegem/Lovendegem, Ghent arrondissement, Province of East Flanders, Flemish region
 
 - Begraafplaats van het klooster van de Zusters van Liefde/Cemetery of the
   convent of the Sisters of Charity (Molendreef 16)
@@ -682,22 +665,19 @@ Our Lady of Louvain/Sedes Sapientiae, 2/6
 
   - Bl. Margaret of Louvain, teenage murder victim, 9/2
 
-Large reliquaries of Ss. Peter, Paul, Anthony, and Lawrence among other
-saints
+  - Large reliquaries of Ss. Peter, Paul, Anthony, and Lawrence among other saints
 
-De Sint-antoniuskapel op het Pater Damiaanplein
+- De Sint-antoniuskapel op het Pater Damiaanplein
 
   - St. Damian de Veuster of Molokai, SS CC, priest, 5/10
 
 - ???
 
-- Bl. Armand of Zierikzee, OFM, 6/8 (at the first Franciscan convent
-  \[i.e., not St. Anthony's College\]; where is that?)
+  - Bl. Armand of Zierikzee, OFM, 6/8 (at the first Franciscan convent\[i.e., not St. Anthony's College\]; where is that?)
 
 Maaseik, Province of Limburg
 
-De schatkamer van de Sint-Catharinakerk/The treasury of St. Catherine's
-church
+- De schatkamer van de Sint-Catharinakerk/The treasury of St. Catherine's church
 
 - St. Harlindis/Herlindis, abbess, 10/12 (vestments and reliquary only)
 
@@ -723,19 +703,19 @@ Mechelen, Antwerp Province
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
-Scheppersinstituut Mechelen
+- Scheppersinstituut Mechelen
 
   - Ven. Victor Scheppers, priest/founder, d. 3/7/1877
 
 Merendree, Dienze, East Flanders
 
-Sint-Radegundiskerk
+- Sint-Radegundiskerk
 
   - St. Gerulfus/Gerolf, martyr, 9/21 (only his former burial vault)
 
 Mesen/Messines, West-Vlaanderen, Belgium
 
-Sint-Niklaaskerk
+- Sint-Niklaaskerk
 
   - St. Adela of Messines/of France, nobility/religious, 9/8
 
@@ -763,11 +743,11 @@ Mons, Bergen Gemeente, Province of Henegouwen, Wallonia region
 
   - Bl. Béatrice/Beatrix de Lens, O.Cist., nun, 1/19
 
-Mons (Saint-Symphorien section)
+Mons (Saint-Symphorien section), Bergen Gemeente, Province of Henegouwen, Wallonia region 
 
-L'église Saint-Symphorien
+- L'église Saint-Symphorien
 
-  - St. Symphorian of Autun, layman/martyr, 8/22 (relics only; a grand
+  - St. Symphorian of Autun, layman/martyr, 8/22 (relics only; a grand 
     procession takes place with the relics the fourth weekend of August, on
     Sunday morning)
 
@@ -794,33 +774,29 @@ Moustier-sur-Sambre, Nivelles
 
   - St. Fredegand, abbot, 7/21
 
-Munsterbilzen
-
 Namur, Province of Namur, Wallonia region
 
 - Cathédrale Saint-Aubain
 
   - St. Alban of Mainz, missionary/martyr, 6/21
 
-Saint-Gérard
+- Saint-Gérard
 
   - St. Gérard of Brogne (Sint-Djuråd), abbot, 10/3
 
-Motherhouse, Sisters of Notre Dame de Namur/Sœurs de Notre Dame de Namur
+- Motherhouse, Sisters of Notre Dame de Namur/Sœurs de Notre Dame de Namur
 
   - St. Julie Billiart, cofoundress, 4/8
 
-Buried in Chapelle du Saint Coeur de Marie, in the garden.
+    - Buried in Chapelle du Saint Coeur de Marie, in the garden.
 
-Nassogne, Marche-en-Famenne arrondissement, Province of Luxembourg,
-Wallonia region
+Nassogne, Marche-en-Famenne arrondissement, Province of Luxembourg, Wallonia region
 
 - Collégiale Saint-Monon de Nassogne/Collegial Church of St. Monon
 
   - St. Monon of Nassogne, murdered hermit, 10/18
 
-Ninove municipality, Meerbeke village, Province of East Flanders,
-Denderstreek region
+Ninove municipality, Meerbeke village, Province of East Flanders, Denderstreek region
 
 - ???
 
@@ -829,12 +805,11 @@ Denderstreek region
 
   - Ss. Celsa and Nona, virgins, 2/3
 
-Nivelles, Wallonne Region, Province of Brabant Wallon (19 miles south of
-Brussels)
+Nivelles, Wallonne Region, Province of Brabant Wallon (19 miles south of Brussels)
 
 - Abbey of St. Gertrude/Sinte-Gitterdal
 
-- St. Gertrude of Nivelles, OSB, abbey foundress, 3/17
+  - St. Gertrude of Nivelles, OSB, abbey foundress, 3/17
 
   - Bl. Itta (aka, Iduberge) of Metz, OSB, noblewoman/nun, 5/8
 
@@ -842,35 +817,35 @@ Brussels)
 
   - St. Wilfetrudis of Nivelles, abbess, 11/23
 
-Église de Ss. Jean et Nicolas
+- Église de Ss. Jean et Nicolas
 
   - Bl. Marie d'Oignies, religious/hermitess, 6/23
 
 Onhaye, Province of Namur
 
-Sint-Martinuskerk
+- Sint-Martinuskerk
 
   - Bl. Walhère van Onhaye/of Dinant, martyr, 6/23
 
 Oostakker, Ghent, East Flanders
 
-- Basiliek van Oostakker-Lourdes (shrine of Our Lady)
+- Basiliek van Oostakker-Lourdes (Shrine of Our Lady)
 
 Oostende (Ostend), West Flanders
 
-Onze-Lieve-Vrouw-ter-Duinenkerk
+- Onze-Lieve-Vrouw-ter-Duinenkerk
 
   - Bl. Idesbald of Dunes, 4/18 (right thigh)
 
 Ossenweg, Province of Flemish Brabant, Flanders region
 
-Onze-Lieve-Vrouw-van-de-Ossenweg
+- Onze-Lieve-Vrouw-van-de-Ossenweg
 
-Miraculous statue of Our Lady
+  - Miraculous statue of Our Lady
 
 Passendale, West Flanders, Belgium
 
-Tyne Cot Memorial (where he is commemorated)
+- Tyne Cot Memorial (where he is commemorated)
 
   - Servant of God Willie Doyle, SJ, MC, army chaplain, d. 8/17/1917 (body
     never recovered; his beatification cause is likely dead)
@@ -881,14 +856,13 @@ Ronse, Oudenaarde, Province of East Flanders, Flanders region
 
   - St. Ermete/Hermes, martyr, 8/28
 
-Ruisbroeck
+Ruisbroeck, Sint-Pieters-Leeuw, Province of Flemish Brabant
 
-- Parish church
+- Parish church (possibly Onze-Lieve-Vrouwekerk/the Church of Our Lady)
 
   - Bl. Jean (John) Ruusbroec, 12/2
 
-Rutten/Russon, Tongeren municipality, Limburg province, Flemish
-community
+Rutten/Russon, Tongeren municipality, Limburg province, Flemish community
 
 - ???
 
@@ -900,28 +874,25 @@ Saint-Ghislain, Hainault
 
 - ???
 
-- St. Ghislain the Anchorite (possibly at the Church of Ss. Peter and
-  Paul), 10/9
+  - St. Ghislain the Anchorite (possibly at the Church of Ss. Peter and   Paul), 10/9
 
   - St. Maurontius of Douai, OSB, abbot/deacon, 5/5 (skull only)
 
-Saint-Hubert, Neufchâteau arrondissement, Luxembourg province, Wallonia
-region
+Saint-Hubert, Neufchâteau arrondissement, Luxembourg province, Wallonia region
 
 - ???
 
   - St. Bérégise
 
-- Saint-Hubert Abbey (French: Abbaye de Saint-Hubert), officially the
-  Abbey of St Peter in the Ardennes (Abbaye de Saint-Pierre en Ardennes)
+- Saint-Hubert Abbey (French: Abbaye de Saint-Hubert), officially the Abbey of St Peter in the Ardennes (Abbaye de Saint-Pierre en Ardennes)
 
   - St. Hubert the Hunter, bishop, 11/3
 
-Scherpenheuvel-Zichem (aka, Montaigu-Zichem)
+Scherpenheuvel-Zichem (aka, Montaigu-Zichem), Province of Flemish Brabant, Flemish Region
 
 - Basilek Shrine of Our Lady of Scherpenheuvel
 
-Sint-Katelijne-Waver, Mechelen arrondissement, Province of Antwerp
+Sint-Katelijne-Waver, Mechelen arrondissement, Province of Antwerp, Flemis Region
 
 - Roosendael Abbey (ruined)
 
@@ -929,7 +900,7 @@ Sint-Katelijne-Waver, Mechelen arrondissement, Province of Antwerp
 
 Sint-Lievens-Houtem/Hautem-Saint-Liévin
 
-Sint-Michielskerk
+- Sint-Michielskerk
 
   - St. Brixius of Tours, bishop, 11/13 (relics only)
 
@@ -937,7 +908,7 @@ Sint-Michielskerk
 
 Sint-Truiden/Saint-Trond
 
-Onze-Lieve-Vrouwekerk/Our Lady
+- Onze-Lieve-Vrouwekerk/Our Lady
 
   - St. Eucherius of Orleans, bishop, 2/20
 
@@ -946,17 +917,12 @@ Onze-Lieve-Vrouwekerk/Our Lady
   - St. Libert (Lisbert, Libertus) of Sint-Truiden/Saint-Trond, murdered
     monk, 7/14
 
-??? (probably at Saint-Trond)
+- ??? (probably at Saint-Trond)
 
-  - St. Truden (aka, Trudo, Truiden, Trond), bishop, 11/23
-
-- ???
-
-- St. Christina the Astonishing, 7/24 (probably at the Convent of St.
+  - St. Christina the Astonishing, 7/24 (probably at the Convent of St.
   Catherine)
-
-  - Bl. Engelbert Beets, O.Praem., priest/martyr, 1/7 (he was killed here,
-    but where is he buried?)
+  - Bl. Engelbert Beets, O.Praem., priest/martyr, 1/7 (he was killed here, but where is he buried?)
+  - St. Truden (aka, Trudo, Truiden, Trond), bishop, 11/23
 
 Soignies (Dutch: Zinnik), Hainault Province, Wallonia region
 
@@ -987,7 +953,7 @@ Stavelot, Verviers arrondissement, Province of Liege, Walloon region
 
   - St. Sighelm/Sigolinus of Stavelot, abbot, 10/29
 
-L'église Saint-Sébastien
+- L'église Saint-Sébastien
 
   - St. Remaculus (Remacle), OSB, abbot, 9/3
 
@@ -998,11 +964,9 @@ L'église Saint-Sébastien
 
 Tienen/Tirlemont, Province of Flemish Brabant, Flemish Community
 
-Maison Sainte Croix, De Zusters Passionisten van het H. Paulus van het
-Kruis (Aarschotsesteenweg, 3, Tel. \[+32\] {16) 81 13 27)
+- Maison Sainte Croix, De Zusters Passionisten van het H. Paulus van het Kruis (Aarschotsesteenweg, 3, Tel. \[+32\] {16) 81 13 27)
 
-  - Servant of God Marta van Jezus gekruisigd (nee Maria Vandenputte), CP,
-    religious/foundress, d. 9/17/1967
+  - Servant of God Marta van Jezus gekruisigd (nee Maria Vandenputte), CP, religious/foundress, d. 9/17/1967
 
 Thuin, Province of Hainault, Wallonia (between here and Landelies)
 
@@ -1038,15 +1002,11 @@ Tournai
 
 - ???
 
-  - Bl. Astolfo Lobo, O. de M., priest, 7/28 (possibly at the Couvent des
-    Récollets/Recollects Convent, Rue des Récollets 1)
+  - Bl. Astolfo Lobo, O. de M., priest, 7/28 (possibly at the Couvent des Récollets/Recollects Convent, Rue des Récollets 1)
 
   - St. Cyr/Cyriacus of Iconium, martyr, 6/16
 
-  - St. Julitta, martyr, 6/16 (sources say part of their relics were
-    interred at Saint-Amand monastery near Tournai, but the closest
-    "Saint-Amand" monastery is a half hour away in Saint-Amand-les-Eaux,
-    France)
+  - St. Julitta, martyr, 6/16 (sources say part of their relics were interred at Saint-Amand monastery near Tournai, but the closest "Saint-Amand" monastery is a half hour away in Saint-Amand-les-Eaux, France)
 
   - St. Mommelin/Mummolin/Mummolinus of Noyon, bishop, 10/16 (relics only)
 
@@ -1054,11 +1014,11 @@ Veurne/Furnes, West Flanders, Flemish Region
 
 - Sint-Walburgakerk/Church of Saint Walburga
 
-  - St. Walburgis, 2/25
+  - St. Walburgis, religious, 2/25
 
-- St. Willibald (skull, reliquary bust, and small relics)
+  - St. Willibald (skull, reliquary bust, and small relics)
 
-- St. Wunibald/Wunebald (skull, reliquary bust, and small relics)
+  - St. Wunibald/Wunebald (skull, reliquary bust, and small relics)
 
 - ??? (the Norbertine Abbey of Saint-Bertin is totally in ruins)
 
@@ -1071,7 +1031,7 @@ Villers-la-Ville, Province of Walloon Brabant, Wallonia Region
 
 - Abbaye de Villers/L'abbaye de Villers-en-Brabant
 
-- Bl. Arnulf II of Villers, abbot, 3/2 (grave lost, abbey in ruins)
+  - Bl. Arnulf II of Villers, abbot, 3/2 (grave lost, abbey in ruins)
 
   - Bl. Daniel of Villiers, OSB Cist., monk, 12/26
 
@@ -1090,13 +1050,13 @@ Villers-la-Ville, Province of Walloon Brabant, Wallonia Region
 
 Visé, Liège arrondissement, Province of Liège, Wallonia region
 
-Église Saint-Martin/Sint-Maartenskerk
+- Église Saint-Martin/Sint-Maartenskerk
 
   - St. Hadelin of Chelles, OSB, monk/hermit, 2/3
 
 Vissenaken, municipality of Tienen, Province of Vlaams-Brabant
 
-Sint-Maartenskerk
+- Sint-Maartenskerk
 
   - St. Himelin/Himelijn, pilgrim, 3/10
 
@@ -1110,7 +1070,7 @@ region
 
 Wezeren village, Landen, Flemish Brabant
 
-Sint-Amanduskerk
+- Sint-Amanduskerk
 
   - St. Bavo, nobleman/hermit, 10/1 (relic only)
 
@@ -1120,23 +1080,24 @@ Wintershoven, municipality of Kortessem, Province of Limburg
 
   - St. Amantius of Wintershoven, deacon, 3/19 (relics likely lost)
 
+Whereabouts Completely Unknown
+
 Adelaide/Aleydis, Schaerbeck, Belgium
 
-  - St. Ava of Denain, OSB, abbess, 4/29
+St. Ava of Denain, OSB, abbess, 4/29
 
-  - St. Christiana, nun, 7/24
+St. Christiana, nun, 7/24
 
-  - St. Edburga of Caistor, religious, 6/20 (Berg St. Winnok)
+St. Edburga of Caistor, religious, 6/20 (Berg St. Winnok)
 
-  - Bl. John/Jean Eustace, OSB, abbot at Jardinet, 9/20
+Bl. John/Jean Eustace, OSB, abbot at Jardinet, 9/20
 
-  - St. John of Saint Fagondez de Castrillo of Sahagun, preacher, 6/12
+St. John of Saint Fagondez de Castrillo of Sahagun, preacher, 6/12
     (relics here)
 
-  - St. Landrada, Elle est morte un 08 juillet 690 et son corps fut ramené
-    de Wintershoven à l'abbaye saint Baafs de Gand.
+St. Landrada, Elle est morte un 08 juillet 690 et son corps fut ramené de Wintershoven à l'abbaye saint Baafs de Gand.
 
-  - St. Reinelde (maybe in Saintes, France)
+St. Reinelde (maybe in Saintes, France)
 
 Luxembourg
 
