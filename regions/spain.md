@@ -3,9 +3,9 @@
 Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in
 southern Andorra
 
-Canòlich sanctuary
+- Canòlich sanctuary
 
-Mare de Déu de Canòlich/Mother of God of Canòlich, 7/14
+	- Mare de Déu de Canòlich/Mother of God of Canòlich, 7/14
 
 Meritxell, Canillo parish
 
@@ -3538,8 +3538,7 @@ Cementerio de Horta
   - Servant of God Josefina Vilaseca Alsina, martyr for chastity, d.
     12/25/1952
 
-Huércal de Almería, Almería municipality, Province of Almería, Andalusia
-autonomous community
+Huércal de Almería, Almería municipality, Province of Almería, Andalusia autonomous community
 
 - ??? (possibly at the Iglesia de Santa Maria Huércal de Almeria or the
   Cementerio de Huércal de Almería)
@@ -3547,6 +3546,12 @@ autonomous community
   - Bl. Francisco Romero Ortega, priest/martyr, 8/28
 
   - Bl. José Romero Ortega, priest/martyr, 8/28
+
+Huércal-Overa, Province of Almería, Andalusia autonomous community
+
+- Church of Our Lady of the Assumption
+
+	- Bl. Salvador Valera Parra, priest, 3/15
 
 Huesca, Provincia de Huesca, Aragon
 
@@ -3560,14 +3565,13 @@ Huesca, Provincia de Huesca, Aragon
 
 Huete, municipality Cuenca, Castile-La Mancha
 
-Monasterio de Santa María de la Merced
+- Monasterio de Santa María de la Merced
 
   - Bl. Juan of Huete, Mercedarian friar, 5/24
 
 Hueva, Province of Guadalajara, Castile-La Mancha autonomous community
 
-Ibi, Alcoià comarca, Province of Alicante, Valencian autonomous
-community
+Ibi, Alcoià comarca, Province of Alicante, Valencian autonomous community
 
 - Cementerio de Ibi/Ibi cemetery
 
@@ -3575,7 +3579,7 @@ community
 
 Igualada, Anoia county, Penedès, Catalonia
 
-Cripta de la Casa Natal de Josep Tous (carrer de Sant Josep)
+- Cripta de la Casa Natal de Josep Tous (carrer de Sant Josep)
 
   - Bl. José Tous y Soler/Josep Tous Soler, OFM Cap., preacher, 5/27
 
@@ -3593,13 +3597,12 @@ Santa María do Mao
 
 Instinción, Province of Almería, Andalusia autonomous community
 
-Cementerio de Instinción
+- Cementerio de Instinción
 
   - Bl. Antonio Sierra Leyva, priest/martyr, 9/19 (en el cementerio de la
     Congregación de Esclavas de la Divina Infantita)
 
-Irún/Irun, Bidasoaldea region, Province of Gipuzkoa, Basque autonomous
-community
+Irún/Irun, Bidasoaldea region, Province of Gipuzkoa, Basque autonomous community
 
 - Casa Madre de la Parroquia Auxiliadores de Cristo Sacerdote (Francisco
   de Gainza Kalea, 3)
@@ -3637,16 +3640,13 @@ Jerez de la Frontera, Province of Cádiz, Andalusia region
 Jesús, Bajo Ebro comarca, Province of Tarragona, Cataluña autonomous
 region
 
-La capilla del noviciado de la casa madre de la Congregación Compañía de
-Santa Teresa de Jesús
+- La capilla del noviciado de la casa madre de la Congregación Compañía de Santa Teresa de Jesús
 
-  - Ven. Saturnina (Saturnina del Corazón Agonizante de Jesús) Jassa y
-    Fontcuberta, cofoundress, d. 10/13/1936
+  - Ven. Saturnina (Saturnina del Corazón Agonizante de Jesús) Jassa y Fontcuberta, cofoundress, d. 10/13/1936
 
-Jove, Gijon municipality, Province of Asturias, Asturias autonomous
-community
+Jove, Gijon municipality, Province of Asturias, Asturias autonomous community
 
-Monasterio de San Pedro de Jove
+- Monasterio de San Pedro de Jove
 
   - Bl. Berardo de Visantoña (née Joaquín Frade Eiras), OFM Cap.,
     priest/martyr, 8/14
@@ -3656,20 +3656,15 @@ Monasterio de San Pedro de Jove
   - Bl. Alejo-Basilio of Terradillos (née Basilio) González Herrero, OFM
     Cap., religious/martyr, 8/14 (remains never identified)
 
-- ???
-
-Jumilla, Altiplano murciano comarca, Murcia Province, Murcia autonomous
-community
+Jumilla, Altiplano murciano comarca, Murcia Province, Murcia autonomous community
 
 - Iglesia de El Salvador
 
-  - Servant of God Juan Paco Baeza, priest, d. 4/20/1978 (altar del
-    Santísimo Cristo de la Salud)
+  - Servant of God Juan Paco Baeza, priest, d. 4/20/1978 (altar del Santísimo Cristo de la Salud)
 
-Juncosa, Garrigues comarca, Province of Lleida, Catalonia autonomous
-community
+Juncosa, Garrigues comarca, Province of Lleida, Catalonia autonomous community
 
-Cementiri de Juncosa
+- Cementiri de Juncosa
 
   - Bl. Joan Sans Vallespinosa, priest/martyr, 8/21 (maybe in the Parish
     Church of Santa Maria)
@@ -3677,8 +3672,7 @@ Cementiri de Juncosa
 - Bl. Joan Vernet Masip, priest/martyr, 8/21 (maybe in the Parish Church
   of Santa Maria)
 
-L'Espluga Calba, Garrigues comarca, Province of Lleida, Catalonia
-autonomous community
+L'Espluga Calba, Garrigues comarca, Province of Lleida, Catalonia autonomous community
 
 - Iglesia de la Inmaculada Concepción
 
@@ -3692,12 +3686,11 @@ La Aguilera, Burgos Province
 
 La Almolda, Province of Zaragoza, Aragon autonomous region
 
-Cementerio de La Almolda
+- Cementerio de La Almolda
 
   - Bl. Vicente Montserrat Millán, priest/martyr, 8/1
 
-La Bañeza, Tierra de La Bañeza comarca, Province of León, Castile y León
-autonomous community
+La Bañeza, Tierra de La Bañeza comarca, Province of León, Castile y León autonomous community
 
 - Iglesia de Santa María de La Bañeza
 
@@ -3707,22 +3700,17 @@ autonomous community
 
   - Servant of God Laura Pérez Sánchez, consecrated woman, d. 6/18/1966
 
-La Barraca d'Aigües Vives/La Barraca de Aguas Vivas, La Ribera Alta
-region, Province of Valencia, Valencian autonomous community (near
-Carcagente)
+La Barraca d'Aigües Vives/La Barraca de Aguas Vivas, La Ribera Alta region, Province of Valencia, Valencian autonomous community (near Carcagente)
 
 - ???
 
-  - Ven. Eladio España Navarro, priest, d. 1/7/1972 (possibly at the Casa de
-    Ejercicios de S. Juan de Ribera/San Juan de Ribera Retreat House)
+  - Ven. Eladio España Navarro, priest, d. 1/7/1972 (possibly at the Casa de Ejercicios de S. Juan de Ribera/San Juan de Ribera Retreat House)
 
-La Calahorra, Guadix comarca, Province of Granada, Andalusia autonomous
-community
+La Calahorra, Guadix comarca, Province of Granada, Andalusia autonomous community
 
 - Iglesia parroquial de Nuestra Señora de la Anunciación de La Calahorra
 
-- Bl. Joaquín Gisbert Aguilera, priest/martyr, 9/13 (chapel of Cristo de
-  las Penas)
+	- Bl. Joaquín Gisbert Aguilera, priest/martyr, 9/13 (chapel of Cristo de las Penas)
 
 La Canonja, Tarragonès comarca, Province of Tarragona, Catalonia region
 
@@ -3741,7 +3729,7 @@ approved apparition)
 
 La Coruña/A Coruña, Province of La Coruña, Galicia autonomous community
 
-La Grande Obra de Atocha (C/Baltasár Pardal Vidal, 1)
+- La Grande Obra de Atocha (C/Baltasár Pardal Vidal, 1)
 
   - Ven. Baltasár Pardal Vidal, priest/founder, d 3/3/1963
 
@@ -3757,8 +3745,7 @@ autonomous community
 
 - ???
 
-  - Bl. María del Calvario (née Josefa Romero Clariana, DC,
-    religious/martyr, 9/26 & 11/20
+  - Bl. María del Calvario (née Josefa Romero Clariana, DC, religious/martyr, 9/26 & 11/20
 
 La Muela, Valdejalón comarca, Province of Zaragoza, Aragon autonomous
 community
@@ -3778,16 +3765,13 @@ La Orotava, Tenerife, Canary Islands
 
 - ???
 
-  - Servant of God María Justa de Jesús, religious/mystic, d. 1723 (cause
-    halted)
+  - Servant of God María Justa de Jesús, religious/mystic, d. 1723 (cause halted)
 
 La Palma, Canary Islands.
 
-Monument to Bl. Inácio de Azevedo and his 39 companions (the Forty
-Martyrs of Brazil), 7/15
+- Monument to Bl. Inácio de Azevedo and his 39 companions (the Forty Martyrs of Brazil), 7/15
 
-  - Bl. Simão da Costa, SJ, novice/missionary/martyr (one of the Forty
-    Martyrs of Brazil), 7/16
+  - Bl. Simão da Costa, SJ, novice/missionary/martyr (one of the Forty Martyrs of Brazil), 7/16
 
 La Palma del Condado, El Condado comarca, Province of Huelva, Andalusia
 autonomous community
@@ -3796,7 +3780,7 @@ autonomous community
 
   - Servant of God Manuel Siurot Rodríguez, lawyer, d. 2/27/1940
 
-Cementerio Municipal de La Palma del Condado
+- Cementerio Municipal de La Palma del Condado
 
   - Servant of God Carmen Nebot Soldán de Noguera, laywoman, d. 3/24/2007
 
@@ -3809,7 +3793,7 @@ community
 
 La Pobla de Vallbona, Province of Valencia, Valencian autonomous
 
-Cementerio Municipal de Pobla de Vallbona
+- Cementerio Municipal de Pobla de Vallbona
 
   - Bl. Florentín Pérez Romero, TC, priest/martyr, 8/23
 
@@ -3843,7 +3827,7 @@ Catalonia autonomous community
 La Selva de Camp, Baix Camp comarca, Province of Tarragona, Catalonia
 autonomous community
 
-Colegio de los Claretianos/Col·legi dels Claretians
+- Colegio de los Claretianos/Col·legi dels Claretians
 
   - Servant of God Francesc Crusats Franch, CMF, missionary/martyr, d.
     9/30/1868
@@ -3851,13 +3835,13 @@ Colegio de los Claretianos/Col·legi dels Claretians
 La Seu d'Urgell, Alt Urgell County, Alt Pirineu region, Catalonia
 autonomous community
 
-Convento de Sagrada Família d'Urgell
+- Convento de Sagrada Família d'Urgell
 
   - Bl. Anna Maria Janer Anglarill, foundress, 1/11
 
 La Torre de Fontaubella, Priorat comarca, Province of Tarragona
 
-Església de Sant Pere i Sant Pau (Carrer de l'Església, 1)
+- Església de Sant Pere i Sant Pau (Carrer de l'Església, 1)
 
   - Bl. Joan Rofes Sancho, priest/martyr, 8/12
 
