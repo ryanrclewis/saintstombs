@@ -62,7 +62,7 @@ Auldhame, Scotland (but also Tyninghame and Prestonkirk)
 
 Aylesford, Kent, England
 
-- Carmelite friary
+- Carmelite friary/Shrine of Our Lady of Mt. Carmel
 
   - St. Simon Stock (head), 5/16
 
