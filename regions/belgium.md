@@ -2,7 +2,7 @@ Aalst, East Flanders Province, Flemish region
 
 - Abdij van Sint-Cornelius en Sint-Cyprianus/Ninove Abbey
 
-- Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
+  - Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
 
 Affligem, Hekelgem section, Province of Flemish Brabant
 
@@ -82,15 +82,15 @@ Banneux, Sprimont municipality, Louveigné, Province of Liège
 
 Our Lady of Banneux or Our Lady of the Poor, 1/15
 
-Beauraing, Namur
+Beauraing, Province of Namur, Wallonia Region
 
-- Sanctuaire Notre-Dame de Beauraing/Shrine of Our Lady of Beauraing
+- Sanctuaire Notre-Dame de Beauraing/Shrine of Our Lady of Beauraing (Rue de l’Aubepine 12)
 
 Our Lady of Beauraing, 11/29
 
 Binche, Hainault
 
-Collégiale Saint-Ursmer de Binche
+- Collégiale Saint-Ursmer de Binche
 
   - St. Ursmer, abbot, 4/18
 
