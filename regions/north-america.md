@@ -7,7 +7,7 @@ Alexandria, Hanson County, South Dakota
 
 Allenspark, Boulder County, Colorado
 
-St. Catherine of Siena Chapel, or "the Chapel on the Rock."
+- St. Catherine of Siena Chapel, or "the Chapel on the Rock."
 
 Allentown, Lehigh County, Pennsylvania
 
@@ -1763,9 +1763,16 @@ Sycamore, Colusa County, California
 
 - Shrine of Our Lady of Sorrows (aka, The Little Shrine)(Sycamore Slough Road)
 
+Tampa, Florida
+
+- Mary Help of Christians Center (6400 E. Chelsea Street)
+
+  - Home to over 700 relics
+
 Thibodaux, Louisiana
 
 - St. Joseph's Co-Cathedral
+
   - St. Valeria of Milan, martyr, 4/28 (relic of arm, only)
 
 Three Rivers, Otero County, New Mexico
