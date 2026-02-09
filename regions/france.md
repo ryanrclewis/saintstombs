@@ -43,9 +43,13 @@ Agen, Lot-et-Garonne department, Aquitaine region
 Ahun, Guéret arrondissement, Creuse department, Nouvelle-Aquitaine
 region
 
-Église de Saint-Silvain d'Ahun
+- Église de Saint-Silvain d'Ahun
 
-- St. Silvain d'Ahun, martyr, 10/16 (tomb; may be empty)
+  - St. Silvain d'Ahun, martyr, 10/16 (tomb; may be empty)
+
+Aiguilhe, Haute-Loire department, Auvergne-Rhône-Alpes region
+
+- Chapel de Saint-Michel d’Aiguilhe/Sanctuaire de Saint Michel Archange/Shrine of St. Michael the Archangel
 
 Aincourt, Pontoise arrondissement, Val-d\'Oise department, Île-de-France
 region
@@ -55,9 +59,9 @@ region
   - St. Rainofle, laywoman, 7/24
 
 Aix-en-Provence, Bouches-du-Rhône department, Provence-Alpes-Côte
-d\'Azur region, France
+d'Azur region, France
 
-  - St. Mary Magdalene
+- Sainte Marie Madeleine/St. Mary Magdalene
 
   - St. Andrew Abellon, OP, artist/priest, 5/15
 
@@ -76,13 +80,13 @@ Auvergne-Rhône-Alpes
 
 - ???
 
-- St. Claire, abbot, 1/1 (buried at "the church" in this town of 30,000+
+  - St. Claire, abbot, 1/1 (buried at "the church" in this town of 30,000+
   people, but which one?)
 
 Aix-Villemaur-Pâlis/Villemaur-sur-Vanne, Troyes department, Aube
 department, Grand Est region
 
-Collégiale de Villemaur-sur-Vanne (contact Madame Broquet at +33 (0)3 25
+- Collégiale de Villemaur-sur-Vanne (contact Madame Broquet at +33 (0)3 25
 40 83 55 for a visit to see its impressive rood screen)
 
 - ???
@@ -102,7 +106,7 @@ Albi, Tarn département, Occitanie region
 
   - St. Vindemiale
 
-Sanctuaire Notre-Dame de La Drèche
+- Sanctuaire Notre-Dame de La Drèche
 
   - Servant of God Pierre-Louis-Marie Galibert, TOR, bishop, d. 12/24/1965
 
@@ -143,7 +147,7 @@ Bourgogne-Franche-Comté region
 
 Almenêches, Orne department, Normandy region
 
-??? (at La chapelle Saint-Opportune)
+- ??? (at La chapelle Saint-Opportune)
 
   - St. Opportune de Montreuil, OSB, abbess, 4/22 (left arm and part of her
     skull)
@@ -213,7 +217,7 @@ Angers
 
   - St. Maurille/Maurilius of Angers, bishop, 9/13
 
-The fresco cycle of the life of St. Maurille
+  - The fresco cycle of the life of St. Maurille
 
 - Abbey of St. Aubin
 
@@ -233,7 +237,7 @@ The fresco cycle of the life of St. Maurille
 
   - St. Licinius (aka, Lesin), bishop, 2/13
 
-Maison Mère des Sœurs du Bon Pasteur/Motherhouse of the Sisters of the
+- Maison Mère des Sœurs du Bon Pasteur/Motherhouse of the Sisters of the
 Good Shepherd
 
   - St. Marie-Euphrasie Pelletier, foundress, 4/24
@@ -315,7 +319,7 @@ Good Shepherd
 
 Anglet, Pyrénées-Atlantiques department, Nouvelle-Aquitaine region
 
-Notre-Dame du Refuge
+- Notre-Dame du Refuge
 
   - Bl. Louis-Édouard Cestac, priest, 3/27
 
@@ -443,15 +447,15 @@ Arles
   - From the second half of the 12^th^ century, the archbishops of Arles are
     buried at Saint-Trophime.
 
-Église Notre-Dame-la-Major
+- Église Notre-Dame-la-Major
 
   - St. Marcia/Rusticola/Rusticule of Arles, abbess, 8/11
 
-Sainte-Croix
+- Sainte-Croix
 
   - St. Florentin d'Arles, abbot, 4/12
 
-Saint-Genès
+- Saint-Genès
 
   - St. Hilaire d'Arles, bishop, 5/5
 
@@ -1414,7 +1418,7 @@ Cahors, Lot department, Occitanie region
 
   - St. Ursus/Ours of Cahors, monk, 7/27
 
-Saint Amante/St. Amantius
+- Saint Amante/St. Amantius
 
   - St. Didier/Desiderius of Cahors, bishop,
 
@@ -1429,14 +1433,13 @@ Saint Amante/St. Amantius
 
 Calenzana, Calvi arrondissement, Haute-Corse department, Corsica
 
-Saint-Restitude
+- Saint-Restitude
 
   - St. Restituta of Corsica, martyr, 5/21
 
-Callas, Var department, Flayosc canton, Daguignan arrondissement,
-Provence-Alpes-Côte d'Azur region
+Callas, Var department, Flayosc canton, Daguignan arrondissement, Provence-Alpes-Côte d'Azur region
 
-Chapelle Sainte-Auxile
+- Chapelle Sainte-Auxile
 
   - St. Ausile de Fréjus/Ausilius of Fréjus, bishop, 1/26 (Located 1.5 km to
     the south-east, at the top of a hill overlooking the village of Callas,
@@ -1492,8 +1495,7 @@ department, Pays de la Loire region
 
   - St. Reginald of Mélinais, OSA, hermit, 9/17
 
-Carcassone, Carcassonne Agglo intercommunality, Carcassone canton,
-Carcassone arrondissement, Aude department, Occitanie region
+Carcassone, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
 
 - Sainte-Marie de Grâce (church of the former Notre-Dame monastery)
 
@@ -1509,12 +1511,11 @@ Carpentras, Vaucluse department, Provence-Alpes-Côte d\'Azur region
 
   - St. Siffrein/Siffredus of Carpentras, bishop 11/27
 
-Castelnau-d\'Estrétefonds, Toulouse arrondissement, Haute-Garonne
-department, Occitanie region
+Castelnau-d\'Estrétefonds, Toulouse arrondissement, Haute-Garonne department, Occitanie region
 
-Église Saint-Martin de Castelnau-d\'Estrétefonds
+- Église Saint-Martin de Castelnau-d\'Estrétefonds
 
-- St. Déodat/Dié/Deodatus of Saint-Diè, bishop, 6/19 & 7/8 (reliquary)
+  - St. Déodat/Dié/Deodatus of Saint-Diè, bishop, 6/19 & 7/8 (reliquary)
 
 Castres, Tarn department, Occitanie region
 
@@ -1528,7 +1529,7 @@ Castres, Tarn department, Occitanie region
 
 Caudry, Nord department
 
-Basilique Sainte-Maxellende de Caudry
+- Basilique Sainte-Maxellende de Caudry
 
   - St. Maxellendis (aka, Maxellende), martyr, 11/13
 
@@ -1550,8 +1551,7 @@ Cerfroi
 
   - St. Felix of Valois, founder, 11/20
 
-Cerisy-la-Forêt, Pont-Hébert canton, Saint-Lô arrondissement, Manche
-department, Normandie/Normandy region
+Cerisy-la-Forêt, Pont-Hébert canton, Saint-Lô arrondissement, Manche department, Normandie/Normandy region
 
 - Abbaye de St. Vigor de Cerisy-la-Forêt/Abbey of Cerisy-la-Forêt
 
@@ -1563,22 +1563,20 @@ Cernay-la-Ville, Yvelines department, Île-de-France region
 
 - Abbaye des Vaux de Cernay (in ruins; what's left is now a nice hotel)
 
-Église Saint-Brice de Cernay-la-Ville
+- Église Saint-Brice de Cernay-la-Ville
 
   - St. Theobald/Thibaud de Marly, nobleman/abbot, 7/27 & 12/8 (most burned
     during the Revolution except for the skull and other bones; ask the
     priest to see them)
 
-Chabris, Valençay canton, Issoudun department, Centre-Val de Loire
-region
+Chabris, Valençay canton, Issoudun department, Centre-Val de Loire region
 
-L'église Saint-Christophe-et-Saint-Phalier
+- L'église Saint-Christophe-et-Saint-Phalier
 
   - St. Phalier/Falitrus of Chabris, hermit, 11/23 (the Huguenots burned his
     relics)
 
-Chalo-Saint-Mars, Étampes arrondissement, Essonne department,
-Île-de-France region
+Chalo-Saint-Mars, Étampes arrondissement, Essonne department, Île-de-France region
 
 - Cimetière de Chalo-Saint-Mars
 
@@ -1590,7 +1588,7 @@ Châlons-en-Champagne, Marne department, Grand Est region
 
   - St. Alpin de Châlons, bishop, 9/7 (1/3 of his body)
 
-Église Saint-Alpin de Châlons-en-Champagne
+- Église Saint-Alpin de Châlons-en-Champagne
 
   - St. Alpin de Châlons, bishop, 9/7 (1/3 of his body) (destroyed in the
     Revolution, but his tomb is still here)
@@ -1608,7 +1606,7 @@ region
 
   - St. Marcellus, martyr, 9/4
 
-L'église Saint-Pierre
+- L'église Saint-Pierre
 
   - St. Agricola (aka, Aregl, Agrele) of Châlon-sur-Saône, bishop, 3/17
 
@@ -1620,7 +1618,7 @@ L'église Saint-Pierre
 
   - St. Gerebald of Chalon, bishop, 6/12
 
-- St. Jean of Châlon, bishop, 5/9 (church of former leper colony of
+  - St. Jean of Châlon, bishop, 5/9 (church of former leper colony of
   Saint-Jean-de-Mezel)
 
   - St. Lupus of Châlon, bishop, 1/27
@@ -1640,18 +1638,20 @@ Auvergne-Rhône-Alpes department
 Chambéry, Chambéry arrondissement, Savoie department,
 Auvergne-Rhône-Alpes region
 
-Orphelinat du Bocage (Bocage Orphanage), 339 Rue Costa de Beauregard
+- Orphelinat du Bocage (Bocage Orphanage) (339 Rue Costa de Beauregard)
 
   - Bl. Camille Costa de Beauregard, priest/founder, 3/25
 
 - ???
 
-- St. Cornelius of Armagh, archbishop, 6/4 (his remains are in a shrine)
+  - St. Cornelius of Armagh, archbishop, 6/4 (his remains are in a shrine)
 
 Chartres
 
 - Cathédrale Notre-Dame de Chartres
 
+  - Sancta Camisia/the Holy Veil of the Blessed Virgin Mary
+  
   - St. Bethaire of Chartres, bishop, 8/2 (he's likely buried here but
     where?)
 
@@ -1871,13 +1871,13 @@ department, Hauts-de-France
 
 - Abbaye de Valsery/Abbaye Notre-Dame de Valsery/Valsery Abbey
 
-- Norbertine Martyrs of Valsery Abbey, 9/30 (unknown number of monks
+  - Norbertine Martyrs of Valsery Abbey, 9/30 (unknown number of monks
   killed by the Calvinists)
 
 Collioure, Céret arrondissement, Pyrénées-Orientales department,
 Occitanie region
 
-Chapelle Saint-Vincent
+- Chapelle Saint-Vincent
 
   - St. Vincent of Collioure, martyr, 4/19
 
@@ -1886,8 +1886,6 @@ Combronde, Puy de Dôme
 - ???
 
   - St. Genesius, Count of Clermont, 6/5
-
-Compiègne, Oise department, Hauts-de-France
 
 Condé-sur-l'Escaut, Marly canton, Valenciennes arrondissement, Nord
 department, Hauts-de-France region
@@ -1952,6 +1950,16 @@ Corbeny, Aisne departments, Hauts-de-France region
 
   - St. Marculf (Marcoult, Marcouf, Marcoul or Marcou), OSB, abbot, 5/1
 
+Cotignac, Brignoles arrondissement, Var department, Provence-Alpes-Côte d'Azur region
+
+- Prieuré bénédictin de la Fontaine Saint-Joseph/Benedictine Priory of the Fountain of St. Joseph
+  
+  - Apparition of St. Joseph (the only approved apparition of him in France)
+
+- Sanctuaire de Notre-Dame des Grâces/Shrine of Our Lady of Graces (Quartier Notre Dame)
+
+  - Apparition of Our Lady
+
 Coulombs, Eure-et-Loir department, Centre-Val de Loire region
 
 - Abbaye Notre-Dame de Coulombes (ruined in 1817)
@@ -1961,13 +1969,13 @@ Coulombs, Eure-et-Loir department, Centre-Val de Loire region
 Courcy, Falaise canton, Caen arrondissement, Calvados department,
 Normandy region
 
-L'église Saint-Lô
+- L'église Saint-Lô
 
   - St. Laud of Coutances, bishop, 9/22 (relics)
 
 Cousolre, Nord, Nord-Pas-de-Calais
 
-Église Saint-Martin de Cousolre
+- Église Saint-Martin de Cousolre
 
   - Ss. Walbert and Bertille, married couple, 9/18
 
@@ -2950,7 +2958,7 @@ Auvergne-Rhône-Alpes region
 
 - Sanctuaire Notre-Dame de la Salette/Shrine of La Sallette
 
-Our Lady of La Sallette, 9/24
+  - Our Lady of La Sallette apparition+, 9/24
 
 La Séauve-sur-Semène, Yssingeaux arrondissement, Haute-Loire department,
 Auvergne-Rhône-Alpes region
@@ -3199,7 +3207,13 @@ arrondissement, Haute-Loire department, Auvergne-Rhône-Alpes region
 
 - Église abbatiale de Le Monastier-sur-Gazeille/Abbey church
 
-- St. Théofrède/Theofrid, abbot/martyr, 10/19 (reliquary bust)
+  - St. Théofrède/Theofrid, abbot/martyr, 10/19 (reliquary bust)
+
+Le Plan-d’Aups-Sainte-Baume, Brignoles arrondissement, Var department, Provence-Alpes-Côte d’Azur region
+
+- Sainte-Baume grotto
+
+  - St. Mary Magdalene’s home/major pilgrimage destination
 
 Le Pont-de-Claix, Grenoble arrondissement, Isère department,
 Auvergne-Rhône-Alpes region
@@ -3212,7 +3226,9 @@ Le Puy-en-Velay, Haute-Loire department, Auvergne-Rhône-Alpes region
 
 - Cathédrale Notre-Dame du Puy/Cathédrale Notre-Dame-de-l'Annonciation
 
-- Chapelle des Reliques/Chapel of the Relics
+  - Statue of Notre-Dame du Puy/Our Lady of Le Puy
+
+  - Chapelle des Reliques/Chapel of the Relics
 
   - St. Domninus/Domnin d'Avrillé, child martyr, 7/16
 
@@ -3979,7 +3995,7 @@ Meurthe-et-Moselle department, Grand Est region (diocese of Cambrai)
 
   - St. Walembert (aka, Garembert) of Cambrai, 12/31
 
-Mont Saint-Michel, Pontorson canton, Avranches arrondissement, Manche
+Mont-Saint-Michel, Pontorson canton, Avranches arrondissement, Manche
 department, Normandy region
 
 - Mont Saint-Michel monastery (famous around the world)
@@ -4314,7 +4330,7 @@ Nevers, Nièvre
 
   - St. Agricola, bishop, 2/26
 
-- Couvent de Saint-Gildard/Convent of St. Gildard
+- Couvent de Saint-Gildard/Convent of St. Gildard (34, rue St. Gildard)
 
   - St. Bernadette Soubirous of Lourdes, visionary, 4/16 (incorruptible)
 
@@ -4600,7 +4616,7 @@ Paris
 
 - Notre Dame Cathedral
 
-The Crown of Thorns and a piece of the True Cross
+  - The Crown of Thorns and a piece of the True Cross
 
   - Servant of God François-Marie-Benjamin Richard de la Vergne,
     cardinal/archbishop, d. 1/27/1908
@@ -4609,13 +4625,13 @@ The Crown of Thorns and a piece of the True Cross
 
   - St. Lucanus, martyr, 10/30
 
-Sainte Chapelle (on the Ile de la Cité, near Notre Dame)
+- Sainte Chapelle (on the Ile de la Cité, near Notre Dame)
 
-Pilgrimage site
+  - Pilgrimage site
 
 - Basilica of Saint-Denis/Basilique Saint-Denys d'Argenteuil
 
-La Sainte Tunique (the Holy Tunic)
+  - La Sainte Tunique (the Holy Tunic)
 
   - Bl. Queen Bertrada of Laon, 3/24
 
@@ -4633,17 +4649,17 @@ La Sainte Tunique (the Holy Tunic)
 
   - St. Pantaleon, physician/martyr, 7/27 (relics only)
 
-Charles Martel, hammer of the Franks (non-causa)
+  - Charles Martel, hammer of the Franks (non-causa)
 
-Église Saint-Éloi (Île de la Cité)
+- Église Saint-Éloi (Île de la Cité)
 
   - St. Aurea of Paris, abbess, 10/4
 
-Saint-François-Xavier de Paris
+- Saint-François-Xavier de Paris
 
   - St. Madeleine Sophie Barat, foundress, 5/25
 
-- Church of St. Genevieve/Etienne-Du-Mont
+- Church of St. Genevieve/St. Etienne-Du-Mont (1 Place Sainte-Geneviève)
 
   - St. Alda
 
@@ -4657,7 +4673,7 @@ Saint-François-Xavier de Paris
 
   - St. Genevieve, consecrated virgin/patron saint of Paris, 1/3
 
-Saint-Germain-l'Auxerrois
+- Saint-Germain-l'Auxerrois
 
   - St. Landry/Landericus of Paris, bishop, 6/10
 
@@ -4699,7 +4715,7 @@ Saint-Germain-l'Auxerrois
 
   - St. Vincent, martyr, 1/21 (his stole and some of his bones)
 
-Église Saint-Jacques-du-Haut-Pas/St. James the Minor (at the corner of
+- Église Saint-Jacques-du-Haut-Pas/St. James the Minor (at the corner of
 Rue Saint-Jacques and Rue de l'Abbé de l'Épée)
 
   - Bl. Dionysius Rabinis, O. de M., scholar, 8/8 (a tenuous connection to
@@ -4708,15 +4724,11 @@ Rue Saint-Jacques and Rue de l'Abbé de l'Épée)
   - St. Magloire de Dol, archbishop, 10/24 (relics only; since the
     Revolution, his remains are kept in a secure location)
 
-Église Saint-Joseph des Carmes
+- Église Saint-Joseph des Carmes
 
   - Bl. André Grasset de Saint-Sauveur, priest/martyr, 9/2
 
   - Bl. Jacques-Jules Bonnaud, SJ, priest/martyr, 9/2
-
-- Saint Lazare Church
-
-- ???
 
 - Église Saint-Marcel de Paris/Saint-Marcel Church (13th arrondissement)
 
@@ -4726,24 +4738,24 @@ Rue Saint-Jacques and Rue de l'Abbé de l'Épée)
 
   - St. Maturinus, evangelist, 11/1
 
-Église Saint-Merry/Merri
+- Église Saint-Merry/Merri
 
   - Bl. Claude Fontaine, priest/martyr, 9/2
 
   - St. Medericus/Merry, hermit, 8/29
 
-Église Notre-Dame-de-la-Salette de Paris (38 Rue de Cronstadt)
+- Église Notre-Dame-de-la-Salette de Paris (38 Rue de Cronstadt)
 
   - Ven. Jean-Léon Le Prévost, priest, d. 10/30/1874
 
-Église Notre-Dame du Val-de-Grâce (5th arrondissement)
+- Église Notre-Dame du Val-de-Grâce (5th arrondissement)
 
   - St. Siacre/Syagrius of Autun, bishop, 9/2 (relics only)
 
 - Église Saint-Séverin de Paris/Church of St. Severinus (rue des
-  Prêtres-Saint-Séverin, 5^th^ arrondissement)
+  Prêtres-Saint-Séverin, 5th arrondissement)
 
-- St. Séverin/Severinus of Paris, hermit, 11/23 (tomb may have been lost
+  - St. Séverin/Severinus of Paris, hermit, 11/23 (tomb may have been lost
   to time)
 
 Saint-Sulpice
@@ -4751,7 +4763,7 @@ Saint-Sulpice
   - St. Sulpice le Pieux de Bourges/Sulpicius the Pious of Bourges, bishop,
     1/17
 
-Maison mère vincentienne/Congrégation de la Mission/Congregation of the
+- Maison mère vincentienne/Congrégation de la Mission/Congregation of the
 Mission/ Chapelle Saint-Vincent-de-Paul de Paris/Chapel of St. Vincent
 de Paul (95 Rue de Sèvres)
 
@@ -4765,17 +4777,19 @@ de Paul (95 Rue de Sèvres)
 
   - Bl. Mathieu-Henri Planchat, SSVP, priest/martyr, 5/26
 
-Chapelle du Corpus Christi de la Congrégation du Saint-Sacrement
+- Chapelle du Corpus Christi de la Congrégation du Saint-Sacrement
 
   - St. Pierre-Julien Eymard, SSS, priest/founder, 8/2
 
-Chapelle Notre-Dame-de-la-Médaille-Miraculeuse de Paris
+- Chapelle Notre-Dame-de-la-Médaille-Miraculeuse de Paris/Chapel of Our Lady of the Miraculous Medal and the Green Scapular (140, rue du Bac)
 
   - St. Louise de Marillac, DC, foundress, 3/15
 
-Chapelle Saint-Joseph-de-Cluny (14th arrondissement)
+  - St. Vincent de Paul, founder, 9/27 (heart only)
 
-- St. Anne Marie Javouhey, SJC, foundress, 7/15 (heart only; in the crypt)
+- Chapelle Saint-Joseph-de-Cluny (14th arrondissement)
+
+  - St. Anne Marie Javouhey, SJC, foundress, 7/15 (heart only; in the crypt)
 
 - Chapelle des Sœurs de la Charité/Chapel of the Sisters of Charity (140
   Rue du Bac)
@@ -4784,13 +4798,9 @@ Chapelle Saint-Joseph-de-Cluny (14th arrondissement)
 
 - Chapel in the College of Navarre
 
-  - St. William of Bourges, bishop, 1/10 (rib only)
+  - St. William of Bourges, bishop, 1/10 (rib only)  
 
-- Chapel of the Miraculous Medal
-
-  - St. Vincent de Paul (heart only)
-
-- Hospital of Val-de-Grâce Chapel (in the 5^th^ arrondissement)
+- Hospital of Val-de-Grâce Chapel (in the 5th arrondissement)
 
   - St. Clement of Ankara (skull only), martyr, 1/23
 
@@ -4863,7 +4873,7 @@ Chapelle Saint-Joseph-de-Cluny (14th arrondissement)
   - St. Thérèse of the Heart of Mary (Marie Anna Hanisset), OCD,
     religious/martyr, 7/17
 
-  - St. Thérèse of St. Augustine (Mary Magdalene Claudina Lidoine),
+  - St. Thérèse of St. Augustine (née Mary Magdalene Claudina Lidoine),
     prioress, OCD, religious/martyr, 7/17
 
   - St. Thérèse of St. Ignatius (Maria Gabriella Trézel), OCD,
@@ -5214,14 +5224,6 @@ Poligny, Jura department, Bourgogne-Franche-Comté
 
   - St. Collette (aka, Nicholette) Boilet of Corby, 3/6
 
-Pontmain, Gorron canton, Mayenne arrondissement, Mayenne department Pays
-de la Loire region
-
-Basilique Notre-Dame de Pontmain
-
-Notre-Dame d'Esperance de Pontmain/Our Lady of Pontmain/Our Lady of
-Hope, 1/17
-
 Pont-Sainte-Maxence, Senlis arrondissement, Oise department,
 Hauts-de-France region
 
@@ -5229,6 +5231,14 @@ Hauts-de-France region
 
   - St. Maxence/Maxentia of Beauvais, virgin/hermit/martyr, 11/20 (her grave
     may be lost; the church was built over her grave)
+
+Pontmain, Gorron canton, Mayenne arrondissement, Mayenne department Pays
+de la Loire region
+
+- Basilique Notre-Dame de Pontmain (3, rue Notre-Dame)
+
+  - Notre-Dame d'Esperance de Pontmain/Our Lady of Pontmain/Our Lady of
+Hope, 1/17
 
 Pontigny, Auxerre arrondissement, Yonne department,
 Bourgogne-Franche-Comté region
@@ -6376,7 +6386,7 @@ Saint-Maximin, département, Languedoc-Roussillon
 Saint-Maximin-la-Sainte-Baume, Brignoles arrondissement, Var department,
 Provence-Alpes-Côte d'Azur region
 
-Basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume
+- Basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume
 
   - St. Mary Magdalene, apostle to the apostles, 7/22
 
@@ -6806,19 +6816,19 @@ Sainte-Renelde
 Saintes-Maries-de-la-Mer, Bouches-du-Rhône département,
 Provence-Alpes-Côte d'Azur region
 
-Huge pilgrimages on the feasts of St. Mary Magdalene (7/22), St. Mary of
+- Huge pilgrimages on the feasts of St. Mary Magdalene (7/22), St. Mary of
 Clopas, and St. Mary Salome,
 
 Saintes-Maries-de-la-Mer, Arles canton, Arles arrondissement,
 Bouches-du-Rhône department, Provence-Alpes-Côte d'Azur region
 
-Église Notre-Dame-de-la-Mer
+- Église Notre-Dame-de-la-Mer
 
   - St. Mary of Cleophas/Clopas, disciple of the Lord, 4/24
 
 Salins-les-Bains, Jura department, Franche-Comté region
 
-Église Saint-Anatoile de Salins-les-Bains
+- Église Saint-Anatoile de Salins-les-Bains
 
   - St. Anatolius of Salins, hermit, 2/3
 
