@@ -12,7 +12,7 @@ Acerno, Province of Salerno, Calabria region
 
   - Pascasio, abbot
 
-Acerenza, Province of Potenza (PZ), Basilicata region
+Acerenza, Province of Potenza, Basilicata region
 
 - Cattedrale di Santa Maria Assunta e San Canio Vescovo
 
@@ -1421,7 +1421,7 @@ San Vitale ed Agricola in Arena
 
 - Santuario di Santa Maria della Vita (via Clavature, n. 10)
 
-Beata Vergine Maria della Vita/Our Lady of Life, 9/10
+  - Beata Vergine Maria della Vita/Our Lady of Life, 9/10
 
 - Monastery of St. Agnes
 
@@ -1436,7 +1436,7 @@ Ancelle Adoratrici del Ss. Sacramento (via Augusto Murri, 70)
   - Ven. Maria Costanza (née Palma Pasqua) Zauli, religious/foundress, d.
     4/28/1954
 
-Convento di Corpus Domini
+Santuario Convento di Corpus Domini (Via Tagliapietre, 21)
 
   - St. Catherine of Bologna, religious, 3/9 (incorrupt)
 
@@ -4750,21 +4750,21 @@ Convento di Santo Stefano
 
   - St. Virginia Centurione Bracelli, widow/mother/foundress, 12/15
 
-Motherhouse of the Sisters of Santa Marta
+- Motherhouse of the Sisters of Santa Marta
 
   - Bl. Tommaso Reggio, archbishop, 11/22
 
-Casa madre delle Figlie dei Sacri Cuori (Piazza Carignano)
+- Casa madre delle Figlie dei Sacri Cuori (Piazza Carignano)
 
   - Bl. Eugenia Ravasco, virgin/foundress, 12/30
 
-Suore Minime di San Francesco da Paola/Mother House of the
+- Suore Minime di San Francesco da Paola/Mother House of the
 Congregation (via Marassi, 4)
 
   - Servant of God Maria Raffaella (née Maria) de Giovanna,
-    religious/foundress, d. 3/11/1933 (in the chapel)
+    religious/foundress, d. 3/11/1933 (buried in the chapel)
 
-Casa madre delle Suore del Cenacolo Domenicano (Viale Ermelinda Rigon,
+- Casa madre delle Suore del Cenacolo Domenicano (Viale Ermelinda Rigon,
 18)
 
   - Servant of God Maria Benedetta del SS. Sacramento (née Ermelinda
@@ -5245,7 +5245,7 @@ L'Aquila, Province of L'Aquila, Abruzzo Region
 
   - St. Maximus of Aquila, 10/20
 
-- Basilica di San Bernadino
+- Basilica di San Bernadino (Piazza San Bernardino)
 
   - St. Bernadine of Siena, OFM, itinerant preacher/theologian, 5/20
 
@@ -5299,7 +5299,7 @@ Laurenzana, Province of Potenza, Basilicata region
 
 Lauria, Potenza (Basilicata?)
 
-San Nicola (under the high altar)
+- San Nicola (under the high altar)
 
   - Bl. Domenico Lentini, priest, 2/25
 
@@ -5336,7 +5336,7 @@ Lecce, Province of Lecce, Puglia Region
 
   - St. Oronzo/Orontius of Lecce, 1^st^ bishop, 8/26
 
-Porta Napoli
+- Porta Napoli
 
   - St. Giusto
 
@@ -5350,14 +5350,14 @@ Sant\'Antonio a Fulgenzio
 
 - Chiesa di Sant'Irene
 
-Nine busts of saints with relics of the religious (Altar of St. Irene)
+  - Nine busts of saints with relics of the religious (Altar of St. Irene)
 
-Casa Madre de suore Salesiane dei Sacri Cuori/Salesian Sisters of the
+- Casa Madre de suore Salesiane dei Sacri Cuori/Salesian Sisters of the
 Sacred Hearts (Via Carlo Russi, 73100 Lecce)
 
   - St. Filippo Smaldone, priest, 6/4
 
-Cappella della Casa generalizia delle Suore Discepole del Sacro Cuore
+- Cappella della Casa generalizia delle Suore Discepole del Sacro Cuore
 
   - Ven. (Santina) Maria Addolorata De Pascali, foundress, d. 5/19/1981
 
@@ -5991,6 +5991,32 @@ Mereto di Tomba, Province of Udine, Friuli Venezia Giulia
   XI Febbraio, 14)
 
   - Ven. Concetta Bertoli, TOSF, laywoman, d. 3/11/1956
+
+Mercogliano, Montevergine frazione, Province of Avellino, Campania region
+- Santuario di Montevergine
+  - Madonna di Montevergine/Our Lady of Montevergine, 9/1
+  - St. Giuliana of Nicomedia, virgin/martyr, 2/16
+  - St. Guglielmo/William of Montevergine, OSB, hermit/abbot, 6/25
+  - St. Modesto of Sardinia, deacon/martyr, 10/2
+  - St. Tammaro/Tammarus of Campania, bishop, 9/1
+  - Many urns with the relics of saints.
+
+- Casinese monastery
+  - St. Costanza
+  - Bl. Giulio di Nardo (aka, Giulio of Montevergine), monk (incorrupt), 7/8
+  - King Manfred of Sicily (not a saint)
+  - St. Luke the Evangelist (his arm)
+
+- Abbazia di Montevergine
+  - Ss. Anania, Misaele, e Azaria (Abdenago, Misach, e Sidrach)/Ananias, Misael, and Azariah (Abednego, Meshach, and Shadrach), Old Testament figures, 12/17
+  - St. Desiderius, lector/martyr, 9/7
+  - St. Festus, deacon/martyr, 9/7
+  - St. Guglielmo/William of Vercelli, abbot, 6/25
+
+- ???
+  - St. Adeodato (Adeodatus) of Naples, bishop, 6/27
+  - St. Costanzo of Capri, bishop, 5/14 (supposedly at the church of San Guglielmo; relics only; according to Wikipedia: “A reliquary at Montevergine contains a bone with the label "Ossa S. Costantio E.C." [Episcopus Confessor]”)
+  - Servant of God Emilio Maria (née Giovanni) Colombo, OSB, priest, d. 4/25/2000
 
 Mesero, Metropolitan City of Milan, Lombardia region
 
@@ -6705,7 +6731,9 @@ Montecavallo, Macerata, le Marche
 
   - Bl. Angelo da Acquapagana, hermit, 8/19
 
-Monte Cronio, Sciaracca, Sicily
+Monte Cerignone, Province of Pesaro e Urbino, Le Marche region
+- Santa Maria in Reclauso (Via Santa Maria, 4)
+  - Bl. Domenico Spadafora, OP, priest, 12/21
 
 Montefalco, Province of Perugia, Umbria Region
 
@@ -6830,6 +6858,9 @@ Montesano sulla Marcellana, Province of Salerno, Campania region
 
   - Relics of St. Conus da Diano, monk, 6/3
 
+Monte Sant’Angelo, Province of Foggia, Apulia region
+- Basilica Santuario di San Michele Arcangelo/Sanctuary of St. Michael the Archangel (Via Reale Basilica, 127)
+
 Monte Senario, Firenze
 
 - Convent next to Santi Sette Fondatori
@@ -6864,64 +6895,11 @@ Monteverdi Marittimo, Province of Pisa, Toscana/Tuscany region
 
 - Monastero di San Pietro in Palazzuolo
 
-  - St. Wilfrido (Walfredo) della Gherardesca, abbot, 2/15
+  - St. Wilfrido (Walfredo) della Gherardesca, abbot, 2/15 (He may be at the Oratorio del Santissimo Sacramento)
 
-He may be at the Oratorio del Santissimo Sacramento
-
-Oratorio del Santissimo Sacramento
+- Oratorio del Santissimo Sacramento
 
   - Bl. Andrea (Andrew)
-
-Mercogliano, Montevergine frazione, Province of Avellino, Campania
-region
-
-- Santuario di Montevergine
-
-Madonna di Montevergine/Our Lady of Montevergine, 9/1
-
-  - St. Giuliana of Nicomedia, virgin/martyr, 2/16
-
-  - St. Guglielmo/William of Montevergine, OSB, hermit/abbot, 6/25
-
-  - St. Modesto of Sardinia, deacon/martyr, 10/2
-
-  - St. Tammaro/Tammarus of Campania, bishop, 9/1
-
-Many urns with the relics of saints.
-
-- Casinese monastery
-
-  - Bl. Giulio di Nardo (aka, Giulio of Montevergine), monk (incorrupt), 7/8
-
-  - King Manfred of Sicily (not a saint)
-
-  - St. Costanza
-
-  - St. Luke the Evangelist (his arm)
-
-- Abbazia di Montevergine
-
-  - Ss. Anania, Misaele, e Azaria (Abdenago, Misach, e Sidrach)/Ananias,
-    Misael, and Azariah (Abednego, Meshach, and Shadrach), Old Testament
-    figures, 12/17
-
-  - St. Desiderius, lector/martyr, 9/7
-
-  - St. Festus, deacon/martyr, 9/7
-
-  - St. William of Vercelli, abbot, 6/25
-
-- ???
-
-  - St. Adeodato (Adeodatus) of Naples, bishop, 6/27
-
-- St. Costanzo of Capri, bishop, 5/14 (supposedly at the church of San
-  Guglielmo; relics only; according to Wikipedia: "A reliquary at
-  Montevergine contains a bone with the label \"Ossa S. Costantio E.C.\"
-  \[Episcopus Confessor\]")
-
-  - Servant of God Emilio Maria (née Giovanni) Colombo, OSB, priest, d.
-    4/25/2000
 
 Monreale, Metropolitan City of Palermo, Sicily
 
@@ -6950,7 +6928,7 @@ Montecchio Emilia, Province of Reggio Emilia, Emilia-Romagna region
 
 Monte Cerignone, Province of Pesaro e Urbino, Le Marche region
 
-Santa Maria in Reclauso (Via Santa Maria, 4)
+- Santa Maria in Reclauso (Via Santa Maria, 4)
 
   - Bl. Domenico Spadafora, OP, priest, 12/21
 
@@ -6958,7 +6936,7 @@ Montevergine, Sicily
 
 - Parish church/Monastero
 
-- St. Eustochia Calafato, abbey, 1/20 (incorrupt)
+  - St. Eustochia Calafato, abbey, 1/20 (incorrupt)
 
   - Ss. Festus and Desiderius, martyrs
 
