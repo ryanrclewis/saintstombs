@@ -94,7 +94,7 @@ Katholische Pfarr- und Klosterkirche St. Alto und St. Birgitta
 
 Altötting, Oberbayern administrative region, Bayern/Bavaria state
 
-- Shrine of Our Lady of Altötting/Bruder Konrad Church
+- Shrine of Our Lady of Altötting/Bruder Konrad Church (Kappellplatz 2a)
 
   - St. Conrad of Parzham (née, Johann Hansel Birndorfer), OFM Cap.,
     religious, 4/21
@@ -2501,19 +2501,22 @@ Baden-Württemberg state
 - Bl. Ursula Haider, PC, abbess/visionary, 1/20 (monastery church, beside
   the altar)
 
-Völklingen (Lauterbach district), Saarland
+Völklingen, Lauterbach district, Saarland
 
 Kirche Sankt Paulinus
 
   - St. Paulinus of Trier, bishop/missionary, 8/31
 
-Waldbreitbach is a municipality in the district of Neuwied, in
-Rhineland-Palatinate
+Waldbreitbach, Neuwied, Rheinland-Palatinate state
 
 - Church of the Motherhouse of the Franciscan Sisters of the Blessed
   Virgin Mary of the Angels
 
   - Bl. Margaretha Flesche, foundress, 3/25
+
+Walldürn, Neckar-Odenwald-Kreis district, Karlsruhe region, Baden-Württemberg state
+- Wallfahrtsbasilika St. Georg/Pilgrimage Basilica of St. George (Hauptstraße 2/Burgstrasse 26)
+  - Eucharistic miracle (on the Blutaltar/Blood altar in the left transept)
 
 Wassenach, District of Ahrweiler, Rhineland-Palatinate
 
@@ -2585,7 +2588,7 @@ administrative district, Bayern/Bavaria state
 Windberg, Straubing-Bogen district, Niederbayern administrative region,
 Bayern/Bavaria
 
-Kloster Windberg
+- Kloster Windberg
 
   - St. Siard von Mariengaarde, O Praem, 11/14
 
@@ -2611,7 +2614,7 @@ Würzburg, Unterfranken, Bayern/Bavaria state
 
   - St. Totnan, martyr, 7/8
 
-Augustinerkirche
+- Augustinerkirche
 
   - Ven. Clemens (nee Vinzenz) Fuhl, OESA, priest, d. 3/31/1935
 
@@ -2623,7 +2626,7 @@ Augustinerkirche
 
   - Bl. Engelmar (nee Hubert) Unzeitig, CMMS, "the Angel of Dachau," 3/2
 
-Neumünsterkirche
+- Neumünsterkirche
 
   - St. Adalbero of Würzburg, bishop, 10/6 (thighbone only)
 
@@ -2648,9 +2651,9 @@ state
 
 Zöschen village, Leuna town, Saalkreis district, Sachsen-Anhalt state
 
-Labor education camp
+- Labor education camp
 
-  - Fr. Louis Doumain, priest/martyr, d. 12/20/1944
+  - Fr. Louis Doumain, priest/martyr, d. 12/20/1944 (non-causa)
 
 Zülpich (Füssenich district), District of Euskirchen, Cologne
 administrative district, Nordrhein-Westfalen
@@ -2665,16 +2668,17 @@ Baden-Württemberg
 
 - Kloster Zwiefalten, Abtei Zwiefalten/Zwiefalten Abbey
 
-- St. Ernest, OSB, abbot/martyr, 11/7 (shrine only; his remains were
-  dispersed at Mecca, where he was horribly killed)
+  - St. Ernest, OSB, abbot/martyr, 11/7 (shrine only; his remains were   dispersed at Mecca, where he was horribly killed)
+
+Unknown where they died or are buried.
 
 \*A
 
-  - Bl. Adam Rusdrig, O.Praem., prior/martyr, 11/26
+Bl. Adam Rusdrig, O.Praem., prior/martyr, 11/26
 
-  - Ven. Agnes of Bavaria, child
+Ven. Agnes of Bavaria, child
 
-  - St. Albert of Cashel, Regensburg, 1/8 or 19
+St. Albert of Cashel, Regensburg, 1/8 or 19
 
 Alice of Guelders; Adelaide of Münster/Adelaide of Vilich, Germany, 2/5
 
@@ -2688,26 +2692,25 @@ Alberic of Gladbach, 12/24
 
 Albinus/Witta, 10/26
 
-  - St. Amandus of Worm, bishop, 10/26
+St. Amandus of Worm, bishop, 10/26
 
 \*B
 
-  - St. Berward (aka, Bernward) of Hildesheim, bishop, 11/20
+St. Berward (aka, Bernward) of Hildesheim, bishop, 11/20
 
-  - St. Burchard, 10/14, buried at Mount Saint Mary or Old Würzburg
+St. Burchard, 10/14, buried at Mount Saint Mary or Old Würzburg
 
 \*C
 
-  - Bl. Castin, OFM, priest, 12/14
+Bl. Castin, OFM, priest, 12/14
 
 \*D
 
-  - St. Declan, evangelist, 12/1
+St. Declan, evangelist, 12/1
 
-  - St. Dentlin of Soignies (aka, Dentelin, Denain), child, 3/16 (possibly
-    at Cleves)
+St. Dentlin of Soignies (aka, Dentelin, Denain), child, 3/16 (possibly at Cleves)
 
-  - St. Disibod (aka, Disobde, Disen), bishop, 9/8 (maybe at Disenberg)
+St. Disibod (aka, Disobde, Disen), bishop, 9/8 (maybe at Disenberg)
 
 \*E
 
@@ -2715,7 +2718,7 @@ Albinus/Witta, 10/26
 
 \*G
 
-  - St. Gottschalk der Wende, nobleman/martyr, 6/14
+St. Gottschalk der Wende, nobleman/martyr, 6/14
 
 \*H
 
@@ -2725,11 +2728,11 @@ Albinus/Witta, 10/26
 
 \*K
 
-  - Bl. Konrad (aka, Conrad) von Urach, O. Cist., 9/30
+Bl. Konrad (aka, Conrad) von Urach, O. Cist., 9/30
 
 \*L
 
-  - St. Ludolf I of Ratzeburg, bishop/martyr, 2/17
+St. Ludolf I of Ratzeburg, bishop/martyr, 2/17
 
 \*M
 
@@ -2737,35 +2740,22 @@ Magnus of Füssen, Bavaria, 9/6
 
 \*T
 
-  - Bl. Theresa of Jesus Gerhardinger, foundress, 5/9 (died in Monaco)
+Bl. Theresa of Jesus Gerhardinger, foundress, 5/9 (died in Monaco)
 
 Tristan of Salazar, 9/21
 
-- Included by the Church in the German martyrology of the 20th century
+Included by the Church in the German martyrology of the 20th century but non-causa.
 
 Alfred Kranzfelder
-
-- Christoph Probst, buried at the cemetery at Perlacher Forst
-
+Christoph Probst, buried at the cemetery at Perlacher Forst
 Fr. Clemens (Franz) Martin, CPPS (died at Dachau)
-
-- Edelfried Seibold, OSB, buried in a military cemetery, probably near
-  Pustoschka, Pskov Oblast, Russia
-
-- Franz Xavier Schweyer, buried at Munich Forest Cemetery (Waldfriedhof)
-
+Edelfried Seibold, OSB, buried in a military cemetery, probably near Pustoschka, Pskov Oblast, Russia
+Franz Xavier Schweyer, buried at Munich Forest Cemetery (Waldfriedhof)
 Fr. Hermann Josef Wehrle
-
 Josef Stegmair
-
 Ludwig Schön
-
 Martin Mayrock
-
 Michael Kitzelmann
-
 Michael Lerpscher
-
 Raymund (Peter) Lohausen
-
 Fr. Rudolf Lunkenbein, SDB (Brazil)
