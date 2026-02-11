@@ -23,17 +23,15 @@ Mare de Déu de Meritxell/Our Lady of Meritxell, patroness of Andorra,
 
   - Ven. Mary of Agreda, mystic (incorrupt)
 
-Aguadulce, Roquetas de Mar municipality, Poniente Almeriense comarca,
-Province of Almería, Andalusia autonomous community
+Aguadulce, Roquetas de Mar municipality, Poniente Almeriense comarca, Province of Almería, Andalusia autonomous community
 
 - ???
 
   - Bl. Andrés Casinello Barroeta, layman/martyr, 9/26
 
-Aguas Santas, Allariz municipality, Allariz-Maceda comarca, Province of
-Orense, Galicia autonomous community
+Aguas Santas, Allariz municipality, Allariz-Maceda comarca, Province of Orense, Galicia autonomous community
 
-Santa Mariña de Aguas Santas
+- Santa Mariña de Aguas Santas
 
   - St. Marina/Mariña of Aguas Santas, virgin/martyr, 7/18
 
@@ -44,10 +42,9 @@ Aitona, Segrià comarca, Province of Lleida, Catalonia autonomous region
 
   - Bl. Manuel Lloan Marsal, priest/martyr, 7/28
 
-Alaquas/Alaquàs, Horta Oest comarca, Province of Valencia, Valencian
-autonomous community
+Alaquas/Alaquàs, Horta Oest comarca, Province of Valencia, Valencian autonomous community
 
-Casa Madre Operarias Catequistas (Carrer Pare Guillem, 5)
+- Casa Madre Operarias Catequistas (Carrer Pare Guillem, 5)
 
   - Ven. Josefa Inés Campos Talamantes, religious/foundress, d. 6/30/1950
 
@@ -57,12 +54,10 @@ Alarcos, Ciudad Real
 
   - Bl. Carlos Erana Guruceta, 9/18
 
-Alba de Tormes, Tierra de Alba, Province of Salamanca, Castile y León
-autonomous community
+Alba de Tormes, Tierra de Alba, Province of Salamanca, Castile y León autonomous community
 
-- Carmelite monastery
-
-- St. Teresa of Avila (heart only), OCD, foundress/Church Doctor, 10/15
+- Iglesia de la Anunciación y Sepulcro de Sta. Teresa/Basilica of Santa Teresa (Plaza de Santa Teresa, 1)
+	- St. Teresa of Avila (incorrupt), OCD, foundress/Church Doctor, 10/15
 
 Albacete, Province of Albacete, Castilla--La Mancha autonomous community
 
@@ -650,26 +645,23 @@ Avila/Ávila,
   - Bl. Juan Mesonero Huerta, priest/martyr, 8/15 (capilla de los
     mártires/chapel of the martyrs)
 
-- Basilica de los Santos Hermanos Mártires, Vicente, Sabina y Cristeta
-  (aka, Basilica de San Vicente)
+- Basilica de los Santos Hermanos Mártires, Vicente, Sabina y Cristeta (aka, Basilica de San Vicente)
 
   - St. Pedro del Barca, hermit, 8/12
 
-- Convent of St. Teresa
+- Convento de Santa Teresa/Convent of St. Teresa (built on the house of St. Teresa)
 
-  - Ven. Balbino del Carmelo (nee Ildefonso Tomás) Sánchez Mayorga, OCD,
-    priest, d. 5/12/1934 ("en el Convento de la Santa"/in the convent of the
-    Saint, presumably St. Teresa)
+	- Ven. Balbino del Carmelo (nee Ildefonso Tomás) Sánchez Mayorga, OCD, priest, d. 5/12/1934 (“en el Convento de la Santa”/in the convent of the Saint, presumably St. Teresa)
 
-- St. Teresa of Avila (incorrupt), OCD, foundress/Church Doctor, 10/15
+	- St. Teresa of Ávila, OCD, foundress/Church Doctor, 10/15 (relics only in the Sala de Reliquias)
 
-Ermita de San Segundo
+- Ermita de San Segundo
 
   - St. Secundus of Avila, early missionary, 5/15
 
-Basílica de Santos Vicente de Ávila y Sabina
+- Basílica de Santos Vicente de Ávila y Sabina
 
-- St. Pedro del Barco, priest/hermit, 8/12 (tomb only)
+	- St. Pedro del Barco, priest/hermit, 8/12 (tomb only)
 
   - Ss. Vincent, Sabina, and Cristeta, martyrs, 10/28
 
@@ -7954,9 +7946,9 @@ autonomous community
 
   - St. Martín de Hinojosa, abbot & bishop, 9/16 (head only)
 
-Silos
+Santo Domingo de Silos, La Demanda comarca, Province of Burgos, Castilla y León autonomous community
 
-Abadía del Monasterio de Santo Domingo de Silos
+- Abadía del Monasterio de Santo Domingo de Silos
 
   - St. Dominic of Silos, abbot, 12/20
 
@@ -9353,11 +9345,13 @@ Zamora, Zamora Province, Tierra del Pan Comarca, Castile y León
 
 Zaragoza (Saragossa)
 
-- Church of Nuestra Senora Merced del Pilar
+- Nuestra Señora Merced del Pilar/Our Lady of the Pillar (Plaza del Pilar, s/n.)
 
-  - St. Braulio, bishop, 3/26
+	- Site of the apparition
+   
+ 	- St. Braulio, bishop, 3/26
 
-Convento de San Lázaro
+- Convento de San Lázaro
 
   - Bl. Jorge Porta, O. de M., monk, 6/8 (he was commander here; is he
     buried here?)
@@ -9377,13 +9371,11 @@ Convento de San Lázaro
 
   - St. Felix, martyr, 4/16
 
-Zocueca village, Guarroman (aka, Muzquia) town, Sierra Morena region,
-Province of Jaen, Andalusia autonomous region
+Zocueca village, Guarroman (aka, Muzquia) town, Sierra Morena region, Province of Jaen, Andalusia autonomous region
 
 - Santuario de Zocueca
 
-Nuestra Señora de la Zocueca/Our Lady of Zocueca (one source says it's
-at the Santuario de El Rumblar)
+	- Nuestra Señora de la Zocueca/Our Lady of Zocueca (one source says it's at the Santuario de El Rumblar)
 
 Zumárraga, Province of Gipuzkoa, Basque Country autonomous region
 
