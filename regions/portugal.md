@@ -322,7 +322,7 @@ community, Norte region
 
 Penafiel
 
-- Dominican church
+- Dominican church/Igreja Dominicana
 
   - Bl. Joan of Aza, mother
 
@@ -354,8 +354,11 @@ Quinta do Anjo, Palmela, Portugal
 Santarém, Santarém district, Lezíria do Tejo intermunicipality
 community, Oeste e Vale do Tejo region
 
-In the Tagus River (covered in water; a monument is nearby; so is the
-Igreja da Ribeira de Santarém/Church of Ribeira de Santarem)
+- Santuário do Santíssimo Milagre de Santarém (aka, Igreja de Santo Estevão)/Sanctuary of the Most Holy Miracle
+
+  - Milagre eucarístico de Santarém/Eucharistic miracle of Santarém
+
+- In the Tagus River (covered in water; a monument is nearby; so is the Igreja da Ribeira de Santarém/Church of Ribeira de Santarem)
 
   - St. Irene of Tomar, murdered nun, 10/20
 
@@ -403,15 +406,9 @@ Santa Maria do Castelo
 
   - Bl. Pedro Rodrigues, martyr, 6/11
 
-Toronca
-
-- ???
-
-  - St. John Cirita, monk, 12/23
-
 Torres Vedras, District of Lisbon, Oeste subregion, Centro region
 
-Quinta das Lapas mansion
+- Quinta das Lapas mansion
 
   - Bl. Gil/Giles Rodrigues de Valadares of Santarém (São Frei Gil), OP,
     scholar/former satanic tool, 5/14
@@ -424,7 +421,7 @@ Quinta das Lapas mansion
 Viana do Castelo, Viana do Castelo district, Alto Minho intermunicipal
 community, Norte region
 
-- Dominican Church
+- Dominican Church/Igreja Dominicana
 
   - Bl. Bartolomeu Fernandes dos Mártires, OP, archbishop, 7/16
 
