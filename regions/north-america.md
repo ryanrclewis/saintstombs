@@ -334,6 +334,9 @@ Cincinnati, Hamilton County, Ohio
 
 - Holy Cross-Immaculata Church (30 Guido St., Mount Adams)
   - The 180 steps devotion
+- Old St. Mary’s Church (123 E. Thirteenth Street)
+  - Privileged Altar
+  - St. Martura (nothing is know about this martyred saint)
 - St. Anthony Friary (500 Colerain Ave.)
   - National Shrine of St. Anthony
 - Sisters of Charity Cemetery (5900 Delhi Ave.)
@@ -372,6 +375,11 @@ Collegeville, St. Wendel Township, Stearns County, Minnesota
 
 - St. John Abbey, 31802 County Road 159 (also listed as 2900 Abbey Plaza)
   - St. Peregrine the Martyr, incorrupt, 8/25 (lower church/reliquary chapel of St. John's Abbey)
+
+Columbus, Franklin County, Ohio
+
+- St. Patrick Church (280 N. Grant Avenue)
+  - Shrine of St. Margaret of Castello
 
 Convent, St. James Parish, Louisiana
 
