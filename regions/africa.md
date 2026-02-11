@@ -468,11 +468,12 @@ Cairo
 
 - ???
 
-  - Servant of God Bouţros Wadih Kassab (aka, Boutros Cassab) ([بطرس وديع
-    كسّاب]), layman, d. 3/24/1986
+  - Servant of God Bouţros Wadih Kassab (aka, Boutros Cassab) ([بطرس وديع كسّاب]), layman, d. 3/24/1986
+
 Cairo, Zeitoun district (الزيتون)
-•	كنيسة العذراء مريم /Coptic Church of the Virgin Mary of Zeitoun (شارع تومانباي 122 / Tomanbay Street, 122)
-  - Apparitions of Our Lady, Mother of All Peoples
+
+  - Coptic Church of the Virtgin Mary of Zeitoun([كنيسة العذراء مريم ]) (Tomanbay Street, 122 / 122 (شارع تومانباي)
+    - Apparitions of Our Lady, Mother of All Peoples
 
 Damietta ([دمياط]), Damietta governorate
 
