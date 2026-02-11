@@ -401,9 +401,9 @@ Severus of Alexandria
 al-Ghūrīya/Haret el-Roum, Cairo
 
 - St. Mary Church ( Coptic: ϯⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ϯⲑⲉⲟⲇⲟⲕⲟⲥ ⲉⲑ̅ⲩ̅ ⲙⲁⲣⲓⲁ ⲛ̀ϯⲣⲁⲃⲏ ⲛ̀ⲣⲱⲙⲉⲟⲥ;
-  Arabic: [كنيسة العذراء المغيثة]{dir="rtl"})
+  Arabic: [كنيسة العذراء المغيثة])
 
-Burial place of many Coptic popes
+  - Burial place of many Coptic popes
 
   - St. Marina of Bithynia, would be monk, 6/18
 
@@ -413,9 +413,7 @@ al-Kesh (formerly Kynopolis)
 
   - St. Dioscorus, martyr, 5/18
 
-Ansena/Anisna/Antinoe/Christian Antinoopolis/ⲁⲛⲧⲓⲛⲱⲟⲩ, six miles south
-of Beni Hasan at Sheikh Abada ([الشيخ عبادة]{dir="rtl"}), Minya
-Governorate, Middle Egypt (ruined Christian village)
+Ansena/Anisna/Antinoe/Christian Antinoopolis/ⲁⲛⲧⲓⲛⲱⲟⲩ, six miles south of Beni Hasan at Sheikh Abada ([الشيخ عبادة]), Minya Governorate, Middle Egypt (ruined Christian village)
 
 - ???
 
@@ -466,18 +464,22 @@ Cairo
 
 - Church of Saint Menas
 
-- St. Menas, priest (some relics only, in the narthex)
+  - St. Menas, priest (some relics only, in the narthex)
 
 - ???
 
-  - Servant of God Bouţros Wadih Kassab (aka, Boutros Cassab) ([بطرس وديع
-    كسّاب]{dir="rtl"}), layman, d. 3/24/1986
+  - Servant of God Bouţros Wadih Kassab (aka, Boutros Cassab) ([بطرس وديع كسّاب]), layman, d. 3/24/1986
 
-Damietta ([دمياط]{dir="rtl"}), Damietta governorate
+Cairo, Zeitoun district (الزيتون)
+
+  - Coptic Church of the Virtgin Mary of Zeitoun([كنيسة العذراء مريم ]) (Tomanbay Street, 122 / 122 (شارع تومانباي)
+    - Apparitions of Our Lady, Mother of All Peoples
+
+Damietta ([دمياط]), Damietta governorate
 
 - ???
 
-Mercedarian Martyrs of Damietta
+  - Mercedarian Martyrs of Damietta
 
 Demeskenyanos
 
