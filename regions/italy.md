@@ -2402,11 +2402,11 @@ Caravaggio, Province of Bergamo, Lombardia region
 
 - Il santuario di Caravaggio
 
-Nostra Signora di Caravaggio or Santa Maria del Fonte, 5/26
+  - Nostra Signora di Caravaggio or Santa Maria del Fonte, 5/26
 
 Carbone, Potenza, Basilicata
 
-Monasterio di Sant'Elia e Anastasio
+- Monasterio di Sant'Elia e Anastasio
 
   - St. Luca di Demenna, OSB, abbot, 2/5
 
@@ -10499,13 +10499,15 @@ Sant'Agostino chapterhouse
 
   - St. Boniface of Tarsus, martyr, 5/14
 
-Sant'Alfonso
+- Sant'Alfonso
 
-Our Lady of Perpetual Help icon, 6/27
+  - Our Lady of Perpetual Help icon, 6/27
 
-Sant'Ambrogio della Massima
+- Sant'Ambrogio della Massima
 
-- St. Polycarp of Smyrna, Church Father/martyr
+  - Apparition chapel (Chapel of San Michele/St. Michael)
+
+  - St. Polycarp of Smyrna, Church Father/martyr, 2/23
 
 - Basilica of Sant'Andrea delle Fratte
 
@@ -11050,6 +11052,10 @@ Santa Maria Maggiore
 
   - St. Philip Neri, priest/founder/Counter-Reformation hero, 5/26
 
+- Santa Maria in Via (Via del Mortaro)
+
+  - Madonna del Pozzo/Madonna of the Well (Marian miracle involving a water well; first chapel on the right)
+
 - Santa Maria in Via Lata
 
   - St. Cyriacus (aka, Cyriac, Cyriaci, Cyriacus of the Baths), martyr,
@@ -11377,8 +11383,7 @@ Santa Maria Maggiore
 
   - Servant of God Eraldo "Candido" Amantini, CP, exorcist, d. 9/22/1992
 
-- Santuario della Madonna del Divino Amore/Santuario Divino Amoro/Shrine
-  of Divine Love
+- Santuario della Madonna del Divino Amore/Santuario Divino Amoro/Shrine of Divine Love (Via del Santuario)
 
   - Bl. Luigi and Maria Beltrame Quattrocchi, married couple, 11/25 (8/26
     for Maria)
@@ -11398,7 +11403,11 @@ Santa Maria Maggiore
   - Ven. Maria Riccarda (née Madaleina Catherine) Beauchamp Hambrough,
     religious/mother superior, d. 6/26/1966
 
-- Tre Fontane Monastery (aka, (Monastero Acque Salviae)
+- Tre Fontane Grotto/Sanctuary of the Virgin of the Revelation (Via Laurentina, 400; across the street from Tre Fontane Monastery)
+
+  - Marian apparition site, 4/12
+
+- Tre Fontane Monastery (aka, Monastero Acque Salviae)
 
   - St. Anastasius the Persian (Magundat), martyr, 1/22 (head only)
 
@@ -11418,6 +11427,10 @@ Santa Maria Maggiore
 
   - Ven. Gregorio Cesario (née Wendelin) Bühl, FSC, religious, d. 12/11/1973
 
+- Pontificio Seminario Romano Maggiore/Pontifical Roman Major Seminary (within the St. John Lateran complex) (Piazza di S. Giovanni in Laterano, 4)
+
+  - Madonna della Fiducia/Our Lady of Confidence/“Seminarian’s Madonna” (in the seminary's chapel)
+
 - Seraphicum International College in Rome
 
   - Bl. Michał Tomaszek, Franciscan martyr in Peru, 6/7 (relics only)
@@ -11425,7 +11438,9 @@ Santa Maria Maggiore
   - Bl. Zbigniew Adam Strzałkowski, Franciscan martyr in Peru, 6/7 (relics only)
 
 Rome (Garbatella urban zone), Metropolitan City of Rome, Lazio region
+
 - Monastero Corporis Christi/Corporis Christi Monastery (Via Pomponia Grecina, 31)
+
   - Servant of God Maria Chiara di San Francesco (nee Guidobaldina Kuefstein), OSC Cap, d. 3/15/1933
 
 Rome, Prenestino-Centocelle district, Metropolitan City of Rome, Lazio
