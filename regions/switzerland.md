@@ -103,6 +103,12 @@ Einsiedeln, Bezirk Einsiedeln, Schwyz
 
 - Abbey (Friedhof der Abteikirche Einsiedeln)
 
+  - Shrine of Our Lady Einsieldeln
+
+    - World’s largest nativity scene
+
+    - Black Madonna statue
+
   - Bl. Benno of Metz, bishop/blind monk, 8/3
 
   - Bl. Eberhard von Einsiedeln, OSB, 1st abbot, 8/14
@@ -224,9 +230,9 @@ Mendrisio, district of Mendrisio, Canton of Ticino
 
 Orselina, Locarno district, Canton of Ticino
 
-- Madonna del Sasso Shrine
+- Santuario Madonna del Sasso/Shrine of Our Lady of the Rock (Via Santuario, 2)
 
-Madonna del Sasso image, 6/23
+  - Madonna del Sasso image, 6/23
 
 Ramosch, Inn district, Canton of Graubünden
 
@@ -268,11 +274,9 @@ Romont, Glâne district, Canton of Fribourg
 
   - St. Rachildis, nun, 11/23 (relics destroyed by the Protestants)
 
-  - St. Wiborada, anchoress/nun/martyr, 5/2 (relics destroyed by the
-    Protestants)
+  - St. Wiborada, anchoress/nun/martyr, 5/2 (relics destroyed by the Protestants)
 
-- Abtei St. Gallen/Abbey of Saint Gall (the abbey was dissolved but the
-  church is still intact, as is the whole abbey complex)
+- Abtei St. Gallen/Abbey of Saint Gall (the abbey was dissolved but the church is still intact, as is the whole abbey complex)
 
   - St. Eusebius of Saint Gall, OSB, monk/preacher/hermit, martyr, 1/31
 
@@ -287,15 +291,13 @@ Romont, Glâne district, Canton of Fribourg
 
 Saint-Maurice, Canton of Valais
 
-- Abbey
-
-Teuderic
-
 - Abbaye de Saint-Maurice d'Agaune
 
   - Ss. Gistald and Gundebad, martyrs, 5/1
 
   - St. Willicaire of Vienne, archbishop, 6/13
+ 
+  - Theuderic reliquary
 
 - ???
 
