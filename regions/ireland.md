@@ -1,6 +1,7 @@
 Abbeydorney Abbey, Ordoney Abbey, County Kerry (in ruins)
 
-- AbbeyBl. Christian O’Conarchy, monk, 3/18
+- Abbey
+  - Bl. Christian O’Conarchy, monk, 3/18
 
 Achonry, County Sligo
 
@@ -15,7 +16,7 @@ Aendrum, County Down
 Aghaboe, County Laois
 
 - Aghaboe AbbeySt. Cainnech/Canice of Aghaboe, abbot, 10/11, 8/1, 8/14
-- St. Liberius of Achad-Bo, abbot, 3/8
+  - St. Liberius of Achad-Bo, abbot, 3/8
 
 Ardcarn (Árd-Carna, Árd-charna), County Roscommon
 
@@ -34,24 +35,28 @@ Ardstraw
 
 Armagh
 
-- CathedralSt. Eithne (aka, Ethenea, Ethnea), convert, 1/11
-- St. Fedelemia (aka, Fedelma; Fidelmia), laywoman, 1/11
+- Cathedral
+  - St. Eithne (aka, Ethenea, Ethnea), convert, 1/11
+  - St. Fedelemia (aka, Fedelma; Fidelmia), laywoman, 1/11
 
-- Church of Ireland CathedralSt. Brian Boru (Bòruimhe), king/martyr, 3/12
-- St. Eithne, confessor, 3/29
+- Church of Ireland Cathedral
+  - St. Brian Boru (Bòruimhe), king/martyr, 3/12
+  - St. Eithne, confessor, 3/29
 
-- Sacred Heart ConventSt. Cornelius of Armagh, archbishop, 6/4 (relics only)
+- Sacred Heart Convent
+  - St. Cornelius of Armagh, archbishop, 6/4 (relics only)
 
 - ???
   - St. Cellach (aka, Ceilach, Keilach), archbishop, 4/1
-- St. Diarmaid, archbishop, 4/24
-- St. Dunchaid O’Braoin, abbot/hermit, 1/16
-- St. Gelasius (Gilla meic Liac) of Armagh, archbishop, 3/27
+  - St. Diarmaid, archbishop, 4/24
+  - St. Dunchaid O’Braoin, abbot/hermit, 1/16
+  - St. Gelasius (Gilla meic Liac) of Armagh, archbishop, 3/27
 
 Askeaton, County Limerick
 
-- The Franciscan friary ruinsBl. Connor/Conn O’Rourke, OFM, religious/martyr, 8/13 or 8/31
-- Bl. Patrick O’Healy, bishop/martyr, 8/13 or 8/31
+- The Franciscan friary ruins
+  - Bl. Connor/Conn O’Rourke, OFM, religious/martyr, 8/13 or 8/31
+  - Bl. Patrick O’Healy, bishop/martyr, 8/13 or 8/31
 
 Balla, County Mayo
 
@@ -64,35 +69,36 @@ Ballintober, County Mayo
 
 Ballyvourney/Baile Bhuirne, County Cork
 
-- Móin Mór/Bairnech ChurchSt. Gobnait/Gobnat, abbess, 2/11 (relics like lost to time)
+- Móin Mór/Bairnech Church
+  - St. Gobnait/Gobnat, abbess, 2/11 (relics like lost to time)
 
 Bangor
 
 - ???
   - St. Fionnchu, abbot, 2/28
-- St. Comgall of Bangor, abbot, 5/10
+  - St. Comgall of Bangor, abbot, 5/10
 
 Ballymascanlan village, Dundalk, County Louth
 
-- Mount Oliver ConventServant of God Mother Mary Kevin (née Teresa) Kearney, OSF, CBE, religious/foundress, d. 10/17/1957
+- Mount Oliver Convent
+  - Servant of God Mother Mary Kevin (née Teresa) Kearney, OSF, CBE, religious/foundress, d. 10/17/1957
 
 Birr
 
-- ???
-  - St. Brendan of Birr, 11/29
+- ???St. Brendan of Birr, 11/29
 
 Cashel, County Tipperary
 
 - ???
   - Bl. Edward Stapleton, priest/martyr, 9/13 & 6/20
-- Bl. Elizabeth Kearney, laywoman/martyr, 9/13 & 6/20
-- Bl. James Saul, OFM, religious/martyr, 9/13 & 6/20
-- Bl. Margaret of Cashel, laywoman/martyr, 9/13 & 6/20
-- Bl. Richard Barry, OP, priest/martyr, 9/13 & 6/20
-- Bl. Richard Butler, OFM, priest/martyr, 9/13 & 6/20
-- Bl. Theobald Stapleton, priest/martyr, 6/13 & 6/20
-- Bl. Thomas Morrissey, priest/martyr, 9/13 & 6/20
-- Bl. William Boyton, SJ, priest/martyr, 9/13 & 6/20
+  - Bl. Elizabeth Kearney, laywoman/martyr, 9/13 & 6/20
+  - Bl. James Saul, OFM, religious/martyr, 9/13 & 6/20
+  - Bl. Margaret of Cashel, laywoman/martyr, 9/13 & 6/20
+  - Bl. Richard Barry, OP, priest/martyr, 9/13 & 6/20
+  - Bl. Richard Butler, OFM, priest/martyr, 9/13 & 6/20
+  - Bl. Theobald Stapleton, priest/martyr, 6/13 & 6/20
+  - Bl. Thomas Morrissey, priest/martyr, 9/13 & 6/20
+  - Bl. William Boyton, SJ, priest/martyr, 9/13 & 6/20
 
 Castle Kerrant (formerly Bellach-Duin)
 
@@ -101,7 +107,8 @@ Castle Kerrant (formerly Bellach-Duin)
 
 Clareen, County Offaly
 
-- Saighir Monastery ruins (Seir Kieran; also named Seirkieran, in Irish Saighir Chiaráin)St. Kieran/Ciarán, abbot, 3/5 (was abbot here; was he buried here)
+- Saighir Monastery ruins (Seir Kieran; also named Seirkieran, in Irish Saighir Chiaráin)
+  - St. Kieran/Ciarán, abbot, 3/5 (was abbot here; was he buried here?)
 
 Clogher
 
@@ -125,16 +132,20 @@ Clonenagh
 
 Clonfad
 
-- CemeterySt. Etchen of Clonfad, monk, 2/11
+- Cemetery
+  - St. Etchen of Clonfad, monk, 2/11
 
-- Parish churchSt. Etchen of Clonfad, monk, 2/11
+- Parish church
+  - St. Etchen of Clonfad, monk, 2/11
 
 Clonfert, east County Galway
 
-- ???
+- Clonfert Cathedral
   - St. Brendan the Navigator, missionary, 5/16
-- St. Cumméne Fota/Cummian Fada (the Tall), bishop, 11/12 (in “a protective shrine”; shrine likely lost)
-- St. Maeinenu (in “a protective shrine”; shrine likely lost)
+
+- ???
+  - St. Cumméne Fota/Cummian Fada (the Tall), bishop, 11/12 (in “a protective shrine”; shrine likely lost)
+  - St. Maeinenu (in “a protective shrine”; shrine likely lost)
 
 Clonmore, County Carlow
 
@@ -153,7 +164,8 @@ Cluain-more Madoc, Leinster
 
 Cobh, County Cork
 
-- Cathedral Church of St. ColmanBl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
+- Cathedral Church of St. Colman
+  - Bl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
 
 Coleraine, County Londonderry, Northern Ireland
 
@@ -162,13 +174,11 @@ Coleraine, County Londonderry, Northern Ireland
 
 Colnmachnoise, Offaly
 
-- ???
-  - St. Colgan the Wise of Clonmacnoise, Scribe of the Scots, 2/20
+- ???St. Colgan the Wise of Clonmacnoise, Scribe of the Scots, 2/20
 
 Connell
 
-- ???
-  - St. Conleth (aka, Conlaeth, Conlaid, Conlath, Conlian), bishop, 5/4
+- ???St. Conleth (aka, Conlaeth, Conlaid, Conlath, Conlian), bishop, 5/4
 
 Connor
 
@@ -178,18 +188,18 @@ Connor
 Cork
 
 - Cathedral of Ss. Mary and AnneSt. Finbar, 1st bishop, 9/25
-- Bl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
+  - Bl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
 
-- South Presentation Convent (between Abbey St., Douglas St., Evergreen St., and Nicholas St.)Ven. Honora (Nano) Nagle “Mother Mary of St John of God,” PBVM, foundress, d. 4/26/1784
+- South Presentation Convent (between Abbey St., Douglas St., Evergreen St., and Nicholas St.)
+  - Ven. Honora (Nano) Nagle “Mother Mary of St John of God,” PBVM, foundress, d. 4/26/1784
 
 - ???
   - Bl. Edmund Daniel, SJ, seminarian/martyr, 6/20 & 10/25
 
 Crossmaloo, near Clonkeenkerrill and the church of Killooaun
 
-- Broken cross (the base is all that’s left)St. Molua
-
-Derkan
+- Broken cross (the base is all that’s left)
+- St. Molua Derkan
 
 - ???
   - St. Bolcan (aka, Olcan) of Derken, 2/20
@@ -206,22 +216,25 @@ Doon, Limerick
 
 Down Downpatrick
 
-- CathedralSt. Brigid of Ireland, 2/1
-- St. Columba
-- St. Patrick, apostle of Ireland, 3/17
+- Cathedral
+  - St. Brigid of Ireland, 2/1
+  - St. Columba
+  - St. Patrick, apostle of Ireland, 3/17
 
 Drogheda, County Louth, on the east coast
 
-- St. Peter ChurchSt. Oliver Plunkett, bishop/martyr, 7/1 (incorrupt head only)
+- St. Peter Church
+  - St. Oliver Plunkett, bishop/martyr, 7/1 (incorrupt head only)
 
-- Presentation ConventSt. Cornelius of Armagh, archbishop, 6/4 (relics only)
+- Presentation Convent
+  - St. Cornelius of Armagh, archbishop, 6/4 (relics only)
 
 - ???
   - Bl. John Bathe, SJ, priest/martyr, 9/11
-- Bl. Thomas Bathe, priest/martyr, 9/11
-- Bl. Dominic Dillon, OP, priest/martyr, 9/11
-- Bl. Richard Oveton/Overton, OP, prior/martyr, 9/11
-- Bl. Peter Taafe, OSA, priest/martyr, 9/11
+  - Bl. Thomas Bathe, priest/martyr, 9/11
+  - Bl. Dominic Dillon, OP, priest/martyr, 9/11
+  - Bl. Richard Oveton/Overton, OP, prior/martyr, 9/11
+  - Bl. Peter Taafe, OSA, priest/martyr, 9/11
 
 Dromore, County Down
 
@@ -230,51 +243,65 @@ Dromore, County Down
 
 Dublin
 
-- Christ Church CathedralSt. Laurence O’Toole, martyr (relic – his heart)
+- Christ Church Cathedral
+  - St. Laurence O’Toole, martyr (relic – his heart)
 
-- St. Audoen Church CemeteryBl. Margaret Ball, laywoman/martyr, 6/20
+- St. Audoen Church Cemetery
+  - Bl. Margaret Ball, laywoman/martyr, 6/20
 
-- Gardiner Street Church (aka, St. Francis Xavier)Bl. John Sullivan, SJ, convert/priest, 2/19
+- Gardiner Street Church (aka, St. Francis Xavier)
+  - Bl. John Sullivan, SJ, convert/priest, 2/19
 
-- St James’ Church, the churchyard (As of 2019, the cemetery at the church is overgrown and is not accessible to the public.)Bl. Conor O’Devany/Concobhar Ó Duibheannaigh, martyr, 2/1 & 6/20
-- Bl. Patrick O’Loughran, martyr, 2/1 & 6/20
+- St James’ Church, the churchyard (In 2019, the cemetery at the church was overgrown and not accessible to the public.)
+  - Bl. Conor O’Devany/Concobhar Ó Duibheannaigh, martyr, 2/1 & 6/20
+  - Bl. Patrick O’Loughran, martyr, 2/1 & 6/20
 
-- St. Kevin’s Church, Camden Row, Dublin (now in ruins at St. Kevin’s Park)Bl. Dermot O’Hurley, archbishop/martyr, 6/20
+- St. Kevin’s Church, Camden Row, Dublin (now in ruins at St. Kevin’s Park)
+  - Bl. Dermot O’Hurley, archbishop/martyr, 6/20
 
-- Monastery of ReachrainSt. Colman McRhoi, abbot, 6/16 
+- Monastery of Reachrain
+  - St. Colman McRhoi, abbot, 6/16 
 
-- Our Lady of Lourdes Church on Sean McDermott St.Ven. Matt Talbot, recovered alcoholic, 6/7/1925
+- Our Lady of Lourdes Church on Sean McDermott St.
+  - Ven. Matt Talbot, recovered alcoholic, 6/7/1925
 
-- St. Paul’s Retreat, Mount ArgusSt. Charles Houban, CP, religious, 1/5
+- St. Paul’s Retreat, Mount Argus
+  - St. Charles Houban, CP, religious, 1/5
 
-- WhitefriarsRelics of St. Valentine, martyr, 2/14
+- Whitefriars
+  - Shrine of St. Valentine, martyr, 2/14 (contains his relics)
 
-- Baggot Street CemeteryVen. Catherine McAuley, RSM, foundress, d. 11/11/1841
+- Baggot Street Cemetery
+  - Ven. Catherine McAuley, RSM, foundress, d. 11/11/1841
 
-- Glasnevin CemeteryServant of God Frank Duff, layman/founder of the Legion of Mary, d. 11/7/1980	
+- Glasnevin Cemetery
+  - Servant of God Frank Duff, layman/founder of the Legion of Mary, d. 11/7/1980	
 
-- Religious Sisters of Charity Cemetery/Irish Sisters of Charity Cemetery/St. Mary Magdalen Convent CemeteryVen. Mary Frances (Mother Mary Augustine) Aikenhead, foundress, d. 7/22/1858
+- Religious Sisters of Charity Cemetery/Irish Sisters of Charity Cemetery/St. Mary Magdalen Convent Cemetery
+  - Ven. Mary Frances (Mother Mary Augustine) Aikenhead, foundress, d. 7/22/1858
 
-- National Museum of IrelandSt. Mura McFeredach of Fahan, abbot, 3/12 (his crozier only)
+- National Museum of Ireland
+  - St. Mura McFeredach of Fahan, abbot, 3/12 (his crozier only)
 
 - ???
   - Bl. Christopher Eustace, layman/martyr, 11/13
-- Bl. David Sutton, layman/martyr, 11/13
-- Bl. Eoin O’Mulkern, O.Praem., priest/martyr, 11/21
-- Bl. Gelasius O’Cullenan, O.Cist., priest/martyr
-- Bl. Francis Taylor/Proinnsias Táiliúr, civil leader, 1/30
-- Bl. John Sutton, layman/martyr, 11/13
-- Bl. Maurice Eustace, layman/martyr, 11/13
-- Bl. Peter Higgins/Peadar Ó Huiggin, OP, prior/martyr, 3/23 (his body was hacked to pieces by the Protestants to prevent it from receiving an honorable burial)
-- Bl. Robert Fitzgerald, layman/martyr, 11/13
-- Bl. Robert Scurlock, layman/martyr, 11/13
-- Bl. Thomas Eustace, layman/martyr, 11/13
-- Bl. Walter Eustace, layman/martyr, 6/14
-- Bl. William Wogan, layman/martyr, 11/13
+  - Bl. David Sutton, layman/martyr, 11/13
+  - Bl. Eoin O’Mulkern, O.Praem., priest/martyr, 11/21
+  - Bl. Gelasius O’Cullenan, O.Cist., priest/martyr
+  - Bl. Francis Taylor/Proinnsias Táiliúr, civil leader, 1/30
+  - Bl. John Sutton, layman/martyr, 11/13
+  - Bl. Maurice Eustace, layman/martyr, 11/13
+  - Bl. Peter Higgins/Peadar Ó Huiggin, OP, prior/martyr, 3/23 (his body was hacked to pieces by the Protestants to prevent it from receiving an honorable burial)
+  - Bl. Robert Fitzgerald, layman/martyr, 11/13
+  - Bl. Robert Scurlock, layman/martyr, 11/13
+  - Bl. Thomas Eustace, layman/martyr, 11/13
+  - Bl. Walter Eustace, layman/martyr, 6/14
+  - Bl. William Wogan, layman/martyr, 11/13
 
 Dublin, Glasnevin neighborhood
 
-- Church of St. MobhiSaint Mobhí Clárainech (aka, Berchan), abbot, 10/12 (monastery in ruins, but the church and/or grounds still contain his tomb)
+- Church of St. Mobhi
+  - St. Mobhí Clárainech (aka, Berchan), abbot, 10/12 (monastery in ruins, but the church and/or grounds still contain his tomb)
 
 Duleek
 
@@ -288,48 +315,56 @@ Durrow, County Laois
 
 Elphin, Co. Roscommon
 
-- Cathedral of St. Mary (in ruins)St. Asicus, bishop, 4/14
+- Cathedral of St. Mary (in ruins)
+  - St. Asicus, bishop, 4/14
 
 Ferns, County Wexford
 
-- Ferns Cathedral/Cathedral Church of St. EdanSt. Aedan/Máedóc of Ferns, bishop, 1/31 (his tomb is in the cathedral/his remains are in the original cathedral’s crypt)
+- Ferns Cathedral/Cathedral Church of St. Edan
+  - St. Aedan/Máedóc of Ferns, bishop, 1/31 (his tomb is in the cathedral/his remains are in the original cathedral’s crypt)
 
 Glendalough, County Wicklow
 
 - ???
   - St. Colman of Glendalough, abbot, 12/12
-- St. Cronan the Tanner, disciple, 6/3
-- St. Kevin of Glendalough, abbot, 6/3
+  - St. Cronan the Tanner, disciple, 6/3
+  - St. Kevin of Glendalough, abbot, 6/3
 
 Headford, County Galway
 
-- St Mary’s Catholic ChurchServant of God Declan “Apaulopus” O’Toole, priest/martyr, d. 3/21/2002
+- St Mary’s Catholic Church
+  - Servant of God Declan “Apaulopus” O’Toole, priest/martyr, d. 3/21/2002
 
 Inishboffin Island
 
-- Inishboffin AbbeySt. Colman of Lindisfarne, bishop, 2/18
+- Inishboffin Abbey
+  - St. Colman of Lindisfarne, bishop, 2/18
 
 Inis Cealtra, Lough Derg
 
-- Ruined monasterySt. Beoc (aka, Beanus/Dabeoc/Mobeoc/Moboac), abbot, 12/16
-- St. Caimin of Lough Derg, abbot, 3/24
+- Ruined monastery
+  - St. Beoc (aka, Beanus/Dabeoc/Mobeoc/Moboac), abbot, 12/16
+  - St. Caimin of Lough Derg, abbot, 3/24
 
 Inis-coel/Inniskeel/Inishkeel, County Donegal, Province of Ulster
 
-- Monastery (ruined; island uninhabited)St. Dallán/Dallan Forghaill (aka, Dallan Forchella; Dallan Forgaill; Dallan of Cluain Dallain; Eochaidh), martyr, 1/29
+- Monastery (ruined; island uninhabited)
+  - St. Dallán/Dallan Forghaill (aka, Dallan Forchella; Dallan Forgaill; Dallan of Cluain Dallain; Eochaidh), martyr, 1/29
 
 Inis Mór
 
-- Abbey of St. EnanSt. Enan, abbot, 3/21
+- Abbey of St. Enan
+  - St. Enan, abbot, 3/21
 
 Inisheer, Aran Islands, Galway Bay
 
-- Leaba ChaomháinSt. Caomhán of Inisheer, confessor, 6/14
+- Leaba Chaomháin
+  - St. Caomhán of Inisheer, confessor, 6/14
 
 Inis Uasal/Noble Island, Lough Currane
 
 - ???
-  - St. Anmchad, monk
+  - St. Anmchad, monk, 1/30
 
 Iona
 
@@ -338,9 +373,10 @@ Iona
 
 Kildare
 
-- Convent of St. BrigidSt. Blath (aka, Flora) of Kildare, 1/29 (**VERIFY**)
-- St. Connat (aka, Comnatan), abbess, 1/1 (**VERIFY**)
-- St. Dalaughdach (aka, Dardulacha, Darulagdach, Derlugdach) , abbess, 2/1 (**VERIFY**)
+- Convent of St. Brigid
+  - St. Blath (aka, Flora) of Kildare, 1/29 
+  - St. Connat (aka, Comnatan), abbess, 1/1 
+  - St. Dalaughdach (aka, Dardulacha, Darulagdach, Derlugdach) , abbess, 2/1 
 
 Kilfenora
 
@@ -359,12 +395,12 @@ Kilkeary
 
 Kilkeel, County Down, northern Ireland
 
-- Tamlacht chapelSt. Aedhan Laech of Cill Aedhain, bishop, 4/1
+- Tamlacht chapel
+  - St. Aedhan Laech of Cill Aedhain, bishop, 4/1
 
 Killala
 
-- ???
-  - St. Ceallach (aka, Kellach), bishop, 5/1
+- ???St. Ceallach (aka, Kellach), bishop, 5/1
 
 Killane
 
@@ -373,7 +409,8 @@ Killane
 
 Killaraght, County Sligo
 
-- Killaraght Cemetery next to the House of HospitalitySt. Attracta of Killaraght (aka, Abaght, Adhracht, Araght, Taraghta), 8/11
+- Killaraght Cemetery next to the House of Hospitality
+  - St. Attracta of Killaraght (aka, Abaght, Adhracht, Araght, Taraghta), 8/11
 
 Killeany/Cill Éinne/Tighlagheany/Teaghlach Éinne, Inis Mór, Galway
 
@@ -384,7 +421,7 @@ Killmallock, Limerick
 
 - ???
   - St. Conn (Cornelius) O’Rourke, martyr, 8/31 (8/13?)
-- Bl. Patrick O’Healy (Pádraig Ó Héilí), bishop/martyr, 8/31
+  - Bl. Patrick O’Healy (Pádraig Ó Héilí), bishop/martyr, 8/31
 
 Kilmacduagh
 
@@ -403,35 +440,38 @@ Kilroot
 
 Knock, Claremorris, County Mayo
 
-- Knock ShrineOur Lady of Knock apparition, 8/21
+- Knock Shrine
+  - Our Lady of Knock apparition, 8/21
 
 Knoeck, County Meath
 
-- Carmelite Friary (in ruins)Bl. Angelus of Saint Joseph (née George Halley), O. Carm., religious, 8/15 (grave either lost here, or it’s in Germany)
+- Carmelite Friary (in ruins)
+  - Bl. Angelus of Saint Joseph (née George Halley), O. Carm., religious, 8/15 (grave either lost here, or it’s in Germany)
 
 Limerick
 
-- St. Saviour’s Dominican ChurchBl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30 (second class relics only: pectoral cross, Sarsfield chalice)
-- Our Lady of Limerick statue
+- St. Saviour’s Dominican Church
+  - Bl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30 (second class relics only: pectoral cross, Sarsfield chalice)
+  - Our Lady of Limerick statue
 
 - ???
   - Fr. James Wolf, OP, priest/martyr, 10/31
-- Fr. John Collins, OP, priest/martyr, 10/31
-- Bl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30
+  - Fr. John Collins, OP, priest/martyr, 10/31
+  - Bl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30
 
 Lindisfarne
 
 - ???
   - St. Aidan of Lindisfarne, 8/31
-- King St. Ceolwulf, 1/15
+  - King St. Ceolwulf, 1/15
 
 Lismore
 
 - ???
   - St. Brigid (aka, Briga) of Kilbride, 1/21
-- St. Carthach /Mo Chutu (aka, Carthage) the Younger, 5/14 (buried in a church there; there aren’t many)
-- St. Celsus of Armagh/Cellach Mac Aodh, archbishop, 4/1
-- St. Colman of Lismore, abbot-bishop, 1/23
+  - St. Carthach /Mo Chutu (aka, Carthage) the Younger, 5/14 (buried in a church there; there aren’t many)
+  - St. Celsus of Armagh/Cellach Mac Aodh, archbishop, 4/1
+  - St. Colman of Lismore, abbot-bishop, 1/23
 
 Lough Erne
 
@@ -445,8 +485,7 @@ Lusk
 
 Mothil, Waterford
 
-- ???
-  - St. Brogan (aka, Bearchan, Bracan, Broccan, Brochan), 7/8
+- ???St. Brogan (aka, Bearchan, Bracan, Broccan, Brochan), 7/8
 
 Moville
 
@@ -455,7 +494,8 @@ Moville
 
 Murrisk, County Mayo
 
-- Croagh Patrick Visitor CentreCroagh Patrick/St. Patrick’s Holy Mountain/Ireland’s Holy Mountain
+- Croagh Patrick Visitor Centre
+  - Croagh Patrick/St. Patrick’s Holy Mountain/Ireland’s Holy Mountain
 
 Naas/Nás na Ríogh, County Kildare, Leinster Province
 
@@ -463,11 +503,13 @@ Naas/Nás na Ríogh, County Kildare, Leinster Province
 
 Newtownards, County Down
 
-- Movilla Abbey (abbey dissolved by Henry VIII in 1542)St. Finnian of Movilla, missionary, 9/10 (grave likely lost forever; you can still pray for his intercession there, though)
+- Movilla Abbey (abbey dissolved by Henry VIII in 1542)
+  - St. Finnian of Movilla, missionary, 9/10 (grave likely lost forever; you can still pray for his intercession there, though)
 
 Waterford City
 
-- Mount Sion Monastery, Blessed Sacrament ChapelBl. Edmund Ignatius Rice, wealthy laymen/founder, 5/5 & 8/29
+- Mount Sion Monastery 
+  - Bl. Edmund Ignatius Rice, wealthy laymen/founder, 5/5 & 8/29 (in the Blessed Sacrament Chapel)
 
 Odorney
 
@@ -475,19 +517,17 @@ Odorney
 
 Orran
 
-- ???
-  - St. Cettin (aka, Cetagh, Cethach, Cethagh), 6/16
+- ???St. Cettin (aka, Cetagh, Cethach, Cethagh), 6/16
 
 Ossory
 
 - ???
   - St. Carthach (aka, Charthage) the Elder, bishop, 3/5
-- St. Sedna of Ossory, bishop, 3/10 (was bishop here; wasn’t necessarily buried here)
+  - St. Sedna of Ossory, bishop, 3/10 (was bishop here; wasn’t necessarily buried here)
 
 Roscrea
 
-- ???
-  - St. Cronan of Roscrea, abbot, 4/28
+- ???St. Cronan of Roscrea, abbot, 4/28
 
 Roscommon
 
@@ -516,8 +556,9 @@ Scariff Island, County Kerry
 
 Scattery Island/Saint Senan’s Island, Enniscarthy/Iniscathay/Inish Cathaig
 
-- Abbey Church (may be in ruins)St. Cannera of Inis Cathaig (aka, Cainder, Kinnera), hermitess, 1/28
-- St. Senán mac Geirrcinn of Scattery, 3/7
+- Abbey Church (in ruins)
+  - St. Cannera of Inis Cathaig (aka, Cainder, Kinnera), hermitess, 1/28
+  - St. Senán mac Geirrcinn of Scattery, 3/7
 
 Sletty, Sleaty, or Slatey (Sléibhte), County Laois
 
@@ -525,17 +566,20 @@ Sletty, Sleaty, or Slatey (Sléibhte), County Laois
 
 Station Island, Lough Derg/Loch Dearg, County Donegal
 
-- St. Patrick’s Purgatory (54°36′32.30″N 7°52′16.51″W)St. Patrick Basilica
-- It is the only place of pilgrimage of a penitential nature left in the Christian world)
+- St. Patrick’s Purgatory (54°36′32.30″N 7°52′16.51″W)
+  - St. Patrick Basilica
+  - It is the only place of pilgrimage of a penitential nature left in the Christian world)
 
 Tamlaght, County Londonderry
 
-- St. Mary Church (25 Ballynease Road, Bellaghy)St. Cathan of Bute, monk, 5/17
+- St. Mary Church (25 Ballynease Road, Bellaghy)
+  - St. Cathan of Bute, monk, 5/17
 
 Terryglass, County Tipperary, Munster Province
 
-- Terryglass Monastery (only a wall remains)St. Columba of Terryglass, 12/12 (grave likely lost)
-- St. Martin of Tours (relics only)
+- Terryglass Monastery (only a wall remains)
+  - St. Columba of Terryglass, 12/12 (grave likely lost)
+  - St. Martin of Tours (relics only)
 
 Tibraghny, Kilkenny
 
@@ -549,7 +593,8 @@ Tighlagheany, Inishmore
 
 Tramore, County Waterford
 
-- Holy Cross Church cemetery (Summerhill)Servant of God Colm O’Brien, priest/Focolare movement, d. 9/16/2009
+- Holy Cross Church cemetery (Summerhill)
+  - Servant of God Colm O’Brien, priest/Focolare movement, d. 9/16/2009
 
 Trim, Meath
 
@@ -558,7 +603,8 @@ Trim, Meath
 
 Tuam
 
-- Tempull-na-scrin (Church of the Shrine)St. Jarlath, bishop, 12/26
+- Tempull-na-scrin (Church of the Shrine)
+  - St. Jarlath, bishop, 12/26
 
 Ulster
 
@@ -569,20 +615,21 @@ Wexford
 
 - ???
   - St. Abban of New Ross (maybe at Ros-mhic-treoin, aka New Ross Abbey/ [Tintern Abbey?]), evangelist, 11/22
-- Bl. Edward Cheevers, sailor/martyr, 6/20 and 7/5
-- John O’Lahy, sailor/martyr, 7/5/1581 (not beatified)
-- Bl. Matthew Lambert, baker/martyr, 6/20 and 7/5
-- Bl. Patrick Cavanagh, sailor/martyr, 6/20 and 7/5
-- Bl. Robert Myler, sailor/martyr, 6/20 and 7/5
-- One unknown (not beatified)
+  - Bl. Edward Cheevers, sailor/martyr, 6/20 and 7/5
+  - John O’Lahy, sailor/martyr, 7/5/1581 (not beatified)
+  - Bl. Matthew Lambert, baker/martyr, 6/20 and 7/5
+  - Bl. Patrick Cavanagh, sailor/martyr, 6/20 and 7/5
+  - Bl. Robert Myler, sailor/martyr, 6/20 and 7/5
+  - One unknown (not beatified)
 
 Youghal, Cork
 
 - ???
   - Bl. Dominic Collins, SJ, martyr, 10/31
-- Bl. Donal O’Neylan, OFM, priest/martyr, 3/29
+  - Bl. Donal O’Neylan, OFM, priest/martyr, 3/29
 
-- Church of St. MaryBl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
+- Church of St. Mary
+  - Bl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
 
 ## Undetermined
 
@@ -598,7 +645,7 @@ Aedh mac Carthin, Clogher?, 3/24
 
 Aedh McLugack 6/27
 
-# Aengus McNisse; Angus MacNisse; Macanisius of Kells, Macanisius, 9/4
+Aengus McNisse; Angus MacNisse; Macanisius of Kells, Macanisius, 9/4
 
 Aidan of Lindisfarne, possibly at Bamborough, 8/31
 
