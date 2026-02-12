@@ -25,8 +25,7 @@ Algiers
 
   - Bl. Severinus Gallo, O. de M., religious/martyr, 1/1
 
-Cherchell/[شرشال]{dir="rtl"} (formerly Julia Caesarea in Mauretania),
-Province of Tipaza
+Cherchell/شرشال (formerly Julia Caesarea in Mauretania), Province of Tipaza
 
 - ???
 
@@ -76,39 +75,35 @@ Oran
 - Mercedarian Convent/Church of Santa Cruz/Plateau de Santa Cruz
 
   - Bl. Antonio de Pietra, O. de M., friar, 6/12
-
-- [كاتدرائية وهران]{dir="rtl"}/Cathédrale du Sacré-Cœur
-
+- [كاتدرائية وهران]{dir="rtl"}//Cathédrale du Sacré-Cœur
   - Bl. Pierre-Lucien Claverie, OP, bishop/martyr, 8/1
 
 - ???
 
   - Bl. Artale, O. de M., knight, 12/25
 
-Souk Ahras (Arabic: [سوق أهراس]{dir="rtl"}), Souk Ahras province
+Souk Ahras (Arabic: سوق أهراس), Souk Ahras Province
 
 - ???
 
   - St. Firmus of Tagaste, bishop/martyr, 7/31
 
-Tébessa/[تبسة]{dir="rtl"}, Tébessa Province
+Tébessa/تبسة, Tébessa Province
 
 - ???
 
-  - St. Crispina, martyr, 12/5 (relics may well be lost; this is where she
-    died)
+  - St. Crispina, martyr, 12/5 (relics may be lost; this is where she died)
 
 Tibhirine, near Médéa, Médéa Province
 
-- Abbey of Our Lady of Atlas (Arabic: [دير سيدة الأطلس]{dir="rtl"};
-  French: Abbaye Notre-Dame de l'Atlas)
+- Abbey of Our Lady of Atlas (Arabic: دير سيدة الأطلس; French: Abbaye Notre-Dame de l’Atlas)
 
   - Bl. Seven Trappist Martyrs of Tibhirine, 5/21 (heads only; in the
     cemetery)
 
-Tizi Ouzou/[تيزي وزو]{dir="rtl"}, Province of Tizi Ouzou, Kabylia
+Tizi Ouzou/تيزي وزو, Province of Tizi Ouzou, Kabylia
 
-??? (home of the White Fathers)
+- ??? (home of the White Fathers)
 
   - Bl. Charles Deckers, SMA/M.Afr., priest/martyrs, 12/27 & 5/8
 
@@ -127,18 +122,13 @@ Mpângala
 
 - ???
 
-  - Servant of God Angelo (Lazzaro da Sarcedo) Graziani, O.F.M. Cap.,
-    priest/martyr, d. 3/16/1961 (Mpângala is probably not where he\'s
-    buried)
+  - Servant of God Angelo (Lazzaro da Sarcedo) Graziani, O.F.M. Cap., priest/martyr, d. 3/16/1961 (Mpângala is probably not where he's buried)
 
 Sapù, Luanda
 
 - ???
 
-  - Servants of God Fr. Manuel Armindo de Lima and 3 Companions (Maria
-    Adriano Abílio, Maria do Carmo Bartolomeu Simões, Joveta Paulino),
-    martyrs, d. 2/3/1982 (possibly buried at Nossa Senhora dos Martires in
-    Viana)
+  - Servants of God Fr. Manuel Armindo de Lima and 3 Companions (Maria Adriano Abílio, Maria do Carmo Bartolomeu Simões, Joveta Paulino), martyrs, d. 2/3/1982 (possibly buried at Nossa Senhora dos Martires in Viana)
 
 # Burkina Faso
 
@@ -150,10 +140,9 @@ Ouagadougou, Kadiogo Province, Centre Region
 
 Toma, Province of Nayala, Burkina Faso
 
-Grounds of his former home
+- Grounds of his former home
 
-  - Servant of God Alfred Simon Diban Ki-Zerbo, 1st Catholic in his
-    country/catechist, d. 5/10/1980
+  - Servant of God Alfred Simon Diban Ki-Zerbo, 1st Catholic in his country/catechist, d. 5/10/1980
 
 # Burundi
 
@@ -191,8 +180,7 @@ Ma'an, Vallée-du-Ntem department, South region
 
 - ???
 
-  - Servant of God Jean-Thierry of the Child Jesus and of the Passion Ebogo,
-    OCD, priest, d. 1/5/2006
+  - Servant of God Jean-Thierry of the Child Jesus and of the Passion Ebogo, OCD, priest, d. 1/5/2006
 
 # Central African Republic
 
@@ -200,8 +188,7 @@ Bangui, Bangui Prefecture
 
 - ???
 
-  - Servant of God Louis (Romain de Saint-Claude) Coutty, OFM Cap., priest,
-    d. 6/14/1979
+  - Servant of God Louis (Romain de Saint-Claude) Coutty, OFM Cap., priest, d. 6/14/1979
 
 # Congo
 
@@ -215,7 +202,7 @@ Baraka (Bala'a), Fizi Territory, South Kivu Province
 
 Bokote, Bolomba Territory, Équateur Province
 
-L'église paroissiale de l'Immaculée Conception
+- L'église paroissiale de l'Immaculée Conception
 
   - Bl. Isidore Bakanja, martyr, 8/15
 
@@ -229,8 +216,7 @@ Bukavu, Province of South Kivu, far eastern part of the country
 
 - Cathédrale Notre-Dame de la Paix (Cathedral of Our Lady of Peace)
 
-  - Servant of God Christophe Munzihirwa Mwene Ngabo, SJ, archbishop/martyr,
-    d. 10/29/1996
+  - Servant of God Christophe Munzihirwa Mwene Ngabo, SJ, archbishop/martyr, d. 10/29/1996
 
 Fizi, Fizi Territory, South Kivu Province
 
@@ -250,8 +236,7 @@ Isiro, Haut-Uele Province
 
 - Cathédrale Sainte-Thérèse de l'Enfant-Jésus
 
-  - Bl. Marie-Clémentine (nee AlphonsineAnuarite) Nengapeta, martyr of
-    chastity, 12/1
+  - Bl. Marie-Clémentine (nee AlphonsineAnuarite) Nengapeta, martyr of chastity, 12/1
 
 Kikwit, Kwilu Province
 
@@ -273,9 +258,9 @@ Kikwit, Kwilu Province
 
 Loulombo, Mindouli district, Pool department
 
-- Catholic church, behind the church, near the grotto of Our Lady
+- Catholic Church 
 
-  - Servant of God Jan Czuba, priest/martyr, d. 10/31/1998
+  - Servant of God Jan Czuba, priest/martyr, d. 10/31/1998 (behind the church, near the grotto of Our Lady)
 
 Mambasa, Mambasa Territory, Ituri Province
 
@@ -287,27 +272,25 @@ Mambasa, Mambasa Territory, Ituri Province
 
 Abidjan
 
-Noviciat marianiste Notre Dame del Pilar (Marianist novitiate Our Lady
-of the Pillar)
+- Noviciat marianiste Notre Dame del Pilar (Marianist novitiate Our Lady of the Pillar)
 
   - Servant of God Raymond Halter, SM, priest, d. 12/26/1998
 
-Korhogo/[ߞߙߐߞߐ߫]{dir="rtl"}, Savanes district, Poro region
+Korhogo/ߞߙߐߞߐ߫, Savanes district, Poro region
 
 - ???
 
   - Servant of God Louis Ouandété, layman/early convert, d. 3/2/1949
 
-  - Servant of God Valérie Ama Ouandété, laywoman/early convert, d.
-    12/17/1948
+  - Servant of God Valérie Ama Ouandété, laywoman/early convert, d. 12/17/1948
 
 # Egypt
 
-Al-Aour, Samalut (Arabic: [سمالوط]{dir="rtl"}), Minya governorate
+Al-Aour, Samalut (Arabic: سمالوط), Minya governorate
 
 - Church of the Martyrs of the Faith and Homeland
 
-21 Coptic Martyrs of Libya
+  - 21 Coptic Martyrs of Libya
 
 Alexandria
 
@@ -327,7 +310,7 @@ Alexandria
 
   - St. Alexander, martyr, Alexandria, 12/12
 
-- Alexander of Alexandria, bishop, Doctor of the Church, 2/26
+  - St. Alexander of Alexandria, bishop, Doctor of the Church, 2/26
 
   - St. Ammon, d @ Alexandria, 12/20
 
@@ -349,10 +332,9 @@ Alexandria
 
   - St. Cyriacus, martyr, 1/31
 
-- St. Cyril of Alexandria, Church Father/Doctor, 6/27 (relics are in this
-  city)
+  - St. Cyril of Alexandria, Church Father/Doctor, 6/27 (relics are in this city)
 
-  - St. Dionysius the Great, Alexandria, 11/17
+  - St. Dionysius the Great, 11/17
 
   - St. Didymus, martyr, 4/28
 
@@ -370,21 +352,19 @@ Alexandria
 
   - St. Isidore of Alexandria, priest, 1/15
 
-Leucius of Alexandria
+  - St. Leucius of Alexandria
 
-  - Servant of God [اري دي بيتاني]{dir="rtl"}) [نيللي
-    بيغيان]{dir="rtl"})/Marie de Béthanie (nee Hélène \[Nelly\]) Béghian,
-    religious, d. 10/26/1945
+  - Servant of God اري دي بيتاني) نيللي بيغيان)/Marie de Béthanie (nee Hélène [Nelly]) Béghian, religious, d. 10/26/1945
 
-Maximus of Alexandria
+  - St. Maximus of Alexandria
 
-Metranus/Metras of Alexandria
+  - St. Metranus/Metras of Alexandria
 
-Nemesius of Alexandria
+  - St. Nemesius of Alexandria
 
   - St. Pamphilus of Alexandria, martyr, 6/1
 
-Peter of Alexandria
+  - St. Peter of Alexandria
 
   - St. Porphyrius of Alexandria, student/martyr, 6/1
 
@@ -392,7 +372,7 @@ Peter of Alexandria
 
   - St. Seleucus of Alexandria, student/martyr, 6/1
 
-Severus of Alexandria
+  - St. Severus of Alexandria
 
   - St. Theotychus of Alexandria, martyr, 3/8
 
@@ -400,8 +380,7 @@ Severus of Alexandria
 
 al-Ghūrīya/Haret el-Roum, Cairo
 
-- St. Mary Church ( Coptic: ϯⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ϯⲑⲉⲟⲇⲟⲕⲟⲥ ⲉⲑ̅ⲩ̅ ⲙⲁⲣⲓⲁ ⲛ̀ϯⲣⲁⲃⲏ ⲛ̀ⲣⲱⲙⲉⲟⲥ;
-  Arabic: [كنيسة العذراء المغيثة])
+- St. Mary Church ( Coptic: ϯⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ϯⲑⲉⲟⲇⲟⲕⲟⲥ ⲉⲑ̅ⲩ̅ ⲙⲁⲣⲓⲁ ⲛ̀ϯⲣⲁⲃⲏ ⲛ̀ⲣⲱⲙⲉⲟⲥ; Arabic: [كنيسة العذراء المغيثة])
 
   - Burial place of many Coptic popes
 
@@ -529,7 +508,7 @@ Deir El Adra
 
 - Abu Hur Church (converted Pelsium to Christianity)
 
-Mount Sinai ([جَبَل مُوسَىٰ]{dir="rtl"})
+Mount Sinai ([جَبَل مُوسَىٰ])
 
 - [دير القديسة كاترين]{dir="rtl"}/St. Catherine Monastery
 
@@ -537,10 +516,7 @@ Mount Sinai ([جَبَل مُوسَىٰ]{dir="rtl"})
 
   - St. [ميناس سيناء]{dir="rtl"}/Menas of Sinai, abbot, 1/5
 
-- Qasr Hur/[قصر هور]{dir="rtl"} (The monastery is situated in the Western
-  or Libyan desert, not far from the cultivated land of the Nile valley,
-  around 300 km south of Cairo, northwest of al-Ashmunayn, around 2 km
-  from the village of Qasr Hur, and east of the village of Beni Khaled.)
+- Qasr Hur/[قصر هور]{dir="rtl"} (The monastery is situated in the Western or Libyan desert, not far from the cultivated land of the Nile valley, around 300 km south of Cairo, northwest of al-Ashmunayn, around 2 km from the village of Qasr Hur, and east of the village of Beni Khaled.)
 
 - Monastery of Abu Fanah
 
@@ -562,76 +538,54 @@ Tabenna (aka, Tabennisi, on an island in the Upper Nile)
 
   - St. Theodorus, abbot, 12/27
 
-Tarrana (Terenuthis, [الطرانة‎]{dir="rtl"}
-A[ṭ]{dir="rtl"}-[Ṭ]{dir="rtl"}arrānah)
+Tarrana (Terenuthis, الطرانة‎ Aṭ-Ṭarrānah)
 
 - ???
 
   - St. Poemen, abbot, 8/27
 
-Thmuis/Tmui, today\'s Tell el-Timai or Nitria (also called the Mountain
-of Nitria or Petoou Mpihosm in Greek and Latin sources)
+Thmuis/Tmui, today\'s Tell el-Timai or Nitria (also called the Mountain of Nitria or Petoou Mpihosm in Greek and Latin sources)
 
   - St. Serapion the Scholastic of Thmuis, 3/v 7 & 3/21
 
-Wadi El Natrun/[وادي النطرون]{dir="rtl"}, Beheira Governorate, Nitrian
-Desert (aka, Scetes Desert)
+Wadi El Natrun/وادي النطرون, Beheira Governorate, Nitrian Desert (aka, Scetes Desert)
 
 - Monastery of St. John the Dwarf
-
   - St. John Colobus (aka, Kolobus) the Dwarf, hermit and abbot, 10/17
-
 - Monastery of St. Macarius the Great
-
-[النبي اليشع]{dir="rtl"}/Elisha the Prophet
-
-  - St. [يوحنا السابق]{dir="rtl"}/John the Baptist
-
-  - St. [مقاريوس الكبير]{dir="rtl"}/Macarius the Great, abbot, 1/15, 1/19, &
-    4/4
-
-  - St. [مقاريوس الصغير]{dir="rtl"}/Μακάριος/Macarius the Younger, 1/2
-
+  -	النبي اليشع/Elisha the Prophet
+  - St. يوحنا السابق/John the Baptist
+  - St. مقاريوس الكبير/Macarius the Great, abbot, 1/15, 1/19, & 4/4
+  - St. مقاريوس الصغير/Μακάριος/Macarius the Younger, 1/2
 - Monastery of St. Bishoy/Pishoy
-
   - St. Paul of Tammah, 10/17
-
   - St. Bishoy (aka, Pishoy), monk, 7/15
-
-- Paromeos/Baramos monastery ([البراموس‎]{dir="rtl"}, aka, Monastery of Our
-  Lady)
-
+- Paromeos/Baramos monastery (البراموس‎, aka, Monastery of Our Lady)
   - St. Moses the Black, 7/1, 8/28
-
-- Syrian monastery (aka, Monastery of Our Lady/Monastery of Saint Mary
-  El-Sourian)
-
+- Syrian monastery (aka, Monastery of Our Lady/Monastery of Saint Mary El-Sourian)
   - St. Maruthas, bishop, 12/4
-
 - ???
-
   - St. Moses the Ethiopian
 
 ??? (these following exist but where?)
 
   - St. Abaskhiroun Veneration (Arabic) Biography
 
-Saint Bahnam and St. Demiana
+  - Saint Bahnam and St. Demiana
 
   - St. James the Solitary, 11/26
 
   - St. Jonas of Muchon the Gardener, monk/gardener/rope maker, 2/11
 
-Saint Julius of Aqfahs
+  - Saint Julius of Aqfahs
 
-"The relics of Saint Maruthas were later transferred to Egypt and placed
-in a skete monastery of the Mother of God"
+  - "The relics of Saint Maruthas were later transferred to Egypt and placed in a skete monastery of the Mother of God"
 
   - St. Paisios the Great
 
   - St. Piamun/Piama of Egypt, virgin, 3/3
 
-Saint Pistavros
+  - St. Pistavros
 
 No idea where or whether they exist.
 
@@ -672,14 +626,13 @@ No idea where or whether they exist.
 
 - ???
 
-  - Servant of God José Si Esono, catechist/martyr, d. 1930s (non-causa;
-    they're trying to get his beatification cause going)
+  - Servant of God José Si Esono, catechist/martyr, d. 1930s (non-causa; they're trying to get his beatification cause going)
 
 # Eritrea
 
 Hebo, Segheneyti
 
-መቕደስ ቅዱስ ጀስቲን ደ ያቆቢስ/The Sanctuary of St. Justin de Jacobis
+- መቕደስ ቅዱስ ጀስቲን ደ ያቆቢስ/The Sanctuary of St. Justin de Jacobis
 
   - St. Giustino Sebastiano Pasquale de Jacobis, CM, bishop, 7/31
 
@@ -687,7 +640,7 @@ Hebo, Segheneyti
 
 Aksum/Axum/ኣኽሱም, Central Zone, Tigray region (far north of the country)
 
-ደብረ ዳሞ/Debre Damo
+- ደብረ ዳሞ/Debre Damo
 
   - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at Abba
     Pantelewon Monastery)
@@ -701,11 +654,9 @@ Aksum/Axum/ኣኽሱም, Central Zone, Tigray region (far north of the country)
 
 - ማርያም ጽዮን ቤተ ክርስቲያን/Maryam Sion church
 
-The Ten Commandments (according to the Ethiopians, and it's not open for
-viewing)
+  - The Ten Commandments (according to the Ethiopians, and it's not open for viewing)
 
-Endibir/እምድብር, Gurage zone, Southern Nations, Nationalities and
-Peoples\' region
+Endibir/እምድብር, Gurage zone, Southern Nations, Nationalities and Peoples' region
 
 - ሳን አንቶኒዮ ካቴድራል/St. Anthony Ethiopian Catholic Cathedral
 
@@ -730,31 +681,17 @@ Gondar
   - St. Ada of Ethiopia, martyr, 6/2
 
 Alfredo de Lai (Ethiopia)
-
 Andeberhan Ghebreamlak (Ethiopia)
-
 Camillo Scarpa (Ethiopia)
-
 Eliodora Zottig (Ethiopia)
-
 Eugenio Mazzini (Ethiopia)
-
 Franco Ricci (Ethiopia)
-
-  - St. Frumentius, missionary, 10/27
-
-  - Bl. Ghébrē-Michael (Ghebre Michael), priest/martyr, 7/14 & 8/30 (remains
-    lost)
-
+St. Frumentius, missionary, 10/27
+Bl. Ghébrē-Michael (Ghebre Michael), priest/martyr, 7/14 & 8/30 (remains lost)
 Giovanni Prato (Ethiopia)
-
-  - St. Iphigenia/Ephigenia of Ethiopia, convert of St. Matthew the Apostle,
-    9/21
-
+St. Iphigenia/Ephigenia of Ethiopia, convert of St. Matthew the Apostle, 9/21
 Pietro Griso (Ethiopia)
-
 Quinto Gardetto (Ethiopia)
-
 Weldemariam Tesfaghiorghis (Ethiopia)
 
 # Ghana
@@ -778,7 +715,7 @@ Kabiéta, Womey, Nzérékoré Prefecture
 
 Gikondi, Mukurweini, Nyeri
 
-Our Lady Consolata
+- Our Lady Consolata
 
   - Bl. Irene (nee Aurelia Mercede "Nyaatha") Stefani, religious, 10/31
 
@@ -805,8 +742,6 @@ Nyeri, Nyeri County
 - Nyeri Consolata Cathedral/Our Lady of Consolata Cathedral
 
   - Bl. Irene (Aurelia Mercede) Stefani, religious, 10/31
-
-- ???
 
 # Lesotho
 
@@ -845,17 +780,15 @@ Tripoli
 
 Ambiatibe, Antananarivo
 
-No gravesite
+- No gravesite
 
-  - St. Jacques Berthieu, SJ, priest/martyr, 6/8 (body dumped in a river and
-    never recovered)
+  - St. Jacques Berthieu, SJ, priest/martyr, 6/8 (body dumped in a river and never recovered)
 
 Ambohimanarivo, Manakara
 
-No gravesite
+- No gravesite
 
-  - Bl. Lucien Botovasoa, TOSF, lay martyr, 4/14 (body dumped in the water
-    and never recovered)
+  - Bl. Lucien Botovasoa, TOSF, lay martyr, 4/14 (body dumped in the water and never recovered)
 
 Antananarivo
 
@@ -867,13 +800,11 @@ Moramanga, Moramanga district, Alaotra-Mangoro region
 
 - ???
 
-  - Servant of God Sergio Sorgon (Sergio of Saint Joseph), OCD,
-    priest/martyr, d. 1/7/1985 (possibly at Notre Dame de Mont-Carmel,
-    3647+VV6, Moramanga) (died at Ambatolaona, Manjakandriana)
+  - Servant of God Sergio Sorgon (Sergio of Saint Joseph), OCD, priest/martyr, d. 1/7/1985 (possibly at Notre Dame de Mont-Carmel, 3647+VV6, Moramanga) (died at Ambatolaona, Manjakandriana)
 
 Soavimbahoaka neighborhood of Antananarivo
 
-Headquarters of the Brothers of the Christian Schools
+- Headquarters of the Brothers of the Christian Schools
 
   - Bl. Raphaël-Louis Rafiringa, FSC, religious, 5/19
 
@@ -883,11 +814,11 @@ Toamasina
 
   - Servant of God Henri de Solages, apostolic prefect/martyr, d. 12/8/1832
 
-Mauritius**
+# Mauritius
 
 Port Louis
 
-  - St. Croix
+- St. Croix
 
   - Bl. Jacques Laval, priest, 9/9
 
@@ -915,7 +846,7 @@ Tangiers
 
 Guiúa, Jangamo District, Inhambane Province
 
-along the path leading to the sanctuary of the "Queen of Martyrs"
+- along the path leading to the sanctuary of the "Queen of Martyrs"
 
   - Servant of God Luisa Mabalane Mafo and 22 Lay Companions, martyrs, d.
     3/22/1992
@@ -924,8 +855,7 @@ Vila Ulongwe, Angonia district, Province of Tete
 
 - Vila Ulongwe Cemetery.
 
-  - Servant of God João de Deus Gonçalves Kamtedza, SJ, murdered priest, d.
-    10/30/1985
+  - Servant of God João de Deus Gonçalves Kamtedza, SJ, murdered priest, d. 10/30/1985
 
   - Servant of God Silvio Alves Moreira, SJ, murdered priest, d. 10/30/1985
 
@@ -935,14 +865,13 @@ Benin City, Edo state
 
 - St. Michael's Catholic Church cemetery (Uselu neighborhood, Benin City)
 
-  - Servant of God Vivian Uchechi Ogu, child/martyr for chastity, d.
-    11/15/2009
+  - Servant of God Vivian Uchechi Ogu, child/martyr for chastity, d. 11/15/2009
 
 Aokpe, north of Gwarinpa, due west of Abuja
 
 - Shrine of Our Lady of Aokpe Mediatrix of All Graces
 
-Our Lady of Aokpe visions, 8/4
+  - Our Lady of Aokpe visions, 8/4
 
 Jos, Plateau State
 
@@ -963,15 +892,12 @@ Onitsha, Anambra State
 
   - Bl. Cyprian Michael Iwene Tansi, OCSO, priest/monk, 1/20
 
-  - Servant of God Joseph (Ignatius) Shanahan, CSSp, bishop/founder, d.
-    12/25/1943
+  - Servant of God Joseph (Ignatius) Shanahan, CSSp, bishop/founder, d. 12/25/1943
 
 Other Nigerian Servants of God:
 
 Fr. Abraham Anselm Ojefua d. 1988
-
-  - Bishop Michael Eneja, d. 2008
-
+Bishop Michael Eneja, d. 2008
 Fr. Aaron Ejikemeuwa Ekwu, d. 1989
 
 # Réunion
@@ -988,14 +914,13 @@ Kibeho, Nyaruguru district, Southern Province
 
 - Shrine of Our Lady of Kibeho
 
-Our Lady of Kibeho, 11/28
+  - Our Lady of Kibeho apparitions, 11/28
 
 Kigali
 
 - ???
 
-  - Servants of God Cyprien and Daphrose Rugamba and seven companions,
-    martyrs, d. 4/7/1994
+  - Servants of God Cyprien and Daphrose Rugamba and seven companions, martyrs, d. 4/7/1994
 
 # Senegal
 
@@ -1009,7 +934,7 @@ Dakar
 
 Bapsfontein, Ekurhuleni municipality, Gauteng Province
 
-LITTLE EDEN, Elvira Rota Village
+- LITTLE EDEN, Elvira Rota Village
 
   - Servant of God Daniel George Hyams, husband/father, d. 12/28/2012
 
@@ -1019,8 +944,7 @@ Inkamana, Vryheid, KwaZulu-Natal province
 
 - Benedictine Inkamana Monastery/Sacred Heart Abbey, Inkamana
 
-  - Servant of God Franziska (Reinolda) May, OSB, religious/visionary, d.
-    4/1/1981
+  - Servant of God Franziska (Reinolda) May, OSB, religious/visionary, d. 4/1/1981
 
 Mariannhill, Pinetown, Province of KwaZulu-Natal
 
@@ -1042,19 +966,11 @@ Wau, Western Bahr el Ghazal
 
   - Servant of God Giosuè dei Cas, Comboni religious, d. 12/4/1932
 
-# Sudan
-
-Khartoum
-
-- ???
-
-  - St. Daniel Colomboni, bishop, 10/10
-
 # Tanzania
 
 Butiama, Butiama District, Mara Region, northern Tanzania
 
-Mwalimu Julius Kambarage Nyerere Museum
+- Mwalimu Julius Kambarage Nyerere Museum
 
   - Servant of God Julius Mwalimu Nyerere, first President of the nation, d.
     10/14/1999
@@ -1063,25 +979,19 @@ Kalenga ward, Tosamaganga village, Iringa Rural district, Iringa region
 
 - Tosamaganga cemetery
 
-  - Servant of God Francesco Cagliero, IMC, bishop, d. 10/22/1935 (he is
-    buried in a large-ish white and blue tomb)
+  - Servant of God Francesco Cagliero, IMC, bishop, d. 10/22/1935 (he is buried in a large-ish white and blue tomb)
 
 Peramiho, Maposeni, Songea Rural district
 
 - ???
 
-  - Servant of God Bernadeta (nee Klara) Mbawala, OSB, nun of St. Agnes
-    Convent of Chipole, d. 11/29/1950 (may be buried at the convent)
+  - Servant of God Bernadeta (nee Klara) Mbawala, OSB, nun of St. Agnes Convent of Chipole, d. 11/29/1950 (may be buried at the convent)
 
 Possible saints:
 
 Three unknown missionaries, buried side-by-side
-
-Sister Scholastica of the Benedictine congregation in the Songea
-archdiocese
-
+Sister Scholastica of the Benedictine congregation in the Songea archdiocese
 Br. Andreas Scholzen, OSB, murdered as a missionary
-
 Br. Gabriel Sonntag, OSB, murdered as a missionary
 
 # Tunisia
@@ -1104,8 +1014,7 @@ Carthage
 
 - ???
 
-  - Martyrs of Utica (300 Christians martyred for not offering incense to
-    Jupiter), 8/18
+  - Martyrs of Utica (300 Christians martyred for not offering incense to Jupiter), 8/18
 
   - St. Ampelius of Africa, martyr, 2/11
 
@@ -1125,12 +1034,11 @@ Carthage
 
   - St. Crescentius of Carthage, priest/martyr, 3/23
 
-- St. Cyprian of Carthage, Doctor of the Church/martyr, 9/16 & 8/31
+  - St. Cyprian of Carthage, Doctor of the Church/martyr, 9/16 & 8/31
 
   - St. Davitus the Senator, martyr, 2/11
 
-  - St. Deogratias, bishop, 1/5 & 3/22 (buried secretly to avoid destruction
-    of his grave by relic seekers)
+  - St. Deogratias, bishop, 1/5 & 3/22 (buried secretly to avoid destruction of his grave by relic seekers)
 
   - St. Felician of Carthage, martyr, 10/29
 
@@ -1146,8 +1054,7 @@ Carthage
 
   - St. Liberatus of Carthage and family, martyrs, 3/23
 
-  - St. Libosus of Vaga, bishop/martyr, 12/29 (buried in the Carthage
-    cemetery)
+  - St. Libosus of Vaga, bishop/martyr, 12/29 (buried in the Carthage cemetery)
 
   - St. Lucius of Carthage, bishop/martyr, 1/18
 
@@ -1173,8 +1080,7 @@ Carthage
 
   - St. Victoria of Carthage, laywoman/martyr, 2/11
 
-  - Ss. Victorian, Frumentius, and Companions, martyrs, 3/23 (some say at
-    Carthage, some say at Hadrumetum \[now in ruins\]), 3/23
+  - Ss. Victorian, Frumentius, and Companions, martyrs, 3/23 (some say at Carthage, some say at Hadrumetum [now in ruins]), 3/23
 
 Henchir-Bez archaeological site, west of Tunis
 
@@ -1186,8 +1092,7 @@ Kudiat Rosfa (aka, Ruspe)
 
 - ???
 
-  - St. Fulgentius (aka, Fabius Claudius Gordianus Fulgentius) of Ruspe,
-    bishop, 1/1
+  - St. Fulgentius (aka, Fabius Claudius Gordianus Fulgentius) of Ruspe, bishop, 1/1
 
 Sousse (site of the former Hadrumetum), Sousse Governorate
 
@@ -1243,7 +1148,7 @@ Tunis
 
 Alokolum, Gulu district, Northern region
 
-Brothers of the Sacred Heart
+- Brothers of the Sacred Heart
 
   - Ven. Norbert (nee John) McAuliffe, religious, d. 7/3/1959
 
@@ -1255,8 +1160,7 @@ Arua City, Northern Region
 
 - ???
 
-  - Servant of God Angelo Negri, FSCJ, bishop/founder, d. 11/11/1949 (He
-    died here but where is he buried?)
+  - Servant of God Angelo Negri, FSCJ, bishop/founder, d. 11/11/1949 (He died here but where is he buried?)
 
 Kalongo, Agago District, Acholi sub-region, Northern Region
 
@@ -1282,22 +1186,19 @@ Kitovu Village, Masaka, Masaka District, Buganda Region
 
 - Kitovu Cathedral
 
-  - Servant of God Aloysius/Aloizio Ngobya, priest, d. 1/9/1986 (next to the
-    Blessed Virgin Mary Chapel in the cathedral compound)
+  - Servant of God Aloysius/Aloizio Ngobya, priest, d. 1/9/1986 (next to the Blessed Virgin Mary Chapel in the cathedral compound)
 
 Lubowa, Wakiso District, Central Region
 
 - ???
 
-  - St. Gonzaga Gonza, convert from Islam, lay martyr, 5/27 & 6/3 (likely no
-    grave site because vultures got to him)
+  - St. Gonzaga Gonza, convert from Islam, lay martyr, 5/27 & 6/3 (likely no grave site because vultures got to him)
 
 Lubaga, Kampala (Uganda)
 
 - ???
 
-  - Servant of God (Franciska) Amedeo Byabali, DM, religious/foundress, d.
-    8/9/1979
+  - Servant of God (Franciska) Amedeo Byabali, DM, religious/foundress, d. 8/9/1979
 
 Mengo, Rubaga Division of Kampala
 
@@ -1309,15 +1210,13 @@ Mityana
 
 - ???
 
-  - St. Nowa/Noa/Noe Mawaggali, lay martyr, 5/31 & 6/3 (body torn to shreds;
-    nothing left)
+  - St. Nowa/Noa/Noe Mawaggali, lay martyr, 5/31 & 6/3 (body torn to shreds; nothing left)
 
 Munyonyo
 
 - ???
 
-  - St. Anderea (Andrew) Kaggwa, lay martyr, 5/26 & 6/3 (an open
-    amphitheater was built on his tomb)
+  - St. Anderea (Andrew) Kaggwa, lay martyr, 5/26 & 6/3 (an open amphitheater was built on his tomb)
 
   - St. Denis (aka, Dionysius) Ssebuggwawo, martyr, 6/3
 
@@ -1327,7 +1226,7 @@ Nakivubo
 
   - St. Antanasio Bazzeuketta, martyr, 5/27 & 6/3
 
-  - Joseph Mkasa/Mukasa, royal courtier/martyr, 11/15 & 6/3 (body burned)
+  - St. Joseph Mkasa/Mukasa, royal courtier/martyr, 11/15 & 6/3 (body burned)
 
 Namugongo
 
@@ -1341,15 +1240,15 @@ Namugongo
 
 Lukas Baanabakintu
 
+- ???
+
   - St. Ponsiano Ngondwe, martyr, 5/26 & 6/3 (remains left for the animals)
 
 Nkokonjeru, Buikwe District, Central Region,
 
-- St. Francis Hospital Nkokonjeru Cemetery (the motherhouse of the Little
-  Sisters of St. Francis)
+- St. Francis Hospital Nkokonjeru Cemetery (the motherhouse of the Little Sisters of St. Francis)
 
-  - Servant of God Teresa (Mary Kevin) Kearney, OSF, foundress, d.
-    10/17/1957
+  - Servant of God Teresa (Mary Kevin) Kearney, OSF, foundress, d. 10/17/1957
 
 Paimol, Paimol, Agago County, Agago District, Northern Region
 
@@ -1358,8 +1257,6 @@ Paimol, Paimol, Agago County, Agago District, Northern Region
   - Bl. Daudi Okelo, martyr, 10/18 (9/18?) (place of his martyrdom)
 
   - Bl. Jildo Irwa, martyr, 10/18 (place of his martyrdom)
-
-# Zaire
 
 # Zambia
 
@@ -1375,18 +1272,17 @@ Bulawayo
 
 - Municipal Cemetery
 
-Fr. Edmar (Georg) Sommerreißer, CMM, and nine other Mariannhill
-missionaries, all assassinated.
+  - Fr. Edmar (Georg) Sommerreißer, CMM, and nine other Mariannhill missionaries, all assassinated.
 
 Embakwe Mission, Matabeleland South Province
 
 - ???
 
-  - Br. Andreas (Georg) von Arx, CMM, martyr
+  - Br. Andreas (née Georg) von Arx, CMM, martyr (non causa)
 
-Fr. Johannes Banning, CMM, murdered
+  - Fr. Johannes Banning, CMM, murdered
 
-Br. Kilian Knörl, CMM, murdered
+  - Br. Kilian Knörl, CMM, murdered
 
   - Br. Peter Geyermann, CMM, martyr
 
@@ -1416,7 +1312,7 @@ Harare, City of Harare, Harare, Zimbabwe
 
   - St. Castulus, martyr, 1/12
 
-- St. Catulinus of Carthage, buried in the basilica of Fausta there
+  - St. Catulinus of Carthage, buried in the basilica of Fausta there
 
   - St. Catus, Numidia (Algeria, Tunisia), martyr, 1/19
 
