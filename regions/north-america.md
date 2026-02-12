@@ -788,9 +788,8 @@ Kalawao on Molokai, Hawaii
 
 Kansas City, Missouri
 
-- Cathedral of St. Peter the Apostle and Shrine of St. Maria Soledad
-
-Kansas City, Missouri
+- Cathedral of St. Peter the Apostle
+  - Shrine of St. Maria Soledad
 
 - Nelson-Atkins Museum of Art
   - Finger of St. John the Baptist
@@ -944,7 +943,7 @@ Lowell, Middlesex County, Massachusetts
 Lyons, Rice County, Kansas
 
 - The Padilla Cross (4 miles west of Lyons on US56)
-  - Fr. Juan Padilla, first martyr on US soil
+  - Reputed burial place of Fr. Juan Padilla, first martyr on US soil
 
 Madison, Wisconsin
 
