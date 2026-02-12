@@ -4,11 +4,13 @@ Abbeydorney Abbey, Ordoney Abbey, County Kerry (in ruins)
 
 Achonry, County Sligo
 
-- ???St. Nathy (aka, Nath Í of Achonry, Cromnathy, Cruimthir Nathy, Crumther Nathy), monk, 8/9
+- ???
+  - St. Nathy (aka, Nath Í of Achonry, Cromnathy, Cruimthir Nathy, Crumther Nathy), monk, 8/9
 
 Aendrum, County Down
 
-- ???St. Cronan Beg, 1/7
+- ???
+  - St. Cronan Beg, 1/7
 
 Aghaboe, County Laois
 
@@ -17,15 +19,18 @@ Aghaboe, County Laois
 
 Ardcarn (Árd-Carna, Árd-charna), County Roscommon
 
-- ???St. Beo-Aedh “Beaidh”, Béoáed mac Ocláin, bishop, 3/8
+- ???
+  - St. Beo-Aedh “Beaidh”, Béoáed mac Ocláin, bishop, 3/8
 
 Ardmore
 
-- ???St. Declan (aka, Déaglán) of Ardmore, bishop, 7/24
+- ???
+  - St. Declan (aka, Déaglán) of Ardmore, bishop, 7/24
 
 Ardstraw
 
-- ???St. Eoghan (aka, Eugene; Eugenius; Owen; Tir Eoghain; Tyrone), bishop, 8/23
+- ???
+  - St. Eoghan (aka, Eugene; Eugenius; Owen; Tir Eoghain; Tyrone), bishop, 8/23
 
 Armagh
 
@@ -37,7 +42,8 @@ Armagh
 
 - Sacred Heart ConventSt. Cornelius of Armagh, archbishop, 6/4 (relics only)
 
-- ???St. Cellach (aka, Ceilach, Keilach), archbishop, 4/1
+- ???
+  - St. Cellach (aka, Ceilach, Keilach), archbishop, 4/1
 - St. Diarmaid, archbishop, 4/24
 - St. Dunchaid O’Braoin, abbot/hermit, 1/16
 - St. Gelasius (Gilla meic Liac) of Armagh, archbishop, 3/27
@@ -49,7 +55,8 @@ Askeaton, County Limerick
 
 Balla, County Mayo
 
-- ???St. Cronan Mochua of Balla, abbot, 3/30
+- ???
+  - St. Cronan Mochua of Balla, abbot, 3/30
 
 Ballintober, County Mayo
 
@@ -61,7 +68,8 @@ Ballyvourney/Baile Bhuirne, County Cork
 
 Bangor
 
-- ???St. Fionnchu, abbot, 2/28
+- ???
+  - St. Fionnchu, abbot, 2/28
 - St. Comgall of Bangor, abbot, 5/10
 
 Ballymascanlan village, Dundalk, County Louth
@@ -70,11 +78,13 @@ Ballymascanlan village, Dundalk, County Louth
 
 Birr
 
-- ???St. Brendan of Birr, 11/29
+- ???
+  - St. Brendan of Birr, 11/29
 
 Cashel, County Tipperary
 
-- ???Bl. Edward Stapleton, priest/martyr, 9/13 & 6/20
+- ???
+  - Bl. Edward Stapleton, priest/martyr, 9/13 & 6/20
 - Bl. Elizabeth Kearney, laywoman/martyr, 9/13 & 6/20
 - Bl. James Saul, OFM, religious/martyr, 9/13 & 6/20
 - Bl. Margaret of Cashel, laywoman/martyr, 9/13 & 6/20
@@ -86,7 +96,8 @@ Cashel, County Tipperary
 
 Castle Kerrant (formerly Bellach-Duin)
 
-- ???St. Cearan (aka, Ciaran) the Devout, abbot, 6/14
+- ???
+  - St. Cearan (aka, Ciaran) the Devout, abbot, 6/14
 
 Clareen, County Offaly
 
@@ -94,19 +105,23 @@ Clareen, County Offaly
 
 Clogher
 
-- ???St. Tigernach (aka, Tigernake, Tierney, Tierry), bishop, 4/4
+- ???
+  - St. Tigernach (aka, Tigernake, Tierney, Tierry), bishop, 4/4
 
 Clonard
 
-- ???St. Finian of Clonard, bishop, 12/12
+- ???
+  - St. Finian of Clonard, bishop, 12/12
 
 Clonbroney (aka, Cluain-Bronach)
 
-- ???St. Samthann of Clonbroney, 12/18
+- ???
+  - St. Samthann of Clonbroney, 12/18
 
 Clonenagh
 
-- ???St. Aengus the Culdee (aka, Angus, Ceile De, Dengus), hermit, 3/11 (buried here, but where?)
+- ???
+  - St. Aengus the Culdee (aka, Angus, Ceile De, Dengus), hermit, 3/11 (buried here, but where?)
 
 Clonfad
 
@@ -116,21 +131,25 @@ Clonfad
 
 Clonfert, east County Galway
 
-- ???St. Brendan the Navigator, missionary, 5/16
+- ???
+  - St. Brendan the Navigator, missionary, 5/16
 - St. Cumméne Fota/Cummian Fada (the Tall), bishop, 11/12 (in “a protective shrine”; shrine likely lost)
 - St. Maeinenu (in “a protective shrine”; shrine likely lost)
 
 Clonmore, County Carlow
 
-- ???St. Finian Lobhar the Leper, monk, 3/16
+- ???
+  - St. Finian Lobhar the Leper, monk, 3/16
 
 Cloyne, County Cork
 
-- ???St. Colman Mac Lenine of Cloyne, bishop, 11/24
+- ???
+  - St. Colman Mac Lenine of Cloyne, bishop, 11/24
 
 Cluain-more Madoc, Leinster
 
-- ???St. Finian the Leper, 3/16
+- ???
+  - St. Finian the Leper, 3/16
 
 Cobh, County Cork
 
@@ -138,19 +157,23 @@ Cobh, County Cork
 
 Coleraine, County Londonderry, Northern Ireland
 
-- ???Bl. Donough MacCready, priest/martyr, 6/20
+- ???
+  - Bl. Donough MacCready, priest/martyr, 6/20
 
 Colnmachnoise, Offaly
 
-- ???St. Colgan the Wise of Clonmacnoise, Scribe of the Scots, 2/20
+- ???
+  - St. Colgan the Wise of Clonmacnoise, Scribe of the Scots, 2/20
 
 Connell
 
-- ???St. Conleth (aka, Conlaeth, Conlaid, Conlath, Conlian), bishop, 5/4
+- ???
+  - St. Conleth (aka, Conlaeth, Conlaid, Conlath, Conlian), bishop, 5/4
 
 Connor
 
-- ???St. Diman Dubh (aka, Dima, Diman, Diman the Black, Dimas) of Connor, bishop, 1/6
+- ???
+  - St. Diman Dubh (aka, Dima, Diman, Diman the Black, Dimas) of Connor, bishop, 1/6
 
 Cork
 
@@ -159,7 +182,8 @@ Cork
 
 - South Presentation Convent (between Abbey St., Douglas St., Evergreen St., and Nicholas St.)Ven. Honora (Nano) Nagle “Mother Mary of St John of God,” PBVM, foundress, d. 4/26/1784
 
-- ???Bl. Edmund Daniel, SJ, seminarian/martyr, 6/20 & 10/25
+- ???
+  - Bl. Edmund Daniel, SJ, seminarian/martyr, 6/20 & 10/25
 
 Crossmaloo, near Clonkeenkerrill and the church of Killooaun
 
@@ -167,15 +191,18 @@ Crossmaloo, near Clonkeenkerrill and the church of Killooaun
 
 Derkan
 
-- ???St. Bolcan (aka, Olcan) of Derken, 2/20
+- ???
+  - St. Bolcan (aka, Olcan) of Derken, 2/20
 
 Derry
 
-- ???St. Eoghan (aka, Eugene, Eugenius, Owen, Tir Eoghain, Tyrone), bishop, 8/23
+- ???
+  - St. Eoghan (aka, Eugene, Eugenius, Owen, Tir Eoghain, Tyrone), bishop, 8/23
 
 Doon, Limerick
 
-- ???St. Fintan of Doon, abbot, 1/3
+- ???
+  - St. Fintan of Doon, abbot, 1/3
 
 Down Downpatrick
 
@@ -189,7 +216,8 @@ Drogheda, County Louth, on the east coast
 
 - Presentation ConventSt. Cornelius of Armagh, archbishop, 6/4 (relics only)
 
-- ???Bl. John Bathe, SJ, priest/martyr, 9/11
+- ???
+  - Bl. John Bathe, SJ, priest/martyr, 9/11
 - Bl. Thomas Bathe, priest/martyr, 9/11
 - Bl. Dominic Dillon, OP, priest/martyr, 9/11
 - Bl. Richard Oveton/Overton, OP, prior/martyr, 9/11
@@ -197,7 +225,8 @@ Drogheda, County Louth, on the east coast
 
 Dromore, County Down
 
-- ???St. Colman (aka, Mocholmoc, Mocholmog) of Dromore, 6/7 & 10/27
+- ???
+  - St. Colman (aka, Mocholmoc, Mocholmog) of Dromore, 6/7 & 10/27
 
 Dublin
 
@@ -228,7 +257,8 @@ Dublin
 
 - National Museum of IrelandSt. Mura McFeredach of Fahan, abbot, 3/12 (his crozier only)
 
-- ???Bl. Christopher Eustace, layman/martyr, 11/13
+- ???
+  - Bl. Christopher Eustace, layman/martyr, 11/13
 - Bl. David Sutton, layman/martyr, 11/13
 - Bl. Eoin O’Mulkern, O.Praem., priest/martyr, 11/21
 - Bl. Gelasius O’Cullenan, O.Cist., priest/martyr
@@ -248,11 +278,13 @@ Dublin, Glasnevin neighborhood
 
 Duleek
 
-- ???St. Kenan (aka, Kay, Cianan, Kea, Quay), bishop, 11/24
+- ???
+  - St. Kenan (aka, Kay, Cianan, Kea, Quay), bishop, 11/24
 
 Durrow, County Laois
 
-- ???St. Corbmac, abbot, 6/21
+- ???
+  - St. Corbmac, abbot, 6/21
 
 Elphin, Co. Roscommon
 
@@ -264,7 +296,8 @@ Ferns, County Wexford
 
 Glendalough, County Wicklow
 
-- ???St. Colman of Glendalough, abbot, 12/12
+- ???
+  - St. Colman of Glendalough, abbot, 12/12
 - St. Cronan the Tanner, disciple, 6/3
 - St. Kevin of Glendalough, abbot, 6/3
 
@@ -295,11 +328,13 @@ Inisheer, Aran Islands, Galway Bay
 
 Inis Uasal/Noble Island, Lough Currane
 
-- ???St. Anmchad, monk
+- ???
+  - St. Anmchad, monk
 
 Iona
 
-- ???St. Baithen of Iona, 10/6
+- ???
+  - St. Baithen of Iona, 10/6
 
 Kildare
 
@@ -309,15 +344,18 @@ Kildare
 
 Kilfenora
 
-- ???St. Fachanan, bishop, 8/14
+- ???
+  - St. Fachanan, bishop, 8/14
 
 Kilhain
 
-- ???St. Fanchea (Faine), abbess, 1/1
+- ???
+  - St. Fanchea (Faine), abbess, 1/1
 
 Kilkeary
 
-- ???St. Cera (aka, Ceara, Ciar, Ciara, Cior, Cyra) of Kilkeary, abbess, 1/5
+- ???
+  - St. Cera (aka, Ceara, Ciar, Ciara, Cior, Cyra) of Kilkeary, abbess, 1/5
 
 Kilkeel, County Down, northern Ireland
 
@@ -325,11 +363,13 @@ Kilkeel, County Down, northern Ireland
 
 Killala
 
-- ???St. Ceallach (aka, Kellach), bishop, 5/1
+- ???
+  - St. Ceallach (aka, Kellach), bishop, 5/1
 
 Killane
 
-- ???St. Fanchea (aka, Faenche, Fainche, Garbhp) of Rossory, abbess, 1/1
+- ???
+  - St. Fanchea (aka, Faenche, Fainche, Garbhp) of Rossory, abbess, 1/1
 
 Killaraght, County Sligo
 
@@ -337,24 +377,29 @@ Killaraght, County Sligo
 
 Killeany/Cill Éinne/Tighlagheany/Teaghlach Éinne, Inis Mór, Galway
 
-- ???St. Enda of Aran/Arran, abbot, 3/21
+- ???
+  - St. Enda of Aran/Arran, abbot, 3/21
 
 Killmallock, Limerick
 
-- ???St. Conn (Cornelius) O’Rourke, martyr, 8/31 (8/13?)
+- ???
+  - St. Conn (Cornelius) O’Rourke, martyr, 8/31 (8/13?)
 - Bl. Patrick O’Healy (Pádraig Ó Héilí), bishop/martyr, 8/31
 
 Kilmacduagh
 
-- ???St. Colman of Kilmacduagh, abbot/bishop, 10/29
+- ???
+  - St. Colman of Kilmacduagh, abbot/bishop, 10/29
 
 Kilmore
 
-- ???St. Phelim (aka, Fedhlimidh; Fedlemid; Felim; Felix; Fidleminus), bishop, 8/9
+- ???
+  - St. Phelim (aka, Fedhlimidh; Fedlemid; Felim; Felix; Fidleminus), bishop, 8/9
 
 Kilroot
 
-- ???St. Colman of Kilroot
+- ???
+  - St. Colman of Kilroot
 
 Knock, Claremorris, County Mayo
 
@@ -369,37 +414,44 @@ Limerick
 - St. Saviour’s Dominican ChurchBl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30 (second class relics only: pectoral cross, Sarsfield chalice)
 - Our Lady of Limerick statue
 
-- ???Fr. James Wolf, OP, priest/martyr, 10/31
+- ???
+  - Fr. James Wolf, OP, priest/martyr, 10/31
 - Fr. John Collins, OP, priest/martyr, 10/31
 - Bl. Terrence Albert O’Brien, OP, bishop/martyr, 10/30
 
 Lindisfarne
 
-- ???St. Aidan of Lindisfarne, 8/31
+- ???
+  - St. Aidan of Lindisfarne, 8/31
 - King St. Ceolwulf, 1/15
 
 Lismore
 
-- ???St. Brigid (aka, Briga) of Kilbride, 1/21
+- ???
+  - St. Brigid (aka, Briga) of Kilbride, 1/21
 - St. Carthach /Mo Chutu (aka, Carthage) the Younger, 5/14 (buried in a church there; there aren’t many)
 - St. Celsus of Armagh/Cellach Mac Aodh, archbishop, 4/1
 - St. Colman of Lismore, abbot-bishop, 1/23
 
 Lough Erne
 
-- ???St. Constant, priest-hermit-martyr, 11/18
+- ???
+  - St. Constant, priest-hermit-martyr, 11/18
 
 Lusk
 
-- ???St. Maccallin of Lusk, bishop, 9/6 (buried in a cave near here)
+- ???
+  - St. Maccallin of Lusk, bishop, 9/6 (buried in a cave near here)
 
 Mothil, Waterford
 
-- ???St. Brogan (aka, Bearchan, Bracan, Broccan, Brochan), 7/8
+- ???
+  - St. Brogan (aka, Bearchan, Bracan, Broccan, Brochan), 7/8
 
 Moville
 
-- ???St. Finnian of Moville (aka, Winin), abbot, 9/10
+- ???
+  - St. Finnian of Moville (aka, Winin), abbot, 9/10
 
 Murrisk, County Mayo
 
@@ -423,36 +475,44 @@ Odorney
 
 Orran
 
-- ???St. Cettin (aka, Cetagh, Cethach, Cethagh), 6/16
+- ???
+  - St. Cettin (aka, Cetagh, Cethach, Cethagh), 6/16
 
 Ossory
 
-- ???St. Carthach (aka, Charthage) the Elder, bishop, 3/5
+- ???
+  - St. Carthach (aka, Charthage) the Elder, bishop, 3/5
 - St. Sedna of Ossory, bishop, 3/10 (was bishop here; wasn’t necessarily buried here)
 
 Roscrea
 
-- ???St. Cronan of Roscrea, abbot, 4/28
+- ???
+  - St. Cronan of Roscrea, abbot, 4/28
 
 Roscommon
 
-- ???St. Caellainn (aka, Caoilfionn), 2/3
+- ???
+  - St. Caellainn (aka, Caoilfionn), 2/3
 
 Ross
 
-- ???St. Fachanan, first bishop of Ross, 8/14
+- ???
+  - St. Fachanan, first bishop of Ross, 8/14
 
 Ross Tuirc, Ossory
 
-- ???St. Brogan, abbot, 9/17
+- ???
+  - St. Brogan, abbot, 9/17
 
 Saul, County Down
 
-- ???St. Dichu, convert, 4/29
+- ???
+  - St. Dichu, convert, 4/29
 
 Scariff Island, County Kerry
 
-- ???Bl. Francis O’Sullivan, OFM, priest/martyr, 6/23
+- ???
+  - Bl. Francis O’Sullivan, OFM, priest/martyr, 6/23
 
 Scattery Island/Saint Senan’s Island, Enniscarthy/Iniscathay/Inish Cathaig
 
@@ -479,11 +539,13 @@ Terryglass, County Tipperary, Munster Province
 
 Tibraghny, Kilkenny
 
-- ???St. Modomnoc (aka, Modomnock, Domnock, Dominic) O’Neill, hermit, 2/13
+- ???
+  - St. Modomnoc (aka, Modomnock, Domnock, Dominic) O’Neill, hermit, 2/13
 
 Tighlagheany, Inishmore
 
-- ???St. Enda (aka, Eanna, Endesu, Enna) of Arran (aka, Arranmore), prince, monk, 3/21
+- ???
+  - St. Enda (aka, Eanna, Endesu, Enna) of Arran (aka, Arranmore), prince, monk, 3/21
 
 Tramore, County Waterford
 
@@ -491,7 +553,8 @@ Tramore, County Waterford
 
 Trim, Meath
 
-- ???Bl. Brian O’Carolan, priest/martyr, 3/24
+- ???
+  - Bl. Brian O’Carolan, priest/martyr, 3/24
 
 Tuam
 
@@ -499,11 +562,13 @@ Tuam
 
 Ulster
 
-- ???St. Ergnad (aka, Ercnacta), nun, 1/8
+- ???
+  - St. Ergnad (aka, Ercnacta), nun, 1/8
 
 Wexford
 
-- ???St. Abban of New Ross (maybe at Ros-mhic-treoin, aka New Ross Abbey/ [Tintern Abbey?]), evangelist, 11/22
+- ???
+  - St. Abban of New Ross (maybe at Ros-mhic-treoin, aka New Ross Abbey/ [Tintern Abbey?]), evangelist, 11/22
 - Bl. Edward Cheevers, sailor/martyr, 6/20 and 7/5
 - John O’Lahy, sailor/martyr, 7/5/1581 (not beatified)
 - Bl. Matthew Lambert, baker/martyr, 6/20 and 7/5
@@ -513,7 +578,8 @@ Wexford
 
 Youghal, Cork
 
-- ???Bl. Dominic Collins, SJ, martyr, 10/31
+- ???
+  - Bl. Dominic Collins, SJ, martyr, 10/31
 - Bl. Donal O’Neylan, OFM, priest/martyr, 3/29
 
 - Church of St. MaryBl. Thaddeus MacCarthy (aka, Taddeo Makar), bishop, 10/25 (relics only)
