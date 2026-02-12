@@ -1392,8 +1392,7 @@ Santa Maria di Campagna
 
 - Chiesa di San Petronio
 
-- Bl. Bartolomeo Maria dal Monte, priest/founder, 12/24 (Chapel of Our
-  Lady of Peace)
+  - Bl. Bartolomeo Maria dal Monte, priest/founder, 12/24 (Chapel of Our   Lady of Peace)
 
   - St. Petronius/Pectronius of Bologna, bishop/confessor, 10/4
 
@@ -1418,6 +1417,8 @@ San Vitale ed Agricola in Arena
 - Ss. Vitalis and Agricola, martyrs (in the crypt), 11/4
 
   - Ss. Ermete, Aggeo, and Cajo, martyrs, 1/4 (relics only)
+
+- Santuario della Madonna di San Luca/Sanctuary of the Madonna of St. Luke (Via di San Luca, 36)
 
 - Santuario di Santa Maria della Vita (via Clavature, n. 10)
 
