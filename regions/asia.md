@@ -3512,6 +3512,10 @@ Najran/نجران, Najran region
 
 # Sri Lanka
 
+Bolawatta (about 24 miles/40 km north of Colombo)
+- Our Lady of Assumption Church
+  - Servant of God पाद्री झाकॉम गोनसाल्विश/Jacome Gonsalves, CO, priest/missionary, d. 7/17/1742
+
 Colombo
 
 - ???
@@ -3541,33 +3545,25 @@ Anthony's Shrine
 
   - St. Anthony of Padua (relic only)
 
-ශාන්ත ජුසේ වාස්
-තුමා/St.. Joseph Vaz, CO, priest from India, worked in
-secret in Calvinist territory, apostle of Sri Lanka, 1/16
+  - ශාන්ත ජුසේ වාස් තුමා/St. Joseph Vaz, CO, priest from India, worked in secret in Calvinist territory, apostle of Sri Lanka, 1/16
 
 Mannar District (மன்னார் மாவட்டம்)
 
-මඩු අප ස්වාමිදූගේ ජාතික
-සිද්ධස්ථානය/National Shrine of Our Lady of Madhu/Sanctuary
-of Mantai
+- මඩු අප ස්වාමිදූගේ ජාතික සිද්ධස්ථානය/National Shrine of Our Lady of Madhu/Sanctuary of Mantai
 
-Our Lady of Madhu, 7/2 & 8/15
+  - Our Lady of Madhu, 7/2 & 8/15
 
-Telwatta, Galle District, Southern
+Nainamadama, North West Province
 
-ලංකා අප ස්වාමිදූගේ
-බැසිලිකා දෙව්මැදුර/Basilica of Our Lady of Lanka
+- Our Lady of Sorrows Church
 
-  - Servant of God තෝමස් බෙන්ජමින්
-    කුරේ/Thomas Cooray, OMI, cardinal, d. 10/29/1988
+  - Servant of God पाद्री झाकॉम गोनसाल्विश/Jacome Gonsalves, CO, priest/missionary, d. 7/17/1742 (relic only, his tooth)
 
-Suriname**
+Telwatta, Galle District, Southern Province 
 
-Paramaribo, Batavia
+- ලංකා අප ස්වාමිදූගේ බැසිලිකා දෙව්මැදුර/Basilica of Our Lady of Lanka
 
-- Cathedral
-
-  - Bl. Peter Donders, missionary
+  - Servant of God තෝමස් බෙන්ජමින් කුරේ/Thomas Cooray, OMI, cardinal, d. 10/29/1988
 
 # Syria
 
