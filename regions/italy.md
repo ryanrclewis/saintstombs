@@ -8026,7 +8026,7 @@ Three of the Holy Innocents
 
 San Pietro (via San Pietro)
 
-  - St. Eustochio (née Lucrezia) Bellini di Padova, religious, 2/13
+  - St. Eustochio/Eustochium (née Lucrezia) Bellini di Padova, religious, 2/13 (incorrupt)
 
 - Shrine of Arcella (Santuario dell'Arcella)
 
@@ -9587,13 +9587,13 @@ Reggio Emilia, Province of Reggio Emilia, Emilia-Romagna
   - Ven. Daniele da Torricella (née Dario) Coppini, OFM Cap., priest, d.
     12/10/1945
 
-San Domenico
+- San Domenico
 
   - Bl. Damiano da Finale, OP, evangelist, 10/26
 
 - Basilica di Santi Pietro e Prospero
 
-Madonna del Giglio
+- Madonna del Giglio
 
   - St. Gioconda/Jucunda of Reggio Emilia, virgin, 11/25
 
@@ -9608,15 +9608,13 @@ Madonna del Giglio
 
   - St. Consolata of Reggio Emilia, martyr, 9/6
 
-Reggio Emilia, Villa Masone *frazione*, Province of Reggio Emilia,
-Emilia Romagna region
+Reggio Emilia, Villa Masone *frazione*, Province of Reggio Emilia, Emilia Romagna region
 
 - ???
 
   - Servant of God Dino Torreggiani, priest, d. 9/27/1983
 
-Renon (German *Ritten*), Province of South Tyrol (BZ), Trentino-Alto
-Adige/Südtirol region
+Renon (German *Ritten*), Province of South Tyrol (BZ), Trentino-AltoAdige/Südtirol region
 
 - San Giuseppe a Stella/Lichtenstern chapel
 
@@ -9647,6 +9645,12 @@ Rieti, Province of Rieti, Lazio region
   - St. Eleuterio of Illyria, martyr, 4/18 (relics only)
 
   - St. Stefano di Rieti/TrStephen of Rieti, abbot, 2/13
+
+Rho, Metropolitan City of Milan, Lombardia region
+
+- Santuario della Beata Vergine Addolorata di Rho (Corso Europa, 228)
+
+  - Miraculous, weeping icon of Our Lady
 
 Rimella, Province of Vercelli, Piedmont region
 
