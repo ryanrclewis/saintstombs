@@ -15,7 +15,8 @@ Aendrum, County Down
 
 Aghaboe, County Laois
 
-- Aghaboe AbbeySt. Cainnech/Canice of Aghaboe, abbot, 10/11, 8/1, 8/14
+- Aghaboe Abbey
+  - St. Cainnech/Canice of Aghaboe, abbot, 10/11, 8/1, 8/14
   - St. Liberius of Achad-Bo, abbot, 3/8
 
 Ardcarn (Árd-Carna, Árd-charna), County Roscommon
