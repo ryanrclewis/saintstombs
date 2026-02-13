@@ -498,10 +498,6 @@ Murrisk, County Mayo
 - Croagh Patrick Visitor Centre
   - Croagh Patrick/St. Patrick’s Holy Mountain/Ireland’s Holy Mountain
 
-Naas/Nás na Ríogh, County Kildare, Leinster Province
-
-- Church of the Irish Martyrs, Ballycane
-
 Newtownards, County Down
 
 - Movilla Abbey (abbey dissolved by Henry VIII in 1542)
