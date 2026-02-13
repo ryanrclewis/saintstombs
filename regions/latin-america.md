@@ -2916,9 +2916,9 @@ Yauco, southern Puerto Rico
 
 Paramaribo
 
-Ss. Peter and Paul Cathedral
+- Ss. Peter and Paul Cathedral
 
-  - Bl. Peter Donders, Redemptorist priest, 1/14
+  - Bl. Peter Donders, CSsR, priest, 1/14
 
 # Trinidad and Tobago
 
