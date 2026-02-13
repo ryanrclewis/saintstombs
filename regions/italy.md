@@ -1249,9 +1249,15 @@ Biella-Piazzo (or just Biella), Province of Biella, Piemonte region
 
   - Bl. Agostino Fangi da Biella, OP, priest/miracle worker, 7/22
 
-Il Seminario Vescovile di Biella (Via Seminari 9)
+- Il Seminario Vescovile di Biella (Via Seminari 9)
 
   - Ven. Oreste Fontanella, priest, d. 3/26/1935
+
+Biella-Piazzo (or just Biella), Oropa _frazione_, Province of Biella, Piemonte region
+
+- Santuario della beata Vergine di Oropa/Shrine of Our Lady of Oropa
+
+  - Madonna Della Oropa/Black Madonna of Oropa
 
 Binasco, Province of Milan, Lombardia
 
@@ -6569,12 +6575,11 @@ Mombaroccio, Provincia de Pesaro Urbino, Le Marche Region
 
 Moncalieri, Metropolitan City of Turin, Piemonte region
 
-Santa Maria della Scala
+- Santa Maria della Scala
 
   - Bl. Bernard of Baden, nobleman, 7/15
 
-- Monastero Carmelitane Scalze/Carmelo San Giuseppe/Monastery of the
-  Discalced Carmelites (Vicolo Savonarola, 1)
+- Monastero Carmelitane Scalze/Carmelo San Giuseppe/Monastery of the Discalced Carmelites (Vicolo Savonarola, 1)
 
   - Bl. Maria degli Angeli Fontanella, OCD, visionary/mystic, 12/16
 
@@ -9378,7 +9383,7 @@ Rapallo, Metropolitan City of Genoa, Liguria region
 
 - Santuario di Nostra Signora di Montallegro
 
-Our Lady of Montallegro apparition, 7/2
+  - Our Lady of Montallegro apparition, 7/2
 
 Ravello, Province of Salerno, Campania region
 
@@ -12256,7 +12261,7 @@ Casa Madre di Suore di Santa Famiglia di Nazareth
 
   - Bl. Giuseppina Gabriella Bonino, foundress, 2/8
 
-Savona
+Savona 
 
 - Cattedrale di Maria Assunta/Cathedral
 
@@ -12266,8 +12271,13 @@ Savona
 
   - Pope St. Sixtus I, martyr, 4/3
 
-Casa Madre de Figlie di Nostra Signora della Misericordia (via Santa
-Maria Giuseppa Rossello 2)
+- Santuario di Nostra Signora della Misericordia/Shrine of Our Lady of Mercy (6 km from the city center or 3.73 miles)
+
+  - Apparition of the Virgin Mary, 3/18
+  
+  - Antonio Botta, visionary (non-causa)
+
+- Casa Madre de Figlie di Nostra Signora della Misericordia (via Santa Maria Giuseppa Rossello, 2)
 
   - St. Maria Giuseppe Rossello, religious/foundress, 12/7
 
@@ -14612,6 +14622,8 @@ Vicenza, Province of Vicenza, Veneto Region
   - Bl. Bartholomew of Vicenza/Bartolomeo di Breganze, bishop, 10/27
 
 - Santuario della Madonna di Monte Berico/Basilica di S. Maria di Monte Berico/Church of St. Mary of Mount Berico
+
+  - Our Lady, Scourge of the Black Death
 
   - Servant of God Andrea Maria (Carlo), OSM, priest, d. 9/15/1995
 
