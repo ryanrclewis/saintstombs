@@ -21,31 +21,29 @@ Ejmiatsin, Armavir Province
 
 - St. Gregory the Illuminator, bishop/Church Father, 9/30 (relics only)
 
-Haghpat/ Հաղպատ, Lori Province (near the city of Alaverdi and the border
-with Georgia)
+Haghpat/ Հաղպատ, Lori Province (near the city of Alaverdi and the border with Georgia)
 
 - Հաղպատի վանք/Haghpat Monastery
 
-  - St. Nerses IV the Gracious/Սուրբ Ներսէս Դ. Կլայեցի (Շնորհալի),
-    Catholicos of Armenia, 8/13
+  - St. Nerses IV the Gracious/Սուրբ Ներսէս Դ. Կլայեցի (Շնորհալի), Catholicos of Armenia, 8/13
 
 Oshakan, Ashtarak Municipality, Aragatsotn Province
 
-Saint Mesrop Mashtots/Սուրբ Մեսրոպ Մաշտոց եկեղեցի
+- St. Mesrop Mashtots/Սուրբ Մեսրոպ Մաշտոց եկեղեցի
 
   - St. Mesrop the Teacher, patron of Armenia, 2/17
 
 - Sulu Monastir
 
-??? (St. George?)
+- ??? (St. George?)
 
-  - Bl. Cosmas da Carboniam, martyr
+  - Bl. Cosmas da Carboniam, martyr, 7/14
 
 Vagharshapat/Etchmiadzin/Վաղարշապատ, Armavir Marz (i.e., Province)
 
-Mother See of Holy Etchmiadzin
+- Mother See of Holy Etchmiadzin
 
-  - St. Gayane
+  - St. Gayane, abbess/martyr, (feast) Araratian Week (a period tied to Easter/Pentecost)
 
 - St. Gregory the Armenian (aka, the Illuminator), Church Father (relics
   only; arm relic kept in the Treasury)
@@ -70,18 +68,13 @@ Yerevan/Երևան
 
 - Զորավոր Սուրբ Աստվածածին եկեղեցի/Zoravor Surp Church
 
-  - St. Անանիա Դամասկոսի/Ananias of Damascus, New Testament prophet/martyr,
-    ,1/25
+  - St. Անանիա Դամասկոսի/Ananias of Damascus, New Testament prophet/martyr, 1/25
 
-Forty Armenian martyrs:
-
-  - St. Candidus, 3/9
-
-  - St. Cyrion, 3/9
-
-  - St. Nerses (aka, Chnorhali) Glaietsi the Gracious, bishop, 8/13
-
-Sts. Orestes and Eustratius (deposited in the same place by St. Blaise)
+Forty Armenian martyrs
+St. Candidus, 3/9
+St. Cyrion, 3/9
+St. Nerses (aka, Chnorhali) Glaietsi the Gracious, bishop, 8/13
+Ss. Orestes and Eustratius (deposited in the same place by St. Blaise)
 
 # Azerbaijan
 
@@ -89,7 +82,7 @@ Nakhchivan/Naxçıvan/Նախիջևան, Nakhchivan Autonomous Republic
 
 - Nuhun məzarı/Tomb of Noah
 
-Noah the Old Testament Patriarch, 11/18
+  - Noah the Old Testament Patriarch, 11/18
 
 # Bangladesh
 
@@ -106,8 +99,7 @@ Dhaka
 
   - Servant of God Theotonius Amal Ganguly, CSC, archbishop, d. 9/2/1977
 
-Golla (possibly Chotogolla or Choto Golla), Nayansree, Nawabganj, Dhaka,
-Dhaka Division
+Golla (possibly Chotogolla or Choto Golla), Nayansree, Nawabganj, Dhaka, Dhaka Division
 
 - St. Francis Xavier Church Cemetery
 
@@ -146,12 +138,7 @@ Chongqing/重庆
 
 - ???
 
-  - Servant of God 雷鳴遠/远处雷声鸣响/Frédéric-Vincent Lebbe,
-    priest/founder, d. 6/24/1940 (he died here, but where is he
-    buried?)(possibly at Catholic Cemetery in the village of Cave Gulley in
-    Shanxi province/山西省洞沟村, located partway up a mountain, reachable
-    by steep stairs that are meant to shift worshipers' attention from the
-    world below to heaven above)
+  - Servant of God 雷鳴遠/远处雷声鸣响/Frédéric-Vincent Lebbe, priest/founder, d. 6/24/1940 (he died here, but where is he buried?)(possibly at Catholic Cemetery in the village of Cave Gulley in Shanxi province/山西省洞沟村, located partway up a mountain, reachable by steep stairs that are meant to shift worshipers' attention from the world below to heaven above)
 
 Chunmuyu, Xushui County
 
@@ -167,11 +154,9 @@ Dailucun, Shenzhou city, Hebei province
 
 - ???
 
-  - St. Maria Fu Guilin, laywoman/martyr, 7/20 (Dailucun isn't on any
-    English maps; does it still exist?
+  - St. Maria Fu Guilin, laywoman/martyr, 7/20 (Dailucun isn't on any English maps; does it still exist?
 
-Daning, Weixian County (威县), Hebei Province (Daning does not appear on
-any modern English language map)
+Daning, Weixian County (威县), Hebei Province (Daning does not appear on any modern English language map)
 
 - ???
 
@@ -185,16 +170,13 @@ Dayin (大尹), Zoaqiang county, Hebei province
 
   - St. Iosephus Yuan Gengyin, merchant/martyr, 7/30
 
-Dechao village (得朝村委会), Chenshi town (辰时镇), Shenzhou city,
-Hengshui, Hebei province
+Dechao village (得朝村委会), Chenshi town (辰时镇), Shenzhou city, Hengshui, Hebei province
 
 - ???
 
-  - St. Chi Zhuze, teen lay martyr, 7/20 (he died here but was torn to
-    pieces; there is no word if those pieces were picked up and properly
-    buried)
+  - St. Chi Zhuze, teen lay martyr, 7/20 (he died here but was torn to pieces; there is no word if those pieces were picked up and properly buried)
 
-Fu-kien
+Fujian Province
 
 - ???
 
@@ -216,11 +198,9 @@ Guiyang, Province of Guizhou
 
 - ???
 
-- St. Ioachim Hao, lay catechist, 7/9 (Maybe at the North Church of
-  Guiyang \贵阳北堂\, which he helped build.)
+- St. Ioachim Hao, lay catechist, 7/9 (Maybe at the North Church of Guiyang \贵阳北堂\, which he helped build.)
 
-  - St. Peter Lieou/Liu Wenyuan Petrus (彼得·列欧), martyr, 5/17 (his wife
-    buried him in a garden she had tended)
+  - St. Peter Lieou/Liu Wenyuan Petrus (彼得·列欧), martyr, 5/17 (his wife buried him in a garden she had tended)
 
 (Wangjiatian) Hengshui City, Hebei province
 
@@ -252,8 +232,7 @@ Lanziqiao village, Hengshui County, Hebei Province
 
   - St. Paulus Liu Jinde, lay martyr, 7/12
 
-Liucun (留村乡), (could be either Shenze County or Xushui County or
-Shahe District; there are Liucuns in all three places), Hebei Province
+Liucun (留村乡), (could be either Shenze County or Xushui County or Shahe District; there are Liucuns in all three places), Hebei Province
 
 - ???
 
@@ -277,11 +256,9 @@ Longpingchang, Zunyi prefecture city/遵义市, Province of Guizhou
 
 - ???
 
-  - St. Wu Guosheng Petrus/Peter Ou/吴国盛, catechist/businessman/martyr,
-    11/7
+  - St. Wu Guosheng Petrus/Peter Ou/吴国盛, catechist/businessman/martyr, 11/7
 
-Lujiapo, Qinghe County, Hebei Province (or is the Lujiapo in Hubei
-Province?)
+Lujiapo, Qinghe County, Hebei Province (or is the Lujiapo in Hubei Province?)
 
 - ???
 
@@ -289,8 +266,7 @@ Province?)
 
   - St. Yangzhi Lang, mother/wife/martyr, 7/16 & 9/28
 
-Lujiazhuang village, Zhoucun town, Jizhou district, Hengshui City, Hebei
-Province
+Lujiazhuang village, Zhoucun town, Jizhou district, Hengshui City, Hebei Province
 
 - ???
 
@@ -304,32 +280,27 @@ Jesuit College (No. 4 St. Augustine's Square)
 
 - St. Joseph Church at Iao Hon
 
-Humerus bone of St. Francis Xavier
+  - Humerus bone of St. Francis Xavier
 
 - Cemitério de São Miguel
 
-  - Fr. Gaetano Nicosia, SDB, priest, d. 11/6/2017 (on the way to being
-    a Servant of God)
+  - Fr. Gaetano Nicosia, SDB, priest, d. 11/6/2017 (on the way to being a Servant of God)
 
 - ???
 
-- Bl. Johann Kaspar Kratz, SJ, missionary/martyr, 1/12 (the church in
-  which he was buried burned)
+  - Bl. Johann Kaspar Kratz, SJ, missionary/martyr, 1/12 (the church in which he was buried burned)
 
 Machiazhuang/Majiazhuang (馬家莊), Wei/Weixian county, Hebei Province
 
 - ???
 
-  - St. Andreas Wang Tianqing, 9-year-old boy/martyr, 7/22 (given a proper
-    burial)
+  - St. Andreas Wang Tianqing, 9-year-old boy/martyr, 7/22 (given a proper burial)
 
-  - St. Anna Wang (王安娜), teen laywoman/martyr, 7/22 (given a proper
-    burial)
+  - St. Anna Wang (王安娜), teen laywoman/martyr, 7/22 (given a proper burial)
 
   - St. Lucia Wang Wangzhi, laywoman/martyr, 7/22 (given a proper burial)
 
-Mao-Cheu/茂彻, Langdai/郎岱镇, Liuzhi special district/六枝特区,
-Liupanshui Prefecture-level city, Guizhou Province
+Mao-Cheu/茂彻, Langdai/郎岱镇, Liuzhi special district/六枝特区, Liupanshui Prefecture-level city, Guizhou Province
 
 - ???
 
@@ -347,8 +318,7 @@ Nangong, Hebei Province
 
   - St. Iosephus Wang Kuiju, lay martyr, 7/13
 
-Ningjin County, Hebei Province (in the town of Cao, which isn't called
-that anymore)
+Dacaozhuang Township (大曹庄乡, Dà Cáo Zhuāng Xiāng), Ningjin County, Hebei Province (in the town of Cao, which isn’t called that anymore)
 
 - ???
 
@@ -392,30 +362,23 @@ Saintly Russian Orthodox Abbess Rufina, d. August 15, 1937
 
 - 震旦大學/The former Aurora University or a nearby cemetery
 
-  - 张必达/Beda Chang/Zhang Boda, SJ, priest/martyr, d. 11/11/1951
-    (grave unmarked) (non-causa)
+  - 张必达/Beda Chang/Zhang Boda, SJ, priest/martyr, d. 11/11/1951 (grave unmarked) (non-causa)
 
-Shenzhou City, Hebei Province
+Shenzhou City, Hebei Province 
 
 - ???
 
-  - St. Ioannes Baptista Wu Mantang, lay martyr, 6/29 (supposedly in the
-    town of Xiaoluyi territory, but no such place seems to exist)
+  - St. Ioannes Baptista Wu Mantang, lay martyr, 6/29 (supposedly in the town of Xiaoluyi territory, but no such place seems to exist)(possibly Shenzhou City, Hengshui Prefecture, Hebei Province)
 
-  - St. Magdalena Du Fengju, lay martyr, 6/29 (supposedly in the town of
-    Du, but no such place seems to exist) (buried alive)
+  - St. Magdalena Du Fengju, lay martyr, 6/29 (supposedly in the town of Du, but no such place seems to exist) (buried alive) (The Du Family Village has been merged into Shenzhou City [深州].)
 
-  - St. Maria Du Tianshi, lay martyr, 6/29 (supposedly in the town of
-    Du, but no such place seems to exist) (buried alive)
+  - St. Maria Du Tianshi, lay martyr, 6/29 (supposedly in the town of Du, but no such place seems to exist) (buried alive) (The Du Family Village has been merged into Shenzhou City [深州].)
 
-  - St. Paulus Wu Anju, lay martyr, 6/29 (supposedly in the town of
-    Xiaoluyi territory, but no such place seems to exist)
+  - St. Paulus Wu Anju, lay martyr, 6/29 (supposedly in the town of Xiaoluyi territory, but no such place seems to exist)(possibly Shenzhou City, Hengshui Prefecture, Hebei Province)
 
-  - St. Paulus Wu Wanshu, lay martyr, 6/29 (supposedly in the town of
-    Xiaoluyi territory, but no such place seems to exist)
+  - St. Paulus Wu Wanshu, lay martyr, 6/29 (supposedly in the town of Xiaoluyi territory, but no such place seems to exist)(possibly Shenzhou City, Hengshui Prefecture, Hebei Province)
 
-Shuanzhong (maybe Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区)
-district, Metropolitan City of Tianjin
+Shuanzhong (maybe Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区) district, Metropolitan City of Tianjin
 
 - ???
 
