@@ -380,7 +380,7 @@ Alexandria
 
 al-Ghūrīya/Haret el-Roum, Cairo
 
-- St. Mary Church ( Coptic: ϯⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ϯⲑⲉⲟⲇⲟⲕⲟⲥ ⲉⲑ̅ⲩ̅ ⲙⲁⲣⲓⲁ ⲛ̀ϯⲣⲁⲃⲏ ⲛ̀ⲣⲱⲙⲉⲟⲥ; Arabic: [كنيسة العذراء المغيثة])
+- St. Mary Church (Coptic: ϯⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ϯⲑⲉⲟⲇⲟⲕⲟⲥ ⲉⲑ̅ⲩ̅ ⲙⲁⲣⲓⲁ ⲛ̀ϯⲣⲁⲃⲏ ⲛ̀ⲣⲱⲙⲉⲟⲥ; Arabic: [كنيسة العذراء المغيثة])
 
   - Burial place of many Coptic popes
 
@@ -420,14 +420,13 @@ Asyū (aka, Lycopolis)
 
 Cairo
 
-- [كاتدرائية سيدة مصر]{dir="rtl"}/Coptic Catholic Cathedral of Our Lady of
+- [كاتدرائية سيدة مصر]Coptic Catholic Cathedral of Our Lady of
   Egypt (39 Mustafa Fahmi Street)
 
   - Servant of God (née Andraos) Stéphanos II Ghattas ([إسطفانوس الثاني
-    غطاس]{dir="rtl"}), CM, eparch/cardinal, d. 1/20/2009
+    غطاس]{), CM, eparch/cardinal, d. 1/20/2009
 
-- Orthodox Coptic Cathedral of St. Mark (located in Deir El-Anba Rowais,
-  Abbassiya)
+- Orthodox Coptic Cathedral of St. Mark (located in Deir El-Anba Rowais, Abbassiya)
 
   - St. Athanasius, patriarch of Alexandria, 5/2 (relics only)
 
@@ -452,6 +451,7 @@ Cairo
 Cairo, Zeitoun district (الزيتون)
 
   - Coptic Church of the Virtgin Mary of Zeitoun([كنيسة العذراء مريم ]) (Tomanbay Street, 122 / 122 (شارع تومانباي)
+
     - Apparitions of Our Lady, Mother of All Peoples
 
 Damietta ([دمياط]), Damietta governorate
@@ -503,9 +503,7 @@ Minya (El Minya)
 Need to research:
 
 Deir El Barsha
-
 Deir El Adra
-
 - Abu Hur Church (converted Pelsium to Christianity)
 
 Mount Sinai ([جَبَل مُوسَىٰ])
@@ -516,7 +514,7 @@ Mount Sinai ([جَبَل مُوسَىٰ])
 
   - St. [ميناس سيناء]{dir="rtl"}/Menas of Sinai, abbot, 1/5
 
-- Qasr Hur/[قصر هور]{dir="rtl"} (The monastery is situated in the Western or Libyan desert, not far from the cultivated land of the Nile valley, around 300 km south of Cairo, northwest of al-Ashmunayn, around 2 km from the village of Qasr Hur, and east of the village of Beni Khaled.)
+- Qasr Hur/[قصر هور] (The monastery is situated in the Western or Libyan desert, not far from the cultivated land of the Nile valley, around 300 km south of Cairo, northwest of al-Ashmunayn, around 2 km from the village of Qasr Hur, and east of the village of Beni Khaled.)
 
 - Monastery of Abu Fanah
 
@@ -551,7 +549,9 @@ Thmuis/Tmui, today\'s Tell el-Timai or Nitria (also called the Mountain of Nitri
 Wadi El Natrun/وادي النطرون, Beheira Governorate, Nitrian Desert (aka, Scetes Desert)
 
 - Monastery of St. John the Dwarf
+
   - St. John Colobus (aka, Kolobus) the Dwarf, hermit and abbot, 10/17
+
 - Monastery of St. Macarius the Great
   -	النبي اليشع/Elisha the Prophet
   - St. يوحنا السابق/John the Baptist
@@ -642,8 +642,7 @@ Aksum/Axum/ኣኽሱም, Central Zone, Tigray region (far north of the country)
 
 - ደብረ ዳሞ/Debre Damo
 
-  - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at Abba
-    Pantelewon Monastery)
+  - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at Abba Pantelewon Monastery)
 
 - ገዳም ኣባ ፓንተለዎን/Monastery of Abba Pantelewon
 
@@ -719,9 +718,7 @@ Gikondi, Mukurweini, Nyeri
 
   - Bl. Irene (nee Aurelia Mercede "Nyaatha") Stefani, religious, 10/31
 
-  - Servant of God Mariano Wachira Gichohi and 20 Companions, martyrs, d.
-    12/9/1952 (only 3-4 of the martyrs are buried here and these 3-4 all
-    share the death date of Dec. 9)
+  - Servant of God Mariano Wachira Gichohi and 20 Companions, martyrs, d. 12/9/1952 (only 3-4 of the martyrs are buried here and these 3-4 all share the death date of Dec. 9)
 
 Nairobi
 
@@ -873,6 +870,12 @@ Aokpe, north of Gwarinpa, due west of Abuja
 
   - Our Lady of Aokpe visions, 8/4
 
+Illah, Delta State
+
+- Holy Cross Monastery
+
+  - Servant of God Abraham Anselm Isidahome Ojefua, priest, 7/28/1988
+
 Jos, Plateau State
 
 - Cathedral of Our Lady of Fatima
@@ -894,11 +897,9 @@ Onitsha, Anambra State
 
   - Servant of God Joseph (Ignatius) Shanahan, CSSp, bishop/founder, d. 12/25/1943
 
-Other Nigerian Servants of God:
-
-Fr. Abraham Anselm Ojefua d. 1988
-Bishop Michael Eneja, d. 2008
-Fr. Aaron Ejikemeuwa Ekwu, d. 1989
+Other Nigerian Servants of God (their burial places are not known):
+Servant of God Michael Ugwujua Eneja, bishop, d. 11/17/2008
+Servant of God Aaron Ejikemeuwa Ekwu, priest, 4/2/1989
 
 # Réunion
 
@@ -964,7 +965,7 @@ Wau, Western Bahr el Ghazal
 
 - ???
 
-  - Servant of God Giosuè dei Cas, Comboni religious, d. 12/4/1932
+  - Servant of God Giosuè dei Cas, MCCJ, religious, d. 12/4/1932
 
 # Tanzania
 
@@ -972,20 +973,19 @@ Butiama, Butiama District, Mara Region, northern Tanzania
 
 - Mwalimu Julius Kambarage Nyerere Museum
 
-  - Servant of God Julius Mwalimu Nyerere, first President of the nation, d.
-    10/14/1999
-
-Kalenga ward, Tosamaganga village, Iringa Rural district, Iringa region
-
-- Tosamaganga cemetery
-
-  - Servant of God Francesco Cagliero, IMC, bishop, d. 10/22/1935 (he is buried in a large-ish white and blue tomb)
+  - Servant of God Julius Mwalimu Nyerere, first President of the nation, d. 10/14/1999
 
 Peramiho, Maposeni, Songea Rural district
 
 - ???
 
   - Servant of God Bernadeta (nee Klara) Mbawala, OSB, nun of St. Agnes Convent of Chipole, d. 11/29/1950 (may be buried at the convent)
+
+Tosamaganga village, Kalenga ward, Iringa Rural district, Iringa region
+
+- Tosamaganga cemetery
+
+  - Servant of God Francesco Cagliero, IMC, bishop, d. 10/22/1935 (he is buried in a large-ish white and blue tomb)
 
 Possible saints:
 
