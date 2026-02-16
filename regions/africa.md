@@ -925,11 +925,17 @@ Kigali
 
 # Senegal
 
-Dakar
+Ngazobil, M’bour department, Thiès region
 
-- ???
+- Petit Séminaire Saint Joseph de Ngasobil/St. Joseph de Ngasobil Seminary
 
-  - Servant of God Aloÿs Kobès, priest/founder, d. 10/11/1872
+  - Servant of God Aloÿs Kobès, bishop/founder, d. 10/11/1872
+
+Popenguine
+
+- Basilique Notre-Dame de la Délivrance/Notre-Dame-de-la-Délivrande/Basilica of Our Lady of Deliverance
+
+  - Shrine of the Black Madonna (Our Lady of Deliverance)
 
 # South Africa
 
