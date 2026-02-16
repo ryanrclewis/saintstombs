@@ -2961,6 +2961,8 @@ Paris
 - Maison mère vincentienne/Congrégation de la Mission/Congregation of the Mission/ Chapelle Saint-Vincent-de-Paul de Paris/Chapel of St. Vincent de Paul (95, rue de Sèvres)
   - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11
   - St. Vincent de Paul, CM, priest/founder, 9/27
+- Maison-mère de la Congrégation du Saint-Esprit/Motherhouse of the Congregation of the Holy Spirit (30, rue Lhomond on Montagne Sainte-Geneviève in the 5th arrondissement)
+  - Ven. François Libermann, CSSp, founder/con from Judaism, d. 2/2/1852
 - Shrine of Notre Dame de la Salette
   - Ven. Jean-Léon Le Prevost, SSVP, founder, d. 10/30/1874
   - Bl. Mathieu-Henri Planchat, SSVP, priest/martyr, 5/26
