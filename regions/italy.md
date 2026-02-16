@@ -5037,6 +5037,12 @@ Gualdo Tadino, Province of Perugia, Umbria region
 
   - Bl. Angelo da Gualdo Tadino, OSB Cam., hermit, 1/15
 
+Guastalla, Province of Reggio Emilia, Emilia-Romagna region
+
+- Santuario della Beata Vergine della Porta/Sanctuary of the Blessed Virgin of the Gate
+
+  - Icon of the Madonna near the Porta di San Francisco, 2/5
+
 Gubbio
 
 - Cattedrale dei Santi Mariano e Giacomo
