@@ -948,7 +948,14 @@ Lyons, Rice County, Kansas
 Madison, Wisconsin
 
 - Schoenstatt Heights (5901 Cottage Grove Road)
+
   - Marian Shrine (aka, The Founder Shrine)
+
+Malvern, Chester County, Pennsylvania
+
+- Malvern Retreat House
+
+  - St. Carlo Acutis Shrine & Center For Eucharistic Encounter
 
 Manderson, Oglala Lakota County, South Dakota
 
