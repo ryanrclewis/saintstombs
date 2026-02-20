@@ -682,8 +682,6 @@ Harrisburg, Pennsylvania
 
 Harrisville, Providence County, Rhode Island
 
-- St. Theresa Church (7 Dion Dr.)
-  - Shrine of the Little Flower
 
 Hawthorne, Westchester County, New York
 
