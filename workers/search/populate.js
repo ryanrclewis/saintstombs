@@ -121,8 +121,11 @@ function parseRegionFile(content, regionLabel) {
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
+// Files to skip (about page and reformatted variants that duplicate other files)
+const SKIP_FILES = new Set(['about.md', 'italy-middle-formatted.md']);
+
 const files = readdirSync(REGIONS_DIR).filter(
-  (f) => f.endsWith('.md') && f !== 'about.md' && !f.includes('formatted')
+  (f) => f.endsWith('.md') && !SKIP_FILES.has(f)
 );
 
 const allRows = [];

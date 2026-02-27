@@ -7,6 +7,13 @@
 
 const WORKER_URL = 'https://saintstombs-search.<YOUR_SUBDOMAIN>.workers.dev';
 
+if (WORKER_URL.includes('<YOUR_SUBDOMAIN>')) {
+    console.warn(
+        'SaintsTombs: WORKER_URL is not configured. ' +
+        'Open search.js and replace <YOUR_SUBDOMAIN> with your Cloudflare Workers subdomain.'
+    );
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('search-form');
     const input = document.getElementById('search-input');

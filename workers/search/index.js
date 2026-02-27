@@ -56,7 +56,8 @@ async function handleRegions(env) {
 async function handleSearch(url, env) {
   const q = (url.searchParams.get('q') || '').trim();
   const region = (url.searchParams.get('region') || '').trim();
-  const limit = Math.min(parseInt(url.searchParams.get('limit') || '50', 10), 200);
+  const limitParam = parseInt(url.searchParams.get('limit') || '50', 10);
+  const limit = isNaN(limitParam) ? 50 : Math.min(limitParam, 200);
 
   if (!q) {
     return json({ error: 'Missing query parameter "q"' }, 400);
