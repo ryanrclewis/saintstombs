@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SaintsTombs - Search</title>
+    <meta name="description" content="Search for saints, martyrs, and holy figures by name or location across every region.">
+    <meta property="og:title" content="Search SaintsTombs - Sacred Pilgrimage Sites">
+    <meta property="og:description" content="Search for saints, martyrs, and holy figures by name or location across every region.">
+    <meta property="og:image" content="https://saintstombs.com/cover.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://saintstombs.com/search.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Search SaintsTombs">
+    <meta name="twitter:description" content="Search for saints, martyrs, and holy figures by name or location.">
+    <meta name="twitter:image" content="https://saintstombs.com/cover.png">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body class="explorer-page">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <div class="background-globes"></div>
+
+    <header class="glass-header">
+        <a href="index.html" class="logo-link">
+            <div class="logo">Saints<span>Tombs</span></div>
+        </a>
+        <button class="menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">☰</button>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="about.html">About</a></li>
+                <li><a href="saints.html">Explore</a></li>
+                <li><a href="search.html" class="active">Search</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="donate.html" class="nav-donate">Donate</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="explorer-container" id="main-content">
+        <header class="explorer-header">
+            <h1 class="text-gradient">Search Saints</h1>
+            <p>Find saints, martyrs, and holy figures by name or location.</p>
+        </header>
+
+        <section class="explorer-controls glass" aria-label="Search controls">
+            <form id="search-form" role="search">
+                <div class="search-row">
+                    <div class="filter-group search-input-group">
+                        <label for="search-input">Search</label>
+                        <input
+                            type="search"
+                            id="search-input"
+                            name="q"
+                            placeholder="e.g. Francis, Peter, Rome…"
+                            autocomplete="off"
+                            aria-label="Search for saints"
+                        >
+                    </div>
+                    <div class="filter-group">
+                        <label for="region-filter">Region (optional)</label>
+                        <select id="region-filter" name="region" aria-label="Filter by region">
+                            <option value="">All Regions</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn-primary search-btn">Search</button>
+                </div>
+            </form>
+        </section>
+
+        <section id="search-results" class="markdown-content glass" aria-live="polite" aria-label="Search results">
+            <div class="empty-state">
+                <p>Enter a name or location above to search the database.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="glass">
+        <p>BKO. ALL RIGHTS RESERVED. BUILT BY <a href="https://archangel-laboratories.com/" target="_blank" rel="noopener noreferrer" aria-label="Archangel Laboratories (opens in new window)">ARCHANGEL LABORATORIES</a>.</p>
+    </footer>
+
+    <div class="background-overlay"></div>
+    <script src="search.js"></script>
+    <script src="global.js"></script>
+</body>
+
+</html>
