@@ -5,7 +5,7 @@
  * Replace WORKER_URL with your deployed Worker URL after setup.
  */
 
-const WORKER_URL = 'https://saintstombs-search.myaccount.workers.dev';
+const WORKER_URL = 'saintstombs-search.ryanrclewis.workers.dev';
 
 if (WORKER_URL.includes('<YOUR_SUBDOMAIN>')) {
     console.warn(
