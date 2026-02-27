@@ -7,7 +7,7 @@ Alexandria, Hanson County, South Dakota
 
 Allenspark, Boulder County, Colorado
 
-St. Catherine of Siena Chapel, or "the Chapel on the Rock."
+- St. Catherine of Siena Chapel, or "the Chapel on the Rock."
 
 Allentown, Lehigh County, Pennsylvania
 
@@ -754,6 +754,10 @@ Isle La Motte, Grand Isle County, Vermont
 
 - The Mission of Saint Anne's Shrine (92 St Annes Road)
   - St. Anne's Shrine
+
+Jasper, Dubois County, Indiana
+
+- Mother of God Geode Grotto and St. Joseph Shrine (520 W. 9th Street)
 
 Jamesburg, Middlesex County, New Jersey
 
@@ -1572,6 +1576,7 @@ San Diego, California
 
 - Mission San Diego de Acala (10818 San Diego Mission Rd.)
   - Fr. Luis Jayme, OFM (née Melcio Jaume Vallespir), priest/martyr, d. 11/5/1775 (_non-causa_)(before the sanctuary)
+  - Shrine Grotto of Our Lady of Guadalupe
 - St. Jude Shrine of the West (1129 S. 38th St.)
 
 San Elizario, El Paso County, Texas
@@ -1587,6 +1592,7 @@ San Francisco, California
   - Shrine of St. Jude
 - Holy Virgin Orthodox Cathedral/Cathedral of the Theotokos, Joy of All Who Sorrow (6210 Geary Blvd.)
   - St. John of Shanghai and San Francisco "the Wonderworker" (Mikhail Borisovich Maximovitch), hierarch, 6/4 and 17, as well as 7/2 and 15 (incorrupt)
+- The Camino de San Francisco has been developed connecting a path from Mission San Rafael Archangel in Marin County to Mission San Francisco de Asis (Mission Dolores) in San Francisco
 
 San Gabriel, Los Angeles County, California
 
