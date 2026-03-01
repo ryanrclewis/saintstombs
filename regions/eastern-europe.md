@@ -225,18 +225,23 @@ Nowogrodek/Navahradak/Наваградак, Hrodna voblast Province
 
 Pierszaje (Пяршаі), Volozhinsky region, Minsk oblast
 
-Kościele parafialnym pw. św. Jerzego
+- Kościele parafialnym pw. św. Jerzego
 
   - Bl. (Józef) Achilles Puchała, OFM Conv., priest/martyr, 7/19
 
   - Bl. Hermann (Karol) Stępień, OFM, priest/martyr, 7/19
 
-Polatsk (aka, Potolsk and Polotsk)
+Pinsk/Пінск, Brest Region, Belarus
 
-- Savior-Eufrosinia Convent
+- Кафедральны касцёл Унебаўзяцця Найсвяцейшай Дзевы Марыі і кляштар францысканцаў (Пінск)/Cathedral Church of the Assumption of the Blessed Virgin Mary(вуліца Леніна 16/18/Lenina Street 16/18)
 
-  - St. Euphrosyne/Yefrasinnya of Polotsk (Еўфрасіння Полацкая), religious,
-    5/23
+  - Ven. Zygmunt Łoziński/Зыгмунт Лазінскі, bishop, d. 3/26/1932
+
+Polotsk, Polotsk District, Vitebsk Region
+
+- Спаса-Ефрасіннеўскі манастыр/Savior-Eufrosinia Convent (вул. Еўфрасінні Полацкай, 89/Evfrosyniyi Polotskoy Street, 89)
+
+  -St. Euphrosyne/Yefrasinnya of Polotsk (Еўфрасіння Полацкая), religious, 5/23 (inside Царква Узвышэння Крыжа Гасподняга/Church of the Exaltation of the Cross)
 
 Słonim/Слонім, Slonim District, Grodno Region
 
@@ -540,8 +545,7 @@ Vodnjan, Istria County (near Pula)
 
 Zagreb
 
-Katedrala Uznesenja Blažene Djevice Marije i svetih Stjepana i
-Ladislava/Zagreb Cathedral
+- Katedrala Uznesenja Blažene Djevice Marije i svetih Stjepana i Ladislava/Zagreb Cathedral
 
   - Bl. Alojzije Stepinac, bishop/martyr, 2/10
 
@@ -560,6 +564,10 @@ Ladislava/Zagreb Cathedral
   Mary
 
   - Ven. Josip Lang, bishop, d. 11/1/1924
+
+- Crkva sv. Franje/St. Francis Church (Kaptol 9)
+
+  - Ven. Vendelin (né Mihael) Vošnjak, OFM, priest, d. 3/18/1933
 
 - Groblje Mirogoj/Mirogoj Cemetery
 
@@ -1382,11 +1390,15 @@ Budapest, Rákoskeresztúr (Budapest\'s 17th district)
   - Bl. Sándor István/István Sándor, SDB, religious/martyr, d. 6/8/1953
     (plot 301)
 
-Esztergom, Esztergom district, Komárom-Esztergom County,
-Közép-Dunántúl/Central Transdanubia region
+Érd, Érdi járás, Pest 
 
-Esztergomi bazilika/Nagyboldogasszony és Szent Adalbert
-Főszékesegyház/Cathedral of Our Lady and St. Adalbert
+- Szent Mihály-Templom (Szent Mihály tér 1)
+
+  - Ven. Mária Margit Etelka Bogner, VSM, religious, d., 5/13/1933
+
+Esztergom, Esztergom district, Komárom-Esztergom County, Közép-Dunántúl/Central Transdanubia region
+
+- Esztergomi bazilika/Nagyboldogasszony és Szent Adalbert Főszékesegyház/Cathedral of Our Lady and St. Adalbert
 
   - Servant of God József Mindszenty, cardinal, d. 5/6/1975
 
@@ -1398,16 +1410,13 @@ Főszékesegyház/Cathedral of Our Lady and St. Adalbert
   - Bl. Zoltán Lajos Meszlényi, auxiliary bishop/martyr of the communists,
     3/4
 
-Gyor/Győr/Raab, Győr district, Győr-Moson-Sopron County, Western
-Transdanubia region
+Gyor/Győr/Raab, Győr district, Győr-Moson-Sopron County, Western Transdanubia region
 
-- Mennyekbe Fölvett Boldogságos Szűz Mária/Cathedral Basilica of the
-  Assumption of Our Lady
+- Mennyekbe Fölvett Boldogságos Szűz Mária/Cathedral Basilica of the Assumption of Our Lady
 
   - Bl. Apor Vilmos/Vilmor Apor, bishop/martyr, 4/2
 
-Weeping Irish Madonna icon (It shed tears of blood for three hours on
-March 17, 1697)
+  - Weeping Irish Madonna icon (It shed tears of blood for three hours on March 17, 1697)
 
 - Ruined Monastery of Győr
 
@@ -1670,13 +1679,13 @@ Ohrid
 
 Blata l-Bajda
 
-Soċjetà tad-Duttrina Nisranija (MUSEUM)/Society of Christian Doctrine
+- Soċjetà tad-Duttrina Nisranija (MUSEUM)/Society of Christian Doctrine
 
 - St. George Preca/Ġorġ Preca, priest/founder, 7/26 (in the crypt chapel)
 
 Floriana/Borgo Vilhena, Port Region area
 
-Casa della Madonna di Manresa (archdiocesan curia)
+- Casa della Madonna di Manresa (archdiocesan curia)
 
   - St. Calcedonio, martyr, 9/7
 
@@ -1684,7 +1693,7 @@ Gozo
 
 - Shrine of Our Lady of Ta' Pinu
 
-Il-Madonna ta' Pinu/Blessed Virgin of Ta\' Pinu, 6/22
+  - Il-Madonna ta' Pinu/Blessed Virgin of Ta\' Pinu, 6/22
 
   - Servant of God Mikiel Attard, priest, d. 7/30/2004
 
@@ -1714,6 +1723,12 @@ Paola, Southern Harbour
 
   - Servant of God Nazzareno (née Grazzja) Gauci, OSA, priest, d. 2/8/2005
 
+Raħal Ġdi/Paola, Malta
+
+- Ċimiterju tal-Addolorata/Addolorata Cemetery (134 Vjal Santa Lucija)
+
+  - Servant of God Ġużeppi/Giuseppe De Piro, MSSP, priest/founder, d. 9/17/1933
+
 Valletta
 
 - St. Mary of Jesus Friary, Chapel of the Immaculate Conception
@@ -1722,7 +1737,7 @@ Valletta
 
 - Id-Damaxxena/Church of Our Lady of Damascus (132 A Archbishop Street)
 
-Icon of Our Lady of Damascus
+  - Icon of Our Lady of Damascus
 
 - Santa Maria Addolorata Cemetery
 
@@ -1736,23 +1751,19 @@ Icon of Our Lady of Damascus
 
 Victoria/Rabat, Western District, Western Region
 
-- Kunvent u Dar Madre tas-Sorijiet Franġiskani tal-Qalb ta' Ġesù/Convent
-  and Mother House of the Franciscan Sisters of the Heart of Jesus (Triq
-  Palma)
+- Kunvent u Dar Madre tas-Sorijiet Franġiskani tal-Qalb ta' Ġesù/Convent and Mother House of the Franciscan Sisters of the Heart of Jesus (Triq Palma)
 
-  - Ven. Margerita tal-Qalb ta' Ġesù (née Virginia de Brincat)/Margaret of
-    the Sacred Heart of Jesus (née Virginia de Brincat), cofoundress, d.
-    1/22/1952 (at the entrance to the chapel)
+  - Ven. Margerita tal-Qalb ta' Ġesù (née Virginia de Brincat)/Margaret of the Sacred Heart of Jesus (née Virginia de Brincat), cofoundress, d. 1/22/1952 (at the entrance to the chapel)
 
 Żebbuġ
 
-San Filep ta' Agira/St. Philip of Agira
+- San Filep ta' Agira/St. Philip of Agira
 
   - Servant of God Ewgenju Borg, superior general, d. 3/12/1967
 
-Żejtun, South Eastern Region of Malta
+Żejtun, South Eastern Region
 
-Istitut Ġesù Nazaret/Jesus of Nazareth Institute
+- Istitut Ġesù Nazaret/Jesus of Nazareth Institute
 
   - Servant of God Emanuel Galea, bishop, d. 8/21/1974
 
@@ -2943,24 +2954,27 @@ Warsaw
 
 - Kościół św. Elżbiety Powsin/Church of St. Elisabeth Powsin
 
-Matka Boża Tęskniąc/Our Lady of Longing, 6/26
+  - Matka Boża Tęskniąc/Our Lady of Longing, 6/26
 
 - Kościół św. Jacka w Warszawie/St. Jacek\'s Church
 
   - Servant of God Jacek (nee Adam) Woroniecki, OP, priest/writer/founder,
     d. 5/18/1949
 
+- Kościół św. Klemensa Hofbauera w Warszawie (Karolkowa 49)
+
+  - Ven. Bernard Alojzy Łubieński, CSsR, priest, "the Apostle of Poland," d. 9/10/1933
+
 - Kościół św. Marcina/St. Martin Church (ulica Piwna 9/11, 00-265 Warszawa
   in Old Town)
 
   - Ven. Władysław Korniłowicz, priest, d. 9/26/1946
 
-- Kościół św. Stanisława Kostki/St. Stanisław Kostka Church (Kardynała
-  Stanisława Hozjusza 2)
+- Kościół św. Stanisława Kostki/St. Stanisław Kostka Church (Kardynała Stanisława Hozjusza 2)
 
   - Bl. Jerzy Popiełuszko, priest/martyr, 10/19
 
-Parafia bł. Władysława z Gielniowa w Warszawie
+- Parafia bł. Władysława z Gielniowa w Warszawie
 
   - Bl. Ladislas of Gielniów (Władysław z Gielniowa), OFM Cap, priest, 5/4
     (relic only)
@@ -2972,38 +2986,33 @@ Parafia bł. Władysława z Gielniowa w Warszawie
 
 - Cmentarzu Powązkowskim/Powązki Cemetery
 
-  - Bl. Edward Detkens, priest/martyr, 10/10 (empty, symbolic grave only
-    since he was killed at Dachau)
+  - Bl. Edward Detkens, priest/martyr, 10/10 (empty, symbolic grave only since he was killed at Dachau)
 
   - Bl. Ignacy Kłopotowski, priest, 9/7
 
-- Solec cemetery
+- Solec Cemetery
 
   - Bl. Jozef Stanek, priest/martyr, 9/23 & 6/12
 
 - ???
 
-  - Servant of God Maria Hilaria od Imienia Jezus (nee Emilia) Główczyńska,
-    SCM, religious, d. 9/17/1939 (she died from being hit by a Nazi shell
-    fragment and is likely buried in a mass grave; her body was never found)
+  - Servant of God Maria Hilaria od Imienia Jezus (nee Emilia) Główczyńska, SCM, religious, d. 9/17/1939 (she died from being hit by a Nazi shell fragment and is likely buried in a mass grave; her body was never found)
 
-Wieliczka, Wieliczka County, Lesser Poland voivodeship/Województwo
-małopolskie
+Wieliczka, Wieliczka County, Lesser Poland voivodeship/Województwo małopolskie
 
-Kościół klasztorny Franciszkanów (Reformatów)
+- Kościół klasztorny Franciszkanów (Reformatów)
 
   - Ven. Alojzy (nee Piotr) Kosiba, OFM, religious, d. 1/4/1939
 
 Włocławek, Kuyavian-Pomeranian voivodeship
 
-Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny/Włocławek
-Cathedral
+- Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny/Włocławek Cathedral
 
   - Servant of God Wojciech Owczarek, bishop/founder, d. 9/30/1938
 
 Wroclaw/Wrocław (aka, Breslau)
 
-Archikatedra św. Jana Chrzciciela we Wrocławiu
+- Archikatedra św. Jana Chrzciciela we Wrocławiu
 
   - Bl. Benigna of Wrocław/Benigna z Wrocławia, SOCist., virgin/martyr, 6/20
 
@@ -3011,7 +3020,7 @@ Archikatedra św. Jana Chrzciciela we Wrocławiu
 
   - St. Zygmunt Gorazdowski, founder, 1/1
 
-Kościół dominikański św. Wojciecha
+- Kościół dominikański św. Wojciecha
 
   - Bl. Ceslas (aka Czesław) Odrowąż, OP, preacher, 7/15
 
@@ -3026,7 +3035,7 @@ Kościół dominikański św. Wojciecha
 
 Wschowa, Wschowa County, Lubusz Voivodeship
 
-Cmentarzu parafialnym we Wschowie
+- Cmentarzu parafialnym we Wschowie
 
   - Servant of God Anna (Maria Iwona) Król, religious, d. 8/8/1990
 
@@ -3038,15 +3047,13 @@ Zabawa, Radłów gmina, Tarnów county, Lesser Poland voivodeship
 
 Żarki, Leśniów district, Myszków County, Silesian Voivodeship
 
-Sanktuarium Matki Bożej Leśniowskiej Patronki Rodzin
+- Sanktuarium Matki Bożej Leśniowskiej Patronki Rodzin
 
-Matki Bożej Leśniowskiej/Our Lady of Lesniów, 7/2
+  - Matki Bożej Leśniowskiej/Our Lady of Lesniów, 7/2
 
 Żary, Żary County, Lubusz Voivodeship
 
-Parafialnego kościoła Wniebowzięcia NMP ("obok głównego wejścia
-miejscowego parafialnego kościoła Wniebowzięcia NMP")/Church of the
-Assumption of the Blessed Virgin Mary
+- Parafialnego kościoła Wniebowzięcia NMP ("obok głównego wejścia miejscowego parafialnego kościoła Wniebowzięcia NMP")/Church of the Assumption of the Blessed Virgin Mary
 
   - Bl. Juliana Edelburgis Kubitzki, martyr, 2/20
 
