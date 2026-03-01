@@ -197,7 +197,7 @@ Santa Maria Maddalena
   - Bl. Margherita di Savoia/Margaret of Savoy, OP, prioress/visionary,
     11/23
 
-San Paolo Apostolo
+- San Paolo Apostolo
 
   - Ven. Riccardo Andrea Maria Borello, Paulist brother, d. 9/4/1948
 
@@ -212,7 +212,7 @@ San Paolo Apostolo
 
 Albacina village, Fabriano comune, Province of Ancona, Le Marche region
 
-San Venanzio
+- San Venanzio
 
   - St. Venanzio di Luni, bishop, 10/14
 
@@ -281,8 +281,11 @@ Alessandria, Province of Alessandria, Piemonte region
 
   - Bl. Guglielmo Zucchi, priest, 2/7
 
-Casa Madre di Istituto Divina Provvidenza (Piazza della Divina
-Provvidenza, 10)
+- Santuario Nostra Signora di Lourdes 
+
+  - Ven. Carolina Beltrami, foundress, d. 4/8/1932
+
+- Casa Madre di Istituto Divina Provvidenza (Piazza della Divina Provvidenza, 10)
 
   - Bl. Maria Antonia (née Teresa) Grillo Michel, PSDP, widow/foundress,
     1/25 (she died here, but is she buried here?)
@@ -415,7 +418,7 @@ Regina Sanctorum Omnium, icon
 
   - Bl. Gabriel Ferretti, OFM, priest, 11/9
 
-San Primiano (destroyed during WWII)
+- San Primiano (destroyed during WWII)
 
   - St. Primiano of Ancona, bishop/martyr, 2/23 (relics destroyed)
 
@@ -430,8 +433,7 @@ San Primiano (destroyed during WWII)
 
   - St. Sisinnius
 
-  - St. Oliver of Ancona, OSB, monk, 2/3 (he died at Santa Maria di
-    Portonovo, but where he is buried?)
+  - St. Oliver of Ancona, OSB, monk, 2/3 (he died at Santa Maria di Portonovo, but where he is buried?)
 
 Andria, Province of Barletta-Andria-Trani, Puglia region
 
@@ -443,8 +445,7 @@ Andria, Province of Barletta-Andria-Trani, Puglia region
 
 - ???
 
-  - Ven. Giuseppe della Vergine (née Giuseppe di Donna), OSsT, bishop, d.
-    1/2/1952
+  - Ven. Giuseppe della Vergine (née Giuseppe di Donna), OSsT, bishop, d. 1/2/1952
 
 Angri, Province of Salerno, Campania
 
@@ -467,7 +468,7 @@ Aosta, Aosta Valley region
 - St. Gratus of Aosta, bishop, 9/7 (some say he is buried in his tomb in
   Saint-Christophe, just east of here)
 
-Sant'Orso
+- Sant'Orso
 
   - St. Gratus of Aosta, bishop, 9/7 (some sources say he is buried in the
     duomo)
@@ -544,7 +545,7 @@ Arezzo, Province of Arezzo, Toscana/Tuscany region
 
   - Bl. Benedetto Sinigardi da Arezzo, Franciscan, 3/3
 
-La Badia delle Sante Flora e Lucilla
+- La Badia delle Sante Flora e Lucilla
 
   - Ss. Flora of Rome and Lucilla, martyrs (likely fictional), 7/29 (their
     relics are in the altar dedicated to St. Rita of Cascia)
@@ -1094,7 +1095,7 @@ Santa Sophia
 
   - St. Bartholomew
 
-- Anti-pope Callixtus III (died in the good graces of the Church)
+  - Anti-pope Callixtus III (died in the good graces of the Church)
 
   - St. Deodatus (aka, Deodato) of Nola, bishop, 6/26
 
@@ -1352,7 +1353,7 @@ Bologna, Province of Bologna, Emilia-Romagna region
 
   - St. Zamas/Zama, first bishop of that city 1/24
 
-San Domenico
+- San Domenico
 
   - St. Dominic Guzman, OP, founder
 
@@ -1360,17 +1361,17 @@ San Domenico
 
   - Ven. Serafino Capponi/Porrecta, OP, theologian, d. 1/2/1614
 
-S. Giacomo Maggiore
+- San Giacomo Maggiore
 
   - Bl. Simon Rinalducci da Todi, OSA, friar, 4/20
 
-San Giovanni in Monte
+- San Giovanni in Monte
 
   - Bl. Helen/Elena Domini
 
   - Bl. Elena Duglioli Dall'Olio, widow, 9/23 (incorrupt)
 
-Santa Maria di Campagna
+- Santa Maria di Campagna
 
   - Bl. Marco Fantuzzi, OFM, religious, 4/10
 
@@ -1378,8 +1379,7 @@ Santa Maria di Campagna
 
   - Ven. Venanzio Maria (née Antonio) Quadri, OSM, religious, d. 11/2/1937
 
-- Ex monastero dei Ss. Naborre e Felice detto Abbadia (via dell'Abbadia,
-  1)
+- Ex monastero dei Ss. Naborre e Felice detto Abbadia (via dell'Abbadia,   1)
 
   - St. Jucundus/Giocondo, bishop and confessor, 11/14/485 (possibly)
 
@@ -1406,11 +1406,11 @@ Santa Maria di Campagna
 
   - St. Proculus of Terni, bishop/martyr, patron of Bologna, 4/14 & 6/1
 
-San Sigismondo
+- San Sigismondo
 
   - Bl. Imelda, OP, patroness of first communicants, 5/13
 
-San Stefano
+- San Stefano
 
   - St. Archelaus/Archelao, martyr, 3/4
 
@@ -1418,9 +1418,9 @@ San Stefano
 
   - St. Giuliana of Bologna, widow, 2/7
 
-San Vitale ed Agricola in Arena
+- San Vitale ed Agricola in Arena
 
-- Ss. Vitalis and Agricola, martyrs (in the crypt), 11/4
+  - Ss. Vitalis and Agricola, martyrs (in the crypt), 11/4
 
   - Ss. Ermete, Aggeo, and Cajo, martyrs, 1/4 (relics only)
 
@@ -1438,18 +1438,18 @@ San Vitale ed Agricola in Arena
 
   - Blessed Diana d'Andalo, OP, virgin, 6/10
 
-Ancelle Adoratrici del Ss. Sacramento (via Augusto Murri, 70)
+- Ancelle Adoratrici del Ss. Sacramento (via Augusto Murri, 70)
 
   - Ven. Maria Costanza (née Palma Pasqua) Zauli, religious/foundress, d.
     4/28/1954
 
-Santuario Convento di Corpus Domini (Via Tagliapietre, 21)
+- Santuario Convento di Corpus Domini (Via Tagliapietre, 21)
 
   - St. Catherine of Bologna, religious, 3/9 (incorrupt)
 
   - Bl. Giovanna Lambertini, nun, 12/14
 
-Cappella dell'Istituto Farlottine (Via della Battaglia, 10)
+- Cappella dell'Istituto Farlottine (Via della Battaglia, 10)
 
   - Servant of God Assunta Viscardi, teacher/religious/foundress, d.
     3/9/1947
@@ -1490,7 +1490,7 @@ Bolzano, Province of South Tyrol, Trentino-Alto Adige/Südtirol region
 
 Bomarzo, Province of Viterbo
 
-Santa Maria Assunta in Cielo
+- Santa Maria Assunta in Cielo
 
   - St. Anselmo of Bomarzo, bishop, 4/24
 
@@ -1502,7 +1502,7 @@ Bonita, Province of Avellino, Campania region
 
 Bordighera, Province of Imperia, Liguria region
 
-Santa Maria Maddalena on Cape Sant'Ampelio
+- Santa Maria Maddalena on Cape Sant'Ampelio
 
   - St. Ampelio, blacksmith/hermit, 5/14
 
@@ -1514,25 +1514,23 @@ Borgo d'Ale, Province of Vercelli, Piemonte region
 
 Borgo San Lorenzo, Firenze, Toscana region
 
-San Giovanni Maggiore in Panicaglia
+- San Giovanni Maggiore in Panicaglia
 
   - Bl. Giovanni da Vespignano, layman, 7/4
 
-Borgo San Pietro, *frazione* of Petrella Salto, Province of Rieti, Lazio
-region
+Borgo San Pietro, *frazione* of Petrella Salto, Province of Rieti, Lazio region
 
 - Chiesa di S. Pietro de Molito/Il Santuario di Santa Filippa
 
   - Bl. Filippa Mareri, Franciscan religious, 2/16
 
-Borgo San Sepolcro (aka, Sansepolcro), Province of Arezzo, Toscana
-region
+Borgo San Sepolcro (aka, Sansepolcro), Province of Arezzo, Toscana region
 
 - Chiesa di Sant'Agostino/Church of St. Augustine
 
   - Bl. Angelo (Scarpetti) da Sansepolcro, OESA, hermit priest, 2/15
 
-San Francesco
+- San Francesco
 
   - Bl. Cristoforo da Pavia, OFM Conv., religious, 2/5
 
@@ -1540,7 +1538,7 @@ San Francesco
 
 - Bl. Ranieri Rasini, OFM, religious, 11/1 (in the crypt)
 
-Convento S. Maria dei Servi
+- Convento S. Maria dei Servi
 
   - Bl. Andrea/Andrew Dotti, OSM, religious, 8/31 or 9/3
 
@@ -1554,13 +1552,13 @@ Convento S. Maria dei Servi
 
 Borgo Tossignano, Province of Bologna, Emilia-Romagna region
 
-San Michele Arcangelo
+- San Michele Arcangelo
 
   - Bl. Giovanni Tavalli, bishop, 7/24 (bone from his right hand)
 
 Borgo Veneto (Megliadino San Fidenzio), Province of Padua, Veneto region
 
-San Fidenzio
+- San Fidenzio
 
   - St. Fidenzio/Fidentius of Padua, bishop, 11/17
 
@@ -1576,12 +1574,17 @@ Borgetto, Metropolitan City of Palermo, Sicily
 
   - Bl. Giuliano da Palermo, OSB, monk, 10/3
 
-Immagine Sacra della Madonna del Romitello/Sacred Image of Our Lady of
-Romitello
+  - Immagine Sacra della Madonna del Romitello/Sacred Image of Our Lady of Romitello
+
+Borgorose, Sant’Anatolia di Borgorose frazione (formerly Tabulana), Province of Rieti, Lazio region
+
+- Santuario di Sant’Anatolia
+
+  - Former tomb of St. Anatolia, laywoman/martyr, 12/23
 
 Borgosesia, Aranco frazione, Province of Vercelli, Piemonte region
 
-Parrocchia Santa Croce
+- Parrocchia Santa Croce
 
   - St. Victoria (Vittoria), martyr
 
@@ -1636,24 +1639,21 @@ Bra, Province of Cuneo, Piemonte region
 
   - St. Victoria (Vittoria), martyr (in the Cappella Santa Vittoria)
 
-Santa Maria degli Angeli
+- Santa Maria degli Angeli
 
-  - Ven. Angelico da None (née Matteo Pittavano), OFM Cap., d. 1/15/1953
+  - Ven. Angelico da None (né Matteo Pittavano), OFM Cap., d. 1/15/1953
 
-Brenzone sul Garda, Castelletto di Brenzone *frazione*, Province of
-Verona, Veneto region
+Brenzone sul Garda, Castelletto di Brenzone *frazione*, Province of Verona, Veneto region
 
-San Carlo Borromeo
+- San Carlo Borromeo
 
-  - Bl. Giuseppe Nascimbeni, priest/cofounder, 1/22 (first altar on the
-    left)
+  - Bl. Giuseppe Nascimbeni, priest/cofounder, 1/22 (first altar on the left)
 
-  - St. Maria dell'Immacolata (née Domenica) Mantovani,
-    religious/cofoundress, 2/2 (first altar on the left)
+  - St. Maria dell'Immacolata (née Domenica) Mantovani, religious/cofoundress, 2/2 (first altar on the left)
 
 Brescello, Province of Reggio Emilia, Emilia-Romagna region
 
-Santa Maria Nascente
+- Santa Maria Nascente
 
   - St. Genesius of Brescello, bishop, 8/25
 
@@ -1661,8 +1661,7 @@ Brescia, Province of Brescia, Lombardy region
 
 - Duomo Nuovo
 
-- St. Andrew the Apostle (relic only, housed in the left transept in a
-  monstrance)
+  - St. Andrew the Apostle (relic only, housed in the left transept in a   monstrance)
 
   - St. Anastasius XIII, bishop
 
@@ -1712,11 +1711,11 @@ Sant'Agata
 
   - St. Paulinus/Paolino/Paolo of Brescia, bishop, 3/4
 
-Sant\'Alessandro
+- Sant'Alessandro
 
   - St. Gaudosio/Gaudosius of Brescia, bishop, 3/7
 
-Sant'Angela Merici (or the Casa S. Angela)
+- Sant'Angela Merici (or the Casa S. Angela)
 
   - St. Afra, martyr
 
@@ -1730,8 +1729,7 @@ Sant'Angela Merici (or the Casa S. Angela)
 
   - St. Paterius (Paterio), bishop
 
-- Chiesa del Monastero delle Clarisse Cappuccine/ Capuchin Poor Clares
-  (via Arimanno, 17)
+- Chiesa del Monastero delle Clarisse Cappuccine/Capuchin Poor Clares   (via Arimanno, 17)
 
   - Bl. Maria Maddalena Martinengo, religious, 7/27
 
@@ -1739,13 +1737,12 @@ Sant'Angela Merici (or the Casa S. Angela)
 
   - St. Titian/Tiziano, bishop, 3/3
 
-Santi Faustino e Giovita
+- Santi Faustino e Giovita
 
   - St. Antigio/Antigius, bishop, 11/14 (Altar of the Nativity, 3^rd^ on
     right)
 
-  - Ss. Faustinus & Jovita, martyrs, (possibly fictitious), 2/15 (relics
-    only, under the high altar and in the Cappella del Crocifisso)
+  - Ss. Faustinus & Jovita, martyrs, (possibly fictitious), 2/15 (relics only, under the high altar and in the Cappella del Crocifisso)
 
   - St. Honorius (Onorio) of Brescia, bishop, 4/24 (Cappella del Crocifisso)
 
@@ -1796,7 +1793,7 @@ Santa Maria Immacolata
 
   - St. Lodovico Pavoni, priest, 4/1
 
-Santa Maria della Pace
+- Santa Maria della Pace
 
   - Ven. Alessandro Luzzago, SJ, priest
 
@@ -1821,19 +1818,21 @@ Seminario Diocesano di Brescia
 
   - Bl. Mosè/Moses Tovini, seminary rector, 1/28 or 6/9
 
-Motherhouse, Ancelle della carità
+- Motherhouse, Ancelle della carità (via Moretto, 33)
 
   - Bl. Lucia dell'Immacolata (née Maria) Ripamonti, religious, 7/4
 
+- Cimitero Vantiniano (Via Moretto, 33)
+
+  - Ven. Fausto Gei, layman, d. 3/27/1968
+
 - ???
 
-- St. Arealdo of Brescia, martyr, 9/1, is buried in the cathedral crypt as
-  of June 8, 1614: Which one would that be?
+  - St. Arealdo of Brescia, martyr, 9/1, is buried in the cathedral crypt as   of June 8, 1614: Which one would that be?
 
   - St. Beniamino/Benjamin of Brescia, martyr, 1/7
 
-  - St. Clateus, bishop of Brescia and martyr (nothing on seb; the 17^th^ c.
-    book, *Santuario della citta e Diocesi di Milano, nel qual si contiene
+  - St. Clateus, bishop of Brescia and martyr (the 17^th^ c. book, *Santuario della citta e Diocesi di Milano, nel qual si contiene
     il numero* says he is buried in Milan)
 
   - St. Deusdedit, bishop, 12/10 (nothing on seb)
@@ -1842,14 +1841,11 @@ Motherhouse, Ancelle della carità
 
   - Bl. Faustino Chiari, OFM, monk, 5/13
 
-  - Servant of God Fausto Gei, layman, d. 3/27/1968
-
-  - St. Felix, bishop, 2/23/650 (nothing on seb)
+    - St. Felix, bishop, 2/23/650 (nothing on seb)
 
   - St. Gaudiosus, bishop, 3/7 (his relics are here)
 
-  - Ven. Giovanni Battista Zuaboni, priest/founder, d. 12/12/1939 (He died
-    here, but where is he buried?)
+  - Ven. Giovanni Battista Zuaboni, priest/founder, d. 12/12/1939 (He died here in Brescia, but where is he buried?)
 
   - St. Massimo/Maximus of Brescia, martyr, 1/7
 
@@ -1857,16 +1853,13 @@ Motherhouse, Ancelle della carità
 
   - St. Vigilio/Vigilius of Brescia, bishop, 9/26
 
-Brescia, Villaggio Prealpino *frazione*, Province of Brescia, Lombardy
-(northern outskirts of Brescia; not to be confused with the Prealpino
-metro stop in Brescia)
+Brescia, Villaggio Prealpino *frazione*, Province of Brescia, Lombardy (northern outskirts of Brescia; not to be confused with the Prealpino metro stop in Brescia)
 
 - Chiesa di San Giulia di Corsica
 
   - St. Giulia di Corsica, martyr, 5/22
 
-Bressanone/Brixen, Province of South Tyrol, Trentino-Alto Adige/Südtirol
-region
+Bressanone/Brixen, Province of South Tyrol, Trentino-Alto Adige/Südtirol region
 
 - Duomo
 
@@ -1874,7 +1867,7 @@ region
 
   - St. Genuino (Genuinus/Ingenium/Ingenuin/o/Ingwin/Jenewein), bishop, 2/5
 
-Seminario Maggiore di Bressanone/Major Seminary of Bressanone
+- Seminario Maggiore di Bressanone/Major Seminary of Bressanone
 
   - Bl. Artmanno di Bressanone/Hartmann of Brixen, bishop, 12/23
 
@@ -1884,8 +1877,7 @@ Seminario Maggiore di Bressanone/Major Seminary of Bressanone
 
 Brindisi, Province of Brindisi, Apulia region
 
-- Cattedrale di San Giovanni Battista/Basilica della Visitazione e San
-  Giovanni Battista (Piazza del Duomo, 12)
+- Cattedrale di San Giovanni Battista/Basilica della Visitazione e San Giovanni Battista (Piazza del Duomo, 12)
 
   - St. Leucio/Leucius, bishop, 1/11
 
@@ -2022,8 +2014,7 @@ Caccamo, Province of Palermo, Sicily
 
 - Church of Santa Maria degli Angeli
 
-  - St. Giovanni Licci, OP, incorrupt, religious, last Sunday and Monday of
-    May and 11/14
+  - St. Giovanni Licci, OP, incorrupt, religious, last Sunday and Monday of May and 11/14
 
 - Chiesa della Santissima Annunziata
 
@@ -3043,11 +3034,15 @@ Chiavenna, Province of Sondrio, Lombardia region
   - Bl. Maria Laura (née Teresina Elsa) Mainetti, religious/martyred by
     Satanists, d. 6/6/2000
 
-Chieri, Turin
+Chieri, Metropolitan City of Turin, Piemonte region
 
 - Chiesa di San Guglielmo in Piazza Mazzini
 
   - St. Theodore of Rome, martyr
+
+- ???
+
+  - Servant of God Giuseppe Alloatti, priest/founder, CM, d. 3/27/1933 (possibly at S. Maria della Pace, Via Albussano, 17)
 
 Chieti, Province of Chieti, Abruzzo region
 
@@ -4646,9 +4641,21 @@ Gallese, Province of Viterbo, Umbria region
 
   - St. Famianus (aka, Famian, Quardus) of Compostela, pilgrim, 8/8
 
+Gallipoli, Province of Lecce Puglia region
+- Cimitero Comunale di Gallipoli/City Cemetery (Via Cimitero, snc/Via Per Taviano,)
+  - Servant of God Lucia Solidoro, laywoman, d. 9/18/1933
+
 Gandino, Province of Bergamo, Lombardia region
 
-- ???
+- Basilica di Santa Maria Assunta (the following relics are only taken out for the solemn Corpus Domini procession that happens in jubilee years)
+  - St. Flavianus, prefect/martyr (relic only)
+  - Pope St. Pontianus (relic only)
+  - St. Quirinus, tribune/martyr (relic only)
+  - St. Valentine, priest (relic only)
+
+- Chiesa di San Mauro
+
+  - The saio/religious habit of St. Padre Pio da Pietrelcina
 
 Garaguso, Province of Matera, Basilicata region
 
@@ -4935,8 +4942,7 @@ Gravedona, Province of Como, Lombardia Region
 
   - St. Matteo, martyr, 9/11
 
-Grizzana Morandi, Pioppe di Salvaro *frazione*, Metropolitan City of
-Bologna, Emilia-Romagna
+Grizzana Morandi, Pioppe di Salvaro *frazione*, Metropolitan City of Bologna, Emilia-Romagna
 
 - ???
 
@@ -5895,8 +5901,7 @@ Marzabotto, Province of Bologna, Emilia-Romagna region
 
   - Servant of God Ubaldo Marchioni, priest, d. 9/29/1944
 
-Marzabotto, Sperticano *frazione*, Province of Bologna, Emilia-Romagna
-region
+Marzabotto, Sperticano *frazione*, Province of Bologna, Emilia-Romagna region
 
 - Parish church (Chiesa San Tommaso di Sperticano?)
 
@@ -6304,21 +6309,19 @@ San Gregorio
 
   - St. Eusebius/Eusebio of Milan, bishop, 8/8 or 8/12
 
-Santa Maria dei Miracoli presso San Celso (aka, Santa Maria presso San
-Celso)
+- Santa Maria dei Miracoli presso San Celso (aka, Santa Maria presso San Celso)
 
-Statue of the Assumption
+  - Statue of the Assumption
+  
+  - Miraculous icon of Our Lady (shown only on major feasts)
+  
+  - Miraculous fresco of Madonna and Child (it wept in 1620)
 
-Miraculous icon of Our Lady (shown only on major feasts)
-
-Miraculous fresco of Madonna and Child (it wept in 1620)
-
-- St. Celsus, martyr, 7/28 & 10/14 (in the attached Church of San
-  Celso)
+  - St. Celsus, martyr, 7/28 & 10/14 (in the attached Church of San   Celso)
 
   - Bl. Ildefonso Schuster, archbishop (relics only, near the entrance)
 
-Santa Maria della Pace
+- Santa Maria della Pace
 
   - Bl. Anselmo of Milan, Franciscan, 2/23
 
@@ -6326,9 +6329,9 @@ Santa Maria della Pace
 
   - St. Victor (Vittoria), martyr
 
-Santa Maria presso San Satiro
+- Santa Maria presso San Satiro
 
-Miraculous icon of the Madonna
+  - Miraculous icon of the Madonna
 
   - St. Satirus
 
@@ -6349,7 +6352,7 @@ Miraculous icon of the Madonna
 
   - St. Antonio Maria Zaccaria, priest/founder, 7/5
 
-San Simpliciano
+- San Simpliciano
 
   - St. Ampelio/Ampelius of Milan, bishop, 7/8
 
@@ -6763,14 +6766,13 @@ San Fortunato
 
 - Chiesa della Santa Chiara
 
-- Chapel of the Holy Cross (where St. Clare received her visions)
+  - Chapel of the Holy Cross (where St. Clare received her visions)
 
   - St. Clare (aka, Chiara) of Montefalco, visionary/abbess, 8/17(incorrupt)
 
 - ???
 
-- Bl. Giovanna di Montefalco, abbess, 11/22 (maybe at the Monastero della
-  Santa Croce e di Santa Caterina d\'Alessandria, if it still exists)
+  - Bl. Giovanna di Montefalco, abbess, 11/22 (maybe at the Monastero della Santa Croce e di Santa Caterina d'Alessandria, if it still exists)
 
 Montefano, Province of Macerata, Le Marche
 
@@ -6778,7 +6780,7 @@ Montefano, Province of Macerata, Le Marche
 
   - St. Seberio/Seberius, martyr
 
-The bones of seven local martyrs
+  - The bones of seven local martyrs
 
 - Monastero benedettino/Benedictine monastery (may no longer be there)
 
@@ -7171,6 +7173,8 @@ Santi Apostoli
 San Biagio Maggiore (see San Gregorio Armeno)
 
 - Basilica di Santa Chiara
+
+  - Servant of God Maria Angela Crocifissa (née Maria Giuseppa Vincenza) Giuda, consecrated woman, d. 4/9/1932
 
   - Bl. Queen Maria Cristina di Savoia, 1/31
 
@@ -7958,8 +7962,7 @@ Ovada, Province of Alessandria, Piemonte
   - Ven. Leonarda di Gesù Crocifisso (née Angela Maria Boidi), Passionist
     superior, d. 10/22/1953
 
-Ozzano dell\'Emilia/Maggio di Ozzano dell'Emilia, Metropolitan City of
-Bologna, Emilia-Romagna region
+Ozzano dell'Emilia/Maggio di Ozzano dell'Emilia, Metropolitan City of Bologna, Emilia-Romagna region
 
 - Chiesa di Sant'Andrea di Ozzano
 
@@ -11925,7 +11928,7 @@ San Marco di Preturo, Province of Aquila
 
 San Marco Evangelista
 
-  - Servant of God Anfrosina Berardi, child, March 13, 1933
+  - Ven. Anfrosina Berardi, child, March 13, 1933
 
 Santa Maria della Valle, Umbria
 
@@ -12842,8 +12845,7 @@ Subiaco, Metropolitan City of Rome Capital, Lazio region
 
 - Monastery of Santa Scholastica
 
-  - Ss. Anatolia and Audace, martyrs, 7/9 (Altar of the Blessed
-    Sacrament)
+  - Ss. Anatolia and Audace, martyrs, 7/9 and 12/23 (Altar of the Blessed Sacrament)
 
   - St. Chelidonia, hermitess, 10/13
 
@@ -12851,11 +12853,11 @@ Subiaco, Metropolitan City of Rome Capital, Lazio region
 
 - Monastery
 
-Icon, Our Lady of Constantinople
+  - Icon, Our Lady of Constantinople
 
-  - St. Benedict's Cave
+- St. Benedict's Cave
 
-  - Bl. Lorenzo Loricato di Subiaco/Laurence Loricatus, OSB, 8/16
+  - Bl. Lorenzo Loricato di Subiaco, OSB, 8/16
 
 - ???
 
@@ -12869,8 +12871,7 @@ Suelli (Sueddi), Province of South Sardinia, Sardinia
 
   - Bl. Giorgio di Suelli, bishop, 4/23
 
-Sulbiate, Brentana *frazione*, Province of Monza and Brianza, Lombardia
-region
+Sulbiate, Brentana *frazione*, Province of Monza and Brianza, Lombardia region
 
 - Chiesa di Sant\'Antonino
 
@@ -12882,7 +12883,7 @@ Sulmona, Province of L'Aquila, Abruzzo region
 
   - St. Pamphilus of Sulmona, bishop, 4/28
 
-Badia di S. Spirito
+- Badia di Santo Spirito
 
   - Bl. Roberto da Salle (of Sala), priest, 7/18
 
@@ -12934,25 +12935,21 @@ Syracuse (Siracusa), Sicily
 - Duomo di Siracusa/Metropolitan Cathedral of the Nativity of the Holy
   Mary
 
-- Statue of Madonna della Neve (chapel of the left nave)
+  - Statue of Madonna della Neve (chapel of the left nave)
 
   - St. Zosimo, bishop, 3/30 (Cappella del Crocifisso)
 
-- Santa Lucìa alla Badìa (deconsecrated/former monastery)
+  - Santa Lucìa alla Badìa (deconsecrated/former monastery)
 
-- St. Fausto/Faustus of Syracuse, abbot, 9/6 (tomb may be lost or it
-  may be in the church, which is used for special events)
+- Chiesa dei Cappuccini/Chiesa di Maria Santissima della Misericordia e dei Pericoli (Piazza Cappuccini, 2)
 
-- Santa Maria delle Grazie, aka Santuario di Santa Lucia al Sepolcro
-  (Piazza Santa Lucia, 5)
+  - Servant of God Chiara Francesca di Gesù Agonizzante (née Adelaide) Di Mauro, religious/stigmatist, d. 9/13/1932
+
+- St. Fausto/Faustus of Syracuse, abbot, 9/6 (tomb may be lost or it may be in the church, which is used for special events)
+
+- Santa Maria delle Grazie, aka Santuario di Santa Lucia al Sepolcro (Piazza Santa Lucia, 5)
 
   - Bl. Federico Campisani, hermit, 8/2
-
-Tabulana
-
-- ???
-
-  - St. Anatolia, 12/23
 
 Taggia, Province of Imperia, Liguria region
 
