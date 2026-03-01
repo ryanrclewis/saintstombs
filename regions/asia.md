@@ -3277,61 +3277,62 @@ Toba Tek Singh, Toba Tek Singh district, Punjab province
 
 # Philippines
 
+Angeles City, Pampanga Province, Central Luzon region
+
+- Carmelite Monastery (Santo Rosario Street)
+
+  - Servant of God Cesar Maria Guerrero, bishop, d. 3/27/1961
+
 Binondo, Manila
 
 - Binondo Church
 
   - St. Domingo Ibáñez de Erquicia, 8/13
 
-- St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine
-  only)
+  - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine only)
 
-- St. Lorenzo Ruiz, layman/martyr, 9/28 (shrine only; ashes thrown
-  into the sea)
+  - St. Lorenzo Ruiz, layman/martyr, 9/28 (shrine only; ashes thrown into the sea)
 
 Boljoon, Province of Cebu
 
 - Shrine of Patrocinio de Maria Santisima
 
-Canlubang, Calamba city, Province of Laguna, Calabarzon region, Luzon
-Island
+Canlubang, Calamba city, Province of Laguna, Calabarzon region, Luzon Island
 
-- Diocesan Shrine of Mary, Tulong ng mga Kristiyano/Diocesan Shrine of
-  Mary, Help of Christians
+- Diocesan Shrine of Mary, Tulong ng mga Kristiyano/Diocesan Shrine of Mary, Help of Christians
 
   - Servant of God Carlo Braga, SDB, priest, d. 1/3/1971
 
 Carcar City (Barangay Valladolid), Cebu province
 
-Domus Teofilo (House of Teofilo), Daughters of St. Teresa
+- Domus Teofilo (House of Teofilo), Daughters of St. Teresa
 
   - Ven. Teofilo Camomot, archbishop, d. 9/27/1988
 
-Iloilo City, Molo district, Province of Iloilo, Western Visayas region
-(Region VI)
-
-Dominican Sisters Motherhouse (Avancena St.)
-
-  - Ven. Rosario Arroyo de la Visitacion (nee Maria Beatriz del Rosario
-    Pidal Arroyo), OP, religious/foundress, d. 6/14/1957 (in the chapel
-    of the museum dedicated to her memory)
-
-Jaro district, Iloilo City, Iloilo Province, Panay Island, Western
-Visayas
+Iloilo City, Jaro district, Iloilo Province, Panay Island, Western Visayas
 
 - ???
 
   - Servant of God Amador Tajanlangit, Sr., layman, d. 3/9/1977
- 
-Jose Dalman
 
-Malolos City, Bulacan province, Central Luzon region (III) Seat of the
-First Philippine Republic
+Iloilo City, Molo district, Province of Iloilo, Western Visayas region (Region VI)
+
+- Dominican Sisters Motherhouse (Avancena St.)
+
+  - Ven. Rosario Arroyo de la Visitacion (nee Maria Beatriz del Rosario Pidal Arroyo), OP, religious/foundress, d. 6/14/1957 (in the chapel
+    of the museum dedicated to her memory)
+
+Jose Dalman, Zamboanga, Zamboanga del Norte Province, 2nd District
+
+- Sitio Tabang, Barangay Ponot (by the beach and the public market; the locals can direct pilgrims on arrival)
+
+  - Servant of God Francesco Palliola, SJ, priest/martyr, d. 1/29/1648
+
+Malolos City, Bulacan province, Central Luzon region (III) Seat of the First Philippine Republic
 
 - Barasoain Church (aka, Our Lady of Mt. Carmel Parish)
 
-  - Relic of Bl. John Paul II (exposed every first Friday of the month,
-    6:00 a.m. and 6:00 p.m. Masses)
+  - Relic of Bl. John Paul II (exposed every first Friday of the month, 6:00 a.m. and 6:00 p.m. Masses)
 
 Manila
 
