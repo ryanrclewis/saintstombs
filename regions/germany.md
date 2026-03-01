@@ -1606,11 +1606,9 @@ Rathaus Abtei
   - Bl. Alberic of Gladbach, blind monk, 12/24 (grave likely lost to
     time)
 
-Karmeliterkirche (Hauptstr. 36)
+- Karmeliterkirche (Hauptstr. 36)
 
-  - Bl. Angelus of Saint Joseph (nee George Halley), O. Carm.,
-    religious, 8/15 (not confirmed that his relics were moved here from
-    Ireland)
+  - Bl. Angelus of Saint Joseph (nee George Halley), O. Carm., religious, 8/15 (not confirmed that his relics were moved here from Ireland)
 
 Munich
 
@@ -1626,7 +1624,7 @@ Munich
 
   - Bl. Mother Maria Theresia von Jesus (née Karolina) Gerhardinger, SSND, foundress, 5/9
 
-Ludwigskirche in Maxvorstadt district (Ludwigstraße 22)
+- Ludwigskirche in Maxvorstadt district (Ludwigstraße 22)
 
   - Servant of God Romano Guardini, priest/theologian, d. 10/1/1968
 
@@ -1634,32 +1632,33 @@ Ludwigskirche in Maxvorstadt district (Ludwigstraße 22)
 
   - St. Mundita
 
-Unterkirche of the Bürgersaalkirche
+- Unterkirche of the Bürgersaalkirche
 
   - Bl. Rupert Mayer, priest, 11/1
 
+- Alter Südfriedhof/Alter Südlicher Friedhof (17 Thalkirchner Straße)
+
+  - Servant of God Ellen (née Sundström) Ammann, politician, d. 11/23/1932
+
 - Münchner Ostfriedhof/Ostfriedhof Cemetery of Munich
 
-  - Servant of God Fritz Gerlich, journalist/historian/martyr, d. 6/30/1934
-    (shot at Dachau, ashes given to his wife, most likely buried here)
+  - Servant of God Fritz Gerlich, journalist/historian/martyr, d. 6/30/1934 (shot at Dachau, ashes given to his wife, most likely buried here)
 
 - Münchner Westfriedhof/Munich West Cemetery
 
-  - Servant of God Walter Klingenbeck, mechanic/resistance fighter/martyr,
-    d. 8/5/1943
+  - Servant of God Walter Klingenbeck, mechanic/resistance fighter/martyr, d. 8/5/1943
 
-Münchner Stadtmuseum/Munich Stadtmuseum
+- Münchner Stadtmuseum/Munich Stadtmuseum
 
   - St. Conrad Nantwein/Nantovinus, pilgrim/martyr, 8/7 (his brainpan only)
 
 - ???
 
-- St. Cyrus the Physician, martyr, 2/7 (may be at St. Michael\'s Church in
-  Berg am Laim, a district of Munich)
+- St. Cyrus the Physician, martyr, 2/7 (may be at St. Michael\'s Church in Berg am Laim, a district of Munich)
 
 Munich (Neuhausen district)
 
-Winthirkirche (Winthirstraße 15)
+- Winthirkirche (Winthirstraße 15)
 
   - Bl. Winthir von Neuhausen, itinerant preacher, 8/6
 
@@ -1669,22 +1668,19 @@ Münster, Munster administrative region, Nordhein-Westphalen
 
   - Bl. Clemens August von Galen, cardinal/anti-Nazi hero, 3/22
 
-Liebfrauenkirche/Überwasserkirche (Überwasserkirchpl. 4)
+- Liebfrauenkirche/Überwasserkirche (Überwasserkirchpl. 4)
 
-  - Bl. Bertheid of Münster, abbess, 12/22 (grave likely destroyed by the
-    Protestant Revolt)
+  - Bl. Bertheid of Münster, abbess, 12/22 (grave likely destroyed by the Protestant Revolt)
 
 - Zentralfriedhof/Central cemetery (Robert-Koch-Straße 11)
 
-  - Bl. Maria Eutimia (nee Emma) Uffing/Maria Euthymia Üffing, religious,
-    9/9
+  - Bl. Maria Eutimia (nee Emma) Uffing/Maria Euthymia Üffing, religious, 9/9
 
 - ???
 
   - St. Ludger of Utrecht, 3/26 (relics)
 
-Münster-Hiltrup, Münster administrative region, Nordrhein-Westfalen
-state
+Münster-Hiltrup, Münster administrative region, Nordrhein-Westfalen state
 
 - St.-Clemens-Pfarrkirche
 
@@ -1706,12 +1702,11 @@ Münsterschwarzach
 
 Münstertal, Breisgau-Hochschwarzwald, Freiburg region, Baden-Württemberg
 
-Kloster St. Trudpert
+- Kloster St. Trudpert
 
   - St. Trudpert of Münstertal, layman, 4/26
 
-Murrhardt, Rems-Murr-Kreis district, Stuttgart administrative region,
-Baden-Württemberg state
+Murrhardt, Rems-Murr-Kreis district, Stuttgart administrative region, Baden-Württemberg state
 
 - Kloster Murrhardt/Murrhardt Monastery
 
@@ -1723,8 +1718,7 @@ Nabburg, Schwandorf district, Bavaria
 
   - Bl. Burchard I of Halberstadt, politician, 10/18 (relics only)
 
-Neckargemünd, Rhein-Neckar-Kreis, Karlsruhe administrative region,
-Baden-Württemberg state
+Neckargemünd, Rhein-Neckar-Kreis, Karlsruhe administrative region, Baden-Württemberg state
 
 - Neckargemünder Friedhof (cemetery)
 
@@ -1734,28 +1728,22 @@ Neuhausen, Rheinzabern district, Rheinland-Pfalz state
 
 - Pfarrkirche St. Cyriakus/St. Cyriacus\' Church (Kirchgasse 6)
 
-  - St. Cyriacus (aka, Cyriac, Cyriaci, Cyriacus of the Baths), martyr, 8/8
-    (other relics in Rome)
+  - St. Cyriacus (aka, Cyriac, Cyriaci, Cyriacus of the Baths), martyr, 8/8 (other relics in Rome)
 
   - St. Largus, martyr, 8/8 (relics)
 
   - St. Smaragdus, martyr, 8/8 (relics)
 
-Neumünster, Urban district, Schleswig-Holstein state
-
-Neuwied, Heimbach-Weis local district, Neuwied district,
-Rhineland-Palatinate state
+Neuwied, Heimbach-Weis local district, Neuwied district, Rhineland-Palatinate state
 
 - Abtei Rommersdorf/Rommersdorf Monastery
 
   - Bl. Bruno of Rommersdorf, O.Praem., abbot, 12/10 (grave likely lost to
     time and neglect)
 
-Niederalteich, Deggendorf district, Niederbayern administrative
-district, Bayern/Bavaria state
+Niederalteich, Deggendorf district, Niederbayern administrative district, Bayern/Bavaria state
 
-Abtei/Kloster Niederaltaich/Benediktinerabtei St. Maritius in
-Niederaltaich/Niederaltaich Abbey/Benedictine abbey of Saint Maritius in
+- Abtei/Kloster Niederaltaich/Benediktinerabtei St. Maritius in Niederaltaich/Niederaltaich Abbey/Benedictine abbey of Saint Maritius in
 Niederaltaich
 
   - Bl. Alruna of Cham, widow/religious, 1/27
@@ -1780,14 +1768,11 @@ Neuss, North Rhine-Westphalia, archdiocese of Cologne
 
 Nuremberg, Middle Franconia district, Bayern/Bavaria state
 
-Sebalduskirche/St. Sebald
+- Sebalduskirche/St. Sebald
 
   - St. Sebald, missionary/hermit, 8/19
 
-- ???
-
-Oberaltaich, town of Bogen, Straubing-Bogen district, Niederbayern/Lower
-Bavaria, Bayern/Bavaria state
+Oberaltaich, town of Bogen, Straubing-Bogen district, Niederbayern/Lower Bavaria, Bayern/Bavaria state
 
 - Abteikirche Oberaltaich/Oberaltaich Abbey Church
 
@@ -1801,8 +1786,7 @@ Oberdollendorf, North Rhine-Westphalia
 
 Obermarchtal, Alb-Donau-Kreis District, Baden-Württemberg
 
-- Kloster Obermarchtal/Marchtal Abbey/Minster Church/Kirche Aposteln
-  Petrus und Paulus
+- Kloster Obermarchtal/Marchtal Abbey/Minster Church/Kirche Aposteln Petrus und Paulus
 
   - St. Eberhard von Wolfegg of Obermarchtal, abbot, 4/17
 
