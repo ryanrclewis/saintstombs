@@ -194,6 +194,12 @@ Fuzhou/福州市
   - Blesseds Francis Diaz, Bishop Peter Sanz, Fr. Joachim Roy, martyrs,
     12/30
 
+Geyuan (葛源), Hengfeng County, Sangrao City, Jiangxi
+
+- ???
+
+  - Servant of God Tomás Esteban Etayo, SJ, priest/martyr, d. 12/1933
+
 Guiyang, Province of Guizhou
 
 - ???
@@ -225,6 +231,14 @@ Jiangmen, Guangdong province
 - ???
 
   - Fr. Otto A. Rauschenbach, MM, priest/martyr, d. 5/14/1945
+
+Lake Dongting (洞庭湖), Hunan Province
+
+- ???
+
+  - Servant of God Abilio Gallego Abad, OSA, priest/martyr, d. 8/22/1933
+  
+  - Servant of God Andreas Chang, catechist/martyr, d. 8/22/1933
 
 Lanziqiao village, Hengshui County, Hebei Province
 
@@ -1150,8 +1164,7 @@ Ponnurinni, Ernakulam district, Kerala state
 
 - Chapel attached to Capuchin Ashram Ponnurunni
 
-  - Servant of God Fr. Theophane of Kottappuram (nee Michael
-    Koodalloor), OFM Cap., priest, d. 4/4/1968
+  - Ven. Theophane of Kottappuram (nee Michael Koodalloor), OFM Cap., priest, d. 4/4/1968
 
 Poondi, Thiruvallur taluk of Tiruvallur district, Tamil Nadu state
 
@@ -3070,8 +3083,7 @@ Al-Rastan (Arethusa), Homs governorate
 
   - St. Mark of Arethusa, bishop/martyr of Julian the Apostate, 3/29
 
-Annaya, Byblos District (54 km from Beirut, near Torzaya; not to be
-confused with Aannaya in the Keserwan District)
+Annaya, Byblos District (54 km from Beirut, near Torzaya; not to be confused with Aannaya in the Keserwan District)
 
 - Hermitage of St. Charbel
 
@@ -3095,8 +3107,7 @@ Beirut
 الكاثوليك/Armenian Catholic Cathedral of St. Elias and St.
 Gregory the Illuminator
 
-  - Servant of God Gregorio Pietro XV Agagianian/Գրիգոր Պետրոս ԺԵ.
-    Աղաճանեան, cardinal, d. 5/16/1971 (incorrupt)
+  - Servant of God Gregorio Pietro XV Agagianian/Գրիգոր Պետրոս ԺԵ. Աղաճանեան, cardinal, d. 5/16/1971 (incorrupt)
 
 Between Becharré and Ehden, Qadicha Valley (وادي قاديشا)
 
@@ -3110,15 +3121,17 @@ Bqennaya, Metn District, Jall el Dib, Mount Lebanon governorate
 
 - Couvent de la Croix/دير الصليب/Convent of the Cross
 
-  - Bl. Khalīl al-Haddād/Haddad (Ya'Qūb from Ghazīr/Jacques de Ghazir),
-    OFM Cap., priest/founder, 6/26
+  - Bl. Khalīl al-Haddād/Haddad (Ya'Qūb from Ghazīr/Jacques de Ghazir), OFM Cap., priest/founder, 6/26
 
-En-Nabi Safi/Nabi Safa/النبي صفا, Rashaya District, Beqaa
-Governorate
+En-Nabi Safi/Nabi Safa/النبي صفا, Rashaya District, Beqaa Governorate
 
 - مقام النبي صفي/The shrine of Prophet Safi
 
 Zephaniah the Old Testament Prophet, 12/3
+
+Near Joun, outside of Sidon, Al-Janub governorate, Lebanon
+كنيسة المخلص المقدس/- Deir el-Mokhalles/Holy Savior Church
+  - Bl. Béchara (né Selim) Abou-Mourad, BS), priest, 2/22
 
 Jounieh (جونيه), Keserwan District
 
@@ -3750,12 +3763,9 @@ Ba Giong parish, Mekong Delta, Tien Giang Province (Diocese of My Tho)
 
   - St. Phêrô Nguyễn Văn Lựu, priest, 4/7
 
-Bắc Ninh City/Thành phố Bắc Ninh,
-Ninh Xa ward/phường Ninh Xá, Province of Bắc
-Ninh
+Bắc Ninh City/Thành phố Bắc Ninh, Ninh Xa ward/phường Ninh Xá, Province of Bắc Ninh
 
-Toà giám mục/Bishop\'s palace (537 Đ. Ng. Gia
-Tự, P.Tiền An)
+- Toà giám mục/Bishop\'s palace (537 Đ. Ng. Gia Tự, P.Tiền An)
 
   - St. Phanxicô Xaviê Hà Trong Mau, OP, priest, 12/19 (relics)
 
@@ -3792,27 +3802,19 @@ Province
 
 Cù Lao Giếng island, Cho Moi district, Province of An Giang
 
-Chủng viện Cù Lao Giếng/Cu Lao
-Gieng seminary
+- Chủng viện Cù Lao Giếng/Cu Lao Gieng seminary
 
   - St. Phêrô Đoàn Công Quí, priest/martyr, 7/31
 
-Đầu Nước, Cù lao Giếng island,
-Cho Moi district, Province of An Giang
+Đầu Nước, Cù lao Giếng island, Cho Moi district, Province of An Giang
 
-Nhà thờ họ Đầu
-Nước (this is the best guess)
+- Nhà thờ họ Đầu Nước (this is the best guess)
 
-  - St. Emanuele Lê Van Phung, lay martyr, 7/31 (His body was buried in
-    the foundation of the Dau Nuoc family church. \"Thi
-    thể ông được an táng trong
-    nền nhà thờ họ
-    Đầu Nước."\)
+  - St. Emanuele Lê Van Phung, lay martyr, 7/31 (His body was buried in the foundation of the Dau Nuoc family church. \"Thi thể ông được an táng trong nền nhà thờ họ Đầu Nước."\)
 
 Di Linh, Di Linh district, Province of Lâm Đồng
 
-Trại phong ở Di Linh/The leper colony in Di
-Linh
+- Trại phong ở Di Linh/The leper colony in Di Linh
 
   - Servant of God Marie-Pierre-Jean Cassaigne, MEP, bishop, d.
     10/31/1973
@@ -3827,14 +3829,11 @@ Linh
 
   - St. Vincent Diem, martyr, 11/24
 
-Đông Tiến commune, Quỳnh Phụ
-district, Province of Thái Bình
+Đông Tiến commune, Quỳnh Phụ district, Province of Thái Bình
 
-thờ họ Đông Tiến/Catholic
-church
+- thờ họ Đông Tiến/Catholic church
 
-  - St. Đa Minh Bùi Văn Úy/Dominic Bùi Văn Úy, catechist/martyr, 11/24 &
-    12/19
+  - St. Đa Minh Bùi Văn Úy/Dominic Bùi Văn Úy, catechist/martyr, 11/24 & 12/19
 
 Hải Dương, Hải Dương Province, Red River Delta
 
@@ -3844,19 +3843,15 @@ Hải Dương, Hải Dương Province, Red River Delta
 
   - St. Pere Josep Almato Ribera Auras, OP, priest/martyr, 11/1
 
-Hải Lý, huyện Hải
-Hậu, tỉnh Nam Định/Hai Ly, Hai
-Hau district, Nam Định Province
+Hải Lý, huyện Hải Hậu, tỉnh Nam Định/Hai Ly, Hai Hau district, Nam Định Province
 
-thờ Xương Điền/Xuong Dien parish
+- thờ Xương Điền/Xuong Dien parish
 
   - St. Ðaminh Vũ Ðình Tước, priest/martyr, 4/2
 
 Hanoi
 
 - ???
-
-
 
   - Bl. Bartholomew Alvarez, martyr, 1/12
 
@@ -3868,8 +3863,7 @@ Hanoi
 
 Ho Chi Minh City (aka, Saigon)
 
-Nhà thờ chính tòa Đức Bà Sài Gòn/Notre Dame
-Cathedral
+- Nhà thờ chính tòa Đức Bà Sài Gòn/Notre Dame Cathedral
 
   - St. Joseph Marchand, MEP, priest/martyr, d. 11/30
 
@@ -3877,24 +3871,19 @@ Cathedral
 
   - St. Philiphê Phan Van Minh, PIME, priest/martyr, 7/3
 
-Nhà thờ Chợ Quán/Sacred Heart of Jesus
-Church (120 đường Trần Bình
-Trọng)
+- Nhà thờ Chợ Quán/Sacred Heart of Jesus Church (120 đường Trần Bình Trọng)
 
   - Bl. Matthew Lê Văn Gẫm, shopkeeper/martyr, 5/11^2
 
-Hue/Huế/Ngo Mon, Thừa Thiên Huế
-province
+Hue/Huế/Ngo Mon, Thừa Thiên Huế province
 
 - Nhà thờ chính tòa Phủ Cam/Phu Cam Cathedral
 
-  - St. Giuse Lê Dang Thi, soldier/martyr, 10/24 (he's at the Nhà
-    thờ Chúa Cứu Thế/Redemptorist
-    church; is this it?)
+  - St. Giuse Lê Dang Thi, soldier/martyr, 10/24 (he's at the Nhà thờ Chúa Cứu Thế/Redemptorist church; is this it?)
 
   - St. Phaolô Tong Viet Buong, layman/martyr, 10/23
 
-xứ Thợ Đúc/Tho Duc parish
+- xứ Thợ Đúc/Tho Duc parish
 
   - St. Emmanuel Nguyễn Văn Triệu, martyr,
     9/17
@@ -3903,8 +3892,7 @@ xứ Thợ Đúc/Tho Duc parish
 
   - St. Andrew Trong Van Tram, 11/24
 
-  - St. Augustinô Phan Viết Huy, soldier/martyr, 6/13 &
-    11/24
+  - St. Augustinô Phan Viết Huy, soldier/martyr, 6/13 & 11/24
 
   - St. Nicolas Bùi Ðuc The, soldier/martyr, 6/13 & 11/24
 
@@ -3914,22 +3902,15 @@ Hưng Yên, Province of Hưng Yên
 
   - St. Tôma Khuông, TOSD, priest/martyr, 1/30
 
-Hướng Phương, Quảng Trach, Province of
-Quảng Bình (near the town of Đồng
-Hới)
+Hướng Phương, Quảng Trach, Province of Quảng Bình (near the town of Đồng Hới)
 
-họ đạo Hướng Phương/Huong Phuong
-church
+- họ đạo Hướng Phương/Huong Phuong church
 
-  - St. Vinh Sơn Nguyễn Thế Điểm,
-    priest/martyr, 11/24
+  - St. Vinh Sơn Nguyễn Thế Điểm, priest/martyr, 11/24
 
-Hương Trà town/tx Hương Trà, Province of Thừa Thiên
-Huế
+Hương Trà town/tx Hương Trà, Province of Thừa Thiên Huế
 
-Dương Sơn, Hương Toàn, tx Hương Trà,
-
-Giáo xứ Dương Sơn/Duong Son parish
+- Dương Sơn, Hương Toàn, tx Hương Trà, Giáo xứ Dương Sơn/Duong Son parish
 
   - St. Emmanuel Nguyễn Văn Triệu, martyr, 9/17
     (skull only)
@@ -3938,9 +3919,7 @@ Giáo xứ Dương Sơn/Duong Son parish
 
 Kẻ Máy
 
-- thờ Kẻ Máy/Ke May church (ngôi nhà
-  của góa phụ tím/in the house of the purple
-  widow)
+- thờ Kẻ Máy/Ke May church (ngôi nhà của góa phụ tím/in the house of the purple widow)
 
   - St. Phaolô Nguyen Van My, layman/martyr, 12/18
 
@@ -3950,45 +3929,33 @@ Kẻ Máy
 
 Kẻ Một, Kien Giang Province
 
-- Nhà thờ Kẻ Một/Church of
-  Kẻ Một
+- Nhà thờ Kẻ Một/Church of Kẻ Một
 
   - St. Giuse Nguyen Duy Khang, TOSD, layman/martyr, 12/6
 
 Khánh Nhạc commune, Yên Khánh district, Ninh Bình Province
 
-Miếu Phúc Nhạc/Giáo xứ Phúc
-Nhạc/Phúc Nhạc Shrine and Parish)
+Miếu Phúc Nhạc/Giáo xứ Phúc Nhạc/Phúc Nhạc Shrine and Parish)
 
-  - St. Agnes De (Anê Lê Thi Thành/Bà Ðê), wife/mother/martyr, 7/12 (The
-    Vietnamese Wikipedia page for her says that the priest from Phúc
-    Nhạc collected the remains of her and several other
-    martyrs and took them here, and that the center for honoring her is
-    the Phúc Nhạc shrine, and that it's right next to the
-    Nhac market ("chợ Nhạc").)
+  - St. Agnes De (Anê Lê Thi Thành/Bà Ðê), wife/mother/martyr, 7/12 (The Vietnamese Wikipedia page for her says that the priest from Phúc Nhạc collected the remains of her and several other martyrs and took them here, and that the center for honoring her is the Phúc Nhạc shrine, and that it's right next to the Nhac market ("chợ Nhạc").)
 
   - St. Gioan Ðat, priest/martyr, 10/28 & 11/24
 
 Kiện Khê, Thanh Liêm district, Province of Hà Nam
 
-Vương cung thánh đường Sở
-Kiện/Kẻ Sở/So Kien Basilica/Ke
-So Church/Basilica of the Immaculate Conception
+- Vương cung thánh đường Sở Kiện/Kẻ Sở/So Kien Basilica/Ke So Church/Basilica of the Immaculate Conception
 
   - St. Anrê Tran An Dung/Andrew Dung Lac, priest/martyr, 11/24 & 12/21
 
   - St. Phêrô Truong Van Thi/Peter Truong Van Thi, priest/martyr, 12/21
 
-Kim Long village, Huế, Province of Thừa Thiên
-Huế, North Central Coast region
+Kim Long village, Huế, Province of Thừa Thiên Huế, North Central Coast region
 
 - Nhà thờ Kim Long/Kim Long Church
 
   - St. Anrê Tran Van Trông, soldier/martyr, 11/28
 
-Làng Kẻ Báng/Kẻ Báng village/giáo
-xứ Xuân Bảng/Xuan Bang parish, Vụ
-Bản district, Nam Định Province
+Làng Kẻ Báng/Kẻ Báng village/giáo xứ Xuân Bảng/Xuan Bang parish, Vụ Bản district, Nam Định Province
 
 - Nhà thờ giáo xứ/Parish church
 
@@ -3996,8 +3963,7 @@ Bản district, Nam Định Province
 
   - St. Giuse Nguyen Ðình Nghi, MEP, priest/martyr, 11/8
 
-  - St. Martinô Trần Ngọc Tho, layman/martyr,
-    11/7 & 11/24
+  - St. Martinô Trần Ngọc Tho, layman/martyr,     11/7 & 11/24
 
 Fr. Nghi
 
@@ -4005,14 +3971,11 @@ Fr. Nghi
 
 Kẻ Vĩnh village
 
-In front of his home
+- In front of his home
 
   - Bl. Antôn Nguyễn Đích, layman/martyr, 8/12
 
-Xứ Kim Sen dưới chân dãy Trường
-Sơn, huyện Lệ Thủy,
-tỉnh Quảng Bình/Kim Sen land (farm?) at the
-foot of Truong Son mountain range, Le Thuy district, Quảng
+Xứ Kim Sen dưới chân dãy Trường Sơn, huyện Lệ Thủy, tỉnh Quảng Bình/Kim Sen land (farm?) at the foot of Truong Son mountain range, Le Thuy district, Quảng 
 Bình Province
 
 - ???
@@ -4023,32 +3986,23 @@ La Vang, Quảng Trị Province
 
 - Đức Mẹ La Vang/Shrine of Our Lady of La Vang
 
-Apparition of Our Lady of La Vang, 8/15
+  - Apparition of Our Lady of La Vang, 8/15
 
-Làng Lạc Thủy (Lac Thuy village)
-Lạc Thủy district, Hòa Bình Province
+Làng Lạc Thủy (Lac Thuy village) Lạc Thủy district, Hòa Bình Province
 
-nghĩa trang làng Lạc Thuỷ/về
-Lạc Thủy nghĩa đường nhà
-chung/Lac Thuy village cemetery
+- nghĩa trang làng Lạc Thuỷ/về Lạc Thủy nghĩa đường nhà chung/Lac Thuy village cemetery
 
   - St. Dominic/Ðaminh Nguyen Van Hanh, OP, priest/martyr, 8/1
 
   - St. Dominic/Ðaminh Trach Ðoài, OP, priest/martyr, 9/18
 
-Lục Thủy, Xuân Hồng commune, Xuân
-Trường district, Province of Nam Định
+Lục Thủy, Xuân Hồng commune, Xuân Trường district, Province of Nam Định
 
-Nhà thờ Lục
-Thủy/Lục Thủy Cathedral or
-parish
+- Nhà thờ Lục Thủy/Lục Thủy Cathedral or parish
 
   - St. Bênadô Võ Van Duê, convert/priest/martyr, 8/1
 
-  - St. Ðaminh Nguyen Van Xuyên, OP, priest/martyr, 11/26 (\"tín
-    hữu cải táng hài cốt ngài
-    về Lục Thủy\"/the faithful
-    exhumed his remains and brought them to Luc Thuy)
+  - St. Ðaminh Nguyen Van Xuyên, OP, priest/martyr, 11/26 (\"tín   hữu cải táng hài cốt ngài về Lục Thủy\"/the faithful exhumed his remains and brought them to Luc Thuy)
 
   - St. Tôma Ðinh Viet Du/Thomas Dinh Viet Du, OP, priest/martyr, 11/26
 
@@ -4058,12 +4012,11 @@ parish
 
 Near Luc-Thuy Lake
 
-??? (buried near here)
+- ??? (buried near here)
 
   - St. Francesc Gil de Federich de Sans, martyr, 1/22
 
-  - St. Mateo Alonso de Leciñana/Matthew Alphonse de Leciniana, OP,
-    priest/martyr, 1/22
+  - St. Mateo Alonso de Leciñana/Matthew Alphonse de Leciniana, OP, priest/martyr, 1/22
 
 Mai Linh, Province of Nam Định
 
@@ -4079,20 +4032,16 @@ Năm Mẫu
 
 Nam Định (Nam Dinh) city, Nam Định province
 
-Nhà thờ Ninh Cường/Ninh Cường
-church
+- Nhà thờ Ninh Cường/Ninh Cường church
 
   - St. Phêrô Nguyễn Văn Tự, OP,
     priest/martyr, 9/5
 
-- Nhà thờ Trung Linh/Trung Linh Church (78XM+5W2, Xuân
-  Ngọc commune, Xuân Trường district, Nam
-  Định)
+- Nhà thờ Trung Linh/Trung Linh Church (78XM+5W2, Xuân Ngọc commune, Xuân Trường district, Nam   Định)
 
   - St. Jacinto Castaneda Gia, OP, priest/martyr, 11/7
 
-  - St. Vinh Sơn Phạm Hiếu Liêm/Vinh Sơn Lê
-    Quang Liêm/Vincent Liêm Quang Lê, OP, priest/martyr, 11/7
+  - St. Vinh Sơn Phạm Hiếu Liêm/Vinh Sơn Lê Quang Liêm/Vincent Liêm Quang Lê, OP, priest/martyr, 11/7
 
 - ???
 
@@ -4102,8 +4051,7 @@ church
 
   - St. Giuse Ngô Duy Hiển, priest/martyr, 5/9
 
-  - St. Ignacio Clemente Delgado Cebrián, OP, bishop/martyr, 7/12 (a
-    picture shows someone venerating his relics) (he died here; where
+  - St. Ignacio Clemente Delgado Cebrián, OP, bishop/martyr, 7/12 (a picture shows someone venerating his relics) (he died here; where
     are his relics?)
 
   - St. José Fernández de Ventosa, OP, priest/martyr, 7/24
@@ -4112,8 +4060,7 @@ church
 
 Ngọc Đồng, Duy Tien district, Ha Nam province
 
-nhà thờ Ngọc Đồng (Ngoc Dong
-church)
+- nhà thờ Ngọc Đồng (Ngoc Dong church)
 
   - St. Giuse Túc, farmer/martyr, 6/1
 
@@ -4121,34 +4068,26 @@ church)
 
 Qui Nhơn, Bình Định Province
 
-Tòa Giám mục Qui Nhơn/Bishop's Palace of Qui Nhon .
+- Tòa Giám mục Qui Nhơn/Bishop's Palace of Qui Nhon .
 
   - St. Anrê Nguyen Kim Thông, mayor/lay martyr, 7/15
 
-Phat Diem town/Thị trấn Phát
-Diệm, Kim Son district, Ninh Bình Province
+Phat Diem town/Thị trấn Phát Diệm, Kim Son district, Ninh Bình Province
 
-- Nhà Thờ Chính Tòa Phát Diệm/Cathedral of
-  Phát Diệm
+- Nhà Thờ Chính Tòa Phát Diệm/Cathedral of Phát Diệm
 
-  - St. Jakub Đỗ Mai Năm/Giacôbê Đỗ Mai Năm,
-    priest/martyr, 8/12 & 11/24 (other sources say he is buried in the
-    Church of Ke Non (Nhà Thờ Kẻ Non, but the
+  - St. Jakub Đỗ Mai Năm/Giacôbê Đỗ Mai Năm, priest/martyr, 8/12 & 11/24 (other sources say he is buried in the Church of Ke Non (Nhà Thờ Kẻ Non, but the
     cathedral is the most likely place)
 
-Phong Cốc, Quảng Yên town, Province of
-Quảng Ninh, Đông Bắc Bộ/Northeast
-region
+Phong Cốc, Quảng Yên town, Province of Quảng Ninh, Đông Bắc Bộ/Northeast region
 
-thờ Phong Cốc
+- thờ Phong Cốc
 
   - St. Tôma Nguyen Van Ðe, tailor/martyr, 11/24 & 12/19 (relics)
 
 Phúc Nhạc, Ninh Binh province
 
-This town holds a famous martyrs commemoration on 11/24
-
-<!-- -->
+- This town holds a famous martyrs commemoration on 11/24
 
 - ???
 
@@ -4160,19 +4099,22 @@ This town holds a famous martyrs commemoration on 11/24
 
   - St. Phêrô Nguyen Van Hien, catechist/martyr, 4/28
 
-Sơn Miêng, Ứng Hòa district, Hà Nội/Hanoi, Red
-River Delta region
+Phước Hòa, Tân Thành District, Bà Rịa-Vũng Tàu Province
+
+- Đan viện Đức Mẹ Phước Sơn/Phuoc Son Monastery of Our Lady/Abbey of Our Lady of Phước Sơn (368 Thành Thái, KP)
+
+  - Servant of God Benoît Thuận/Bien Duc Thuan (né Henri Francois Denis), OCist, priest, d. 7/24/1933
+
+
+Sơn Miêng, Ứng Hòa district, Hà Nội/Hanoi, Red River Delta region
 
 - giáo xứ Sơn Miêng/Son Mieng parish church
 
-  - St. Phanxicô Xaviê Nguyễn Khắc
-    Cần/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20
+  - St. Phanxicô Xaviê Nguyễn Khắc Cần/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20
 
 Sơn Cường, Thanh Ba district, Phú Thọ province
 
-dòng Mến Thánh Giá Chiêu Ửng/Nhà
-Thờ Xứ Chiêu Ứng/Giáo
-xứ Chiêu Ứng
+- dòng Mến Thánh Giá Chiêu Ửng/Nhà Thờ Xứ Chiêu Ứng/Giáo xứ Chiêu Ứng
 
   - St. Jean-Charles Cornay, MEP, priest/martyr, 9/20
 
