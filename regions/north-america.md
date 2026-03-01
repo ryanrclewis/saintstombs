@@ -2154,57 +2154,48 @@ Saint-Hyacinthe, Monteregie Region, Quebec
 
 The Pas/Le Pas, Northern Region, Manitoba
 
-- Notre-Dame du Sacré-Coeur cathedral/Our Lady of The Sacred Heart Cathedral (28 1 St W)
+- Notre-Dame du Sacré-Coeur Cathedral/Our Lady of The Sacred Heart Cathedral (28 1 St W)
+
   - Ven. Ovide Charlebois, OMI, bishop, d. 11/20/1933
 
 Thornhill, York Regional Municipality, Ontario
 
 - Holy Cross Catholic Cemetery
+
   - Servant of God Carmelina (Carmelina of the Cross) Tarantino, d. 3/21/1992
 
 Toronto, Ontario
 
 - St. Michael's Cathedral Basilica
+
   - Servant of God Michael Power, 1st bishop, d. 10/1/1847 (in the crypt)
+
 - Provincial Home of the Sisters Servants of Mary Immaculate
+
   - Bl. Josaphata Hordashevska, co-foundress, 4/7 (relic only)
 
 Trois-Rivières (Cap-de-la-Madeleine neighborhood), Mauricie region, Quebec
 
 - Sanctuaire Notre-Dame-du-Cap, Basilica Sanctuary of Cap-de-la-Madeleine (626, rue Notre-Dame E.)
+
   - Shrine of Notre-Dame-du-Cap/Our Lady of the Cape
 
 Vanier (Ville de Vanier?), Quebec City, Quebec
 
 - ???
+
   - Servant of God Louis Émond, layman, d. 9/26/1949 (he could be at Maison Jésus-Ouvrier, address 475, boulevard Père-Lelièvre)
 
 Varennes, Monteregie Region, Quebec
 
 - Sainte-Anne de Varennes Basilica
+
   - St. Marie-Marguerite d'Youville, SGM, foundress, 10/16 & 12/23
 
 Winnipeg, Manitoba
 
 - St. Joseph Ukrainian Catholic Church, Chapel of the Holy Relics of Bl. Vasyl Velychkovsky (250 Jefferson Ave.)
+
   - Bl. Basil/Vasyl Velychkovsky, CSsR, bishop/martyr, 6/27
-
-St. Anthony Daniel, 7/4 & 10/19 (body burned to ashes at Hillsdale, Simcoe County, Ontario)
-
-St. Charles Garnier, 10/19
-
-St. Gabriel Lalemant, 3/17 & 10/19
-
-St. Isaac Jogues, 10/19
-
-St. Jacques Frémin, SJ, evangelist/missionary, 7/2
-
-St. Jean de Brebeuf, 3/16 & 10/19
-
-St. Jean de la Lande, 10/19
-
-St. Noel Chabanel, martyred near Saint-Jean, 12/26, 10/19
-
-St. Rene Goupil, 10/19
 
 - Sr. Theresia was born 13 Nov. 1897 in Apeldoorn, Holland, died 10 March 1926 in St. Louis. She is buried at a convent graveyard in Wauwatosa. [↑](#endnote-ref-1)
