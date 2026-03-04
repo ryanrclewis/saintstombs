@@ -5436,11 +5436,13 @@ Livorno, Province of Livorno, Tuscany
 
   - St. Giulia di Corsica, martyr, 5/22 (finger and a few bone fragments)
 
-Locedio (near Vercelli)
+Livorno, Montenero frazione, Province of Livorno, Tuscany
 
-- ???Cistercian Abbey
+- Santuario della Madonna delle Grazie di Montenero/Shrine of Our Lady of Grace (Piazza di Montenero, 9)
 
-  - Bl. Ogerius, abbot, 9/25
+  - Miraculous image of Our Lady
+
+  - Where St. Elizabeth Ann Seton decided to become a Catholic
 
 Locorotondo, Province of Baria, Puglia Region
 
@@ -13397,6 +13399,10 @@ Trevi, Province of Perugia, Umbria region
 
   - St. Pietro/Peter of Trevi, evangelist, 8/30
 
+- Santuario della Madonna delle Lacrime/Shrine of Our Lady of Tears (SP425, 2)
+
+  - Miraculous icon of Madonna and Child
+
 - ???
 
   - Ss. Vincent and Benignus
@@ -13526,6 +13532,10 @@ Ospedale di San Lorenzo
 
   - Bl. Archangela Ghirlani, virgin/nun, 1/25 & 2/13
 
+- ??? (probably at the former Cistercian Abbey/Abbazia di Santa Maria di Lucedio)
+
+  - Bl. Ogerio/Ogerius di Lucedio, abbot, 9/25
+
 Trivolzio, Pavia
 
 - Parish church
@@ -13534,7 +13544,7 @@ Trivolzio, Pavia
 
 Tronzano Vercellese, Province of Vercelli, Piedmont region
 
-Santi Pietro e Paolo
+- Santi Pietro e Paolo
 
   - Bl. Giacomo Abbondo, priest, 2/9
 
