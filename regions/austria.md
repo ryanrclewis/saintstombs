@@ -194,16 +194,17 @@ Mariazell, Bruck-Mürzzuschlag district, Styria state
 
 - Basilica Mariä Geburt/Basilica of the Birth of Our Lady
 
-- Shrine of Our Lady of Mariazell
+  - Shrine of Our Lady of Mariazell
+
+  - Magna Mater Austriae
 
 Mauthausen, Perg District, Oberösterreich/Upper Austria state
 
 - Mauthausen/Gusen Concentration Camp (mass grave)
 
-  - Servant of God Alfons Mańka, OMI, religious/martyr, d. 1/22/1941
-    (cremated; ashes scattered)
+  - Servant of God Alfons Mańka, OMI, religious/martyr, d. 1/22/1941 (cremated; ashes scattered)
 
-Msgr. Bruno Troska, d. 1940
+  - Msgr. Bruno Troska, priest/martyr, d. 1940
 
   - Fr. Johann Gruber, priest/martyr, d. 4/7/1944 (Good Friday)
 
@@ -221,15 +222,13 @@ Melk, Lower Austria
 
 - Stift Melk/Melk Abbey (Abt-Berthold-Dietmayr-Straße 1)
 
-- St. Colman of Stockerau (aka, of Melk), 7/17 & 10/13 (abbey on the
-  Danube)
+  - St. Colman of Stockerau (aka, of Melk), 7/17 & 10/13 (abbey on the Danube)
 
   - St. Gothalm, OSB, monk, 7/26
 
 Millstatt, Spittal an der Drau, Kärnten/Carinthia
 
-- Millstatt Abbey/Cloister-parish church of Christ the Savior and All
-  Saints (Kirche Christus/Christi, der Erlöser(s) und alle Heiligen)
+- Millstatt Abbey/Cloister-parish church of Christ the Savior and All Saints (Kirche Christus/Christi, der Erlöser(s) und alle Heiligen)
 
   - Bl. Domitian von Kärnten/of Carinthia, duke, 2/5
 
@@ -377,24 +376,22 @@ Lance of St. Longinus
   - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the
     crypt)
 
-Maria am Gestade (Salvatorgasse 12)
+- Maria am Gestade (Salvatorgasse 12)
 
   - St. Klement Maria Hofbauer (aka, John Dvorák), CSsR, apostle of Vienna,
     3/15
 
-Ruprechtskirche (Ruprechtspl. 1)
+- Ruprechtskirche (Ruprechtspl. 1)
 
   - St. Vitalis of Salzburg, archbishop, 10/20 (his sarcophagus, which
     supposedly contains the remains of a Roman martyr)
 
-Schwesterngemeinschaft Caritas Socialis/Sisterhood of Caritas Socialis
-Headquarters (Pramergasse 7)
+- Schwesterngemeinschaft Caritas Socialis/Sisterhood of Caritas Socialis Headquarters (Pramergasse 7)
 
   - Bl. Hildegard Burjan, wife/mother/politician/foundress, 6/12 (in the
     Hildegard Burjan Chapel)
 
-Mutterhaus und Generalat von der Kalasantiner: Maria Hilfe der Christen
-(P. Schwartz Gasse 8)
+- Mutterhaus und Generalat von der Kalasantiner: Maria Hilfe der Christen (P. Schwartz Gasse 8)
 
   - Bl. Anton Maria Schwartz, founder, 9/15 (in front of the high altar)
 
@@ -417,12 +414,10 @@ Weltkirchen, Feldkirch, Vorarlberg state
 
 Wenigzell, Hartberg-Fürstenfeld district, Styria state
 
-Wenigzeller Friedhof
+- Wenigzeller Friedhof
 
-  - Servant of God Maria (nee Maria Margareta) Krückl, novice/martyr for
-    chastity, 4/8/1945 (Look for the grave with the following inscription:
-    "Maria Krückl, Novizin der Marienschwestern in Vorau \... als Opfer der
-    Reinheit am 8. April 1945 von den Russen ermordet.")
+  - Servant of God Maria (nee Maria Margareta) Krückl, novice/martyr for chastity, 4/8/1945 (Look for the grave with the following inscription:
+    "Maria Krückl, Novizin der Marienschwestern in Vorau \... als Opfer der Reinheit am 8. April 1945 von den Russen ermordet.")
 
 Zedlitzdorf, Gnesau town, Gurk, Feldkirchen, Kärnten/Carinthia state
 
