@@ -2840,10 +2840,9 @@ Cavriglia, Valdarno Superiore, Province of Arezzo, Toscana region
 
 Ceccano, Province of Frosinone, Lazio region
 
-- Passionist convent (Santa Maria Corniano)
+- Badia Passionisti/Passionist convent Santa Maria Corniano (Via Badia, 227)
 
-  - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP,
-    religious, 11/18
+  - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP, religious, 11/18
 
 Cefalù, Province of Palermo, Sicily
 
@@ -2851,15 +2850,21 @@ Cefalù, Province of Palermo, Sicily
 
   - Servant of God Mariano Campo, priest, d. 1/29/1977
 
+Cefalù, Gibilmanna frazione, Province of Palermo, Sicily
+
+- Santuario di Gibilmanna/Sanctuary of Gibilmanna (Via del Giubileo Magno)
+
+  - Madonna di Gibilmanna
+
 Celano, Province of L'Aquila, Abruzzo region
 
-San Vittorino
+- San Vittorino
 
   - Ss. Simplicio, Costanzo, and Vittoriano, martyrs, 8/26
 
 Cellio, Province of Vercelli, Piedmont region
 
-San Lorenzo
+- San Lorenzo
 
   - St. Cyril, martyr, 10/28 (observed the last Sunday in October)
 
@@ -2877,7 +2882,7 @@ Céneda (near Vittorio Veneto), Province of Treviso, Veneto region
 
 Ceprano, Province of Frosinone, Lazio region
 
-Collegiata di Ceprano
+- Collegiata di Ceprano
 
   - St. Arduin/Arduino di Ceprano, British pilgrim, 7/28
 
@@ -2905,7 +2910,7 @@ Cerignola, Province of Foggia, Puglia region
 
 - Cattedrale di San Pietro Apostolo/Cathedral of St. Peter the Apostle
 
-Nostra Signora di Ripalta/Our Lady of Ripalta icon, 9/8
+  - Nostra Signora di Ripalta/Our Lady of Ripalta icon, 9/8
 
 Cernusco sul Naviglio, Province of Milan, Lombardia region
 
@@ -2913,9 +2918,9 @@ Cernusco sul Naviglio, Province of Milan, Lombardia region
 
   - Bl. Luigi Biraghi, founder, 8/11
 
-Madonna del Divin Pianto
+  - Madonna del Divin Pianto
 
-Madonna of the Divine Lament apparition site, 2/23
+  - Madonna of the Divine Lament apparition site, 2/23
 
 Cerqueto, frazione of Marsciano, Province of Perugia, Umbria region
 
