@@ -716,6 +716,10 @@ Maríana, Minas Gerais state, Southeast region
 
   - Servant of God Luciano Pedro Mendes de Almeida, SJ, archbishop, d. 8/27/2006
 
+- Igreja das Mercês/Church of Our Lady of Mercy (Rua das Mercês)
+
+  - Servant of God José Silvério Horta, priest, d. 3/30/1933
+
 Meruri, General Carneiro, Mato Grosso state
 
 - ???
@@ -2984,11 +2988,11 @@ Caracas, Municipio Bolivariano Libertador, Capital District
 
   - St. José Gregorio Hernández Cisneros, OFS, physician, 6/29 & 10/26
 
-General House of the Hermanas Carmelitas de Madre Candelaria located in La Campiña Urbanization, Avenida Mirador Nº 12-05. Caracas
+- General House of the Hermanas Carmelitas de Madre Candelaria located in La Campiña Urbanization (Avenida Mirador Nº 12-05. Caracas)
 
   - Bl. Candelaria de San José (née Susana Paz-Castillo Ramírez), foundress, 2/1
 
-Casa Madre de Hermanas Franciscanas del Sagrado Corazón de Jesús, Avenida Baralt #1707
+- Casa Madre de Hermanas Franciscanas del Sagrado Corazón de Jesús (Avenida Baralt #1707)
 
   - Servant of God Ysabel Lagrange Escobar, foundress, 4/29/1933
 

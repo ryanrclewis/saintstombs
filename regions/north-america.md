@@ -7,7 +7,7 @@ Alexandria, Hanson County, South Dakota
 
 Allenspark, Boulder County, Colorado
 
-St. Catherine of Siena Chapel, or "the Chapel on the Rock."
+- St. Catherine of Siena Chapel, or "the Chapel on the Rock."
 
 Allentown, Lehigh County, Pennsylvania
 
@@ -754,6 +754,10 @@ Isle La Motte, Grand Isle County, Vermont
 
 - The Mission of Saint Anne's Shrine (92 St Annes Road)
   - St. Anne's Shrine
+
+Jasper, Dubois County, Indiana
+
+- Mother of God Geode Grotto and St. Joseph Shrine (520 W. 9th Street)
 
 Jamesburg, Middlesex County, New Jersey
 
@@ -1572,6 +1576,7 @@ San Diego, California
 
 - Mission San Diego de Acala (10818 San Diego Mission Rd.)
   - Fr. Luis Jayme, OFM (née Melcio Jaume Vallespir), priest/martyr, d. 11/5/1775 (_non-causa_)(before the sanctuary)
+  - Shrine Grotto of Our Lady of Guadalupe
 - St. Jude Shrine of the West (1129 S. 38th St.)
 
 San Elizario, El Paso County, Texas
@@ -1587,6 +1592,7 @@ San Francisco, California
   - Shrine of St. Jude
 - Holy Virgin Orthodox Cathedral/Cathedral of the Theotokos, Joy of All Who Sorrow (6210 Geary Blvd.)
   - St. John of Shanghai and San Francisco "the Wonderworker" (Mikhail Borisovich Maximovitch), hierarch, 6/4 and 17, as well as 7/2 and 15 (incorrupt)
+- The Camino de San Francisco has been developed connecting a path from Mission San Rafael Archangel in Marin County to Mission San Francisco de Asis (Mission Dolores) in San Francisco
 
 San Gabriel, Los Angeles County, California
 
@@ -2148,57 +2154,48 @@ Saint-Hyacinthe, Monteregie Region, Quebec
 
 The Pas/Le Pas, Northern Region, Manitoba
 
-- Notre-Dame du Sacré-Coeur cathedral/Our Lady of The Sacred Heart Cathedral (28 1 St W)
+- Notre-Dame du Sacré-Coeur Cathedral/Our Lady of The Sacred Heart Cathedral (28 1 St W)
+
   - Ven. Ovide Charlebois, OMI, bishop, d. 11/20/1933
 
 Thornhill, York Regional Municipality, Ontario
 
 - Holy Cross Catholic Cemetery
+
   - Servant of God Carmelina (Carmelina of the Cross) Tarantino, d. 3/21/1992
 
 Toronto, Ontario
 
 - St. Michael's Cathedral Basilica
+
   - Servant of God Michael Power, 1st bishop, d. 10/1/1847 (in the crypt)
+
 - Provincial Home of the Sisters Servants of Mary Immaculate
+
   - Bl. Josaphata Hordashevska, co-foundress, 4/7 (relic only)
 
 Trois-Rivières (Cap-de-la-Madeleine neighborhood), Mauricie region, Quebec
 
 - Sanctuaire Notre-Dame-du-Cap, Basilica Sanctuary of Cap-de-la-Madeleine (626, rue Notre-Dame E.)
+
   - Shrine of Notre-Dame-du-Cap/Our Lady of the Cape
 
 Vanier (Ville de Vanier?), Quebec City, Quebec
 
 - ???
+
   - Servant of God Louis Émond, layman, d. 9/26/1949 (he could be at Maison Jésus-Ouvrier, address 475, boulevard Père-Lelièvre)
 
 Varennes, Monteregie Region, Quebec
 
 - Sainte-Anne de Varennes Basilica
+
   - St. Marie-Marguerite d'Youville, SGM, foundress, 10/16 & 12/23
 
 Winnipeg, Manitoba
 
 - St. Joseph Ukrainian Catholic Church, Chapel of the Holy Relics of Bl. Vasyl Velychkovsky (250 Jefferson Ave.)
+
   - Bl. Basil/Vasyl Velychkovsky, CSsR, bishop/martyr, 6/27
-
-St. Anthony Daniel, 7/4 & 10/19 (body burned to ashes at Hillsdale, Simcoe County, Ontario)
-
-St. Charles Garnier, 10/19
-
-St. Gabriel Lalemant, 3/17 & 10/19
-
-St. Isaac Jogues, 10/19
-
-St. Jacques Frémin, SJ, evangelist/missionary, 7/2
-
-St. Jean de Brebeuf, 3/16 & 10/19
-
-St. Jean de la Lande, 10/19
-
-St. Noel Chabanel, martyred near Saint-Jean, 12/26, 10/19
-
-St. Rene Goupil, 10/19
 
 - Sr. Theresia was born 13 Nov. 1897 in Apeldoorn, Holland, died 10 March 1926 in St. Louis. She is buried at a convent graveyard in Wauwatosa. [↑](#endnote-ref-1)

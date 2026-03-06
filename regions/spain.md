@@ -1458,18 +1458,23 @@ Monasterio de la Santísima Trinidad Madres Dominicas
   - Bl. Ascensión de San José (Isabel Ascensión Sánchez Romero), Dominican
     religious/martyr, 2/17
 
+Béjar, Province of Salamanca, Castilla y León autonomous community
+
+- Iglesia de San Juan Bautista/Church of St. John the Baptist (Pl. Atrio de San Juan, 2)
+
+	- Ven. Aurora Calvo Hernández-Agero, laywoman, d. 12/22/1933
+
 Belalcázar, Province of Córdoba, Andalusia autonomous community
 
-Convento de Santa Clara de la Columna
+- Convento de Santa Clara de la Columna
 
   - St. Clare of the Column, Poor Clare, 6/17
 
-Cementerio de Belalcázar
+- Cementerio de Belalcázar
 
   - > Bl. Antonio Luque Jurado, priest/martyr, 8/14
 
-Bellreguard/Bellreguart, Safor comarca, Province of Valencia, Valencian
-autonomous community
+Bellreguard/Bellreguart, Safor comarca, Province of Valencia, Valencian autonomous community
 
 - Iglesia de San Miguel Arcángel/St. Michael the Archangel Church (Carrer
   de l'Abadia, 34; tel. +34 962 80 60 24)
@@ -4545,8 +4550,7 @@ Monasterio de la Purisima Concepción, "La Latina" (C. Toledo 52)
   - Servant of God María Ana Alberdi (Mª de la Concepción Cruz Alberdi
     Echezarreta), religious, d. 11/27/1998
 
-- Monasterio de las Monjas Visitandinas/Visitandine Nuns Monastery (Calle
-  Santa Engracia)
+- Monasterio de las Monjas Visitandinas/Visitandine Nuns Monastery (Calle Santa Engracia)
 
   - Bl. María Engracia (née Josefa Joaquina) Lecuona Aramburu, VSM,
     religious/martyr, 11/18
@@ -4556,85 +4560,82 @@ Monasterio de la Purisima Concepción, "La Latina" (C. Toledo 52)
 
   - Bl. María Inés (née Inés) Zudaire Galdeano, VSM, religious/martyr, 11/18
 
-  - Bl. Teresa María (née Laura) Cavestany Anduaga, VSM, religious/martyr,
-    11/18
+  - Bl. Teresa María (née Laura) Cavestany Anduaga, VSM, religious/martyr, 11/18
 
-Claustro de las Monjas Trinitarias/Cloister of the Trinitarian Nuns
+- Oratorio de Caballero de Gracia (C. del Caballero de Gracia, 5)
+
+  - Bl. Guadalupe Ortiz de Landázuri Fernández de Heredia, laywoman, 7/16
+
+- Claustro de las Monjas Trinitarias/Cloister of the Trinitarian Nuns
 
   - St. Juan de Mata/John of Matha, OSsT, priest/founder, 2/8 or 12/17
     (relics only)
 
-Casa Madre, Las Franciscanas Misioneras de la Madre del Divino Pastor
+- Casa Central de Hermanas Trinitarias (Calle del Marqués de Urquijo, 18)
+
+	- Ven. Francisco de Asís Méndez Casariego, cofounder, d. 4/1/1924
+	
+	- Ven. Mariana de la Santísima Trinidad (née Mariana) Allsopp González-Manrique, HHTT, cofoundress, d. 3/15/1933
+
+- Casa Madre, Las Franciscanas Misioneras de la Madre del Divino Pastor
 
   - Bl. Maria Ana Mogas y Fontcuberta, foundress, 7/3
 
-Casa Madre Congregación Damas Apostólicas del Sagrado Corazón de Jesús
-(Calle de Santa Engracia 11)
+- Casa Madre Congregación Damas Apostólicas del Sagrado Corazón de Jesús (Calle de Santa Engracia 11)
 
   - Ven. Luz Rodríguez-Casanova y García San Miguel, foundress, d. 1/8/1949
 
-Casa Madre de Esclavas de la Virgen Dolorosa/Handmaids of Our Lady of
-Sorrows, C/ Teseo, 3
+- Casa Madre de Esclavas de la Virgen Dolorosa/Handmaids of Our Lady of Sorrows (C/ Teseo, 3)
 
   - Ven. Manuel Herranz Establés, priest/cofounder, d. 6/29/1968 (in the
     chapel)
 
-Casa Madre de Hermanas Carmelitas del Sagrado Corazón de Jesús (C. de la
-Poeta Ángela Figuera, 41, Chamberí)
+- Casa Madre de Hermanas Carmelitas del Sagrado Corazón de Jesús (C. de la Poeta Ángela Figuera, 41, Chamberí)
 
-  - Servant of God María Asunción de la Cruz (née María Asunción) Soler
-    Gimeno, religious/foundress, d. 7/16/1959
+  - Servant of God María Asunción de la Cruz (née María Asunción) Soler Gimeno, religious/foundress, d. 7/16/1959
 
-Casa Madre de las Siervas de María Ministras de los Enfermos/General
-Motherhouse (Plaza de Chamberí 7)
+- Casa Madre de las Siervas de María Ministras de los Enfermos/General Motherhouse (Plaza de Chamberí 7)
 
   - St. María Soledad (née Manuela) Torres Acosta, foundress, 10/10
 
-Oratorio de Caballero de Gracia
-
-  - Bl. Guadalupe Ortiz de Landázuri Fernández de Heredia, laywoman, 7/16
-
-Casa de Compañia Hijas De La Caridad De San Vicente De Paul, Capilla de
-los Mártires (José Abascal, Nº 30)
+- Casa de Compañia Hijas De La Caridad De San Vicente De Paul, Capilla de los Mártires (José Abascal, Nº 30)
 
   - Bl. Lorenza Díaz Bolanos, religious/martyr, 11/17
 
-Hermanas Oblatas de Cristo Sacerdote (Calle General Aranaz, 22)
+- Hermanas Oblatas de Cristo Sacerdote (Calle General Aranaz, 22)
 
   - Ven. José María García Lahiguera, archbishop, d. 7/14/1989 (buried in
     the presbytery)
 
-La capilla de las Hermandades del Trabajo (calle Raimundo Lulio, 6)
+- La capilla de las Hermandades del Trabajo (calle Raimundo Lulio, 6)
 
   - Servant of God Abundio García Román, priest/founder, d. 11/30/1989
 
-Casa de la Congregación del Santísimo Redentor
+- Casa de la Congregación del Santísimo Redentor
 
   - Bl. José Joaquín (née Pascual) Erviti Insausti, CSsR, religious/martyr,
     8/22 (this is from AI, so take it with a grain of salt)
 
-Casa provincial de las Hijas de la Caridad/Provincial House of the
-Daughters of Charity (calle José Abascal, 30)
+- Casa provincial de las Hijas de la Caridad/Provincial House of the Daughters of Charity (calle José Abascal, 30)
 
   - Bl. Josefa Gironés Arteta, DC, religious/martyr, 11/17
 
   - Bl. Lorenza Díaz Bolaños, DC, religious/martyr, 11/17
 
-La Casa Generalicia del Instituto Catequista Dolores Sopeña (Calle de
-Francisco de Rojas, 6)
+- La Casa Generalicia del Instituto Catequista Dolores Sopeña (Calle de Francisco de Rojas, 6)
 
   - Bl. María Dolores Rodríguez Sopeña, ICDS, foundress, 1/10 (in the
     chapel)
 
-Museo de los Mártires/Museum of the Martyrs
+- Museo de los Mártires/Museum of the Martyrs
 
   - Bl. Amado García Sánchez, martyr, 11/6 (bloody towel relic only)
 
-Hogar Rovacías de las cruzadas de Santa María (Calle Juan de Mena 23)
+- Hogar Rovacías de las cruzadas de Santa María (Calle Juan de Mena 23)
 
   - Ven. Tomás Morales Pérez, SJ, priest/founder, d. 10/1/1994
 
-Hospital de San José (Avenida de la Hospitalidad, s/n)
+- Hospital de San José (Avenida de la Hospitalidad, s/n)
 
   - Bl. Benjamin (née Alejandro) Cobos Celada, OH, religious/martyr, 9/1 (in
     the crypt)
@@ -4667,17 +4668,17 @@ Hospital de San José (Avenida de la Hospitalidad, s/n)
   - St. Faustino Míguez, secular name Manuel Míguez González (in religion
     Faustino de la Encarnación, Sch. P.), teacher, 3/8
 
-El colegio Madre De Dios/Mother of God School (Calle de Ángel Muñoz, 5)
+- El colegio Madre De Dios/Mother of God School (Calle de Ángel Muñoz, 5)
 
   - Servant of God Trinidad del Purísimo Corazón de María (née María
     Mercedes) Carreras Hitos
 
-Colegio Mayor Universitario de San Pablo (Calle de Isaac Peral, 58)
+- Colegio Mayor Universitario de San Pablo (Calle de Isaac Peral, 58)
 
   - Servant of God Ángel Ayala Alarcó, SJ, priest/founder, d. 2/20/1960 (in
     the chapel/capilla)
 
-Cementerio de la Almudena (Avenida de Daroca, 90)
+- Cementerio de la Almudena (Avenida de Daroca, 90)
 
   - Bl. Agustín Fernández Vázquez, layman/martyr, 8/17
 
@@ -4777,8 +4778,7 @@ Cementerio de la Almudena (Avenida de Daroca, 90)
   - Bl. Sulpicia del Buen Pastor (née Dionisia) Rodríguez de Anta, AESC,
     religious/martyr, 11/10
 
-Cementerio de los Mártires Salesianos de la Colonia de San
-José/Cementerio de Carabanchel (Calle Játiva, 2)
+- Cementerio de los Mártires Salesianos de la Colonia de San José/Cementerio de Carabanchel (Calle Játiva, 2)
 
   - Bl. Dionisio Ullivarri Barajuan, SDB, religious/martyr, 8/30
 
@@ -4786,22 +4786,21 @@ José/Cementerio de Carabanchel (Calle Játiva, 2)
 
   - Bl. José Bonet Nadal, SDB, priest/martyred, 8/13 & 9/22
 
-Cementerio de Carabanchel (Calle de la Vía Lusitana, 8)
+- Cementerio de Carabanchel (Calle de la Vía Lusitana, 8)
 
   - Bl. Eleuterio Román (née Eleuterio) Mancho López, FSC, religious/martyr,
     8/3
 
-Cementerio Sacramental de San Justo (P.º de la Ermita del Santo, 70)
+- Cementerio Sacramental de San Justo (P.º de la Ermita del Santo, 70)
 
   - Servant of God Dominga (Cristina María) Benito Rivas, OP, religious, d.
     11/13/1977
 
-Cementerio Sacramental de San Isidro (P.º de la Ermita del Santo, 72,
-Carabanchel)
+- Cementerio Sacramental de San Isidro (P.º de la Ermita del Santo, 72, Carabanchel)
 
   - Servant of God Luis M. Mendizabal Ostolaza, SJ, priest, d. 1/18/2018
 
-Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
+- Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Servant of God Fernando Martín-Sánchez Juliá, agricultural enginéer, d.
     7/29/1970
@@ -4855,32 +4854,23 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Bl. Emilio Arce Díez, SDB, religious/martyr, 7/23
 
-- Servant of God Francisca "Paquita" Domínguez Susín de Alvira, laywoman,
-  d. 8/29/1994 (She is either buried in the Cemetery of La Almudena in
-  Madrid or the cemetery of Tauste, Zaragoza, Spain)
+	- Servant of God Francisca "Paquita" Domínguez Susín de Alvira, laywoman, d. 8/29/1994 (She is either buried in the Cemetery of La Almudena in   Madrid or the cemetery of Tauste, Zaragoza, Spain)
 
-  - Bl. Félix González Tejedor, SDB, priest/martyr, 8/24 (either at Is the
-    Cementerio de la Almudena in Madrid or the Sacramental de San Lorenzo y
-    San José cemetery in Madrid, probably the latter)
+  - Bl. Félix González Tejedor, SDB, priest/martyr, 8/24 (either at is the Cementerio de la Almudena in Madrid or the Sacramental de San Lorenzo y San José cemetery in Madrid, probably the latter)
 
   - Bl. Francisco Fernández Escosura, OP, religious/martyr, 12/3
 
   - Bl. Francisco José Martín López y Arroyave, SDB, religious/martyr, 11/9
 
-  - Bl. Gertrudis (née Dorotea) Llamazares Fernández, F.MMDP,
-    religious/martyr, 8/13 (she was initially buried at Cementerio de
-    Sagrada Familia de Hortaleza but was disinterred after the Civil War)
+  - Bl. Gertrudis (née Dorotea) Llamazares Fernández, F.MMDP, religious/martyr, 8/13 (she was initially buried at Cementerio de Sagrada Familia de Hortaleza but was disinterred after the Civil War)
 
-  - Bl. Gregorio de La Mata (née Quirino) Díez del Blanco,OFM Cap.,
-    priest/martyr, 8/27
+  - Bl. Gregorio de La Mata (née Quirino) Díez del Blanco, OFM Cap., priest/martyr, 8/27
 
-  - Servant of God Hermelinda del Corazón de Jesús (née Hermelinda Simón
-    Prieto), religious, d. 4/18/1961
+  - Servant of God Hermelinda del Corazón de Jesús (née Hermelinda Simón Prieto), religious, d. 4/18/1961
 
   - Bl. Higinio Mata Díez, layman/martyr, 10/1 (remains never found)
 
-  - Bl. Ireneo Jacinto (née Joaquin) Rodríguez Bueno, FSC, religious/martyr,
-    7/22
+  - Bl. Ireneo Jacinto (née Joaquin) Rodríguez Bueno, FSC, religious/martyr, 7/22
 
   - Bl. Jacinto García Riesco, OP religious/martyr, 7/20
 
@@ -4888,23 +4878,19 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Bl. José Gafo Muñiz, OP, priest/martyr, 10/4
 
-  - Bl. Juan Antoni Burró Mas/Joan Antoni Burró Mas, OH, religious/martyr,
-    11/5
+  - Bl. Juan Antoni Burró Mas/Joan Antoni Burró Mas, OH, religious/martyr, 11/5
 
   - Bl. Juan Mata Díez, layman/martyr, 10/1 (remains never found)
 
-  - Bl. Junián Alberto (née Alberto José) Larrazábal Michelena), FSC,
-    religious/martyr, 8/30
+  - Bl. Junián Alberto (née Alberto José) Larrazábal Michelena), FSC, religious/martyr, 8/30
 
-- Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
+	- Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
 
-  - Bl. León María de Alaquàs/Alacuás (née Manuel) Legua Martí, TC,
-    priest/martyr, 9/26
+  - Bl. León María de Alaquàs/Alacuás (née Manuel) Legua Martí, TC, priest/martyr, 9/26
 
   - Bl. Leoncio Arce Urrutia, OP, religious/martyr, 9/10
 
-  - Bl. Lucas de San José (née Lucas) Martín Puente, OCD, priest/martyr,
-    9/19 & 11/6
+  - Bl. Lucas de San José (née Lucas) Martín Puente, OCD, priest/martyr, 9/19 & 11/6
 
   - Bl. Luis Daniel (née Juan) Viñuela Flecha, SM, religious/martyr, 10/16
 
@@ -4912,20 +4898,15 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Bl. Manuel Santiago y Santiago, OP, religious/martyr, 12/3
 
-  - Servant of God María de las Nieves (nee Florencia) Janer Ferrán, S. de
-    M., religious, d. 2/10/1935
+  - Servant of God María de las Nieves (nee Florencia) Janer Ferrán, S. de M., religious, d. 2/10/1935
 
-  - Bl. María Asuncion (née Juliana González Trujillano), FMMDP,
-    religious/martyr, 10/28 (body never found)
+  - Bl. María Asuncion (née Juliana González Trujillano), FMMDP, religious/martyr, 10/28 (body never found)
 
   - Bl. Manuel Borrajo Míguez, SDB, seminarian/martyr, 10/2
 
-  - St. María del Carmen Sallés y Barangueras, RCM, foundress, 7/25
-    (possibly at the mother house for the Religiosas Concepcionistas
-    Misioneras de la Enseñanza, Calle Sánchez Guerrero, 16 y 18)
+  - St. María del Carmen Sallés y Barangueras, RCM, foundress, 7/25 (possibly at the mother house for the Religiosas Concepcionistas Misioneras de la Enseñanza, Calle Sánchez Guerrero, 16 y 18)
 
-  - Bl. Maria del Consuelo Remiñán Carracedo, FMMDP, religious/martyr, 7/7
-    (grave lost)
+  - Bl. Maria del Consuelo Remiñán Carracedo, FMMDP, religious/martyr, 7/7 (grave lost)
 
   - Bl. María Desposorios (née María Caterina) Irigoyen Echegaray,
     religious, 10/10
@@ -4938,8 +4919,7 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Bl. Nicasio Romo Rubio, OP, religious/martyr, 8/30
 
-  - Bl. Pedro Ibáñez Alonso, OP, priest/martyr, 8/27 (likely at the Convento
-    de Santo Tomás de Ávila)
+  - Bl. Pedro Ibáñez Alonso, OP, priest/martyr, 8/27 (likely at the Convento de Santo Tomás de Ávila)
 
   - Bl. Ponciano Nieto Asensio, CM, priest/martyrs, 10/29
 
@@ -4953,8 +4933,7 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Servant of God Santos Álvarez Molaguero, priest/martyr, d. 8/20-21/1936
 
-  - Bl. Saturnino de Bilbao (née Emilio Serrano Lizarralde, OFM Cap.,
-    religious/martyr, 8/26
+  - Bl. Saturnino de Bilbao (née Emilio Serrano Lizarralde, OFM Cap., religious/martyr, 8/26
 
   - Bl. Teódulo González Fernández, SDB, Salesian seminarian/martyr, 9/9
 
@@ -4962,13 +4941,11 @@ Cementerio de San Justo (Paseo de la Ermita del Santo, 70)
 
   - Servant of God Tomás Alvira y Alvira, educator, d. 5/7/1992
 
-  - St. Vicenta María López y Vicuña, RMI, foundress, 12/26 (maybe at the
-    Casa Madre for the Hermanas del Servicio Doméstico de la Inmaculada
-    Concepción)
+  - St. Vicenta María López y Vicuña, RMI, foundress, 12/26 (maybe at the Casa Madre for the Hermanas del Servicio Doméstico de la Inmaculada Concepción)
 
 Madrid, Aravaca neighborhood, Madrid autonomous community
 
-Cementerio de Aravaca
+- Cementerio de Aravaca
 
   - Bl. Germán Martín y Martín, SDB, priest/martyr, 8/31
 
@@ -4987,8 +4964,7 @@ Cementerio de Aravaca
 
 Madrid, Atocha district, Madrid autonomous community
 
-- Santuario de María Auxiliadora/Iglesia de María Auxiliadora/Shrine of
-  Mary Help of Christians
+- Santuario de María Auxiliadora/Iglesia de María Auxiliadora/Shrine of Mary Help of Christians
 
   - Bl. Andrés Jiménez Galera, SDB, priest/martyr, 7/27
 
@@ -5022,20 +4998,17 @@ Madrid, Barajas district, Madrid autonomous community
 
 Madrid, Carabanchel district, Madrid autonomous community
 
-- Sacramental de San Lorenzo y San José/Cemetery Sacramental of St.
-  Lawrence and St. Joseph
+- Sacramental de San Lorenzo y San José/Cemetery Sacramental of St. Lawrence and St. Joseph
 
   - Ven. Josefa Segovia Morón, laywoman/foundress, d. 3/29/1957
 
   - Bl. María Pilar Izquierdo Albero, foundress, 8/27
 
-Colegio Santa María
+- Colegio Santa María
 
-- Bl. Carlos Eraña Guruceta, SM, religious/martyr, 9/18 (capilla/chapel)
-  (skull only)
+	- Bl. Carlos Eraña Guruceta, SM, religious/martyr, 9/18 (capilla/chapel) (skull only)
 
-- Bl. Jesús Hita Miranda, SM, religious/martyr, 9/18 (capilla/chapel)
-  (skull only)
+	- Bl. Jesús Hita Miranda, SM, religious/martyr, 9/18 (capilla/chapel) (skull only)
 
 Madrid, Carabanchel Alto area, Madrid autonomous community
 
@@ -5075,8 +5048,7 @@ Madrid, Carabanchel Alto area, Madrid autonomous community
 
   - Bl. Juan Agustín Codera Marqués, SDB, priest/martyr, 9/25 (remains lost)
 
-  - Ven. María Teresa de Jesús (née María Teresa) Gonzalez-Quevedo Cadarso,
-    CCV, religious, d. 4/8/1950
+  - Ven. María Teresa de Jesús (née María Teresa) Gonzalez-Quevedo Cadarso, CCV, religious, d. 4/8/1950
 
   - Bl. Pablo Gracia Sánchez, SDB, priest/martyr, 12/15 (remains lost)
 
@@ -5086,25 +5058,22 @@ Madrid, El Pardo barrio, Madrid autonomous community
 
 - ???
 
-  - Bl. Gabriel of Aróstegui (née Lorenzo Ilarregui Goñi), OFM Cap.,
-    religious/martyr, 8/23 (buried in a mass grave that has not been found)
+  - Bl. Gabriel of Aróstegui (née Lorenzo Ilarregui Goñi), OFM Cap., religious/martyr, 8/23 (buried in a mass grave that has not been found)
 
-Madrid, Fuencarral-El Pardo (aka, Montecarmelo) neighborhood, Madrid
-autonomous community
+Madrid, Fuencarral-El Pardo (aka, Montecarmelo) neighborhood, Madrid autonomous community
 
-Cementerio de Fuencarral (Av. de Montecarmelo, 10; tel. 915 108 469)
+- Cementerio de Fuencarral (Av. de Montecarmelo, 10; tel. 915 108 469)
 
-  - Bl. Donato Jiménez Bibiano, CSsR, priest/martyr, 9/18 (buried in a
-    common grave)
+  - Bl. Donato Jiménez Bibiano, CSsR, priest/martyr, 9/18 (buried in a common grave)
 
 Madrid, Hortaleza district, Madrid autonomous community
 
-El cementerio de las monjas de la Sagrada Familia
+- El cementerio de las monjas de la Sagrada Familia
 
   - Bl. Dorotea Llamanzares Fernández, FMMDP, religious/martyr, 7/14 (common
     grave)
 
-Cementerio de Hortaleza
+- Cementerio de Hortaleza
 
   - Bl. José Santos Ortega, CM, priest/martyr, 9/23
 
@@ -5127,8 +5096,7 @@ Madrid, Puente de Vallecas area, Madrid autonomous community
   - Bl. Pilar Isabel Sénchez Suérez DC, religious/martyr, 10/31 (body never
     found)
 
-Madrid, Vicálvaro district (southeast of Madrid), Madrid autonomous
-community
+Madrid, Vicálvaro district (southeast of Madrid), Madrid autonomous community
 
 - Cementerio de Vicálvaro/Vicálvaro cemetery
 
@@ -5143,8 +5111,7 @@ community
 
 Madrid, Villaverde district, Madrid autonomous community
 
-- Chapel of Colegio Santa Susanna (Hermanas de la Caridad del Sagrado
-  Corazón de Jesús)
+- Chapel of Colegio Santa Susanna (Hermanas de la Caridad del Sagrado Corazón de Jesús)
 
   - Bl. Francisca Aldea, religious/martyrs, 7/20
 
@@ -8884,34 +8851,34 @@ Valencian autonomous community
 
 Casa madre de las religiosas del Ave María
 
-  - Servant of God Miguel Fenollera Roca, priest/founder, d. 5/1/1941 (en la
-    capilla/in the chapel)
+  - Servant of God Miguel Fenollera Roca, priest/founder, d. 5/1/1941 (en la capilla/in the chapel)
 
 - ???
 
   - Bl. Elías Julián (née Julián) Torrijo Sánchez, FSC, religious/martyr,
     11/22 (he was killed here; where is he buried?)
 
-Valencia, Malvarrosa neighborhood, Province of Valencia, Valencian
-autonomous community
+Valencia, Malvarrosa neighborhood, Province of Valencia, Valencian autonomous community
 
-Cementerio municipal de La Malvarrosa
+- Cementerio municipal de La Malvarrosa
 
   - Bl. Francisco Martinez Granero, OH, religious/martyr, 10/4
 
   - Bl. Juan José Orayen Aizcorbe, OH, religious/martyr, 10/4
 
-Valencina de la Concepción, Aljarafe region, Province of Seville,
-Andalusia autonomous community
+Valencia, Masarrochos/Massarrojos district, Province of Valencia, Valencia autonomous community
+
+- Iglesia de la Asunción y Santa Bárbara/Church of the Assumption and Saint Barbara (Plaza de la Llotgeta)
+	
+	- Ven. José Bau Burguet, priest, d. 11/22/1932
+
+Valencina de la Concepción, Aljarafe region, Province of Seville, Andalusia autonomous community
 
 - Parroquia de Nuestra Señora de los Remedios (Calle de la Iglesia, 1,)
 
-  - Bl. Luis de Valencina del Alcor (Jeronimo Maria de la Stma. Trinidad
-    Limon Marquez), OFM Cap, priest/martyr, 8/3 (another source insists he's
-    at Parroquia de Nuestra Señora de la Estrella)
+  - Bl. Luis de Valencina del Alcor (Jeronimo Maria de la Stma. Trinidad Limon Marquez), OFM Cap, priest/martyr, 8/3 (another source insists he's at Parroquia de Nuestra Señora de la Estrella)
 
-Vall d'Alba, Plana Alta comarca, Province of Castellón, Valencian
-autonomous community
+Vall d'Alba, Plana Alta comarca, Province of Castellón, Valencian autonomous community
 
 - ???
 
@@ -8919,7 +8886,7 @@ autonomous community
 
 Valladolid
 
-Santa Maria de Valladolid
+- Santa Maria de Valladolid
 
   - Bl. Beatriz Hermosilla de Valladolid, Franciscan tertiary, 3/2
 
@@ -8938,8 +8905,7 @@ Santa Maria de Valladolid
     restos mortales se encuentran en el convento agustiniano de
     Valladolid.\")
 
-Oratorio de la Casa General de las Discípulas de Jesús/Casa General
-Discípulas de Jesús (Cno. del Cementerio, 17)
+- Oratorio de la Casa General de las Discípulas de Jesús/Casa General Discípulas de Jesús (Cno. del Cementerio, 17)
 
   - Bl. Pedro Ruiz de los Paños Angel, priest/founder/martyr, 7/23
 
