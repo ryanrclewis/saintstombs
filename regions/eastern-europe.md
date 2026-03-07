@@ -1689,6 +1689,12 @@ Floriana/Borgo Vilhena, Port Region area
 
   - St. Calcedonio, martyr, 9/7
 
+Għaxaq, Southern Region of Malta
+
+- Ħal-Għaxaq Parish Church/Parish Church of the Assumption of Mary
+
+  - Servant of God Isidor Formosa, priest/founder, d. 1/19/1931
+
 Gozo
 
 - Shrine of Our Lady of Ta' Pinu
