@@ -748,6 +748,12 @@ Roma, Maseru District
 
   - Bl. Joseph Gérard, OMI, priest, 5/29
 
+Tlokoeng, Mokhotlong district
+
+- Catholic church or Cemetery
+
+  - Servant of God Eulalia 'M'a Gabriel Mokhosi (died sometime in 1932)
+
 # Libya
 
 Tripoli
