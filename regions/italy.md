@@ -1323,15 +1323,15 @@ Bobbio, Province of Piacenza, Emilia-Romagna region
 
   - St. Cumian of Bobbio, abbot, 6/9
 
-26 saints in all buried under the high altar
+  - 26 saints in all buried under the high altar
 
 - Cathedral
 
-  - > St. Antonio Maria Gianelli, bishop, 6/7
+  - St. Antonio Maria Gianelli, bishop, 6/7
 
 - Chiesa inferiore di Bobbio
 
-  - > St. Cumiano di Bobbio, monk, 2/19
+  - St. Cumiano di Bobbio, monk, 2/19
 
 Bologna, Province of Bologna, Emilia-Romagna region
 
@@ -1919,10 +1919,9 @@ Bronte, Metropolitan city of Catania, Sicily
 
 Brusciano, Metropolitan City of Naples, Campania region
 
-- ???
+- Chiesa di San Sebastiano Martire (via Camillo Cucca)
 
-  - Servant of God Giovanna (Nina) Lanza, suffering religious, d.
-    2/8/1987 (she died here; where is she buried?)
+  - Servant of God Giovanna (Nina) Lanza, suffering religious, d. 2/8/1987 (she died here; where is she buried?)
 
 Bucchianico, Province of Chieti, Abruzzo region
 
@@ -1978,8 +1977,7 @@ Busano, Metropolitan City of Turin, Piemonte/Piedmont region
 
 Busseto, Province of Parma, Emilia-Romagna Region
 
-Oratorio della Santissima Trinità/Oratory of the SS. Trinità (adjacent
-to the parish church of San Bartolomeo)
+- Oratorio della Santissima Trinità/Oratory of the SS. Trinità (adjacent to the parish church of San Bartolomeo)
 
   - Bl. Rolando de' Medici, hermit, 9/15
 
@@ -2006,8 +2004,6 @@ Busto Arsizio, Province of Varese, Lombardia region
   - Servant of God Isidoro Meschi, murdered priest, d. 2/14/1991 (buried in
     the priests' section)
 
-- ???
-
 Caccamo, Province of Palermo, Sicily
 
 - Church of Santa Maria degli Angeli
@@ -2018,14 +2014,13 @@ Caccamo, Province of Palermo, Sicily
 
   - St. Nicasio Camuto de Burgio of Sicily, soldier/martyr, 7/1
 
-San Nicola de Nemore/San Nicola del Bosco (3 km from the town; abandoned
-and in ruins)
+- San Nicola de Nemore/San Nicola del Bosco (3 km from the town; abandoned and in ruins)
 
   - St. Theoctistus of Caccamo, abbot, 1/4
 
 Cagli, Province of Pesaro e Urbino, Le Marche region
 
-San Francesco
+- San Francesco
 
   - Bl. Giovanni Saziari, lay farmer, 4/21 (altar of Nostra Signora della
     Neve)
@@ -2046,7 +2041,7 @@ Cagliari, Sardinia
 
 - Chiesa Sant'Anna
 
-- St. Restituta of Vercelli, martyr, 5/17 (in the crypt)
+  - St. Restituta of Vercelli, martyr, 5/17 (in the crypt)
 
 - Chiesa Sant'Antonio da Padova (aka, Santuario di Sant'Ignazio da Làconi)
 
@@ -2056,10 +2051,9 @@ Cagliari, Sardinia
 
 - Chiesa del Convento di Sant'Antonio
 
-  - Bl. Nicola da Gesturi (aka, Giovanni Angelo) Salvatore Medda, OFM Cap.,
-    6/8 (in the Cappella dell'Immacolata)
+  - Bl. Nicola da Gesturi (aka, Giovanni Angelo) Salvatore Medda, OFM Cap., 6/8 (in the Cappella dell'Immacolata)
 
-San Michele in via Ospedale (Via Ospedale, 4)
+- San Michele in via Ospedale (Via Ospedale, 4)
 
   - Servant of God Giovanni Puggioni, SJ, priest, d. 2/18/2009
 
@@ -2069,8 +2063,7 @@ San Michele in via Ospedale (Via Ospedale, 4)
 
 - Santuario di Santa Maria in Ognina (Piazza Ognina, sNC,)
 
-  - Servant of God Anna Maria (née Ritter) Inguscio, convert/laywoman, d.
-    1/2/1986
+  - Servant of God Anna Maria (née Ritter) Inguscio, convert/laywoman, d. 1/2/1986
 
   - Servant of God Marcello Inguscio, layman, d. 1/2/1996
 
@@ -2110,11 +2103,9 @@ Cagliari (Via Sidney Sonnino, 190)
 
 - Cimitero di San Michele
 
-  - Servant of God Simona Tronci, laywoman, d. 4/18/1984 (she rests in PFP
-    251 left, row 3, No. 11)
+  - Servant of God Simona Tronci, laywoman, d. 4/18/1984 (she rests in PFP 251 left, row 3, No. 11)
 
-- Cimitero Monumentale di Bonaria/Monumental Cemetery of Bonaria (Viale
-  Cimiterio)
+- Cimitero Monumentale di Bonaria/Monumental Cemetery of Bonaria (Viale Cimiterio)
 
   - Ven. Teresa (née Maria Olga) Tambelli, DC, religious, d. 2/23/1964 (in
     the Guidetti Chapel along the western edge of Camp San Bardilio)
@@ -2132,8 +2123,7 @@ Cagliari (Via Sidney Sonnino, 190)
 
 Caiazzo, Province of Caserta, Campania region
 
-- Basilica concattedrale di Maria Santissima Assunta e Santo Stefano
-  Vescovo/Cathedral
+- Basilica concattedrale di Maria Santissima Assunta e Santo Stefano Vescovo/Cathedral
 
   - St. Stefano Minicillo di Caiazzo, bishop, 10/29
 
@@ -2182,8 +2172,7 @@ Caltagirone, Metropolitan City of Catania, Sicily
 
 Calvi Risorta, Province of Caserta, Campania region
 
-Concattedrale di Santa Maria Assunta/St. Mary of the Assumption
-Co-Cathedral
+- Concattedrale di Santa Maria Assunta/St. Mary of the Assumption Co-Cathedral
 
   - St. Casto of Calvi, bishop/martyr, 5/12
 
@@ -2220,8 +2209,7 @@ Camerino, Province of Macerata, Le Marche region
 
   - Bl. Arcangelo da Anspagh, OFM, confessor, 11/24
 
-- Bl. Giovanni da Parma, 3/20 (possibly at a Franciscan convent --seb
-  doesn't say)
+  - Bl. Giovanni da Parma, 3/20 (possibly at a Franciscan convent)
 
   - Servant of God Maria Giuseppa (née Elena) Giacobini, OP, religious, d.
     11/3/1944
@@ -2253,7 +2241,7 @@ Camogli, Metropolitan City of Genoa, Liguria region
 
 - Santuario di Nostra Signora del Boschetto
 
-Nostra Signora del Boschetto/Our Lady of the Grove apparition, 8/12
+  - Nostra Signora del Boschetto/Our Lady of the Grove apparition, 8/12
 
 Campli, Province of Teramo, Abruzzo region
 
@@ -2263,8 +2251,7 @@ Campli, Province of Teramo, Abruzzo region
 
 Campi Bisenzio, Metropolitan City of Florence, Tuscania region
 
-La Casa Madre dell'Ordine Carmelitano di Santa Teresa at San Martino di
-Campi Bisenzio
+- La Casa Madre dell'Ordine Carmelitano di Santa Teresa at San Martino di Campi Bisenzio
 
   - Bl. Teresa Maria della Croce Manetti, SCST, foundress, 4/23
 
@@ -2284,8 +2271,7 @@ Campofontana, near Selva di Progno, Province of Verona
 
 - Cimitero Campofontana
 
-  - Servant of God Pura Pagani (née Carmela Cesira), PSSF, religious/nursery
-    school teacher, d. 7/2/2001
+  - Servant of God Pura Pagani (née Carmela Cesira), PSSF, religious/nursery school teacher, d. 7/2/2001
 
 Campugliano
 
@@ -2305,7 +2291,7 @@ Canicattì, Province of Agrigento
 
 Canischio, Metropolitan City of Torino, Piemonte region
 
-San Lorenzo Martire
+- San Lorenzo Martire
 
   - St. Adelaide di Susa/Adelaide of Susa, countess, 12/19
 
@@ -2473,7 +2459,7 @@ Carpi, Fossoli *frazione*, Province of Modena, Emilia-Romagna region
 
 Carpineto Romano, Metropolitan City of Rome, Lazio region
 
-San Pietro Apostolo
+- San Pietro Apostolo
 
   - Servant of God Maestro (née Matteo) De Angelis, OSA, priest, d.
     5/14/2003 (they may be trying to move his tomb to Sant'Agostino in the
@@ -2507,7 +2493,7 @@ Casale Monferrato, Province of Alessandria, Piedmont region
 
   - St. Natale of Casale Monferrato, martyr, 8/21
 
-San Lorenzo
+- San Lorenzo
 
   - St. Evasius of Asti, bishop/martyr, 12/1
 
@@ -2516,6 +2502,12 @@ Casapesenna, Province of Caserta, Campania region
 - ???
 
   - Servant of God Salvatore Vitali, priest/founder, d. 4/13/1981
+
+Casarza Ligure, Province of Genoa, Liguria region
+
+- Cimitero Casarza Ligure
+
+  - Servant of God Marco Gallo, young layman, d. 11/5/2011
 
 Cascia, Province of Perugia, Umbria region
 
@@ -7640,7 +7632,7 @@ Noto, Syracuse, Sicily
   - St. Corrado Confalonieri, TOSF (aka, Conrad of Piacenza),
     penitent/hermit, 2/19
 
-Santa Maria del Gesù
+- Santa Maria del Gesù
 
   - St. Anthony the Ethiopian (or Catagerò or d'Avola), Muslim
     convert/slave/Franciscan tertiary, 3/14 & 8/23
@@ -7653,15 +7645,25 @@ Santa Maria del Gesù
 
   - Bl. Antonio of Noto, Franciscan, 4/1
 
+Nova Ponente/Deutschnofen, Province of Bolzano/Bozen, Südtirol/Alto Adige region
+
+- Santuario di Pietralba/Wallfahrtsort Maria Weißenstein (Via Pietralba, 1/Maria-Weißenstein-Straße 1)
+
+  - Madonna di Pietralba/Maria Weissenstein/Madonna of the White Stone
+
+Nova Siri, Province of Matera, Basilicata region (southern Italy)
+
+- Cimitero Comunale di Nova Siri/Municipal Cemetery of Nova Siri (Contrada S. Megale) 
+
+  - Servant of God Tommaso Latronico, priest/educator, d. 7/20/1993 (in his family's chapel)
+
 Novalesa, Metropolitan City of Turin, Piemonte region
 
-- Chiesa parrocchiale di Santo Stefano Protomartire/Parish church of St.
-  Stephen the Martyr
+- Chiesa parrocchiale di Santo Stefano Protomartire/Parish church of St. Stephen the Martyr
 
-- St. Eldrad/Heldrad, abbot, 3/13 (other sources say he's at the abbey)
+  - St. Eldrad/Heldrad, abbot, 3/13 (other sources say he's at the abbey)
 
-- Abbazia dei Santi Pietro e Andrea/Abbazia di Novalesa/Novalesa
-  Abbey/Benedictine Abbey (Frazione S. Pietro, 4)
+- Abbazia dei Santi Pietro e Andrea/Abbazia di Novalesa/Novalesa Abbey/Benedictine Abbey (Frazione S. Pietro, 4)
 
   - St. Arnulf of Novalesa, OSB, monk/martyr, 10/31
 
@@ -7681,7 +7683,7 @@ Novara, Province of Novara, Piemonte (west of Milan)
 
   - St. Gioconda of Rome, 8/15 (relics only)
 
-Sant'Andrea
+- Sant'Andrea
 
   - Bl. Matteo Nolli da Novara, OFM, religious, 8/7
 
@@ -7719,13 +7721,6 @@ Novara di Sicilia, Metropolitan City of Messina, Sicily
   - St. Ugo di Novara, O.Cist., abbot, 11/17 (relics only)
 
   - Relics altar
-
-Nova Siri, Province of Matera, Basilicata region (southern Italy)
-
-- ???
-
-  - Servant of God Tommaso Latronico, priest/educator, d. 7/20/1993 (his
-    funeral was here; where is he buried)
 
 Novellara, Province of Reggio Emilia, Emilia-Romagna region
 
