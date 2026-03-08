@@ -8143,7 +8143,7 @@ Palermo
 
   - Bl. Francesco Spoto, MSPTM, priest/martyr, 12/27
 
-- Chiesa di Sacro Cuore di Gesù alla Noce
+- Chiesa di Sacro Cuore di Gesù alla Noce (Via Noce, 126)
 
   - Ven. Filippo (née Luigi) Lo Verde, OFM Conv., d. 2/12/1932
 
