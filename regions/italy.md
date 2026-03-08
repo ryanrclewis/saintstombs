@@ -3702,7 +3702,7 @@ Cuneo, Cuneo Province, Piemonte/Piedmont region
 
 Cupra Marittima, Province of Ascoli Piceno, Le Marche region
 
-Santi Margherita and Basso
+- Santi Margherita and Basso
 
   - St. Basso/Bassus of Nice, bishop/martyr, 12/5 (arm only)
 
@@ -3721,9 +3721,15 @@ Massaccio), Le Marche region
 
   - Bl. Giovanni di Massaccio, hermit, 4/11
 
+Cursi, Province of Lecce, Puglia region
+
+- Santuario della Madonna dell'Abbondanza/Shrine of Our Lady of Abundance (Via Santuario)
+
+  - Cripta di Santo Stefano (no saints or relics but it's very cool)
+
 Cusano Milanino, Province of Milan, Lombardia
 
-Parrocchia San Martino
+- Parrocchia San Martino
 
   - St. Adrian (Adriano), martyr
 
@@ -3731,7 +3737,7 @@ Cussanio
 
 - Santuario
 
-Beata Vergine Maria Madre della Divina Provvidenza, 5/8
+  - Beata Vergine Maria Madre della Divina Provvidenza, 5/8
 
 Cutigliano, Province of Pistoia, Toscana region
 
@@ -3754,11 +3760,11 @@ Decimoputzu, Province of South Sardinia, Sardinia
 
 Deliceto, Province of Foggia, Puglia region
 
-Convento della Consolazione
+- Convento della Consolazione
 
   - Cave of Bl. Felice da Corsano, hermit monk
 
-Sant'Anna e Morti
+- Sant'Anna e Morti
 
   - Relics of the martyrs Valentino, Pretestato, Saverio, Benedetto, Pio,
     and Clemente
@@ -3767,7 +3773,7 @@ Sant'Anna e Morti
 
   - Bl. Benvenuto da Gubbio, soldier & monk, 6/27
 
-Statue of Madonna dell'Olmitello
+  - Statue of Madonna dell'Olmitello
 
 Deruta, Province of Perugia, Umbria region
 
@@ -3789,19 +3795,19 @@ Dovadola, Province of Forlì-Cesena, Emilia-Romagna Region
 
 Eboli, Province of Salerno, Campania region
 
-San Pietro Alli Marmi/St. Peter
+- San Pietro Alli Marmi/St. Peter
 
   - St. Bernerio of Eboli, hermit, 11/20
 
 Enna, Sicily (center of the island)
 
-Santa Maria di Gesù di Montesalvo
+- Santa Maria di Gesù di Montesalvo
 
   - Servant of God Angelo Lo Musico, Franciscan, 1/9/1610
 
 Eraclea, Province of Venice, Veneto region
 
-Santa Maria Immacolata
+- Santa Maria Immacolata
 
   - St. Magnus of Citta Nuova, 10/6
 
@@ -3813,7 +3819,7 @@ Erba, Province of Como, Lombardia region
 
 Ercolano, Metropolitan City of Naples, Campania region
 
-Casa Generalizia (via Tironi di Moccia 44)
+- Casa Generalizia (via Tironi di Moccia 44)
 
   - Servant of God Letizia Zagari, foundress, d. 3/8/1985
 
@@ -3825,7 +3831,7 @@ Erice, Province of Trapani, Sicily
 
 Esperia, Province of Frosinone, Lazio region
 
-S. Maria di Rocca Guillermo
+- Santa Maria di Rocca Guillermo
 
   - St. Clino/Clinio, abbot, 3/30
 
@@ -3833,12 +3839,11 @@ Este, Province of Padua, Veneto Region
 
 - Duomo Abbaziale Basilica Santuario di Santa Tecla
 
-  - Servant of God Guido Negri, military officer, 6/27/1916 (2^nd^ altar on
-    left)
+  - Servant of God Guido Negri, military officer, 6/27/1916 (2^nd^ altar on left)
 
 - Basilica di Santa Maria delle Grazie
 
-- ???
+  - Byzantine-style icon of the Madonna and Child
 
 Fabriano, Province of Ancona, Le Marche region
 
