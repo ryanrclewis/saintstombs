@@ -4964,12 +4964,6 @@ region
 
   - Bl. Alessandro Dordi, priest/martyr in Peru, 8/25
 
-Grosseto, Province of Grosseto, Tuscany/Toscana region
-
-- Chiesa della Presentazione all'Argentario
-
-  - Ven. Galileo Nicolini, Passionist novice, May 13, 1897
-
 Grottaferrata, Province of Rome, Lazio Region
 
 - Abbey of Santa Maria di Grottaferrata/Monastery and Church of the
@@ -5842,7 +5836,7 @@ Maratea, Province of Potenza, Basilicata region
 
 Marcellina, Metropolitan City of Rome, Lazio region
 
-Santa Maria delle Grazie in Monte Dominici
+- Santa Maria delle Grazie in Monte Dominici
 
 Madonna del Giorno/Our Lady of the Day/Our Lady of the Walnut/Madonna
 della Noce, 6/9
@@ -6610,7 +6604,7 @@ Moncrivello, Province of Vercelli, Piemonte region
 
 - Santuario della Beata Vergine del Trompone
 
-Beata Virgine de Potente del Trompone, 6/26
+  - Beata Virgine de Potente del Trompone, 6/26
 
 Mondovì, Province of Cuneo, Piemonte region
 
@@ -6672,13 +6666,13 @@ Montalcino, Province of Siena, Tuscania region
 
 Montaldo di Castro, Province of Viterbo, Lazio region
 
-Santa Lucia
+- Santa Lucia
 
   - St. Candidus, one of the Forty Armenian Martyrs, 3/9
 
   - St. Cyrion/Quirinus, one of the Forty Armenian Martyrs, 3/9
 
-Santa Maria Assunta
+- Santa Maria Assunta
 
   - St. Candidus, one of the Forty Armenian Martyrs, 3/9 (skull and some
     other bones), 3/9
@@ -6700,12 +6694,13 @@ Monte Argentera, Cuneo
 
   - Servant of God Alberto Michelotti, layman
 
-Morano Calabro, Province of Cosenza, Calabria
+Monte Argentario, Province of Grosseto, Toscana region
 
-- Collegiata di Santa Maria Maddalena/Collegiate Church of St. Mary
-  Magdalene
+- Convento e Chiesa della Presentazione al Tempio (Str. Prov. Del Convento, 77)
 
-  - Servant of God Carlo De Cardona, priest/politician, d. 3/10/1958
+  - Ven. Galileo Nicolini, Passionist novice, d. 5/13/1897
+  
+  - Ven. Nazareno di Maria Immacolata Santolini, CP, priest, d. 1/4/1930
 
 Monte Caramanico
 
@@ -6760,7 +6755,7 @@ Monte Cerignone, Province of Pesaro e Urbino, Le Marche region
 
 Montefalco, Province of Perugia, Umbria Region
 
-Sant'Agostino
+- Sant'Agostino
 
   - Bl. Chiarella, religious, 6/26
 
@@ -6768,7 +6763,7 @@ Sant'Agostino
 
   - Bl. Pellegrino, pilgrim (incorrupt/mummified)
 
-San Fortunato
+- San Fortunato
 
   - St. Fortunatus, priest, 6/1
 
@@ -6843,7 +6838,7 @@ Montemiletto, Province of Avellino, Campania region
 
 Montepulciano
 
-Sanctuary of St. Agnes of Montepulciano
+- Sanctuary of St. Agnes of Montepulciano
 
   - St. Agnes of Montepulciano, 4/20
 
@@ -7024,7 +7019,7 @@ Morano Calabro, Province of Cosenza, Calabria
 
 Morbegno, Sondrio, Lombardia
 
-San Giovanni
+- San Giovanni
 
   - Bl. Andrea Grego da Peschiera, OP, itinerant preacher, 1/18 or 6/18
 
