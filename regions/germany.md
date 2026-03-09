@@ -7,17 +7,17 @@ state
 
 - Aachener Domschatzkammer/Cathedral Treasury
 
-The instruments of Christ's Passion
+  - The instruments of Christ's Passion
 
-Swaddling cloth of Jesus
+  - Swaddling cloth of Jesus
 
-Girdle of the Virgin Mary
+  - Girdle of the Virgin Mary
 
-Loincloth of Jesus
+  - Loincloth of Jesus
 
-- Reliquary with the skullcap of Bl. Charlemagne
+  - Reliquary with the skullcap of Bl. Charlemagne
 
-- Reliquary with the arm of Bl. Charlemagne
+  - Reliquary with the arm of Bl. Charlemagne
 
   - St. Anastasius of Antioch or Athanasius the Great, bishop, 4/20 (relic
     only)
@@ -27,17 +27,15 @@ Loincloth of Jesus
   - Ss. Corona and Leopardus, martyrs, 5/14 & 9/30, respectively (relics
     housed in the same shrine)
 
-- St. Felix of Nola or St. Felix of Martana (reliquary chest; the bodies
-  of both are buried elsewhere, though)
+  - St. Felix of Nola or St. Felix of Martana (reliquary chest; the bodies of both are buried elsewhere, though)
 
   - Relic of St. Peter's chain from the Mamertine Prison in Rome
 
-- St. Spes/Speus, bishop/martyr, 1/28 (reliquary chest; his remains are
-  supposedly in Bad Harzburg near Goslar)
+  - St. Spes/Speus, bishop/martyr, 1/28 (reliquary chest; his remains are supposedly in Bad Harzburg near Goslar)
 
   - St. Stephen of Hungary, king, 8/16 (relic only)
 
-Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
+- Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
 
   - St. Benedict of Aniane, abbot, 2/12
 
@@ -49,11 +47,9 @@ Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
 
   - St. Maria Franziska Schervier, religious, 12/15
 
-Elisabethinnen-Mutterhaus am Preusweg/Elisabethinnen mother house on
-Preusweg
+- Elisabethinnen-Mutterhaus am Preusweg/Elisabethinnen mother house on Preusweg
 
-  - Servant of God Apollonia Radermecher, OSE, foundress, d. 12/31/1626
-    (Krypta der Klosterkirche)
+  - Servant of God Apollonia Radermecher, OSE, foundress, d. 12/31/1626 (Krypta der Klosterkirche)
 
 - ???
 
@@ -71,7 +67,7 @@ Abenberg, Roth district, Mittelfranken admin. region, Bavaria state
 
 Altenburg, Wetzlar, Lahn-Dill-Kreis, Hessen
 
-Kloster Altenberg
+- Kloster Altenberg
 
   - Bl. Gertrude von Altenberg, O.Praem, abbess, 8/13 (relics moved in 1803
     during secularization, but it is unclear as to where)
@@ -84,7 +80,7 @@ Altenmittlau, municipality Freigericht, Main-Kinzig-Kreis, Hesse state
 
 Altomünster, Dachau district, Oberbayern admin. region, Bavaria
 
-Katholische Pfarr- und Klosterkirche St. Alto und St. Birgitta
+- Katholische Pfarr- und Klosterkirche St. Alto und St. Birgitta
 
   - St. Alto of Altomünster, abbot, 2/9
 
@@ -222,21 +218,21 @@ Kloster Segeberg (destroyed by the Lutherans)
 
   - Bl. Volker von Segeberg, OSA, monk/martyred by pagans, 3/7
 
-Bamberg, Urban district, Upper Franconia administrative region, Bavaria
-state
+Bamberg, Urban district, Upper Franconia administrative region, Bavaria state
 
 - Cathedral
 
-Empress St. Cunigunde of Luxembourg, OSB, 3/3
+  - Empress St. Cunigunde of Luxembourg, OSB, 3/3
 
-Emperor St. Henry II, 7/13
+  - Emperor St. Henry II, 7/13
+
+  - Pope Clement II (non-causa, but he is only Supreme Pontiff buried outside of Italy)
 
 - Klosterkirche St. Theodor/Conventual Church of St. Theodore
 
-  - Servant of God Alois (nee Franz Seraph) Ehrlich, OCD, religious, d.
-    9/21/1945
+  - Servant of God Alois (nee Franz Seraph) Ehrlich, OCD, religious, d. 9/21/1945
 
-Kloster Michaelsberg/Michelsberg or Michaelskirche
+- Kloster Michaelsberg/Michelsberg or Michaelskirche
 
   - St. Otto of Bamberg, bishop, 6/30
 
