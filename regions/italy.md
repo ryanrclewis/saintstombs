@@ -2144,9 +2144,9 @@ Calcinaia, Province of Pisa, Tuscania region
 
   - St. Ubaldesca Taccini, religious, 5/28
 
-- Local cemetery
+- Local cemetery (Vie Giuseppe Garibaldi)
 
-  - Servant of God Lodovico Cocapani, lay Franciscan, 11/14
+  - Ven. Ludovico Coccapani, TOSF, professor, d. 11/14/1931
 
 Calenzano, Metropolitan City of Florence, Toscana region
 
@@ -4860,9 +4860,17 @@ Ghemme, Province of Novara, Piemonte
 
   - St. Panacea De' Muzzi, lay martyr, 3/27
 
+Ghiffa, Province of Verbano-Cusio-Ossola, Piemonte region
+
+- Sacro Monte di Ghiffa
+
+- Monastero della Santa Trinità delle Benedettine del Santo Sacramento (Corso Risorgimento, 274)
+
+  - Ven. Maria Caterina del Bambino Gesù (née Luigia Maria Elisabetta) Lavizzari, OSB ap, religious, d 12/25/1931
+
 Ghilarza, Province of Oristano, Sardinia
 
-San Palmerio
+- San Palmerio
 
   - St. Palmerius, martyr, 7/8
 
@@ -4876,7 +4884,7 @@ Giubino, Sicily
 
 - Church of the Madonna of Giubino
 
-Maria Santissima di Giubino
+  - Maria Santissima di Giubino
 
 Giugliano in Campania, Province of Naples, Campania Region
 
@@ -4888,7 +4896,7 @@ Giugliano in Campania, Province of Naples, Campania Region
 
   - St. Crescentius (Crescenzo), martyr
 
-Collegiata di Santa Sofia
+- Collegiata di Santa Sofia
 
   - St. Giuliano di Sora, martyr, 1/27
 
@@ -7150,7 +7158,7 @@ Naples (Napoli)
 
   - St. Maximus of Naples, bishop/martyr, 6/10 or 6/11
 
-Gesù Nuovo
+- Gesù Nuovo
 
   - St. Cyrus (Ciro) of Alexandria the Physician, martyr, 1/31
 
@@ -7173,12 +7181,15 @@ Gesù Nuovo
   - Bl. Ion Costist/Jeremiah of Wallachia, OFM Cap., religious, 3/5
 
   - Ven. Orsola/Ursula Benincasa, foundress, 10/20[^2]
+- Basilica dell’Incoronata Madre del Buon Consiglio e Regina della Cattolica Chiesa/Basilica of the Crowned Mother of Good Counsel and Queen of the Catholic Church (via Capodimonte, 13)
 
-Santi Apostoli
+  - Servant of God Maria di Gesù (née Maria Anna) Landi, ADC, foundress, d. 3/26/1931
+
+- Santi Apostoli
 
   - Ven. Sisto Riario Sforza, cardinal archbishop, September 29, 1877
 
-San Biagio Maggiore (see San Gregorio Armeno)
+- San Biagio Maggiore (see San Gregorio Armeno)
 
 - Basilica di Santa Chiara
 
@@ -7202,7 +7213,7 @@ San Biagio Maggiore (see San Gregorio Armeno)
 
   - Bl. Raymond delle Vigne of Capua, OP, priest, 10/5
 
-San Domenico Soriano (piazza Dante)
+- San Domenico Soriano (piazza Dante)
 
   - Bl. Nunzio Sulprizio, layman, 5/5
 
@@ -7228,41 +7239,38 @@ Sant'Eframo Vecchio
 
   - Servant of God Geltrude/Gertrude Maria (née Leonilda) Gomez de Arce
 
-San Gennaio
+- San Gennaio
 
-Innocent IV (not canonized)
+  - Pope Innocent IV (not canonized)
 
-- San Giovanni a Carbonara/Augustinian church and convent of St. John at
-  Carbonara
+- San Giovanni a Carbonara/Augustinian church and convent of St. John at Carbonara
 
   - Bl. Cristiano Franco, OSA, religious, 9/28
 
   - Bl. Desiderio Franco, OSA, monk, 10/3
 
-San Giovanni dei Fiorentini
+- San Giovanni dei Fiorentini
 
   - Servant of God Angela Iacobellis, young girl, d. 3/27/1961
 
-San Giuseppe dei Ruffi
-
-- Chiesa di San Giuseppe dei Vecchi e di Nostra Signora di Lourdes
+- Chiesa di San Giuseppe dei Vecchi e di Nostra Signora di Lourdes (Via San Giuseppe dei Vecchi in the Via Materdei area)
 
   - Servant of God Dolindo Ruotolo, priest, d. 11/19/1970
 
-- San Gregorio Armeno (aka, San Biagio Maggiore, aka, Chiesa di Santa
-  Patrizia)
+  - Il bastone di San Giuseppe (the staff of St. Joseph)
 
-- St. Gregory the Armenian, Church Father, (skull)
+- San Gregorio Armeno (aka, San Biagio Maggiore, aka, Chiesa di Santa Patrizia)
 
-- St. Patrizia of Constantinople, religious, 8/25 (fifth chapel on
-  right)
+  - St. Gregory the Armenian, Church Father, (skull)
 
-San Lorenzo Maggiore
+  - St. Patrizia of Constantinople, religious, 8/25 (fifth chapel on right)
+
+- San Lorenzo Maggiore
 
   - Ven. Bartholomew Agricola, Protestant convert/Franciscan, (d.
     5/23/1661 -- buried in the Annunciation Chapel)
 
-Santa Lucia al Monte
+- Santa Lucia al Monte
 
   - Ven. Berardo (nee Giuseppe) Atonna, OFM, priest, 3/4/1917
 
@@ -7274,7 +7282,7 @@ Santa Lucia al Monte
 
   - Ven. Michelangelo di San Francesco da Frattamaggiore
 
-Convento San Luigi
+- Convento San Luigi
 
   - Bl. Bernardino Otranto, Minim religious, 10/25
 
@@ -7293,11 +7301,11 @@ Convento San Luigi
   - Bl. Maria Llorença Requenses Llong, O.S.C. Cap.,
     wife/widow/foundress, 12/21 (her head only; everything else is dust)
 
-Santa Maria Egiziaca a Forcella
+- Santa Maria Egiziaca a Forcella
 
   - St. Mary of Egypt, 4/1 (first class relic in a bust of her)
 
-Santa Maria di Monteverginella
+- Santa Maria di Monteverginella
 
   - St. Christina, martyr (no date)
 
@@ -7305,12 +7313,12 @@ Santa Maria di Monteverginella
 
   - St. Gatuzia, martyr (no date)
 
-Santa Maria Nuova
+- Santa Maria Nuova
 
   - St. James of the Marches/Giacomo della Marche, OFM, priest, 11/28
     (incorrupt)
 
-Santa Maria Regina Coeli
+- Santa Maria Regina Coeli
 
   - St. Jeanne-Antide Thouret, religious/foundress, 8/24
 
@@ -7318,7 +7326,7 @@ San Pietro a Maiella (Piazza Luigi Miraglia, 392)
 
   - Servant of God Carlo Amirante, priest, d. 1/20/1934
 
-San Paolo Maggiore
+- San Paolo Maggiore
 
   - St. Andrea/Andrew Avellino, CR, religious/preacher, 11/10
 
@@ -7330,16 +7338,16 @@ San Paolo Maggiore
 
   - Bl. Paulo Burali d'Arezzo, cardinal archbishop, 6/17
 
-San Pasquale a Chiaia
+- San Pasquale a Chiaia
 
   - St. Egidio (Giles) Maria de Saint Giuseppe, 2/7
 
-San Pietro ad Aram
+- San Pietro ad Aram
 
   - Servant of God Maria Angela Crocifissa (née Maria Giuda), Franciscan
     nun
 
-Santa Restituta e la Stefania
+- Santa Restituta e la Stefania
 
   - St. Aspren/Asprenato of Naples, 1st bishop, 8/3
 
@@ -7367,12 +7375,11 @@ Santa Restituta e la Stefania
   - Bl. Ambrose the Camaldulian (aka, Ambrogio Traversari of Camaldoli),
     monk, 11/20
 
-Ospizio Marino di via Posillipo, 24
+- Ospizio Marino di via Posillipo, 24
 
   - Bl. Ludovico da Casoria, priest/founder, 3/30
 
-Casa Madre Suore Apostole del Sacro Cuore/Motherhouse of the Sisters
-Apostles of the Sacred Heart (Via Nuova S. Rocco)
+- Casa Madre Suore Apostole del Sacro Cuore/Motherhouse of the Sisters Apostles of the Sacred Heart (Via Nuova S. Rocco)
 
   - Bl. Maria Crocifissa del Divino Amore (née Maria Gargani),
     foundress, 5/23
@@ -7382,11 +7389,11 @@ Apostles of the Sacred Heart (Via Nuova S. Rocco)
 
   - Ven. Claudia Russo, foundress, d. 3/11/1964
 
-Casa di Missione delle Vergini/House of the Virgins (Via Vergini, 51)
+- Casa di Missione delle Vergini/House of the Virgins (Via Vergini, 51)
 
-- Ven. Salvatore Micalizzi, CM, priest, d. 10/14/1937 (in the church)
+  - Ven. Salvatore Micalizzi, CM, priest, d. 10/14/1937 (in the church)
 
-- Great relic chapel
+  - Great relic chapel
 
 - Cimitero di Ponticelli (Via Argine 605)
 
@@ -7394,15 +7401,15 @@ Casa di Missione delle Vergini/House of the Virgins (Via Vergini, 51)
     \[underground tomb\] of the Congregation of Sant'Anna/nell'ipogeo
     della Congrega di Sant'Anna)
 
-Catacombe di San Gaudioso
+- Catacombe di San Gaudioso
 
   - St. Gaudioso (Gaudino) di Salerno, bishop, 10/27
 
-Catacombe di San Gennaro
+- Catacombe di San Gennaro
 
   - St. Giovanni I di Napoli (John I of Naples), bishop, 4/3
 
-Catacombe di San Gennaro a Capodimonte
+- Catacombe di San Gennaro a Capodimonte
 
   - St. Quodvultdeus, bishop, 2/19
 
@@ -7442,7 +7449,7 @@ Catacombe di San Gennaro a Capodimonte
 
   - St. Pomponio di Napoli, bishop, 4/30
 
-- St. Quodvultdeus, North African Church Father, 10/26
+  - St. Quodvultdeus, North African Church Father, 10/26
 
   - Servant of God Raniero Bonanni di Ocre, priest, d. 2/5/1949
     (possibly at Parrocchia di S. Lucia a Mare, Via S. Lucia, 3)
@@ -7452,7 +7459,7 @@ Catacombe di San Gennaro a Capodimonte
 
 Narni
 
-Concattedrale di San Giovenale a Narni
+- Concattedrale di San Giovenale a Narni
 
   - St. Alverio/Alverius of Agaunum, Theban soldier/martyr, 1/2
 
@@ -11073,6 +11080,8 @@ Santa Maria Maggiore
 
 - Santa Maria della Vittoria
 
+  - Servant of God Isidoro della Natività della B. V. Maria/Isidore of the Nativity of the Blessed Virgin Mary, OCD, d. 12/23/1769
+
   - St. Victoria (Vittoria)
 
 - Santi Nereo ed Achilleo
@@ -11733,6 +11742,12 @@ Sant'Elpidio a Mare, Province of Fermo, Le Marche region
 - Chiesa di Sant'Elpidio abate
 
   - St. Elpidio/Elpidius the Cappadocian, abbot/hermit, 9/2
+
+Sant’Elpidio a Mare, Casette d’Ete frazione, Province of Fermo, Le Marche region
+
+- Chiesa del Santissimo Redentore/Church of the Most Holy Redeemer (75 Via Garibaldi A.)
+
+  - Ven. Marietta Gioia, laywoman, d. 3/7/1931
 
 San Fior, Province of Treviso, Veneto region
 
@@ -13681,8 +13696,7 @@ San Domenico
   - Bl. Luigi della Consolata (née Andrea Bordino), religious, 8/25 (altar
     of the Sacred Heart)
 
-- Basilica di Santa Maria Ausiliatrice/Basilica of Santa Maria, Help of
-  Christians
+- Basilica di Santa Maria Ausiliatrice/Basilica of Santa Maria, Help of Christians
 
   - St. Dominic Savio, child, altar boy, 3/9 and 5/6
 
@@ -13690,7 +13704,7 @@ San Domenico
 
   - St. Maria Domenica Mazzarello, FMA, foundress (incorrupt), 5/14
 
-  - Bl. Filipo/Philip Rinaldi, priest, 12/5
+  - Bl. Filippo/Philip Rinaldi, priest, 12/5
 
 - Convento della Madonna degli Angeli/Chiesa della Madonna degli
   Angeli/Our Lady of the Angels (at the corner of Via Cavour and Via Carlo
