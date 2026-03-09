@@ -5536,7 +5536,7 @@ Lucca, Province of Lucca, Tuscany Region
 
 - Duomo di San Martino
 
-Volto Santo
+  - Volto Santo
 
   - Ven. Enrico Bartoletti, archbishop, d. 3/5/1976
 
@@ -5546,37 +5546,39 @@ Volto Santo
 
   - St. Pellegrina,
 
-Sant'Agostino
+- Sant'Agostino
 
   - St. Elena Guerra, foundress, 4/11
 
-San Frediano
+- San Frediano
 
   - St. Frigidian/Frigidianus, bishop and confessor, 3/18
 
-- St. Richard, King of Anglia, 2/7, the left side of the church
+  - St. Richard, King of Anglia, 2/7, the left side of the church
 
-- St. Zita (aka, Sitha, Citha) of Lucca, 4/27 (chapel to the right)
+  - St. Zita (aka, Sitha, Citha) of Lucca, 4/27 (chapel to the right)
 
-- Santuario di Santa Gemma
+- Santuario di Santa Gemma Galgani (via di Tiglio, 271)
 
   - St. Gemma Galgani, CP, mystic, 4/11
 
   - Ven. Germano Ruoppolo, CP, priest, d. 12/11/1909
 
-Santi Giovanni e Reparata
+  - Servant of God Giovanni Volpi, archbishop, d. 6/19/1931
+
+- Santi Giovanni e Reparata
 
   - St. Pantaleon, one of the 14 holy helpers (relics only), 10/27
 
-Santa Giustina
+- Santa Giustina
 
   - St. Silaus/Silao of Lucca, Irish bishop, 5/17 or 5/21
 
-San Jacopo Apostolo
+- San Jacopo Apostolo
 
   - St. Fortunola, Roman widow and martyr
 
-San Michele in Foro
+- San Michele in Foro
 
   - St. Davino Armeno (Davinus the Armenian), pilgrim, 6/3
 
@@ -5586,7 +5588,7 @@ San Michele in Foro
 
   - St. Amador/Amatore of Lucca, 8/20
 
-Santi Paolino e Donatu (aka, San Paolino), on Via San Paolino
+- Santi Paolino e Donatu (aka, San Paolino), on Via San Paolino
 
   - Bl. Avertano di Lucca, OCarm, pilgrim, religious, 2/25
 
@@ -5597,6 +5599,10 @@ Santi Paolino e Donatu (aka, San Paolino), on Via San Paolino
 - Chiesa della Santissima Trinità
 
   - Bl. Maria Domenica Brun Barbantini, foundress, 5/22
+
+- Cimitero Urbano in S. Anna/Cimitero Monumentale di Lucca/Monumental Urban Cemetery of Lucca (via Tagliate di Sant’Anna, 570)
+
+  - Servant of God Renato Masini, layman, d. 5/5/1931
 
 - ???
 
@@ -5620,17 +5626,17 @@ Lucera, Foglia, Puglia (Apulia)
 
   - Bl. Augustin Kažotić (Casotti), OP, bishop, 8/3
 
-Cristo Re
+- Cristo Re
 
   - Servant of God Fr. Angelo Cuomo, priest, d. 1/2/1990
 
-San Francesco
+- San Francesco
 
   - St. Francesco Antonio Fasani/Francis Anthony, priest, 11/27 (probably at
     Convento San Francesco, Piazza S. Francesco, 15, 71036 Lucera (FG),
     ITALY)
 
-Convento di Santissimo Salvatore
+- Convento di Santissimo Salvatore
 
   - Bl. Giovanni Vici da Stroncone, religious, 5/8
 
