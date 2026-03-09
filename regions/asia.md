@@ -3095,11 +3095,16 @@ Baalbek (بَعْلَبَكّ), Baalbek-Hermel Governorate
 
   - Servant of God Romano Bottegal, OCSO, priest/hermit, d. 2/19/1978
 
-Batroun
+Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Governorate, Lebanon
 
 - St. Joseph Monastery Al Dahr, Jrabara
 
   - St. Rafqa, nun, 3/23
+
+- 
+•الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
+  - Ven. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
+
 
 Beirut
 
@@ -3490,7 +3495,7 @@ Najran/نجران, Najran region
 # Sri Lanka
 
 Bolawatta (about 24 miles/40 km north of Colombo)
-- Our Lady of Assumption Church
+- Our Lady of the Assumption Church
   - Servant of God पाद्री झाकॉम गोनसाल्विश/Jacome Gonsalves, CO, priest/missionary, d. 7/17/1742
 
 Colombo
@@ -3502,10 +3507,9 @@ Colombo
 
 Gonawila/ගෝනවිල, Central-Western Province
 
-- සුසාන භූමිය/Cemetery
+- සුසාන භූමිය/Cemetery (Dankotuwa Road)
 
-  - Servant of God ගෝනවිල හෙලේනා/Helena of
-    Gonawila, consecrated woman, d. 2/8/1931
+  - Servant of God ගෝනවිල හෙලේනා/Helena of Gonawila, consecrated woman, d. 2/8/1931
 
 Jaffna, Northern Province
 
