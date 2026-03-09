@@ -4309,18 +4309,15 @@ Lugo, Province of Lugo, Galicia autonomous community
 
 Madrid
 
-- Santa Iglesia Catedral Metropolitana de Santa María la Real de la
-  Almudena (aka, Catedral de la Almudena)
+- Santa Iglesia Catedral Metropolitana de Santa María la Real de la Almudena (aka, Catedral de la Almudena)
 
-  - Ven. Amparo Portilla Crespo, philanthropist/wife/mother, d. 5/10/1996
-    (Buried in the Capilla del Santísimo in the crypt)
+	- Ven. Amparo Portilla Crespo, philanthropist/wife/mother, d. 5/10/1996 (Buried in the Capilla del Santísimo in the crypt)
 
-  - Servant of God Eugenio Romero Pose, bishop, d. 3/25/2007
+	- Servant of God Eugenio Romero Pose, bishop, d. 3/25/2007
 
-- Servant of God Fernando Rielo Pardal, layman, d. 12/6/2004 (crypt
-  Capilla Nuestra Señora del Rosario)
+	- Servant of God Fernando Rielo Pardal, layman, d. 12/6/2004 (in the crypt of Capilla Nuestra Señora del Rosario)
 
-La Virgen de la Almudena/Our Lady of Almudena, 11/9
+	- La Virgen de la Almudena/Our Lady of Almudena, 11/9
 
 - Augustinian church
 
@@ -4333,8 +4330,7 @@ La Virgen de la Almudena/Our Lady of Almudena, 11/9
   - St. José María Rubio y Peralta, priest "The apostle of Madrid," 5/2 or
     5/4
 
-- Basílica de la Concepción/Iglesia de Nuestra Señora de la Concepción
-  (Capuchin Church) (Calle Goya, 26)
+- Basílica de la Concepción/Iglesia de Nuestra Señora de la Concepción (Capuchin Church) (Calle Goya, 26)
 
   - Bl. Aurelio de Ocejo (née Facundo) Escanciano Tejerina, OFM Cap., 8/17
 
@@ -4343,6 +4339,10 @@ La Virgen de la Almudena/Our Lady of Almudena, 11/9
 
   - Ven. Manuel Aparici Navarro, priest, d. 8/28/1964 (in the capilla de la
     Virgen del Perpetuo Socorro/chapel of the Our Lady of Perpetual Help)
+
+- Basílica de la Medalla Milagrosa, Capilla de los Martires/Basilica of Our Lady of the Miraculous Medal, Martyrs Chapel (Calle García de Paredes, 45)
+
+	- Bl. Amado García Sánchez, CM, martyr, 11/6 (bloody towel relic only)
 
 - Santuario del Perpetuo Socorro (Calle Manuel Silvela, 14)
 
@@ -6048,16 +6048,17 @@ Orense/Ourense, Province of Orense, Galicia Autonomous Community
 
   - Servant of God Francisco Blanco Nájera, bishop/founder, d. 1/15/1952
 
-Orihuela, Vega Baja del Segura comarca, Province of Alicante/Alacant,
-Valencian autonomous community
+Orihuela, Vega Baja del Segura comarca, Province of Alicante/Alacant, Valencian autonomous community
+
+- Iglesia del Carmen/Church of Our Lady of Mount Carmel (Calle del Carmen)
+
+	- Ven. María Elisea Josefa Oliver Molina, foundress, d. 12/17/1931
 
 - ???
 
-  - Bl. Juan Crisóstomo de Gata de Gorgos (née Ignacio Caselles García), OFM
-    Cap., priest/martyr, 12/24 (he died here, but where is he buried?)
+  - Bl. Juan Crisóstomo de Gata de Gorgos (née Ignacio Caselles García), OFM Cap., priest/martyr, 12/24 (he died here, but where is he buried?)
 
-Oropesa, Campana de Oropesa comarca, Province of Toledo, Castile-La
-Mancha autonomous community
+Oropesa, Campana de Oropesa comarca, Province of Toledo, Castile-La Mancha autonomous community
 
 - ???
 
@@ -6065,10 +6066,9 @@ Mancha autonomous community
 
 Orozko/Orozco, Province of Biscay, Basque autonomous community
 
-Monasterio de Jesús y María
+- Monasterio de Jesús y María
 
-  - Bl. Clara de Ugarte, O. de M., religious, 1/4 (remains may no longer be
-    here)
+  - Bl. Clara de Ugarte, O. de M., religious, 1/4 (her remains may no longer be here)
 
 Oviedo, Asturias
 
