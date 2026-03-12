@@ -767,11 +767,13 @@ Jamesburg, Middlesex County, New Jersey
 Jenkintown, Montgomery County, Pennsylvania
 
 - Provincial Motherhouse of the Sisters of St. Basil the Great (710 Fox Chase Road)
+
   - Grotto of Our Lady of Lourdes
 
 Jersey City, Hudson County, New Jersey
 
 - St. Michael Church (252 Ninth Street)
+
   - Shrine of St. Jude
 
 Juneau, Alaska
@@ -781,24 +783,29 @@ Juneau, Alaska
 Kalaupapa, Kalawao County, Hawaii
 
 - St. Philomena Catholic Church Cemetery
+
   - Servant of God Ira Barnes "Brother Joseph" Dutton, layman/convert, d. 3/26/1931
 
 Kalawao on Molokai, Hawaii
 
 - ???
+
   - St. Damian de Veuster of Molokai, SS CC, priest, 5/10 (right hand only)
 
 Kansas City, Missouri
 
 - Cathedral of St. Peter the Apostle
+
   - Shrine of St. Maria Soledad
 
 - Nelson-Atkins Museum of Art
-  - Finger of St. John the Baptist
+
+   - Finger of St. John the Baptist
 
 Kenmore, Erie County, New York
 
 - St. John the Baptist Church (1085 Englewood Avenue)
+
   - Shrine of St. John Neumann
 
 Kennebunkport, York County, Maine
@@ -1651,6 +1658,20 @@ Saragosa, Reeves County, Texas
 - Our Lady of Guadalupe Church (Highway 17 S.)
   - Shrine of Our Lady of Guadalupe Church
 
+Sauk Centre, Stearns County, Minnesota
+
+- St. Paul Church (304 Sinclair Lewis Avenue)
+
+  - Divine Mercy Shrine of Sauk Centre (Altar of St. Joseph)
+  
+  - True Cross (relic only)
+  
+  - St. Faustina Kowalska, OLM, religious/visionary/mystic, 10/5 (relic only)
+  
+  - Pope St. John Paul II, 10/22 (relic only)
+  
+  - St. Maximilian Kolbe, OFM Conv., priest/visionary, 8/14 (relic only)
+
 Scranton, Lackawanna County, Pennsylvania
 
 - Minor Basilica of St. Anne's Monastery and National Shrine (1230 St. Ann Street)
@@ -1781,14 +1802,28 @@ Sycamore, Colusa County, California
 
 - Shrine of Our Lady of Sorrows (aka, The Little Shrine)(Sycamore Slough Road)
 
+Tampa, Florida
+
+- Mary Help of Christians Center (6400 E. Chelsea Street)
+
+  - Home to over 700 relics
+
+The Woodlands, Montgomery County, Texas
+
+- St. Anthony of Padua Church (7801 Bay Branch Drive)
+
+  - Relics of 27 saints
+
 Thibodaux, Louisiana
 
 - St. Joseph's Co-Cathedral
+
   - St. Valeria of Milan, martyr, 4/28 (relic of arm, only)
 
 Three Rivers, Otero County, New Mexico
 
 - Santo Niño de Atocha Shrine (12-38 Chapel Rd, Tularosa, NM) (The chapel is located at the base of the Godfrey Hills, near the Three Rivers Petroglyph Site.)
+
   - In addition to the Shrine, there is a Way of the Cross and a large cross on a nearby hill
 
 Tortugas, Doña Ana County, New Mexico
@@ -1798,7 +1833,9 @@ Tortugas, Doña Ana County, New Mexico
 Totowa, Passaic County, New Jersey
 
 - Holy Sepulchre Roman Catholic Cemetery
+
   - Servant of God Fr. Leo Heinrichs, OFM, priest (likely martyr)
+
   - Fr. Mychal Judge, OFM (_non-causa_; the first responder to die on 9/11)
 
 Trinidad, Las Animas County, Colorado
