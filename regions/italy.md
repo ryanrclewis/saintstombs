@@ -4300,8 +4300,7 @@ Faentina, 195)
 
   - Ven. Giulio Facibeni, priest, d. 6/2/1958
 
-- Cimitero delle Porte Sante a San Miniato al Monte (Via delle Porte
-  Sante, 34)
+- Cimitero delle Porte Sante a San Miniato al Monte (Via delle Porte Sante, 34)
 
   - Ven. Maria Cristina Ogier, laywoman, d. 1/8/1974
 
@@ -4315,8 +4314,7 @@ Faentina, 195)
   di San Gallo, which is in Piazza della Libertà, Our Lady, the Queen of
   Heaven, Il Chiarito (seb-nothing)
 
-- Bl. Ippolito Galantini, master catechist (possibly at Chiesa di Santa
-  Lucia sul Prato)
+- Bl. Ippolito Galantini, master catechist (possibly at Chiesa di Santa Lucia sul Prato)
 
   - St. Juliana, widow, 2/7/435, patroness of single mothers (seb-nothing)
 
@@ -4732,11 +4730,11 @@ Genoa (Genova)
 
   - St. Valentine of Genoa, bishop, 11/6
 
-San Giovanni di Prè
+- San Giovanni di Prè
 
   - Bl. Ugo (aka, Hugh) Canefro of Genoa, confessor, 10/8
 
-Santa Maria di Castello
+- Santa Maria di Castello
 
   - Blessed James of Voragine, OP, archbishop of Genoa, author of the
     Legenda Aurea (Golden Legend), and bishop of Genoa (1292-1298)
@@ -4751,7 +4749,7 @@ Santa Maria di Castello
 
   - St. Remo/Romulus of Genoa, bishop, 11/6
 
-Convento di Santo Stefano
+- Convento di Santo Stefano
 
   - St. Ampelio, hermit, 5/14
 
@@ -4759,8 +4757,7 @@ Convento di Santo Stefano
 
   - St. Francesco Maria da Camporosso, O.F.M. Cap, friar, 5/11
 
-- Santuario di Sant'Anna dei Carmelitani Scalzi (Piazzetta Sant\'Anna,
-  4; +39 010 246 8866)
+- Santuario di Sant'Anna dei Carmelitani Scalzi (Piazzetta Sant\'Anna, 4)
 
   - Bl. Antonio di San Pietro, O. de M., friar, 7/30 (the Mercedarians
     may have taken his relics with them when the convent transferred
@@ -4778,14 +4775,11 @@ Convento di Santo Stefano
 
   - Bl. Eugenia Ravasco, virgin/foundress, 12/30
 
-- Suore Minime di San Francesco da Paola/Mother House of the
-Congregation (via Marassi, 4)
+- Suore Minime di San Francesco da Paola/Mother House of the Congregation (via Marassi, 4)
 
-  - Servant of God Maria Raffaella (née Maria) de Giovanna,
-    religious/foundress, d. 3/11/1933 (buried in the chapel)
+  - Servant of God Maria Raffaella (née Maria) de Giovanna, religious/foundress, d. 3/11/1933 (buried in the chapel)
 
-- Casa madre delle Suore del Cenacolo Domenicano (Viale Ermelinda Rigon,
-18)
+- Casa madre delle Suore del Cenacolo Domenicano (Viale Ermelinda Rigon, 18)
 
   - Servant of God Maria Benedetta del SS. Sacramento (née Ermelinda
     Rigon), foundress, d. 1/6/1973 (nella cappella/in the chapel)
@@ -4804,25 +4798,21 @@ Congregation (via Marassi, 4)
 
   - Servant of God Aldo "Bisagno" Gastaldi, layman/partisan, 5/21/1945
 
-  - Ven. Domenica Caterina dello Spirito Santo (nee Teresa Solari),
-    religious, PCDP, 5/7/1908
+  - Ven. Domenica Caterina dello Spirito Santo (nee Teresa Solari), religious, PCDP, 5/7/1908
 
 - ???
 
   - St. Beda il Giovane/Bede the Younger, monk, 4/10
 
-- St. Consolata of Genoa, nun, 12/5 (a church was built to house her
-  remains and was named after her, but it seems to no longer exist)
+  - St. Consolata of Genoa, nun, 12/5 (a church was built to house her remains and was named after her, but it seems to no longer exist)
 
   - Bl. Eugenia Ravasco, foundress, 12/30
 
-  - Ss. Felix, Valentine, and Romulus, bishops (either at Dodici
-    Apostoli or San Siro)
+  - Ss. Felix, Valentine, and Romulus, bishops (either at Dodici Apostoli or San Siro)
 
   - Ven. Maria Plautilla (née Lucia Cavallo), religious, d. 10/5/1947
 
-  - Ven. Paolo Giuseppe Maria Frassinetti, FSMI, priest/founder, d.
-    1/2/1868
+  - Ven. Paolo Giuseppe Maria Frassinetti, FSMI, priest/founder, d. 1/2/1868
 
   - St. Salomon, bishop and confessor, 9/28
 
@@ -4830,15 +4820,14 @@ Congregation (via Marassi, 4)
 
 Genoa/Genova, Marassi district, Liguria region
 
-Casa Generalizia delle Suore di Nostra Signora del Rifugio in Monte
-Calvario/General House of the Sisters of Our Lady of Refuge in Monte
+- Casa Generalizia delle Suore di Nostra Signora del Rifugio in Monte Calvario/General House of the Sisters of Our Lady of Refuge in Monte
 Calvario
 
   - Bl. Maria Vittoria De Fornari Strata, widow/mother/foundress, 12/15
 
 Genoa/Genova, Pegli neighborhood (western Genoa)
 
-Sant'Antonio Abate
+- Sant'Antonio Abate
 
   - Bl. Martino Ansa da Pegli, hermit, 4/8
 
@@ -9202,9 +9191,9 @@ Prato Province of Prato, Toscana region (just northwest of Florence)
 
 - Duomo
 
-La cintura della Madonna/Our Lady's Girdle
+  - La cintura della Madonna/Our Lady's Girdle
 
-Santa Caterina/San Vincenzo
+- Santa Caterina/San Vincenzo
 
   - St. Caterina/Catherine dei Ricci, OSD, religious, 2/2 (incorrupt)
 
@@ -9212,31 +9201,27 @@ Santa Caterina/San Vincenzo
 
   - St. Peter, cardinal/monk
 
-San Domenico
+- San Domenico
 
   - Ven. Benedetto (Mattia) Bacci, OFM, monk, †May 2, 1658
 
-Cesare Guasti, famous writer, very holy, pious layman, *non causa*, d.
-2/12/1889
+  - Cesare Guasti, famous writer, very holy, pious layman, *non causa*, d. 2/12/1889
 
-San Francesco
+- San Francesco
 
-Cappella Migliorati (or Sala del Capitolo)
+  - Cappella Migliorati (or Sala del Capitolo)
 
 - Basilica di Santa Maria delle Carceri
 
-Miraculous fresco on the high altar, *Madonna col Bambino tra San
-Leonardo e San Stefano*
+  - Miraculous fresco on the high altar, *Madonna col Bambino tra San Leonardo e San Stefano*
 
-- Cimitero di Misericordia
+- Cimitero di Misericordia (via Galcianese, 13)
 
   - Servant of God Amata Cerretelli, OCDS, laywoman, d. 1/26/1963
 
-  - Servant of God Renzo Buricchi, layman, d. 10/6/1983
-
-- ???
-
   - Servant of God Carolina Bellandi, TOSF, laywoman, d. 12/27/1986
+
+  - Servant of God Renzo Buricchi, layman, d. 10/6/1983
 
 Prato, Iolo/Jolo *frazione*, Province of Prato, Toscana region
 
@@ -9256,19 +9241,15 @@ Pretara, Isola del Gran Sasso, Province of Teramo
 
   - Bl. Colomba di Monte Brancastello, 9/1
 
-Prignano sulla Secchia, Montebaranzone *frazione*, Province of Modena,
-Emilia-Romagna region
+Prignano sulla Secchia, Montebaranzone *frazione*, Province of Modena, Emilia-Romagna region
 
 - Cimitero di Montebaranzone/Cemetery
 
   - Servant of God Giuseppe Castagnetti, TOSF, politician, d. 6/22/1965
 
-Prignano sulla Secchia, Montebaranzone frazione, Province of Modena,
-Emilia-Romagna region
-
 Prima Porta, Città Metropolitana di Roma Capitale, Lazio region
 
-Istituto delle Figlie di Santa Maria di Leuca
+- Istituto delle Figlie di Santa Maria di Leuca
 
   - Ven. Teresa Lanfranco (née Annunziata Addolorata), foundress, d.
     6/8/1989
