@@ -716,7 +716,7 @@ Gikondi, Mukurweini, Nyeri
 
 - Our Lady Consolata
 
-  - Bl. Irene (nee Aurelia Mercede "Nyaatha") Stefani, religious, 10/31
+  - Bl. Irene (née Aurelia Mercede “Nyaatha”) Stefani, religious, 10/31
 
   - Servant of God Mariano Wachira Gichohi and 20 Companions, martyrs, d. 12/9/1952 (only 3-4 of the martyrs are buried here and these 3-4 all share the death date of Dec. 9)
 
