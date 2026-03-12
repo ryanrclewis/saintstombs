@@ -1997,7 +1997,7 @@ Weedon, Northamptonshire
 
 Welsh Newton, Herefordshire
 
-  - St. Mary the Virgin churchyard
+- St. Mary the Virgin churchyard
 
   - St. John Kemble, priest/martyr, 8/22, 10/25, & 10/29
 
@@ -2008,7 +2008,7 @@ West Grinstead, Catholic Diocese of Arundel and Brighton
 
   - Blessed Francis Bell, martyr
 
-Renowned author Hilaire Belloc
+  - Renowned author Hilaire Belloc
 
 Whitby, North Yorkshire
 
@@ -2032,13 +2032,11 @@ Whithorn, Wigtownshire, Dumfries and Galloway, Scotland
 
 - Whithorn Priory/Abbey
 
-  - St. Ninian (aka, Dinan, Ninias, Ninus, Nynia, Ringan, Ringen), bishop,
-    9/16, relics likely lost during the Reformation
+  - St. Ninian (aka, Dinan, Ninias, Ninus, Nynia, Ringan, Ringen), bishop, 9/16, relics likely lost during the Reformation
 
 Wilton, Wiltshire, South West region
 
-- Wilton Abbey (suppressed by Henry VIII in 1539; totally gone; might be
-  underneath Wilton House)
+- Wilton Abbey (suppressed by Henry VIII in 1539; totally gone; might be underneath Wilton House)
 
   - St. Ælfflæd, Eadflæd, and Æthelhild
 
@@ -2062,8 +2060,7 @@ Winchcombe, Tewkesbury district, Gloucestershire, South West region
 
 - St. Peter Church
 
-  - King St. Kenelm, putative martyr, 7/17 (they have his coffin, but is
-    there anyone in it?)
+  - King St. Kenelm, putative martyr, 7/17 (they have his coffin, but is there anyone in it?)
 
 Winchester
 
@@ -2142,7 +2139,7 @@ York Minster (aka, St. Peter's)
 
   - St. Margaret Clitherow, martyr, 3/25 & 10/21
 
-- The Bar Convent, 17 Blossom Street
+- The Bar Convent (17 Blossom Street)
 
   - St. Margaret Clitherow, martyr, 3/25 and 10/21 (only her hand)
 
