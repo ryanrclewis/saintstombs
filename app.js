@@ -9,7 +9,12 @@ const observer = new IntersectionObserver((entries) => {
         if (entry.isIntersecting) {
             const el = entry.target;
             const target = parseInt(el.getAttribute('data-target'));
-            animateValue(el, 0, target, 2000);
+            // Apple HIG: respect prefers-reduced-motion
+            if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                el.innerHTML = target.toLocaleString();
+            } else {
+                animateValue(el, 0, target, 2000);
+            }
             observer.unobserve(el);
         }
     });
@@ -48,6 +53,9 @@ const heroSection = document.querySelector('.hero');
 const cards = document.querySelectorAll('.card');
 
 heroSection.addEventListener('mousemove', (e) => {
+    // Apple HIG: respect prefers-reduced-motion
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
     const x = (window.innerWidth / 2 - e.pageX) / 25;
     const y = (window.innerHeight / 2 - e.pageY) / 25;
 
