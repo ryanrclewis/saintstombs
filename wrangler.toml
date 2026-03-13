@@ -1,15 +1,6 @@
-# Wrangler configuration for the SaintsTombs search Worker
-# Docs: https://developers.cloudflare.com/workers/wrangler/configuration/
-
-name = "saintstombs-search"
-main = "workers/search/index.js"
+name = "saintstombs"
 compatibility_date = "2024-09-23"
 
-# ---------------------------------------------------------------------------
-# D1 database binding
-# Replace <YOUR_D1_DATABASE_ID> with the ID printed by:
-#   wrangler d1 create saints-search
-# ---------------------------------------------------------------------------
 [[d1_databases]]
 binding = "DB"
 database_name = "saints-search"
