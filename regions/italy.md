@@ -6689,8 +6689,6 @@ Montanaro, Province of Turin, Piemonte Region
 
   - St. Aurelia of Alexandria, martyr, 12/2
 
-Montaperti, Province of Siena, Tuscany region
-
 Monte Argentera, Cuneo
 
 - ???
