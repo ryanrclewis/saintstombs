@@ -13,7 +13,7 @@ backend:
 # ---------------------------------------------------------------------------
 # Media — store uploaded images alongside the content
 # ---------------------------------------------------------------------------
-media_folder: "images/uploads"
+media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
 # ---------------------------------------------------------------------------
