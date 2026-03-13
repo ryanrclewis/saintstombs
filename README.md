@@ -28,86 +28,92 @@ SaintsTombs.com is a website that helps visitors discover and learn about the lo
 
 ### Prerequisites
 
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- A local web server (optional, for development)
+- Node.js 18+
+- npm
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/saintstombs.git
+git clone https://github.com/ryanrclewis/saintstombs.git
 cd saintstombs
 ```
 
-2. Open the project:
-   - Simply open `index.html` in your web browser, or
-   - Use a local development server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js http-server
-   npx http-server
-   ```
+2. Install dependencies:
+```bash
+npm install
+```
 
-3. Navigate to `http://localhost:8000` (or your server's port)
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Navigate to `http://localhost:3000`
+
+### Build for production
+
+```bash
+npm run build
+```
+
+### Deploy to Cloudflare Workers
+
+```bash
+npm run deploy
+```
+
+> **Note:** `vinext deploy` requires a [Cloudflare account](https://cloudflare.com/) and `wrangler login`. See the [vinext docs](https://github.com/cloudflare/vinext) for full deployment instructions.
 
 ## 📁 Project Structure
 
 ```
 saintstombs/
-├── index.html               # Homepage
-├── about.html               # About page
-├── saints.html              # Saints explorer page
-├── search.html              # Search page (D1-powered)
-├── contact.html             # Contact page
-├── donate.html              # Donation page
-├── app.js                   # Main application logic
-├── global.js                # Global utilities and helpers
-├── about.js                 # About page functionality
-├── saints.js                # Saints page functionality
-├── search.js                # Search page functionality
-├── style.css                # Main stylesheet
-├── favicon.svg              # Site favicon
+├── package.json             # Node dependencies and scripts
+├── vite.config.js           # Vite + vinext + Cloudflare plugin config
+├── next.config.js           # Next.js-compatible config (read by vinext)
 ├── wrangler.toml            # Cloudflare Workers + D1 config
-├── admin/                   # Decap CMS admin UI
-│   ├── index.html
-│   └── config.yml
+├── pages/                   # vinext (Next.js Pages Router) pages
+│   ├── _app.jsx             # Global CSS + App wrapper
+│   ├── index.jsx            # Homepage
+│   ├── about.jsx            # About page
+│   ├── saints.jsx           # Saints explorer page
+│   ├── search.jsx           # Search page
+│   ├── contact.jsx          # Contact page
+│   ├── donate.jsx           # Donate page
+│   └── api/
+│       └── search.js        # Edge API route (D1 full-text search)
+├── components/
+│   └── Layout.jsx           # Shared header, nav, and footer
+├── styles/
+│   └── globals.css          # Global stylesheet
+├── public/                  # Static assets served at root URL
+│   ├── favicon.svg
+│   ├── cover.png
+│   ├── background.jpg
+│   ├── st-peter.jpg
+│   ├── st-thomas.jpg
+│   ├── st-francis.jpg
+│   ├── regions/             # Markdown content files (browser-fetched)
+│   └── admin/               # Decap CMS admin UI
+├── regions/                 # Source markdown files (used by populate.js)
 ├── workers/
 │   └── search/
-│       ├── index.js         # Cloudflare Worker (search API)
 │       ├── schema.sql       # D1 database schema
 │       └── populate.js      # Seed D1 from markdown files
-└── regions/                 # Regional content in Markdown
-    ├── africa.md
-    ├── asia.md
-    ├── austria.md
-    ├── belgium.md
-    ├── britain.md
-    ├── eastern-europe.md
-    ├── france.md
-    ├── germany.md
-    ├── ireland.md
-    ├── italy.md
-    ├── latin-america.md
-    ├── netherlands.md
-    ├── north-america.md
-    ├── oceania.md
-    ├── portugal.md
-    ├── scandinavia.md
-    ├── spain.md
-    └── switzerland.md
+└── _legacy/                 # Original plain HTML/JS/CSS (archived)
 ```
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Semantic markup
-- **CSS3**: Custom styles with glassmorphism effects
-- **Vanilla JavaScript**: No framework dependencies
+- **React 19**: UI components
+- **vinext**: Next.js API surface reimplemented on Vite (deploys to Cloudflare Workers)
+- **Vite**: Fast build tooling with HMR
+- **@cloudflare/vite-plugin**: Cloudflare Workers integration for Vite
 - **Marked.js**: Markdown parsing for content rendering
 - **Google Fonts**: Texturina font family
 - **Decap CMS**: Git-based CMS for in-browser content editing
-- **Cloudflare Workers**: Serverless edge search API
+- **Cloudflare Workers**: Full-stack edge deployment via vinext
 - **Cloudflare D1**: SQLite-at-the-edge database with FTS5 full-text search
 
 ## 🔍 Hybrid CMS + Search Setup
