@@ -365,6 +365,12 @@ Clifton, Passaic County, New Jersey
   - Devotion to the Holy Face
   - Life sized replica of the Shroud of Turin
 
+Clyde, Nodaway County, Missouri
+
+- Benedictine Sisters Convent of Perpetual Adoration (31970 State Highway P)
+
+  - Relics chapel in the church (Over 400 relics)
+
 Cold Spring, Stearns County, Minnesota
 
 - Assumption Chapel (aka, Grasshopper Chapel)(22912 Chapel Hill Road)
