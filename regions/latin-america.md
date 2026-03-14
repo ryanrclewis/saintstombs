@@ -120,6 +120,10 @@ Córdoba, Capital department, Province of Córdoba
 
   - Ven. Isora María del Tránsito Ocampo, religious, d. 12/28/1900
 
+- Casa madre de la Congregación de Hermanas Mercedarias del Niño Jesús (Mariano Fragueiro 2389)
+
+  - Ven. José León Torres, O. de M., priest/founder, d. 12/15/1930
+
 - ???
 
   - Servant of God Pura Rosa del Carmen (née Secundina Guadalupe Olmos), religious, d. 7/28/1965 (she died at the motherhouse of Hermanas Carmelitas de Santa Teresa de Jesús)
@@ -942,23 +946,27 @@ São João da Boa Vista, São Paulo state, Southeast region
 
   - Servant of God Tomás Vaquero, bishop, d. 8/2/1992
 
-São José dos Campos, São Paulo state, Southeast region
+São José dos Campos, São Paulo state, Paraíba Valley and Southeast region
 
-Cemetery
+- Cemetery
 
   - Servant of God Rodolfo Komórek, SDB, priest, d. 12/11/1949
 
-Museo Histórico Memorial de la Madre María Teresa/Memorial Historical Museum of Mother María Teresa (Rua Major Antônio Domingues, 244) (+55 12 3797-7501)
+- Hospital Antoninho da Rocha Marm (in the Capela de Nossa Senhora da Saúde) (Av. Heitor Villa Lobos, 1961)
+
+  - Servant of God Antônio “Antoninho” da Rocha Marmo, child, d. 12/21/1930
+
+- Museo Histórico Memorial de la Madre María Teresa/Memorial Historical Museum of Mother María Teresa (Rua Major Antônio Domingues, 244) (+55 12 3797-7501)
 
   - Ven. María Teresa de Jesús Eucaristico (née María Dulce Rodrigues dos Santos), religious/foundress, d. 1/8/1972
 
-Igreja Matriz de São José dos Campos
+- Igreja Matriz de São José dos Campos
 
   - Ven. Franz de Castro Holzwarth, advocate, d. 2/14/1981
 
 São Leopoldo, Rio Grande do Sul state, South region
 
-Santuário Sagrado Coração do Jesus/Sacred Heart Shrine
+- Santuário Sagrado Coração do Jesus/Sacred Heart Shrine
 
   - Servant of God João Batista Reus/Johann Baptist Reus, SJ, visionary/mystic/priest, d. 7/21/1947
 
@@ -2440,17 +2448,17 @@ San Juan de los Lagos, Mexico (near Guadalajara)
 
 - Shrine of Our Lady of San Juan de los Lagos
 
-Sacred icon of Our Lady
+  - Sacred icon of Our Lady
 
 San Juan Bautista
 
   - St. Pedro Esqueda Ramírez, priest/martyr, 11/22
 
-San Luis Potosi
+San Luis Potosi, San Luis Potosi state
 
-- ???
+- Santa Iglesia Catedral Metropolitana de San Luis Potosí (Centro Histórico)
 
-  - Servant of God Miguel de la Mora y Mora, bishop, d. 7/14/1939
+  - Servant of God Miguel de la Mora y de la Mora, bishop, d. 7/14/1939
 
 Santa Anita Atlizta, Jalisco state
 
@@ -2484,13 +2492,13 @@ Tecamachalco, Puebla state
 
 Tecolotlán, Jalisco state
 
-La Casa General de las Hermanas del Corazón de Jesús Sacramentado, Calle Churubusco 366, Sector Libertad
+- La Casa General de las Hermanas del Corazón de Jesús Sacramentado, Calle Churubusco 366, Sector Libertad
 
   - St. José María de Robles Hurtado, Cristero martyr, 5/21 and 6/26
 
 Tepatitlán de Morelos, Jalisco state
 
-San Francisco de Tepatitlán,
+- San Francisco de Tepatitlán
 
   - St. Tranquilino Ubiarco Robles, priest/martyr, 10/5
 
@@ -2500,7 +2508,7 @@ San Francisco de Tepatitlán,
 
 Teul, Teúl de González Ortega Municipality, Zacatecas
 
-Templo de San Juan Bautista
+- Templo de San Juan Bautista
 
   - St. Agustín Caloca Cortés, priest/martyr, 5/21 or 5/25
 
@@ -2514,7 +2522,7 @@ Tlaxcala
 
 Totatiche, Totatiche Municipality, Jalisco
 
-Templo de Nuestra Señora del Rosario
+- Templo de Nuestra Señora del Rosario
 
   - St. Agustín Caloca, priest/martyr, 5/21
 
