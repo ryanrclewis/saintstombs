@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
-    "build:vinext": "vinext build",
+    "build:vinext": "vinext build && node scripts/normalize-pages-wrangler.mjs",
     "start": "vinext start",
     "deploy": "vinext deploy"
   },
