@@ -2840,7 +2840,7 @@ Cavriglia, Valdarno Superiore, Province of Arezzo, Toscana region
 
 Ceccano, Province of Frosinone, Lazio region
 
-- Badia Passionisti/Passionist convent Santa Maria Corniano (Via Badia, 227)
+- Badia Passionisti/Passionist convent of Santa Maria Corniano (Via Badia, 227)
 
   - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP, religious, 11/18
 
