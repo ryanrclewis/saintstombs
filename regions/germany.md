@@ -1,5 +1,4 @@
-Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
-state
+Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia state
 
 - Cathedral
 
@@ -1308,8 +1307,13 @@ Unterfranken administrative region, Bayern/Bavaria state
 
   - Bl. Imina/Immina of Würzburg, abbess, 11/25
 
-Kempten in the Allgäu, Bavaria (situated between Lake Constance and
-Monaco)
+Kempten, Swabia, Bavaria state
+
+- Zentralfriedhof/Main cemetery (Rottachstraße 62)
+
+  - Servant of God Gertraud von Bullion, laywoman/cofoundress, d. 6/11/1930 (buried in the von Bullion family crypt/der Gruft der Familie von Bullion)
+
+Kempten in the Allgäu, Bavaria (situated between Lake Constance and Monaco)
 
 - St. Lorenz basilica
 
@@ -1319,20 +1323,17 @@ Monaco)
 
 Kiel, Schleswig-Holstein state
 
-Kiel Kloster (destroyed during the Reformation)
+- Kiel Kloster (destroyed during the Reformation)
 
   - Bl. Adolf IV of Schauenburg, nobleman/Franciscan priest, 7/8
 
-Kitzingen, Kitzingen district, Unterfranken administrative region,
-Bayern/Bavaria state
+Kitzingen, Kitzingen district, Unterfranken administrative region, Bayern/Bavaria state
 
 - ???
 
-  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun,
-    2/2 (her relics were scattered by Protestants in the Peasant's War)
+  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun, 2/2 (her relics were scattered by Protestants during the Peasant's War)
 
-  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess,
-    10/15 (her relics were scattered by Protestants in the Peasant's
+  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess, 10/15 (her relics were scattered by Protestants during the Peasant's
     War)
 
 Klotten, Cochem-Zell, Rhineland-Palatinate
@@ -1343,7 +1344,7 @@ Klotten, Cochem-Zell, Rhineland-Palatinate
 
 Koblenz, Urban district, Rhineland-Palatinate state
 
-Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
+- Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
 
   - St. Castor of Karden, priest/hermit, 2/13
 
