@@ -2842,7 +2842,8 @@ Ceccano, Province of Frosinone, Lazio region
 
 - Badia Passionisti/Passionist convent of Santa Maria Corniano (Via Badia, 227)
 
-  - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP, religious, 11/18
+  - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP,
+    religious, 11/18
 
 Cefalù, Province of Palermo, Sicily
 
