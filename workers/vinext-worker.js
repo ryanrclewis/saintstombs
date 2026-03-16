@@ -6,6 +6,11 @@ function toRouteUrl(requestUrl) {
 
 let cachedManifest = null;
 
+const MANIFEST_PATHS = [
+  '/.vite/manifest.json',
+  '/client/.vite/manifest.json',
+];
+
 async function getClientManifest(env) {
   if (cachedManifest) {
     return cachedManifest;
@@ -16,19 +21,22 @@ async function getClientManifest(env) {
     return cachedManifest;
   }
 
-  try {
-    const manifestResponse = await env.ASSETS.fetch('https://assets.local/.vite/manifest.json');
-    if (!manifestResponse.ok) {
-      cachedManifest = {};
-      return cachedManifest;
-    }
+  for (const manifestPath of MANIFEST_PATHS) {
+    try {
+      const manifestResponse = await env.ASSETS.fetch(`https://assets.local${manifestPath}`);
+      if (!manifestResponse.ok) {
+        continue;
+      }
 
-    cachedManifest = await manifestResponse.json();
-    return cachedManifest;
-  } catch {
-    cachedManifest = {};
-    return cachedManifest;
+      cachedManifest = await manifestResponse.json();
+      return cachedManifest;
+    } catch {
+      // Try the next candidate path.
+    }
   }
+
+  cachedManifest = {};
+  return cachedManifest;
 }
 
 export default {
