@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
+
+:root {
+  --bg-color: #050510;
+  --text-primary: #ffffff;
+  --text-secondary: #b8b8c8;
+  --accent-color: #d4af37;
+  --accent-glow: #d4af3766;
+  --primary-gradient: linear-gradient(135deg, #d4af37 0%, #aa8c2c 100%);
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --focus: #d4af37;
+  --font-heading: 'Texturina', serif;
+  --font-body: 'Texturina', serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--text-primary);
+  font: 16px/1.5 var(--font-body);
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2 {
+  margin: 0;
+  line-height: 1.15;
+  font-family: var(--font-heading);
+}
+
+h1 {
+  font-size: clamp(2rem, 4.8vw, 3.4rem);
+  margin-bottom: 6px;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
