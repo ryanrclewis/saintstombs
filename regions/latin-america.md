@@ -120,6 +120,10 @@ Córdoba, Capital department, Province of Córdoba
 
   - Ven. Isora María del Tránsito Ocampo, religious, d. 12/28/1900
 
+- Casa madre de la Congregación de Hermanas Mercedarias del Niño Jesús (Mariano Fragueiro 2389)
+
+  - Ven. José León Torres, O. de M., priest/founder, d. 12/15/1930
+
 - ???
 
   - Servant of God Pura Rosa del Carmen (née Secundina Guadalupe Olmos), religious, d. 7/28/1965 (she died at the motherhouse of Hermanas Carmelitas de Santa Teresa de Jesús)
@@ -333,6 +337,12 @@ Santa Fe (officially, Santa Fe de la Vera Cruz), Santa Fe Province
 - Church of San Juan Bosco
 
   - St. Artemide Zatti, nurse, 3/15
+
+Suipacha, Province of Buenos Aires
+
+- Parroquia Nuestra Señora del Rosario (Rivadavia 268)
+
+  - Ven. Leonor de San Luis (nee Leonor) López de Maturana Ortiz de Zarate
 
 Villa Cura Brochero, Departamento de San Alberto, Córdoba
 
@@ -936,23 +946,27 @@ São João da Boa Vista, São Paulo state, Southeast region
 
   - Servant of God Tomás Vaquero, bishop, d. 8/2/1992
 
-São José dos Campos, São Paulo state, Southeast region
+São José dos Campos, São Paulo state, Paraíba Valley and Southeast region
 
-Cemetery
+- Cemetery
 
   - Servant of God Rodolfo Komórek, SDB, priest, d. 12/11/1949
 
-Museo Histórico Memorial de la Madre María Teresa/Memorial Historical Museum of Mother María Teresa (Rua Major Antônio Domingues, 244) (+55 12 3797-7501)
+- Hospital Antoninho da Rocha Marm (in the Capela de Nossa Senhora da Saúde) (Av. Heitor Villa Lobos, 1961)
+
+  - Servant of God Antônio “Antoninho” da Rocha Marmo, child, d. 12/21/1930
+
+- Museo Histórico Memorial de la Madre María Teresa/Memorial Historical Museum of Mother María Teresa (Rua Major Antônio Domingues, 244) (+55 12 3797-7501)
 
   - Ven. María Teresa de Jesús Eucaristico (née María Dulce Rodrigues dos Santos), religious/foundress, d. 1/8/1972
 
-Igreja Matriz de São José dos Campos
+- Igreja Matriz de São José dos Campos
 
   - Ven. Franz de Castro Holzwarth, advocate, d. 2/14/1981
 
 São Leopoldo, Rio Grande do Sul state, South region
 
-Santuário Sagrado Coração do Jesus/Sacred Heart Shrine
+- Santuário Sagrado Coração do Jesus/Sacred Heart Shrine
 
   - Servant of God João Batista Reus/Johann Baptist Reus, SJ, visionary/mystic/priest, d. 7/21/1947
 
@@ -2024,11 +2038,15 @@ Fesnillo
 
 - ???
 
-The Child of Atocha
+  - The Child of Atocha
 
 Guadalajara, Jalisco
 
 - Catedral Basílica de Guadalajara
+
+  - Relics of 23 Cristero War martyrs
+  
+  - St. Innocence, Roman martyr
 
 - Santuario de Nuestra Señora de Guadalupe
 
@@ -2042,7 +2060,7 @@ Guadalajara, Jalisco
 
   - Bl. José Luciano "Ezequiel" Huerta-Gutiérrez, lay martyr, 4/3 (part of his remains)
 
-Santísima Trinidad Hospital, Chapel of Espíritu Santo or Cripta del Oratorio del Espíritu Santo
+- Santísima Trinidad Hospital, Chapel of el Espíritu Santo or Cripta del Oratorio del Espíritu Santo
 
   - Bl. María Vicenta de Santa Dorotea (née Vicenta) Chávez Orozco, religious, 7/19 or 7/30
 
@@ -2056,7 +2074,7 @@ Santísima Trinidad Hospital, Chapel of Espíritu Santo or Cripta del Oratorio d
 
   - Bl. José Dionisio Luis Padilla Gómez, martyr, 4/1
 
-Templo de Nuestra Señora del Refugio
+- Templo de Nuestra Señora del Refugio
 
   - Ven. Librada Orozco Santa Cruz (María Librada of the Sacred Heart of Jesus), foundress, d. 3/20/1926
 
@@ -2076,11 +2094,11 @@ Templo de Nuestra Señora del Refugio
 
   - St. Anastasia Guadalupe Garcia Zavala (María Guadalupe), co-foundress, 6/24
 
-Siervas de la Santísima Trinidad y de los Pobres or Cripta del Oratorio del Espíritu Santo
+- Siervas de la Santísima Trinidad y de los Pobres or Cripta del Oratorio del Espíritu Santo
 
   - Servant of God Miguel Cano Gutiérrez, priest/founder, d. 4/14/1924
 
-Centro de Espiritualidad Carmelita de Guadalajara
+- Centro de Espiritualidad Carmelita de Guadalajara
 
   - Servant of God Salvador Rivera Garcia (Salvador of the Immaculate Heart of Mary/Salvador del Inmaculado Corazón de María), quadriplegic Carmelite priest, d. 12/21/1997
 
@@ -2089,6 +2107,8 @@ Centro de Espiritualidad Carmelita de Guadalajara
   - Servant of God Arturo "El Inge" Álvarez Ramírez, professor, d. 11/28/1992
 
   - Servant of God Basilio Rueda Guzmán, religious, d. 1/21/1996 (Quinta Soledad House Maristas México Central)
+
+  - Servant of God Cipriano Iñiguez Martín del Campo, priest/cofounder, d. 10/8/1931
 
   - Servant of God Francisco Orozco y Jiménez, archbishop, d. 2/18/1936
 
@@ -2182,11 +2202,11 @@ Mexico City/Ciudad de Mexico
 
   - Servant of God Luis María Martínez y Rodríguez, archbishop, d. 2/9/1956 (crypt)
 
-- Iglesia Jesuita de la Sagrada Familia/Jesuit Church of the Holy Family, Puebla 144 - Colonia Roma
+- Iglesia Jesuita de la Sagrada Familia/Jesuit Church of the Holy Family (Puebla 144 - Colonia Roma)
 
   - Bl. Miguel Agustín Pro, SJ, priest/martyr, 11/23
 
-- Virgen San Juan de Los Lagos statue
+  - Virgen San Juan de Los Lagos statue
 
 - Iglesia de Santa Mónica, en la colonia de Valle
 
@@ -2200,11 +2220,11 @@ Mexico City/Ciudad de Mexico
 
   - Bl. María Concepcion Cabrera Arias de Armida ("Conchita"), laywoman, foundress, 3/3
 
-San Juan Battista, Coyoacan
+- San Juan Battista, Coyoacan
 
   - Ven. María de la Luz Camacho Gonsalez, laywoman/martyr, d. 12/30/1934
 
-Monasterio de la Visitación de Santa María de Mixcoac
+- Monasterio de la Visitación de Santa María de Mixcoac
 
   - Servant of God María Concepcíon Álvarez Icaza (María Angélica), religious/mystic, d. 7/12/1977
 
@@ -2212,7 +2232,7 @@ Monasterio de la Visitación de Santa María de Mixcoac
 
   - Servant of God Salvador Garcidueñas Arguello, SJ, priest, d. 1927 (he is buried here)
 
-Templo Expiatorio Nac. San Felipe de Jesús (Av. Francisco I. Madero 11, Col. Centro)
+- Templo Expiatorio Nac. San Felipe de Jesús (Av. Francisco I. Madero 11, Col. Centro)
 
   - Servant of God Alfonso Pérez Larios, MSpS, religious, d. 2/6/1965 (buried in the crypt)
 
@@ -2222,23 +2242,23 @@ Templo Expiatorio Nac. San Felipe de Jesús (Av. Francisco I. Madero 11, Col. Ce
 
   - Bl. Moisés Lira Serafín, priest/founder, 6/25
 
-Templo Santiago de Tlatelolco
+- Templo Santiago de Tlatelolco
 
   - Bl. Bartholomew of Olmedo, O. de M., missionary, 2/11
 
-Bernadine Convent in Tacubaya, Avenida Obseratoria 72
+- Bernadine Convent in Tacubaya (Avenida Obseratoria 72)
 
-Child of Good Fortune (shrine)
+  - Child of Good Fortune (shrine)
 
-General House of the Augustinians of Our Lady of Help, Campana 63, Col. Mixcoac, Deleg. Benito Juárez
+- Casa General de los Agustinos de Nuestra Señora del Socorro/General House of the Augustinians of Our Lady of Help (Campana 63, Col. Mixcoac, Deleg. Benito Juárez)
 
   - Servant of God María Luisa Godeau Leal, religious, d. 3/30/1956
 
-Casa Central HMSS, Fernández Leal 130, Coyoacán, 04330 D.F.
+- Casa Central HMSS, Fernández Leal 130, Coyoacán, 04330 D.F.
 
   - Servant of God María del Refugio Aguilar y Torres Vda. de Cancino, widow/foundress, d. 4/24/1937
 
-Reforma 12, Col. Tizapan, Álvaro Obregón, México, D.F.
+- Casa Generalicia de la Congregación de las Esclavas del Divino Pasto/Slaves of the Divine Shepherd (Av. Revolución 1267, Colonia Nochebuena, Benito Juárez)
 
   - Servant of God Antonio Repiso Martinez de Orbe, founder, d. 6/27/1929 (this is where he is buried)
 
@@ -2246,11 +2266,15 @@ Reforma 12, Col. Tizapan, Álvaro Obregón, México, D.F.
 
   - Servant of God Juan Prospero (Jean Prosper) Fromental Cayroche (Bernardo Felipe), religious, d. 12/5/1978
 
-Hermanas Josefinas de Mexico Casa General (Condor 336, Las Águilas, Álvaro Obregón, 01710 Alvaro Obregón, México, D.F.)
+- Hermanas Josefinas de Mexico Casa General (Condor 336, Las Águilas, Álvaro Obregón, 01710 Alvaro Obregón, México, D.F.)
 
   - Servant of God Cesarea Ruiz de Esparza Davalos, foundress, d. 4/24/1884 (this is where she's buried)
 
-Panteón Jardín cemetery (Camino Desierto de los Leones, Km 14.5, at the top of the Flor de María street, Col. San Angelin, behind Televisa, Delegación Álvaro Obregón)
+- Panteón Español (Avenida Ejército Nacional 453, Miguel Hidalgo)
+
+  - Servant of God Federico Salvador Ramon, priest/founder, d. 3/13/1931
+
+- Panteón Jardín cemetery (Camino Desierto de los Leones, Km 14.5, at the top of the Flor de María street, Col. San Angelin, behind Televisa, Delegación Álvaro Obregón)
 
   - Servant of God Ana (María Rosa) de la Torre Guerrero, foundress, d. 2/19/1958
 
@@ -2262,19 +2286,19 @@ Panteón Jardín cemetery (Camino Desierto de los Leones, Km 14.5, at the top of
 
   - Ven. Humilde del Niño Jesús (née María Patricia Magdalena) Patlán Sánchez, religious, d. 6/17/1970
 
-Hijas de María Inmaculada de Guadalupe (Privada de S. Sebastian 80, Col. S. Sebastian, Deleg. Azcapotzalco -- buried here?)
+- Hijas de María Inmaculada de Guadalupe (Privada de S. Sebastian 80, Col. S. Sebastian, Deleg. Azcapotzalco -- buried here?)
 
   - Servant of God José Antonio Plancarte y Labastida, d. 4/26/1898
 
-Misioneras de Jesus Sacerdote, Calle Obregon, 746, Del. Benito Juarez
+- Misioneras de Jesus Sacerdote, Calle Obregon, 746, Del. Benito Juarez
 
   - Servant of God María Dolores Echeverria Esparza, cofoundress, d. 9/29/1966
 
-Misioneras de la Caridad de María Imaculada, Iztaccihuatl 180, Col. Florida, Del. Alvaro Obregon
+- Misioneras de la Caridad de María Imaculada, Iztaccihuatl 180, Col. Florida, Del. Alvaro Obregon
 
   - Ven. Moises Lira Serafin, priest, 6/26/1950
 
-Monasterio de la Visitacion, Calle Campana 47, Col. Mixcoac
+- Monasterio de la Visitacion, Calle Campana 47, Col. Mixcoac
 
   - Servant of God María Angelica Alvarez Icaza, religious, 7/14
 
@@ -2282,7 +2306,15 @@ Monasterio de la Visitacion, Calle Campana 47, Col. Mixcoac
 
   - Servant of God Juana Inés de Asbaje y Ramírez de Santillana (Sor Juana Inés de la Cruz), OSH, religious/writer/philosopher, d. 4/17/1695
 
-Monterrey
+Mexico City, Villa Guadalupe
+
+- Basílica de Nuestra Señora de Guadalupe (Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero)
+
+  - Miraculous image of Our Lady of Tepeyac
+
+  - Servant of God María de las Mercedes de la Santísima Trinidad (née María Concepción) Méndez Pérez Gil, APG, foundress, d. 9/2/1931 (buried somewhere in the crypt)
+
+Monterrey, Nuevo León
 
 - Catedral Metropolitana de Nuestra Señora de Monterrey/Metropolitan Cathedral of Our Lady of Monterrey
 
@@ -2416,17 +2448,17 @@ San Juan de los Lagos, Mexico (near Guadalajara)
 
 - Shrine of Our Lady of San Juan de los Lagos
 
-Sacred icon of Our Lady
+  - Sacred icon of Our Lady
 
 San Juan Bautista
 
   - St. Pedro Esqueda Ramírez, priest/martyr, 11/22
 
-San Luis Potosi
+San Luis Potosi, San Luis Potosi state
 
-- ???
+- Santa Iglesia Catedral Metropolitana de San Luis Potosí (Centro Histórico)
 
-  - Servant of God Miguel de la Mora y Mora, bishop, d. 7/14/1939
+  - Servant of God Miguel de la Mora y de la Mora, bishop, d. 7/14/1939
 
 Santa Anita Atlizta, Jalisco state
 
@@ -2460,13 +2492,13 @@ Tecamachalco, Puebla state
 
 Tecolotlán, Jalisco state
 
-La Casa General de las Hermanas del Corazón de Jesús Sacramentado, Calle Churubusco 366, Sector Libertad
+- La Casa General de las Hermanas del Corazón de Jesús Sacramentado, Calle Churubusco 366, Sector Libertad
 
   - St. José María de Robles Hurtado, Cristero martyr, 5/21 and 6/26
 
 Tepatitlán de Morelos, Jalisco state
 
-San Francisco de Tepatitlán,
+- San Francisco de Tepatitlán
 
   - St. Tranquilino Ubiarco Robles, priest/martyr, 10/5
 
@@ -2476,7 +2508,7 @@ San Francisco de Tepatitlán,
 
 Teul, Teúl de González Ortega Municipality, Zacatecas
 
-Templo de San Juan Bautista
+- Templo de San Juan Bautista
 
   - St. Agustín Caloca Cortés, priest/martyr, 5/21 or 5/25
 
@@ -2490,7 +2522,7 @@ Tlaxcala
 
 Totatiche, Totatiche Municipality, Jalisco
 
-Templo de Nuestra Señora del Rosario
+- Templo de Nuestra Señora del Rosario
 
   - St. Agustín Caloca, priest/martyr, 5/21
 
@@ -2552,15 +2584,10 @@ Yuriria, Guanajuato state
 
   - Ven. Miguel Francisco (née José Estanislao) Zavala López, OSA, priest, d. 4/4/1947
 
-Zacatecas
+Zacatecas 
+- Catedral basílica de la Asunción de María/Cathedral (Av. Hidalgo 617, Zacatecas Centro)
 
-- Cathedral
-
-  - St. Mateo Correa Magallanes, priest/martyr, 2/6
-
-Guadalupe Friary[^1]
-
-  - Ven. Antonio Margil Ros (Antonio of Jesus), OFM, priest, d. 8/6/1726
+  - St. Mateo Correa Magallanes, priest/martyr, 2/6 
 
 - ???
 
@@ -2568,7 +2595,13 @@ Guadalupe Friary[^1]
 
   - Bl. Sebastián Montanol, OP, missionary priest/martyr, 12/10
 
-Zamora
+Zacatecas, Guadalupe suburb
+
+- Convento de Nuestra Señora de Guadalupe de Zacatecas/Guadalupe Friary  (Calle Independencia s/n)
+
+  - Ven. Antonio Margil Ros (Antonio de Jesús), OFM, priest, d. 8/6/1726
+
+Zamora, Michoacán
 
 - ???
 
@@ -2576,7 +2609,7 @@ Zamora
 
 Zapotlanejo (Matatlan), Jalisco
 
-Templo de San José Isabel Flores
+- Templo de San José Isabel Flores
 
   - Bl. Jose Isabel Flores Varela, priest/martyr, 6/21
 
@@ -2590,7 +2623,7 @@ El Viejo, Chinandega department
 
 - Basílica Inmaculada Concepción de María en El Viejo
 
-Revered image of Our Lady
+  - Revered image of Our Lady
 
 - ???
 

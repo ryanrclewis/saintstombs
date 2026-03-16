@@ -1689,6 +1689,12 @@ Floriana/Borgo Vilhena, Port Region area
 
   - St. Calcedonio, martyr, 9/7
 
+Għaxaq, Southern Region of Malta
+
+- Ħal-Għaxaq Parish Church/Parish Church of the Assumption of Mary
+
+  - Servant of God Isidor Formosa, priest/founder, d. 1/19/1931
+
 Gozo
 
 - Shrine of Our Lady of Ta' Pinu
@@ -2444,6 +2450,12 @@ Lipske, Augustów County, Podlaskie Voivodeship
   - Servant of God Anzelm od św. Andrzeja Corsiniego (née Maciej Józef
     Gądek), OCD, priest/founder, d. 10/15/1969
 
+Loretto, Gmina Wyszków, Mazowieckie Voivodeship/Masovia Province
+
+- Sanktuarium Matki Bożej Loretańskiej/Sanctuary of Our Lady of Loreto (Loretto 1)
+
+  - Bl. Ignacy Kłopotowski, priest, 9/7
+
 Lubaczów, Lubaczów county, Podkarpackie/Subcarpathian voivodeship
 
 - Church of St. Stanislaus, bishop
@@ -2987,8 +2999,6 @@ Warsaw
 - Cmentarzu Powązkowskim/Powązki Cemetery
 
   - Bl. Edward Detkens, priest/martyr, 10/10 (empty, symbolic grave only since he was killed at Dachau)
-
-  - Bl. Ignacy Kłopotowski, priest, 9/7
 
 - Solec Cemetery
 

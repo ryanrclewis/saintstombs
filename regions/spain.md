@@ -1125,12 +1125,11 @@ Colegio (College) de Jesús, María y José
 
 - St. Josep Manyanet y Vives, founder, 12/17 (chapel)
 
-Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5,
-Sarrià-Sant Gervasi)
+- Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5, Sarrià-Sant Gervasi)
 
   - Ven. Magdalena Aulina y Saurina, mystic/foundress, d. 5/15/1956
 
-Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
+- Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
 
   - Bl. Antero Mateo García, TOSD, layman/martyr, 8/8
 
@@ -1138,27 +1137,25 @@ Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
 
   - Bl. Juan Bautista Egozcuezábal Aldaz, martyr, 7/27
 
-??? (murdered here, but buried here?)
+	- ??? (murdered in this cemetery, but buried here?)
 
-  - Bl. Ángel Andrés (née Lucio) Izquierdo López, FMS, religious/martyr,
+ 	 - Bl. Ángel Andrés (née Lucio) Izquierdo López, FMS, religious/martyr,
     10/8
 
-  - Bl. Virgilio (née Trifón) Lacunza Unzu, FMS, religious/martyr, 10/8
+ 	 - Bl. Virgilio (née Trifón) Lacunza Unzu, FMS, religious/martyr, 10/8
 
-Cementiri Municipal de Montcada i Reixac
+- Cementiri Municipal de Montcada i Reixac
 
   - Bl. Doroteu de Villalba dels Arcs (née Jordi) Sampé Tarragó, OFM Cap.,
     priest/martyr, 12/19
 
-- Bl. Joan Torrents Figueras, CMF, priest/martyr, 2/1 & 3/16 (mass grave;
-  his body has never been found)
+	- Bl. Joan Torrents Figueras, CMF, priest/martyr, 2/1 & 3/16 (mass grave; his body has never been found)
 
-  - Bl. Martí de Barcelona (née Jaime/Jaume) Boguñá Casanovas, OFM Cap.,
-    priest/martyr, 12/19
+  - Bl. Martí de Barcelona (née Jaime/Jaume) Boguñá Casanovas, OFM Cap., priest/martyr, 12/19
 
-- Bl. Ramón Oromí Sullà, priest/martyr, 5/3 or 4/26 (mass grave)
+	- Bl. Ramón Oromí Sullà, priest/martyr, 5/3 or 4/26 (mass grave)
 
-Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
+- Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Bl. Alfonso Antonio Ramírez Salazar of Columbia, martyr
 
@@ -1174,8 +1171,7 @@ Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Bl. Gabriel Maya Gutiérrez of Columbia, martyr
 
-  - Sr. Isabel Ventosa Reig, foundress, d. 4/2/1895 (non-causa but being
-    considered)
+  - Sr. Isabel Ventosa Reig, foundress, d. 4/2/1895 (non-causa but being considered)
 
   - Bl. José Batalla Parramón, SDB, priest/martyr, 8/4
 
@@ -1204,8 +1200,7 @@ Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Bl. Sergio Cid Pazo, SDB, priest/martyr, 7/30
 
-- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery
-  (Dep. I, illa 2a, núm. 47)
+- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery (Dep. I, illa 2a, núm. 47)
 
   - Bl. Agustín Ibarra Anguela, priest/martyr, 8/15
 
@@ -1213,12 +1208,11 @@ Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Servant of God Rosa Deulofeu Gonzalez, laywoman, d. 1/5/2004
 
-Cementerio de San Baudillo/Cementiri de Sant Boi de Llobregat en
-Barcelona (Plaça d'Emili Sagrera, 2)
+- Cementerio de San Baudillo/Cementiri de Sant Boi de Llobregat en Barcelona (Plaça d'Emili Sagrera, 2)
 
   - Bl. Francisco Javier Ponsa Casallarch, martyr, 9/28
 
-Castillo de Montjuic/Castell de Montjuïc/Montjuïc Castle
+- Castillo de Montjuic/Castell de Montjuïc/Montjuïc Castle
 
   - Bl. Fernando/Ferran María (née Ferran) Llovera Pulgsech, O. Carm.,
     priest/martyr, 11/22 (he was killed in the moat here; where is he
@@ -1586,7 +1580,7 @@ Cementerio de Benquerencia de la Serena
 
 Berja, Province of Almería, Andalusia autonomous community
 
-Cementerio de Berja
+- Cementerio de Berja
 
   - Bl. Juan Moreno Juárez, priest/martyr, 9/4 (he was shot here; but is he
     still buried here?)
@@ -3286,7 +3280,7 @@ Granada, Province of Granada, Andalusia
 
   - Servant of God Manuel Hurtado García, archbishop, d. 1/12/1966
 
-Abadía del Sacromonte
+- Abadía del Sacromonte
 
   - St. Caecilius/Cecilio of Elvira, bishop/martyr, 5/1
 
@@ -3303,14 +3297,17 @@ Abadía del Sacromonte
   - Bl. María de la Concepción (Conchita) Barrecheguren García, laywoman,
     5/13 (Francisco's daughter)
 
-Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada
-(Plaza Sor Cristina de la Cruz, 1)
+- Casa Madre del Hijas de Cristo Rey (Callejón de la Albérzana, 1)
+
+	- Servant of God Inés de Jesús (nee Isabel) Gómez Rodriguez, HCR, cofoundress, d. 5/2/1930
+
+- Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada (Plaza Sor Cristina de la Cruz, 1)
 
   - Bl. María Emilia Riquelme y Zayas, religious/foundress, 12/10
 
-Museo de S. Juan de Dios (Calle Vonvalescencía)
+- Museo de S. Juan de Dios (Calle Vonvalescencía)
 
-The room in which St. John of God died and his belongings
+	- The room in which St. John of God died and his belongings
 
 - ???
 
@@ -4309,18 +4306,15 @@ Lugo, Province of Lugo, Galicia autonomous community
 
 Madrid
 
-- Santa Iglesia Catedral Metropolitana de Santa María la Real de la
-  Almudena (aka, Catedral de la Almudena)
+- Santa Iglesia Catedral Metropolitana de Santa María la Real de la Almudena (aka, Catedral de la Almudena)
 
-  - Ven. Amparo Portilla Crespo, philanthropist/wife/mother, d. 5/10/1996
-    (Buried in the Capilla del Santísimo in the crypt)
+	- Ven. Amparo Portilla Crespo, philanthropist/wife/mother, d. 5/10/1996 (Buried in the Capilla del Santísimo in the crypt)
 
-  - Servant of God Eugenio Romero Pose, bishop, d. 3/25/2007
+	- Servant of God Eugenio Romero Pose, bishop, d. 3/25/2007
 
-- Servant of God Fernando Rielo Pardal, layman, d. 12/6/2004 (crypt
-  Capilla Nuestra Señora del Rosario)
+	- Servant of God Fernando Rielo Pardal, layman, d. 12/6/2004 (in the crypt of Capilla Nuestra Señora del Rosario)
 
-La Virgen de la Almudena/Our Lady of Almudena, 11/9
+	- La Virgen de la Almudena/Our Lady of Almudena, 11/9
 
 - Augustinian church
 
@@ -4333,8 +4327,7 @@ La Virgen de la Almudena/Our Lady of Almudena, 11/9
   - St. José María Rubio y Peralta, priest "The apostle of Madrid," 5/2 or
     5/4
 
-- Basílica de la Concepción/Iglesia de Nuestra Señora de la Concepción
-  (Capuchin Church) (Calle Goya, 26)
+- Basílica de la Concepción/Iglesia de Nuestra Señora de la Concepción (Capuchin Church) (Calle Goya, 26)
 
   - Bl. Aurelio de Ocejo (née Facundo) Escanciano Tejerina, OFM Cap., 8/17
 
@@ -4343,6 +4336,10 @@ La Virgen de la Almudena/Our Lady of Almudena, 11/9
 
   - Ven. Manuel Aparici Navarro, priest, d. 8/28/1964 (in the capilla de la
     Virgen del Perpetuo Socorro/chapel of the Our Lady of Perpetual Help)
+
+- Basílica de la Medalla Milagrosa, Capilla de los Martires/Basilica of Our Lady of the Miraculous Medal, Martyrs Chapel (Calle García de Paredes, 45)
+
+	- Bl. Amado García Sánchez, CM, martyr, 11/6 (bloody towel relic only)
 
 - Santuario del Perpetuo Socorro (Calle Manuel Silvela, 14)
 
@@ -6048,16 +6045,17 @@ Orense/Ourense, Province of Orense, Galicia Autonomous Community
 
   - Servant of God Francisco Blanco Nájera, bishop/founder, d. 1/15/1952
 
-Orihuela, Vega Baja del Segura comarca, Province of Alicante/Alacant,
-Valencian autonomous community
+Orihuela, Vega Baja del Segura comarca, Province of Alicante/Alacant, Valencian autonomous community
+
+- Iglesia del Carmen/Church of Our Lady of Mount Carmel (Calle del Carmen)
+
+	- Ven. María Elisea Josefa Oliver Molina, foundress, d. 12/17/1931
 
 - ???
 
-  - Bl. Juan Crisóstomo de Gata de Gorgos (née Ignacio Caselles García), OFM
-    Cap., priest/martyr, 12/24 (he died here, but where is he buried?)
+  - Bl. Juan Crisóstomo de Gata de Gorgos (née Ignacio Caselles García), OFM Cap., priest/martyr, 12/24 (he died here, but where is he buried?)
 
-Oropesa, Campana de Oropesa comarca, Province of Toledo, Castile-La
-Mancha autonomous community
+Oropesa, Campana de Oropesa comarca, Province of Toledo, Castile-La Mancha autonomous community
 
 - ???
 
@@ -6065,10 +6063,9 @@ Mancha autonomous community
 
 Orozko/Orozco, Province of Biscay, Basque autonomous community
 
-Monasterio de Jesús y María
+- Monasterio de Jesús y María
 
-  - Bl. Clara de Ugarte, O. de M., religious, 1/4 (remains may no longer be
-    here)
+  - Bl. Clara de Ugarte, O. de M., religious, 1/4 (her remains may no longer be here)
 
 Oviedo, Asturias
 
@@ -6235,7 +6232,7 @@ autonomous community
   - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín,
     OCD, religious, d. 1/3/1594 (incorrupt)
 
-Dominican Missionaries Motherhouse
+- Dominican Missionaries Motherhouse
 
   - Bl. María Ascensión del Corazón de Jesús (nee Florentina) Nicol y Goñi,
     OP, foundress, 2/24
@@ -6244,7 +6241,11 @@ Dominican Missionaries Motherhouse
 
   - Bl. Garcia Darlet, monk, 11/6
 
-Carretera Cementerio, Cuadro 24
+- Seminario Conciliar de San Miguel (in the chapel) (64 Av. de la Baja Navarra)
+
+	- Servant of God Cipriano Olaso Aranguren, priest, d. 11/15/1930
+
+- Carretera Cementerio, Cuadro 24
 
   - Servant of God Eduardo Ortiz de Landázuri, doctor/layman of Opus Dei, d.
     5/20/1985
@@ -6258,7 +6259,7 @@ Carretera Cementerio, Cuadro 24
 
 Paracuellos de Jarama, Comunidad Autónoma de Madrid
 
-Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
+- Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
 (Carretera de Belvis del Jarama, s/n) (immense cemetery on the hill)
 
   - Bl. Alberto María (née Francisco) Marco Alemán, O.Carm., priest/martyr,
@@ -6479,8 +6480,7 @@ Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
 
   - Bl. Manuel Marín Pérez, SDB, religious/martyr, 11/7
 
-- Bl. Manuel de la Sagrada Familia/Manuel Sanz Domínguez, OSH,
-  priest/martyr, 11/8
+	- Bl. Manuel de la Sagrada Familia/Manuel Sanz Domínguez, OSH, priest/martyr, 11/8
 
   - Bl. Marcelino Sánchez Fernández, OMI, religious/martyr, 11/28
 
@@ -6561,10 +6561,9 @@ Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
 
   - Bl. Vidal Luis Gómara, OP, priest/martyr, 11/18
 
-Paterna, Horta Oest comarca, Province of Valencia, Valencian autonomous
-community
+Paterna, Horta Oest comarca, Province of Valencia, Valencian autonomous community
 
-Cementerio de Paterna
+- Cementerio de Paterna
 
   - Bl. Alfonso Sebastiá Viñals, priest/martyr, 9/1
 

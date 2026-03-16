@@ -1,5 +1,4 @@
-Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
-state
+Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia state
 
 - Cathedral
 
@@ -7,17 +6,17 @@ state
 
 - Aachener Domschatzkammer/Cathedral Treasury
 
-The instruments of Christ's Passion
+  - The instruments of Christ's Passion
 
-Swaddling cloth of Jesus
+  - Swaddling cloth of Jesus
 
-Girdle of the Virgin Mary
+  - Girdle of the Virgin Mary
 
-Loincloth of Jesus
+  - Loincloth of Jesus
 
-- Reliquary with the skullcap of Bl. Charlemagne
+  - Reliquary with the skullcap of Bl. Charlemagne
 
-- Reliquary with the arm of Bl. Charlemagne
+  - Reliquary with the arm of Bl. Charlemagne
 
   - St. Anastasius of Antioch or Athanasius the Great, bishop, 4/20 (relic
     only)
@@ -27,17 +26,15 @@ Loincloth of Jesus
   - Ss. Corona and Leopardus, martyrs, 5/14 & 9/30, respectively (relics
     housed in the same shrine)
 
-- St. Felix of Nola or St. Felix of Martana (reliquary chest; the bodies
-  of both are buried elsewhere, though)
+  - St. Felix of Nola or St. Felix of Martana (reliquary chest; the bodies of both are buried elsewhere, though)
 
   - Relic of St. Peter's chain from the Mamertine Prison in Rome
 
-- St. Spes/Speus, bishop/martyr, 1/28 (reliquary chest; his remains are
-  supposedly in Bad Harzburg near Goslar)
+  - St. Spes/Speus, bishop/martyr, 1/28 (reliquary chest; his remains are supposedly in Bad Harzburg near Goslar)
 
   - St. Stephen of Hungary, king, 8/16 (relic only)
 
-Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
+- Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
 
   - St. Benedict of Aniane, abbot, 2/12
 
@@ -49,11 +46,9 @@ Benediktinerabtei Kornelimünster (Oberforstbacher Str. 71)
 
   - St. Maria Franziska Schervier, religious, 12/15
 
-Elisabethinnen-Mutterhaus am Preusweg/Elisabethinnen mother house on
-Preusweg
+- Elisabethinnen-Mutterhaus am Preusweg/Elisabethinnen mother house on Preusweg
 
-  - Servant of God Apollonia Radermecher, OSE, foundress, d. 12/31/1626
-    (Krypta der Klosterkirche)
+  - Servant of God Apollonia Radermecher, OSE, foundress, d. 12/31/1626 (Krypta der Klosterkirche)
 
 - ???
 
@@ -71,7 +66,7 @@ Abenberg, Roth district, Mittelfranken admin. region, Bavaria state
 
 Altenburg, Wetzlar, Lahn-Dill-Kreis, Hessen
 
-Kloster Altenberg
+- Kloster Altenberg
 
   - Bl. Gertrude von Altenberg, O.Praem, abbess, 8/13 (relics moved in 1803
     during secularization, but it is unclear as to where)
@@ -84,7 +79,7 @@ Altenmittlau, municipality Freigericht, Main-Kinzig-Kreis, Hesse state
 
 Altomünster, Dachau district, Oberbayern admin. region, Bavaria
 
-Katholische Pfarr- und Klosterkirche St. Alto und St. Birgitta
+- Katholische Pfarr- und Klosterkirche St. Alto und St. Birgitta
 
   - St. Alto of Altomünster, abbot, 2/9
 
@@ -222,21 +217,21 @@ Kloster Segeberg (destroyed by the Lutherans)
 
   - Bl. Volker von Segeberg, OSA, monk/martyred by pagans, 3/7
 
-Bamberg, Urban district, Upper Franconia administrative region, Bavaria
-state
+Bamberg, Urban district, Upper Franconia administrative region, Bavaria state
 
 - Cathedral
 
-Empress St. Cunigunde of Luxembourg, OSB, 3/3
+  - Empress St. Cunigunde of Luxembourg, OSB, 3/3
 
-Emperor St. Henry II, 7/13
+  - Emperor St. Henry II, 7/13
+
+  - Pope Clement II (non-causa, but he is only Supreme Pontiff buried outside of Italy)
 
 - Klosterkirche St. Theodor/Conventual Church of St. Theodore
 
-  - Servant of God Alois (nee Franz Seraph) Ehrlich, OCD, religious, d.
-    9/21/1945
+  - Servant of God Alois (nee Franz Seraph) Ehrlich, OCD, religious, d. 9/21/1945
 
-Kloster Michaelsberg/Michelsberg or Michaelskirche
+- Kloster Michaelsberg/Michelsberg or Michaelskirche
 
   - St. Otto of Bamberg, bishop, 6/30
 
@@ -1312,8 +1307,13 @@ Unterfranken administrative region, Bayern/Bavaria state
 
   - Bl. Imina/Immina of Würzburg, abbess, 11/25
 
-Kempten in the Allgäu, Bavaria (situated between Lake Constance and
-Monaco)
+Kempten, Swabia, Bavaria state
+
+- Zentralfriedhof/Main cemetery (Rottachstraße 62)
+
+  - Servant of God Gertraud von Bullion, laywoman/cofoundress, d. 6/11/1930 (buried in the von Bullion family crypt/der Gruft der Familie von Bullion)
+
+Kempten in the Allgäu, Bavaria (situated between Lake Constance and Monaco)
 
 - St. Lorenz basilica
 
@@ -1323,20 +1323,17 @@ Monaco)
 
 Kiel, Schleswig-Holstein state
 
-Kiel Kloster (destroyed during the Reformation)
+- Kiel Kloster (destroyed during the Reformation)
 
   - Bl. Adolf IV of Schauenburg, nobleman/Franciscan priest, 7/8
 
-Kitzingen, Kitzingen district, Unterfranken administrative region,
-Bayern/Bavaria state
+Kitzingen, Kitzingen district, Unterfranken administrative region, Bayern/Bavaria state
 
 - ???
 
-  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun,
-    2/2 (her relics were scattered by Protestants in the Peasant's War)
+  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun, 2/2 (her relics were scattered by Protestants during the Peasant's War)
 
-  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess,
-    10/15 (her relics were scattered by Protestants in the Peasant's
+  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess, 10/15 (her relics were scattered by Protestants during the Peasant's
     War)
 
 Klotten, Cochem-Zell, Rhineland-Palatinate
@@ -1347,7 +1344,7 @@ Klotten, Cochem-Zell, Rhineland-Palatinate
 
 Koblenz, Urban district, Rhineland-Palatinate state
 
-Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
+- Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
 
   - St. Castor of Karden, priest/hermit, 2/13
 

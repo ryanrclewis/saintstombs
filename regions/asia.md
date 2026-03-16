@@ -392,7 +392,13 @@ Shenzhou City, Hebei Province
 
   - St. Paulus Wu Wanshu, lay martyr, 6/29 (supposedly in the town of Xiaoluyi territory, but no such place seems to exist)(possibly Shenzhou City, Hengshui Prefecture, Hebei Province)
 
-Shuanzhong (maybe Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区) district, Metropolitan City of Tianjin
+Shiquan (石泉县), Ankang region (安康), Shaanxi Province (陕西)
+
+- ???
+
+  - Servant of God Giovanni Soggiu, OFM Conv., bishop/martyr, 11/12
+
+Shuanzhong (maybe modern day Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区) district, Metropolitan City of Tianjin)
 
 - ???
 
@@ -653,8 +659,7 @@ Ajmer, Rajasthan
 
 - Cathedral of the Immaculate Conception (Kaisar Ganj)
 
-  - Servant of God Fortunat de Tours (nee Henri Caumont), OFM Cap.,
-    bishop/cofounder, d. 8/6/1930
+  - Servant of God Fortunat de Tours (née Henri Caumont), OFM Cap., bishop/cofounder, d. 8/6/1930
 
 Alappuzha (Alleppey) Alappuzha district, Kerala state
 
@@ -1260,6 +1265,12 @@ state
   - Servant of God John Peter Savarinayagam, OFM Cap, priest, d.
     3/2/1979
 
+Tirunelveli, Palayamkottai neighborhood, Tirunelveli District, Tamil Nadu state
+
+- Sacred Heart Generalate (House of the Sacred Heart) (9H North High Ground Road)
+
+  - Servant of God Adrien Caussanel, SJ, priest/founder, d. 2/22/1930
+
 Udainagar, Dewas district, Madhya Pradesh state
 
 - Udaynagar Catholic Church
@@ -1303,19 +1314,28 @@ Velankanni, Nagapattinam district, Tamil Nadu state
 
 Varapuzha/Varappuzha, Ernakulam district, Kerala state
 
-- St. Joseph\'s Convent
+- St. Joseph's Convent
 
-  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (
-    tomb chapel, "Smruthi Mandhiram")
+  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (tomb chapel, "Smruthi Mandhiram")
 
 Vedalai, Ramanathapuram district, Tamil Nadu state
+
+- ???
+
+  - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body lost but there may be a shrine to him there
+
+Vilakkannur, Naduvil Grama panchayat, Kannur district, Kerala state
+
+- Christ the King Church (Naduvil PO)
+
+  - Vatican approved eucharistic miracle
 
 - ???
 
   - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body
     lost but there may be a shrine to him there)
 
-- Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
+  - Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
 
   - Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
 
@@ -3174,12 +3194,14 @@ Roumieh/رومية, Matn District, Mount Lebanon Governorate
   - Servant of God يزابيل خوري/Isabelle Abdullah El-Khoury,
     religious, d. 7/20/1953
 
-Sidon Al-Janub/صيدا الجنوب
+Sidon Al-Janub/صيدا الجنوب/, Saida District, South Governorate
 
 - كنيسة المخلص المقدس/Holy Saviour Church
 
 الموقر بشارة أبو مراد/Ven. Béchara Abou Mrad, BSO,
 Melkite priest, d. 2/22/1930
+
+  - Bl. Sélim (nee Bshārah) Abū Mrād, BSO, monk, d. 2/22/1930
 
 Tanaïl, Beqaa Valley
 
