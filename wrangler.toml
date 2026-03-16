@@ -1,6 +1,11 @@
 name = "saintstombs"
 compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"
+main = "workers/vinext-worker.js"
+
+[assets]
+directory = "dist/client"
 
 [[d1_databases]]
 binding = "DB"
