@@ -1,6 +1,8 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const WRANGLER_JSON_PATH = new URL('../dist/client/wrangler.json', import.meta.url);
+const DEPLOY_CONFIG_PATH = new URL('../.wrangler/deploy/config.json', import.meta.url);
+const ROOT_WRANGLER_CONFIG_PATH = '..\\..\\wrangler.toml';
 
 const TOP_LEVEL_FIELDS_TO_REMOVE = [
   'definedEnvironments',
@@ -13,6 +15,28 @@ const TOP_LEVEL_FIELDS_TO_REMOVE = [
 ];
 
 const DEV_FIELDS_TO_REMOVE = ['enable_containers', 'generate_types'];
+
+async function normalizeDeployConfigRedirect() {
+  let raw;
+
+  try {
+    raw = await readFile(DEPLOY_CONFIG_PATH, 'utf8');
+  } catch (error) {
+    if (error && error.code === 'ENOENT') {
+      return;
+    }
+
+    throw error;
+  }
+
+  const deployConfig = JSON.parse(raw);
+  deployConfig.configPath = ROOT_WRANGLER_CONFIG_PATH;
+  if (!Array.isArray(deployConfig.auxiliaryWorkers)) {
+    deployConfig.auxiliaryWorkers = [];
+  }
+
+  await writeFile(DEPLOY_CONFIG_PATH, JSON.stringify(deployConfig, null, 2) + '\n', 'utf8');
+}
 
 async function normalizeWranglerConfig() {
   let raw;
@@ -44,6 +68,11 @@ async function normalizeWranglerConfig() {
     }
   }
 
+  // Cloudflare Pages rejects worker-style assets config in wrangler.json.
+  if ('assets' in config) {
+    delete config.assets;
+  }
+
   const triggers = config.triggers;
   if (!triggers || typeof triggers !== 'object' || Array.isArray(triggers)) {
     config.triggers = { crons: [] };
@@ -52,6 +81,7 @@ async function normalizeWranglerConfig() {
   }
 
   await writeFile(WRANGLER_JSON_PATH, JSON.stringify(config, null, 2) + '\n', 'utf8');
+  await normalizeDeployConfigRedirect();
   console.log('[normalize-pages-wrangler] Updated dist/client/wrangler.json for Cloudflare Pages compatibility.');
 }
 
