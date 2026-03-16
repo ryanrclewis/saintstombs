@@ -2,7 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const WRANGLER_JSON_PATH = new URL('../dist/client/wrangler.json', import.meta.url);
 const DEPLOY_CONFIG_PATH = new URL('../.wrangler/deploy/config.json', import.meta.url);
-const ROOT_WRANGLER_CONFIG_PATH = '..\\..\\wrangler.toml';
+const ROOT_WRANGLER_CONFIG_PATH = '../../wrangler.toml';
 
 const TOP_LEVEL_FIELDS_TO_REMOVE = [
   'definedEnvironments',
