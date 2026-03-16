@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vinext dev",
-    "build": "vinext build",
-    "build:vinext": "vinext build && node scripts/normalize-pages-wrangler.mjs",
+    "build": "vinext build && node scripts/normalize-pages-wrangler.mjs",
+    "build:vinext": "npm run build",
     "start": "vinext start",
     "deploy": "vinext deploy"
   },
