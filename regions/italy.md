@@ -2851,7 +2851,7 @@ Cefalù, Province of Palermo, Sicily
 
   - Servant of God Mariano Campo, priest, d. 1/29/1977
 
-Cefalù, Gibilmanna frazione, Province of Palermo, Sicily
+Gibilmanna, *frazione* of Cefalù, Province of Palermo, Sicily
 
 - Santuario di Gibilmanna/Sanctuary of Gibilmanna (Via del Giubileo Magno)
 
