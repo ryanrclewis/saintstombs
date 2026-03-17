@@ -31,6 +31,30 @@ type PreparedSaint = Saint & {
 }
 
 let dataPromise: Promise<SearchData> | null = null
+const saintNameCollator = new Intl.Collator(undefined, {
+  numeric: true,
+  sensitivity: 'base',
+})
+
+const normalizeSortValue = (value: string) =>
+  value.trim().normalize('NFD').replace(/\p{M}/gu, '')
+
+const getSortBucket = (value: string) =>
+  /^\p{L}/u.test(normalizeSortValue(value)) ? 0 : 1
+
+const compareSaintNames = (left: PreparedSaint, right: PreparedSaint) => {
+  const leftBucket = getSortBucket(left.name)
+  const rightBucket = getSortBucket(right.name)
+
+  if (leftBucket !== rightBucket) {
+    return leftBucket - rightBucket
+  }
+
+  return saintNameCollator.compare(
+    normalizeSortValue(left.name),
+    normalizeSortValue(right.name),
+  )
+}
 
 const loadSearchData = async (): Promise<SearchData> => {
   if (!dataPromise) {
@@ -102,14 +126,16 @@ export function useSaintSearch() {
   const results = useMemo(() => {
     const normalizedQuery = deferredQuery.trim().toLowerCase()
 
-    return saints.filter((saint) => {
-      const queryMatch =
-        normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
-      const continentMatch = continent === 'All' || saint.continent === continent
-      const countryMatch = country === 'All' || saint.country === country
+    return saints
+      .filter((saint) => {
+        const queryMatch =
+          normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
+        const continentMatch = continent === 'All' || saint.continent === continent
+        const countryMatch = country === 'All' || saint.country === country
 
-      return queryMatch && continentMatch && countryMatch
-    })
+        return queryMatch && continentMatch && countryMatch
+      })
+      .sort(compareSaintNames)
   }, [continent, country, deferredQuery, saints])
 
   const handleContinentChange = (value: string) => {

@@ -151,6 +151,20 @@
   cursor: pointer;
 }
 
+.search-shortcut-hint {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.26rem;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  line-height: 1;
+  border: 1px solid var(--glass-border);
+  border-radius: 999px;
+  padding: 0.28rem 0.55rem 0.3rem;
+  background: rgba(255, 255, 255, 0.03);
+}
+
 .search-shortcut:focus-visible,
 .search-modal-close:focus-visible,
 .content-page .donate-button:focus-visible,
@@ -160,13 +174,22 @@ footer a:focus-visible {
   outline-offset: 3px;
 }
 
-.search-shortcut span {
-  font-family: var(--font-mono);
-  color: var(--text-secondary);
-  font-size: 0.8rem;
-  border: 1px solid var(--glass-border);
-  border-radius: 999px;
-  padding: 2px 7px;
+.search-shortcut-symbol {
+  font-family: 'Segoe UI Symbol', 'Noto Sans Symbols 2', sans-serif;
+  font-size: 0.96rem;
+  line-height: 1;
+  transform: translateY(-0.02em);
+}
+
+.search-shortcut-plus {
+  font-size: 0.7rem;
+  opacity: 0.72;
+}
+
+.search-shortcut-key {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
 }
 
 .search-modal-backdrop {

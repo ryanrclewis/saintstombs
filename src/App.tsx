@@ -163,7 +163,11 @@ function App() {
           aria-label="Open global search"
         >
           Search
-          <span aria-hidden="true">⌘+K</span>
+          <span className="search-shortcut-hint" aria-hidden="true">
+            <span className="search-shortcut-symbol">⌘</span>
+            <span className="search-shortcut-plus">+</span>
+            <span className="search-shortcut-key">K</span>
+          </span>
         </button>
 
         <button
