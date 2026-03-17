@@ -1,6 +1,9 @@
+import { useEffect, useState } from 'react'
 import { useSaintSearch } from '../hooks/useSaintSearch'
 
 const SKELETON_COUNT = 6
+const INITIAL_VISIBLE_RESULTS = 24
+const LOAD_MORE_STEP = 24
 
 export function HomePage() {
   const {
@@ -16,6 +19,14 @@ export function HomePage() {
     setCountry,
     setQuery,
   } = useSaintSearch()
+  const [visibleCount, setVisibleCount] = useState(INITIAL_VISIBLE_RESULTS)
+
+  useEffect(() => {
+    setVisibleCount(INITIAL_VISIBLE_RESULTS)
+  }, [continent, country, query])
+
+  const visibleResults = results.slice(0, visibleCount)
+  const hasMoreResults = visibleResults.length < results.length
 
   return (
     <>
@@ -77,7 +88,9 @@ export function HomePage() {
             Loading saints index...
           </p>
         ) : (
-          <p>{results.length} saints found</p>
+          <p>
+            Showing {visibleResults.length} of {results.length} saints
+          </p>
         )}
         {error ? <p className="error">{error}</p> : null}
       </section>
@@ -109,7 +122,7 @@ export function HomePage() {
           <article className="empty-state">No saints matched your filters.</article>
         ) : null}
         {!loading
-          ? results.map((saint) => (
+          ? visibleResults.map((saint) => (
               <article key={saint.id} className="saint-card">
                 <h2>{saint.name}</h2>
                 <p className="summary">{saint.summary}</p>
@@ -127,7 +140,7 @@ export function HomePage() {
                 <strong>Feast Day:</strong> {saint.feast_day}
               </li> */}
                 </ul>
-                {saint.tags.length > 0 ? (
+                {saint.tags?.length ? (
                   <div className="tags">
                     {saint.tags.map((tag) => (
                       <span key={`${saint.id}-${tag}`}>{tag}</span>
@@ -138,6 +151,18 @@ export function HomePage() {
             ))
           : null}
       </section>
+
+      {!loading && hasMoreResults ? (
+        <div className="result-actions">
+          <button
+            type="button"
+            className="load-more-button"
+            onClick={() => setVisibleCount((count) => count + LOAD_MORE_STEP)}
+          >
+            Show more saints
+          </button>
+        </div>
+      ) : null}
     </>
   )
 }

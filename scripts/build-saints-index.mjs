@@ -8,6 +8,7 @@ const __dirname = path.dirname(__filename)
 const projectRoot = path.resolve(__dirname, '..')
 const contentDir = path.join(projectRoot, 'content', 'saints')
 const outputDir = path.join(projectRoot, 'public', 'data')
+const SUMMARY_MAX_LENGTH = 200
 
 const CONTINENT_BY_FILENAME = {
   'africa.md': 'Africa',
@@ -44,6 +45,15 @@ const slugify = (value) =>
     .replace(/^-+|-+$/g, '')
 
 const compactSpaces = (value) => String(value).replace(/\s+/g, ' ').trim()
+
+const truncateText = (value, maxLength) => {
+  const text = compactSpaces(value)
+  if (text.length <= maxLength) {
+    return text
+  }
+
+  return `${text.slice(0, maxLength - 1).trimEnd()}…`
+}
 
 const markdownToText = (markdown) =>
   compactSpaces(
@@ -144,35 +154,39 @@ const normalizeSaint = (input, sourcePath, indexInFile = 0) => {
   const country = ensureString(input.country)
   const cityOrRegion = ensureString(input.city_or_region)
   const feastDay = ensureString(input.feast_day, 'Unknown')
-  const summary = ensureString(input.summary, 'No summary available.')
+  const summary = truncateText(
+    ensureString(input.summary, 'No summary available.'),
+    SUMMARY_MAX_LENGTH,
+  )
   const aliases = toArray(input.aliases)
   const tags = toArray(input.tags)
   const idBase = [name, country, continent].map(slugify).filter(Boolean).join('-')
 
-  return {
+  const saint = {
     id: input.id ? String(input.id) : `${idBase || slugify(name)}-${indexInFile + 1}`,
     name,
-    feast_day: feastDay,
     country,
     continent,
     city_or_region: cityOrRegion,
-    tags,
-    aliases,
     summary,
-    source: sourcePath,
     search_text: [
       name,
       feastDay,
       country,
       continent,
       cityOrRegion,
-      summary,
       ...tags,
       ...aliases,
     ]
       .join(' ')
       .toLowerCase(),
   }
+
+  if (tags.length > 0) {
+    saint.tags = tags
+  }
+
+  return saint
 }
 
 const walkMarkdownFiles = async (rootDir) => {
@@ -267,8 +281,8 @@ const generate = async () => {
     ),
   }
 
-  await fs.writeFile(path.join(outputDir, 'saints.json'), JSON.stringify(saints, null, 2) + '\n')
-  await fs.writeFile(path.join(outputDir, 'filters.json'), JSON.stringify(filters, null, 2) + '\n')
+  await fs.writeFile(path.join(outputDir, 'saints.json'), JSON.stringify(saints) + '\n')
+  await fs.writeFile(path.join(outputDir, 'filters.json'), JSON.stringify(filters) + '\n')
 }
 
 generate().catch((error) => {

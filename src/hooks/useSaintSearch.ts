@@ -1,16 +1,13 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useDeferredValue, useEffect, useMemo, useState } from 'react'
 
 export type Saint = {
   id: string
   name: string
-  feast_day: string
   country: string
   continent: string
   city_or_region: string
-  tags: string[]
-  aliases: string[]
+  tags?: string[]
   summary: string
-  source: string
   search_text: string
 }
 
@@ -25,8 +22,12 @@ const DEFAULT_FILTERS: FiltersData = {
 }
 
 type SearchData = {
-  saints: Saint[]
+  saints: PreparedSaint[]
   filters: FiltersData
+}
+
+type PreparedSaint = Saint & {
+  normalizedSearchText: string
 }
 
 let dataPromise: Promise<SearchData> | null = null
@@ -45,7 +46,12 @@ const loadSearchData = async (): Promise<SearchData> => {
 
       const saints = (await saintsResponse.json()) as Saint[]
       const filters = (await filtersResponse.json()) as FiltersData
-      return { saints, filters }
+      const preparedSaints: PreparedSaint[] = saints.map((saint) => ({
+        ...saint,
+        tags: saint.tags ?? [],
+        normalizedSearchText: saint.search_text.toLowerCase(),
+      }))
+      return { saints: preparedSaints, filters }
     })()
   }
 
@@ -53,13 +59,14 @@ const loadSearchData = async (): Promise<SearchData> => {
 }
 
 export function useSaintSearch() {
-  const [saints, setSaints] = useState<Saint[]>([])
+  const [saints, setSaints] = useState<PreparedSaint[]>([])
   const [filters, setFilters] = useState<FiltersData>(DEFAULT_FILTERS)
   const [query, setQuery] = useState('')
   const [continent, setContinent] = useState('All')
   const [country, setCountry] = useState('All')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const deferredQuery = useDeferredValue(query)
 
   useEffect(() => {
     const loadData = async () => {
@@ -93,18 +100,17 @@ export function useSaintSearch() {
   }, [continent, filters])
 
   const results = useMemo(() => {
-    const normalizedQuery = query.trim().toLowerCase()
+    const normalizedQuery = deferredQuery.trim().toLowerCase()
 
     return saints.filter((saint) => {
       const queryMatch =
-        normalizedQuery.length === 0 ||
-        saint.search_text.toLowerCase().includes(normalizedQuery)
+        normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
       const continentMatch = continent === 'All' || saint.continent === continent
       const countryMatch = country === 'All' || saint.country === country
 
       return queryMatch && continentMatch && countryMatch
     })
-  }, [continent, country, query, saints])
+  }, [continent, country, deferredQuery, saints])
 
   const handleContinentChange = (value: string) => {
     setContinent(value)

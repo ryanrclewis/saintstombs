@@ -337,6 +337,32 @@ footer a:focus-visible {
   gap: 14px;
 }
 
+.result-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.load-more-button {
+  border: 1px solid rgba(212, 175, 55, 0.38);
+  border-radius: 999px;
+  padding: 10px 16px;
+  background: rgba(212, 175, 55, 0.12);
+  color: var(--text-primary);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.load-more-button:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+}
+
+.route-fallback {
+  min-height: 200px;
+}
+
 .saint-card,
 .empty-state {
   border: 1px solid var(--glass-border);

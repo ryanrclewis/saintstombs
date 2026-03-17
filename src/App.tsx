@@ -1,11 +1,58 @@
-import { useEffect, useState } from 'react'
+import { Suspense, lazy, useEffect, useState } from 'react'
 import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
-import { GlobalSearchModal } from './components/GlobalSearchModal'
-import { AboutPage } from './pages/AboutPage'
-import { ContactPage } from './pages/ContactPage'
-import { DonatePage } from './pages/DonatePage'
 import { HomePage } from './pages/HomePage'
+
+const routeMetadata = {
+  '/home': {
+    title: 'SaintsTombs | Search Saints by Location',
+    description:
+      'Search the resting places of saints and martyrs by name, location, and region.',
+  },
+  '/saints': {
+    title: 'SaintsTombs | Search Saints by Location',
+    description:
+      'Search the resting places of saints and martyrs by name, location, and region.',
+  },
+  '/about': {
+    title: 'About | SaintsTombs',
+    description: 'Learn about the SaintsTombs project and its research mission.',
+  },
+  '/contact': {
+    title: 'Contact | SaintsTombs',
+    description: 'Contact SaintsTombs for corrections, additions, or general inquiries.',
+  },
+  '/donate': {
+    title: 'Donate | SaintsTombs',
+    description: 'Support SaintsTombs and help preserve information about sacred sites.',
+  },
+} as const
+
+const RouteFallback = () => <div className="route-fallback" aria-hidden="true" />
+
+const AboutPage = lazy(() =>
+  import('./pages/AboutPage').then((module) => ({
+    default: module.AboutPage,
+  })),
+)
+
+const ContactPage = lazy(() =>
+  import('./pages/ContactPage').then((module) => ({
+    default: module.ContactPage,
+  })),
+)
+
+const DonatePage = lazy(() =>
+  import('./pages/DonatePage').then((module) => ({
+    default: module.DonatePage,
+  })),
+)
+
+const GlobalSearchModal = lazy(() =>
+  import('./components/GlobalSearchModal').then((module) => ({
+    default: module.GlobalSearchModal,
+  })),
+)
 
 const navItems = [
   { to: '/home', label: 'Home' },
@@ -50,6 +97,17 @@ function App() {
       document.removeEventListener('keydown', handleEscape)
     }
   }, [])
+
+  useEffect(() => {
+    const metadata =
+      routeMetadata[location.pathname as keyof typeof routeMetadata] ?? routeMetadata['/home']
+    document.title = metadata.title
+
+    const description = document.querySelector('meta[name="description"]')
+    if (description) {
+      description.setAttribute('content', metadata.description)
+    }
+  }, [location.pathname])
 
   return (
     <>
@@ -118,14 +176,16 @@ function App() {
       </header>
 
       <main id="main-content" className="app-shell">
-        <Routes>
-          <Route path="/" element={<Navigate to="/home" replace />} />
-          <Route path="/home" element={<HomePage />} />
-          <Route path="/saints" element={<HomePage />} />
-          <Route path="/about" element={<AboutPage />} />
-          <Route path="/donate" element={<DonatePage />} />
-          <Route path="/contact" element={<ContactPage />} />
-        </Routes>
+        <Suspense fallback={<RouteFallback />}>
+          <Routes>
+            <Route path="/" element={<Navigate to="/home" replace />} />
+            <Route path="/home" element={<HomePage />} />
+            <Route path="/saints" element={<HomePage />} />
+            <Route path="/about" element={<AboutPage />} />
+            <Route path="/donate" element={<DonatePage />} />
+            <Route path="/contact" element={<ContactPage />} />
+          </Routes>
+        </Suspense>
       </main>
 
       <footer>
@@ -142,10 +202,14 @@ function App() {
         </p>
       </footer>
 
-      <GlobalSearchModal
-        isOpen={isSearchModalOpen}
-        onClose={() => setIsSearchModalOpen(false)}
-      />
+      {isSearchModalOpen ? (
+        <Suspense fallback={null}>
+          <GlobalSearchModal
+            isOpen={isSearchModalOpen}
+            onClose={() => setIsSearchModalOpen(false)}
+          />
+        </Suspense>
+      ) : null}
     </>
   )
 }
