@@ -634,7 +634,14 @@ footer {
 
 footer a {
   color: var(--accent-color);
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.09em;
+}
+
+footer a:hover,
+footer a:focus-visible {
+  text-decoration-thickness: 0.14em;
 }
 
 @media (max-width: 800px) {
