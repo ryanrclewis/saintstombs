@@ -161,6 +161,10 @@ const normalizeSaint = (input, sourcePath, indexInFile = 0) => {
   const aliases = toArray(input.aliases)
   const tags = toArray(input.tags)
   const idBase = [name, country, continent].map(slugify).filter(Boolean).join('-')
+  const keywords = [feastDay, ...aliases]
+    .map((entry) => compactSpaces(entry).toLowerCase())
+    .filter(Boolean)
+    .join(' ')
 
   const saint = {
     id: input.id ? String(input.id) : `${idBase || slugify(name)}-${indexInFile + 1}`,
@@ -169,21 +173,14 @@ const normalizeSaint = (input, sourcePath, indexInFile = 0) => {
     continent,
     city_or_region: cityOrRegion,
     summary,
-    search_text: [
-      name,
-      feastDay,
-      country,
-      continent,
-      cityOrRegion,
-      ...tags,
-      ...aliases,
-    ]
-      .join(' ')
-      .toLowerCase(),
   }
 
   if (tags.length > 0) {
     saint.tags = tags
+  }
+
+  if (keywords.length > 0) {
+    saint.keywords = keywords
   }
 
   return saint
@@ -259,7 +256,13 @@ const generate = async () => {
   }
 
   const saintsNested = await Promise.all(files.map((file) => parseSaintsFile(file)))
-  const saints = saintsNested.flat().sort((a, b) => a.name.localeCompare(b.name))
+  const saints = saintsNested
+    .flat()
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .map((saint, index) => ({
+      ...saint,
+      id: `s${(index + 1).toString(36)}`,
+    }))
 
   const countriesByContinent = {}
   for (const saint of saints) {

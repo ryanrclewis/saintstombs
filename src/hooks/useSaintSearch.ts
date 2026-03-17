@@ -7,8 +7,8 @@ export type Saint = {
   continent: string
   city_or_region: string
   tags?: string[]
+  keywords?: string
   summary: string
-  search_text: string
 }
 
 type FiltersData = {
@@ -73,8 +73,18 @@ const loadSearchData = async (): Promise<SearchData> => {
       const preparedSaints: PreparedSaint[] = saints.map((saint) => ({
         ...saint,
         tags: saint.tags ?? [],
-        normalizedSearchText: saint.search_text.toLowerCase(),
+        normalizedSearchText: [
+          saint.name,
+          saint.country,
+          saint.continent,
+          saint.city_or_region,
+          ...(saint.tags ?? []),
+          saint.keywords ?? '',
+        ]
+          .join(' ')
+          .toLowerCase(),
       }))
+      preparedSaints.sort(compareSaintNames)
       return { saints: preparedSaints, filters }
     })()
   }
@@ -126,16 +136,14 @@ export function useSaintSearch() {
   const results = useMemo(() => {
     const normalizedQuery = deferredQuery.trim().toLowerCase()
 
-    return saints
-      .filter((saint) => {
-        const queryMatch =
-          normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
-        const continentMatch = continent === 'All' || saint.continent === continent
-        const countryMatch = country === 'All' || saint.country === country
+    return saints.filter((saint) => {
+      const queryMatch =
+        normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
+      const continentMatch = continent === 'All' || saint.continent === continent
+      const countryMatch = country === 'All' || saint.country === country
 
-        return queryMatch && continentMatch && countryMatch
-      })
-      .sort(compareSaintNames)
+      return queryMatch && continentMatch && countryMatch
+    })
   }, [continent, country, deferredQuery, saints])
 
   const handleContinentChange = (value: string) => {
