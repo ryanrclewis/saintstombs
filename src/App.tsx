@@ -2,6 +2,7 @@ import { Suspense, lazy, useEffect, useState } from 'react'
 import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
 import { HomePage } from './pages/HomePage'
+import { getLiturgicalTheme, type LiturgicalColor } from './utils/liturgicalTheme'
 
 const routeMetadata = {
   '/home': {
@@ -61,9 +62,46 @@ const navItems = [
   { to: '/donate', label: 'Donate' },
 ]
 
+type ThemeMode = 'auto' | LiturgicalColor
+
+const THEME_OVERRIDE_STORAGE_KEY = 'liturgical-theme-override'
+
+const manualSeasonLabels: Record<LiturgicalColor, string> = {
+  green: 'Ordinary Time',
+  purple: 'Advent / Lent',
+  white: 'Christmas / Easter',
+  red: 'Passion / Pentecost',
+  rose: 'Gaudete / Laetare',
+}
+
+const themeOptions: Array<{ value: ThemeMode; label: string }> = [
+  { value: 'auto', label: 'Auto' },
+  { value: 'green', label: 'Green' },
+  { value: 'purple', label: 'Purple' },
+  { value: 'white', label: 'White' },
+  { value: 'red', label: 'Red' },
+  { value: 'rose', label: 'Rose' },
+]
+
+function getStoredThemeOverride(): ThemeMode {
+  const stored = window.localStorage.getItem(THEME_OVERRIDE_STORAGE_KEY)
+  if (
+    stored === 'green' ||
+    stored === 'purple' ||
+    stored === 'white' ||
+    stored === 'red' ||
+    stored === 'rose'
+  ) {
+    return stored
+  }
+  return 'auto'
+}
+
 function App() {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
   const [isSearchModalOpen, setIsSearchModalOpen] = useState(false)
+  const [themeMode, setThemeMode] = useState<ThemeMode>(getStoredThemeOverride)
+  const [liturgicalTheme, setLiturgicalTheme] = useState(() => getLiturgicalTheme(new Date()))
   const location = useLocation()
 
   useEffect(() => {
@@ -108,6 +146,52 @@ function App() {
       description.setAttribute('content', metadata.description)
     }
   }, [location.pathname])
+
+  useEffect(() => {
+    if (themeMode === 'auto') {
+      window.localStorage.removeItem(THEME_OVERRIDE_STORAGE_KEY)
+    } else {
+      window.localStorage.setItem(THEME_OVERRIDE_STORAGE_KEY, themeMode)
+    }
+  }, [themeMode])
+
+  useEffect(() => {
+    if (themeMode !== 'auto') {
+      setLiturgicalTheme({
+        color: themeMode,
+        label: manualSeasonLabels[themeMode],
+      })
+      return
+    }
+
+    const applyTheme = () => {
+      setLiturgicalTheme(getLiturgicalTheme(new Date()))
+    }
+
+    let dailyInterval: number | undefined
+    applyTheme()
+
+    const now = new Date()
+    const nextMidnight = new Date(now)
+    nextMidnight.setHours(24, 0, 0, 0)
+    const timeoutMs = nextMidnight.getTime() - now.getTime()
+
+    const midnightTimeout = window.setTimeout(() => {
+      applyTheme()
+      dailyInterval = window.setInterval(applyTheme, 24 * 60 * 60 * 1000)
+    }, timeoutMs)
+
+    return () => {
+      window.clearTimeout(midnightTimeout)
+      if (dailyInterval) {
+        window.clearInterval(dailyInterval)
+      }
+    }
+  }, [themeMode])
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-liturgical-color', liturgicalTheme.color)
+  }, [liturgicalTheme.color])
 
   return (
     <>
@@ -155,6 +239,24 @@ function App() {
             ))}
           </ul>
         </nav>
+
+        <label className="theme-override" aria-label="Liturgical color mode">
+          <span className="theme-override-label">Theme</span>
+          <select
+            className="theme-override-select"
+            value={themeMode}
+            onChange={(event) => setThemeMode(event.target.value as ThemeMode)}
+          >
+            {themeOptions.map((option) => (
+              <option key={option.value} value={option.value}>
+                {option.label}
+              </option>
+            ))}
+          </select>
+          <span className="liturgical-indicator" aria-hidden="true">
+            {liturgicalTheme.label}
+          </span>
+        </label>
 
         <button
           type="button"
