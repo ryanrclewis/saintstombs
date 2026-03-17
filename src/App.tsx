@@ -7,10 +7,10 @@ import { DonatePage } from './pages/DonatePage'
 import { HomePage } from './pages/HomePage'
 
 const navItems = [
-  { to: '/search', label: 'Search' },
+  { to: '/home', label: 'Home' },
   { to: '/about', label: 'About' },
-  { to: '/donate', label: 'Donate' },
   { to: '/contact', label: 'Contact' },
+  { to: '/donate', label: 'Donate' },
 ]
 
 function App() {
@@ -75,7 +75,7 @@ function App() {
                   to={item.to}
                   end
                   className={({ isActive }) =>
-                    `${isActive ? 'nav-link active' : 'nav-link'} ${item.to === '/donate' ? 'nav-donate' : ''}`.trim()
+                    `${isActive ? 'nav-link active' : 'nav-link'}${item.to === '/donate' ? ' nav-link-accent' : ''}`
                   }
                   onClick={() => setIsMobileNavOpen(false)}
                 >
@@ -85,12 +85,20 @@ function App() {
             ))}
           </ul>
         </nav>
+
+        <button
+          type="button"
+          className={isMobileNavOpen ? 'nav-scrim active' : 'nav-scrim'}
+          aria-label="Close navigation menu"
+          tabIndex={isMobileNavOpen ? 0 : -1}
+          onClick={() => setIsMobileNavOpen(false)}
+        />
       </header>
 
       <main id="main-content" className="app-shell">
         <Routes>
-          <Route path="/" element={<Navigate to="/search" replace />} />
-          <Route path="/search" element={<HomePage />} />
+          <Route path="/" element={<Navigate to="/home" replace />} />
+          <Route path="/home" element={<HomePage />} />
           <Route path="/saints" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/donate" element={<DonatePage />} />
