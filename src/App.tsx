@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
+import { GlobalSearchModal } from './components/GlobalSearchModal'
 import { AboutPage } from './pages/AboutPage'
 import { ContactPage } from './pages/ContactPage'
 import { DonatePage } from './pages/DonatePage'
@@ -15,6 +16,7 @@ const navItems = [
 
 function App() {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
+  const [isSearchModalOpen, setIsSearchModalOpen] = useState(false)
   const location = useLocation()
 
   useEffect(() => {
@@ -22,16 +24,24 @@ function App() {
   }, [location.pathname])
 
   useEffect(() => {
-    document.body.style.overflow = isMobileNavOpen ? 'hidden' : ''
+    document.body.style.overflow =
+      isMobileNavOpen || isSearchModalOpen ? 'hidden' : ''
     return () => {
       document.body.style.overflow = ''
     }
-  }, [isMobileNavOpen])
+  }, [isMobileNavOpen, isSearchModalOpen])
 
   useEffect(() => {
     const handleEscape = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
         setIsMobileNavOpen(false)
+        setIsSearchModalOpen(false)
+      }
+
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+        event.preventDefault()
+        setIsMobileNavOpen(false)
+        setIsSearchModalOpen(true)
       }
     }
 
@@ -88,6 +98,16 @@ function App() {
 
         <button
           type="button"
+          className="search-shortcut"
+          onClick={() => setIsSearchModalOpen(true)}
+          aria-label="Open global search"
+        >
+          Search
+          <span aria-hidden="true">Ctrl K</span>
+        </button>
+
+        <button
+          type="button"
           className={isMobileNavOpen ? 'nav-scrim active' : 'nav-scrim'}
           aria-label="Close navigation menu"
           tabIndex={isMobileNavOpen ? 0 : -1}
@@ -119,6 +139,11 @@ function App() {
           .
         </p>
       </footer>
+
+      <GlobalSearchModal
+        isOpen={isSearchModalOpen}
+        onClose={() => setIsSearchModalOpen(false)}
+      />
     </>
   )
 }
