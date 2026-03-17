@@ -7,9 +7,8 @@ import { DonatePage } from './pages/DonatePage'
 import { HomePage } from './pages/HomePage'
 
 const navItems = [
-  { to: '/about', label: 'About' },
-  { to: '/saints', label: 'Saints' },
   { to: '/search', label: 'Search' },
+  { to: '/about', label: 'About' },
   { to: '/donate', label: 'Donate' },
   { to: '/contact', label: 'Contact' },
 ]
