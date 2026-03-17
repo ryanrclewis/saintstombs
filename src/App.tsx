@@ -1,6 +1,7 @@
 import { Suspense, lazy, useEffect, useState } from 'react'
 import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
+import { FloatingActionButton } from './components/FloatingActionButton'
 import { HomePage } from './pages/HomePage'
 import { getLiturgicalTheme, type LiturgicalColor } from './utils/liturgicalTheme'
 
@@ -73,15 +74,6 @@ const manualSeasonLabels: Record<LiturgicalColor, string> = {
   red: 'Passion / Pentecost',
   rose: 'Gaudete / Laetare',
 }
-
-const themeOptions: Array<{ value: ThemeMode; label: string }> = [
-  { value: 'auto', label: 'Auto' },
-  { value: 'green', label: 'Green' },
-  { value: 'purple', label: 'Purple' },
-  { value: 'white', label: 'White' },
-  { value: 'red', label: 'Red' },
-  { value: 'rose', label: 'Rose' },
-]
 
 function getStoredThemeOverride(): ThemeMode {
   const stored = window.localStorage.getItem(THEME_OVERRIDE_STORAGE_KEY)
@@ -240,38 +232,6 @@ function App() {
           </ul>
         </nav>
 
-        <label className="theme-override" aria-label="Liturgical color mode">
-          <span className="theme-override-label">Theme</span>
-          <select
-            className="theme-override-select"
-            value={themeMode}
-            onChange={(event) => setThemeMode(event.target.value as ThemeMode)}
-          >
-            {themeOptions.map((option) => (
-              <option key={option.value} value={option.value}>
-                {option.label}
-              </option>
-            ))}
-          </select>
-          <span className="liturgical-indicator" aria-hidden="true">
-            {liturgicalTheme.label}
-          </span>
-        </label>
-
-        <button
-          type="button"
-          className="search-shortcut"
-          onClick={() => setIsSearchModalOpen(true)}
-          aria-label="Open global search"
-        >
-          Search
-          <span className="search-shortcut-hint" aria-hidden="true">
-            <span className="search-shortcut-symbol">⌘</span>
-            <span className="search-shortcut-plus">+</span>
-            <span className="search-shortcut-key">K</span>
-          </span>
-        </button>
-
         <button
           type="button"
           className={isMobileNavOpen ? 'nav-scrim active' : 'nav-scrim'}
@@ -316,6 +276,13 @@ function App() {
           />
         </Suspense>
       ) : null}
+
+      <FloatingActionButton
+        onSearchClick={() => setIsSearchModalOpen(true)}
+        themeMode={themeMode}
+        onThemeChange={setThemeMode}
+        liturgicalLabel={liturgicalTheme.label}
+      />
     </>
   )
 }

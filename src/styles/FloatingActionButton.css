@@ -1,0 +1,241 @@
+.fab-pill-container {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  z-index: 150;
+  pointer-events: auto;
+}
+
+.fab-pill {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  border-radius: 999px;
+  border: 1px solid var(--glass-border);
+  background: linear-gradient(
+    135deg,
+    rgba(var(--liturgical-rgb), 0.25) 0%,
+    rgba(212, 175, 55, 0.12) 40%,
+    rgba(255, 255, 255, 0.08) 100%
+  );
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(212, 175, 55, 0.15),
+    inset 0 1px 1px rgba(255, 255, 255, 0.2);
+  padding: 0;
+}
+
+.fab-pill-action {
+  width: 48px;
+  height: 48px;
+  border: none;
+  background: transparent;
+  color: var(--text-primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 151;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+  flex-shrink: 0;
+}
+
+.fab-pill-action:hover {
+  background: rgba(212, 175, 55, 0.12);
+  color: var(--accent-color);
+}
+
+.fab-pill-action:active {
+  background: rgba(212, 175, 55, 0.2);
+}
+
+.fab-pill-action:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: -2px;
+}
+
+.fab-pill-divider {
+  width: 1px;
+  height: 24px;
+  background: rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+}
+
+.fab-theme-wrapper {
+  position: relative;
+}
+
+.fab-search {
+  padding-left: 8px;
+  padding-right: 4px;
+}
+
+.fab-theme {
+  padding-left: 4px;
+  padding-right: 8px;
+}
+
+.fab-theme-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 148;
+  pointer-events: auto;
+}
+
+.fab-theme-menu {
+  position: absolute;
+  bottom: 68px;
+  right: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(12, 12, 24, 0.96) 0%,
+    rgba(var(--liturgical-rgb), 0.15) 100%
+  );
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  backdrop-filter: blur(20px);
+  padding: 12px;
+  min-width: 180px;
+  z-index: 152;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.4),
+    inset 0 1px 1px rgba(255, 255, 255, 0.1);
+  animation: slideUp 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fab-theme-header {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0 0 12px 0;
+  border-bottom: 1px solid rgba(var(--liturgical-rgb), 0.3);
+  margin-bottom: 10px;
+}
+
+.fab-theme-title {
+  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-secondary);
+  font-weight: 700;
+}
+
+.fab-theme-current {
+  font-size: 0.95rem;
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+.fab-theme-options {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.fab-theme-option {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: var(--text-primary);
+  padding: 10px 12px;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.fab-theme-option:hover {
+  background: rgba(var(--liturgical-rgb), 0.25);
+  border-color: rgba(var(--liturgical-rgb), 0.5);
+  color: var(--text-primary);
+}
+
+.fab-theme-option.active {
+  background: linear-gradient(
+    135deg,
+    rgba(212, 175, 55, 0.3) 0%,
+    rgba(212, 175, 55, 0.15) 100%
+  );
+  border-color: rgba(212, 175, 55, 0.6);
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+.fab-theme-option:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: -2px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .fab-pill-container {
+    bottom: 24px;
+    right: 24px;
+  }
+
+  .fab-pill-action {
+    width: 44px;
+    height: 44px;
+  }
+
+  .fab-pill-divider {
+    height: 20px;
+  }
+
+  .fab-theme-menu {
+    min-width: 160px;
+    padding: 10px;
+    bottom: 62px;
+  }
+
+  .fab-theme-option {
+    padding: 8px 10px;
+    font-size: 0.85rem;
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+  .fab-pill-container {
+    bottom: 16px;
+    right: 16px;
+  }
+
+  .fab-pill-action {
+    width: 40px;
+    height: 40px;
+  }
+
+  .fab-pill-divider {
+    height: 18px;
+  }
+
+  .fab-theme-menu {
+    min-width: 150px;
+    padding: 8px;
+    bottom: 58px;
+  }
+
+  .fab-theme-option {
+    padding: 7px 8px;
+    font-size: 0.8rem;
+  }
+}
