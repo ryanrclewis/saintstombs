@@ -42,6 +42,18 @@
   top: 0;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .glass-header {
   background: rgba(5, 5, 16, 0.7);
   backdrop-filter: blur(15px);
@@ -137,6 +149,15 @@
   gap: 10px;
   font: inherit;
   cursor: pointer;
+}
+
+.search-shortcut:focus-visible,
+.search-modal-close:focus-visible,
+.content-page .donate-button:focus-visible,
+.contact-form button:focus-visible,
+footer a:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
 }
 
 .search-shortcut span {
@@ -534,6 +555,12 @@
   background: rgba(255, 255, 255, 0.04);
 }
 
+.contact-form .form-field input:focus-visible,
+.contact-form .form-field textarea:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}
+
 .contact-form button {
   cursor: pointer;
   background: var(--primary-gradient);
@@ -710,5 +737,16 @@ footer a {
 
   .subhead {
     font-size: 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

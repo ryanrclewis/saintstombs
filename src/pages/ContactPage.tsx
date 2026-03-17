@@ -13,20 +13,23 @@ export function ContactPage() {
       >
         <div className="form-field">
           <label htmlFor="email">
-            Your email <span aria-label="required">*</span>
+            Your email <span aria-hidden="true">*</span>
+            <span className="sr-only">required</span>
           </label>
           <input
             type="email"
             id="email"
             name="email"
             required
+            autoComplete="email"
             placeholder="you@example.com"
             aria-required="true"
           />
         </div>
         <div className="form-field">
           <label htmlFor="message">
-            Your message <span aria-label="required">*</span>
+            Your message <span aria-hidden="true">*</span>
+            <span className="sr-only">required</span>
           </label>
           <textarea
             id="message"

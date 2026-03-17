@@ -10,6 +10,8 @@ const SKELETON_COUNT = 3
 
 export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
   const inputRef = useRef<HTMLInputElement>(null)
+  const modalRef = useRef<HTMLElement>(null)
+  const previousFocusRef = useRef<HTMLElement | null>(null)
   const {
     countries,
     continent,
@@ -29,12 +31,54 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
       return
     }
 
+    previousFocusRef.current = document.activeElement as HTMLElement | null
+
     const timer = window.setTimeout(() => {
       inputRef.current?.focus()
     }, 0)
 
     return () => {
       window.clearTimeout(timer)
+      previousFocusRef.current?.focus()
+    }
+  }, [isOpen])
+
+  useEffect(() => {
+    if (!isOpen) {
+      return
+    }
+
+    const handleKeydown = (event: KeyboardEvent) => {
+      if (event.key !== 'Tab' || !modalRef.current) {
+        return
+      }
+
+      const focusable = modalRef.current.querySelectorAll<HTMLElement>(
+        'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])',
+      )
+
+      if (focusable.length === 0) {
+        return
+      }
+
+      const first = focusable[0]
+      const last = focusable[focusable.length - 1]
+      const active = document.activeElement as HTMLElement | null
+
+      if (!event.shiftKey && active === last) {
+        event.preventDefault()
+        first.focus()
+      }
+
+      if (event.shiftKey && active === first) {
+        event.preventDefault()
+        last.focus()
+      }
+    }
+
+    document.addEventListener('keydown', handleKeydown)
+    return () => {
+      document.removeEventListener('keydown', handleKeydown)
     }
   }, [isOpen])
 
@@ -51,6 +95,7 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
       onClick={onClose}
     >
       <section
+        ref={modalRef}
         className="search-modal"
         onClick={(event) => event.stopPropagation()}
       >
@@ -113,7 +158,12 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
           </div>
         </section>
 
-        <section className="result-meta search-modal-meta">
+        <section
+          className="result-meta search-modal-meta"
+          role="status"
+          aria-live="polite"
+          aria-atomic="true"
+        >
           {loading ? (
             <p className="loading-status">
               <span className="loading-dot" aria-hidden="true" />
@@ -125,7 +175,7 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
           {error ? <p className="error">{error}</p> : null}
         </section>
 
-        <section className="result-grid search-modal-results" aria-live="polite">
+        <section className="result-grid search-modal-results" aria-busy={loading}>
           {loading
             ? Array.from({ length: SKELETON_COUNT }, (_, index) => (
                 <article

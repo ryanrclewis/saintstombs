@@ -69,12 +69,14 @@ function App() {
           className="menu-toggle"
           aria-label="Toggle Navigation"
           aria-expanded={isMobileNavOpen}
+          aria-controls="primary-navigation"
           onClick={() => setIsMobileNavOpen((open) => !open)}
         >
           {isMobileNavOpen ? '✕' : '☰'}
         </button>
 
         <nav
+          id="primary-navigation"
           className={isMobileNavOpen ? 'top-nav active' : 'top-nav'}
           aria-label="Primary"
         >
@@ -103,7 +105,7 @@ function App() {
           aria-label="Open global search"
         >
           Search
-          <span aria-hidden="true">Ctrl K</span>
+          <span aria-hidden="true">Ctrl+K</span>
         </button>
 
         <button

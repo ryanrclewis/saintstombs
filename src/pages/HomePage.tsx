@@ -70,7 +70,7 @@ export function HomePage() {
         </div>
       </section>
 
-      <section className="result-meta">
+      <section className="result-meta" role="status" aria-live="polite" aria-atomic="true">
         {loading ? (
           <p className="loading-status">
             <span className="loading-dot" aria-hidden="true" />
@@ -82,7 +82,7 @@ export function HomePage() {
         {error ? <p className="error">{error}</p> : null}
       </section>
 
-      <section className="result-grid" aria-live="polite">
+      <section className="result-grid" aria-busy={loading}>
         {loading
           ? Array.from({ length: SKELETON_COUNT }, (_, index) => (
               <article
