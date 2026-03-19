@@ -3,13 +3,14 @@ import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
 import { FloatingActionButton } from './components/FloatingActionButton'
 import { HomePage } from './pages/HomePage'
+import { SearchPage } from './pages/SearchPage'
 import { getLiturgicalTheme, type LiturgicalColor } from './utils/liturgicalTheme'
 
 const routeMetadata = {
   '/home': {
-    title: 'SaintsTombs | Search Saints by Location',
+    title: 'SaintsTombs | Sacred Pilgrimage Sites',
     description:
-      'Search the resting places of saints and martyrs by name, location, and region.',
+      'Discover the final resting places of saints and martyrs around the world.',
   },
   '/saints': {
     title: 'SaintsTombs | Search Saints by Location',
@@ -69,6 +70,7 @@ const GlobalSearchModal = lazy(() =>
 
 const navItems = [
   { to: '/home', label: 'Home' },
+  { to: '/saints', label: 'Saints' },
   { to: '/regions', label: 'Regions' },
   { to: '/about', label: 'About' },
   { to: '/contact', label: 'Contact' },
@@ -258,7 +260,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Navigate to="/home" replace />} />
             <Route path="/home" element={<HomePage />} />
-            <Route path="/saints" element={<HomePage />} />
+            <Route path="/saints" element={<SearchPage />} />
             <Route path="/regions" element={<RegionsPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/donate" element={<DonatePage />} />

@@ -1,168 +1,169 @@
-import { useEffect, useState } from 'react'
-import { useSaintSearch } from '../hooks/useSaintSearch'
+import { useEffect, useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 
-const SKELETON_COUNT = 6
-const INITIAL_VISIBLE_RESULTS = 24
-const LOAD_MORE_STEP = 24
+const SAINT_CARDS = [
+  { name: 'St. Peter', location: 'Vatican City', img: '/st-peter.jpg' },
+  { name: 'St. Thomas', location: 'Chennai, India', img: '/st-thomas.jpg' },
+  { name: 'St. Francis', location: 'Assisi, Italy', img: '/st-francis.jpg' },
+]
 
-export function HomePage() {
-  const {
-    countries,
-    continent,
-    country,
-    error,
-    filters,
-    handleContinentChange,
-    loading,
-    query,
-    results,
-    setCountry,
-    setQuery,
-  } = useSaintSearch()
-  const [visibleCount, setVisibleCount] = useState(INITIAL_VISIBLE_RESULTS)
+const STATS = [
+  { target: 12061, label: 'Saints and Holy Figures (Blesseds, Venerables, and Servants of God)' },
+  { target: 5629, label: 'Locations' },
+  { target: 133, label: 'Countries' },
+]
+
+function useCountUp(target: number, duration: number, active: boolean) {
+  const [value, setValue] = useState(0)
+  const rafRef = useRef<number | null>(null)
+  const startRef = useRef<number | null>(null)
 
   useEffect(() => {
-    setVisibleCount(INITIAL_VISIBLE_RESULTS)
-  }, [continent, country, query])
+    if (!active) return
+    startRef.current = null
+    const step = (timestamp: number) => {
+      if (startRef.current === null) startRef.current = timestamp
+      const progress = Math.min((timestamp - startRef.current) / duration, 1)
+      setValue(Math.floor(progress * target))
+      if (progress < 1) {
+        rafRef.current = requestAnimationFrame(step)
+      } else {
+        setValue(target)
+      }
+    }
+    rafRef.current = requestAnimationFrame(step)
+    return () => {
+      if (rafRef.current !== null) cancelAnimationFrame(rafRef.current)
+    }
+  }, [target, duration, active])
 
-  const visibleResults = results.slice(0, visibleCount)
-  const hasMoreResults = visibleResults.length < results.length
+  return value
+}
+
+function StatItem({ target, label }: { target: number; label: string }) {
+  const ref = useRef<HTMLDivElement | null>(null)
+  const [active, setActive] = useState(false)
+  const value = useCountUp(target, 2000, active)
+
+  useEffect(() => {
+    const el = ref.current
+    if (!el) return
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setActive(true)
+          observer.unobserve(el)
+        }
+      },
+      { threshold: 0.5 },
+    )
+    observer.observe(el)
+    return () => observer.disconnect()
+  }, [])
+
+  return (
+    <div ref={ref} className="stat-item">
+      <span className="stat-number" aria-live="polite">
+        {value.toLocaleString()}
+      </span>
+      <span className="stat-label">{label}</span>
+    </div>
+  )
+}
+
+export function HomePage() {
+  const [cardIndices, setCardIndices] = useState([0, 1, 2])
+  const heroRef = useRef<HTMLElement | null>(null)
+
+  const shuffleCards = () => {
+    setCardIndices((prev) => {
+      const next = [...prev]
+      const last = next.pop()!
+      next.unshift(last)
+      return next
+    })
+  }
+
+  const handleParallax = (event: React.MouseEvent<HTMLElement>) => {
+    const cards = heroRef.current?.querySelectorAll<HTMLElement>('.home-card')
+    if (!cards) return
+    const x = (window.innerWidth / 2 - event.pageX) / 25
+    const y = (window.innerHeight / 2 - event.pageY) / 25
+    cards.forEach((card, index) => {
+      const speed = (index + 1) * 0.5
+      card.style.transform = `translate(-50%, -50%) translate(${x * speed}px, ${y * speed}px) rotate(${index * 5 + x * 0.1}deg)`
+    })
+  }
+
+  const handleParallaxLeave = () => {
+    const cards = heroRef.current?.querySelectorAll<HTMLElement>('.home-card')
+    if (!cards) return
+    cards.forEach((card) => {
+      card.style.transform = ''
+    })
+  }
 
   return (
     <>
-      <header className="hero">
-        <p className="eyebrow">Discover the Sacred</p>
-        <h1>SaintsTombs</h1>
-        <p className="subhead">
-         Journey through history to the final resting places of the world's most revered holy figures.
-        </p>
-      </header>
-
-      <section className="control-panel" aria-label="Search and filter saints">
-        <div className="field">
-          <label htmlFor="query">Search</label>
-          <input
-            id="query"
-            type="search"
-            value={query}
-            placeholder="Name, alias, tag, city, feast day..."
-            onChange={(event) => setQuery(event.target.value)}
-          />
-        </div>
-        <div className="field">
-          <label htmlFor="continent">Continent</label>
-          <select
-            id="continent"
-            value={continent}
-            onChange={(event) => handleContinentChange(event.target.value)}
-          >
-            <option value="All">All</option>
-            {filters.continents.map((entry) => (
-              <option key={entry} value={entry}>
-                {entry}
-              </option>
-            ))}
-          </select>
-        </div>
-        <div className="field">
-          <label htmlFor="country">Country</label>
-          <select
-            id="country"
-            value={country}
-            onChange={(event) => setCountry(event.target.value)}
-          >
-            <option value="All">All</option>
-            {countries.map((entry) => (
-              <option key={entry} value={entry}>
-                {entry}
-              </option>
-            ))}
-          </select>
-        </div>
-      </section>
-
-      <section className="result-meta" role="status" aria-live="polite" aria-atomic="true">
-        {loading ? (
-          <p className="loading-status">
-            <span className="loading-dot" aria-hidden="true" />
-            Loading saints index...
+      <section
+        ref={heroRef}
+        className="home-hero"
+        onMouseMove={handleParallax}
+        onMouseLeave={handleParallaxLeave}
+      >
+        <div className="home-hero-content">
+          <h1 className="home-hero-title">
+            Discover the <span className="text-gradient">Sacred</span>
+          </h1>
+          <p className="home-hero-sub">
+            Journey through history to the final resting places of the world's most revered holy
+            figures.
           </p>
-        ) : (
-          <p>
-            Showing {visibleResults.length} of {results.length} saints
-          </p>
-        )}
-        {error ? <p className="error">{error}</p> : null}
-      </section>
+          <div className="home-cta-group">
+            <Link to="/saints" className="btn-primary">
+              View the Saints' Tombs
+            </Link>
+            <Link to="/about" className="btn-secondary">
+              About the Project
+            </Link>
+          </div>
+        </div>
 
-      <section className="result-grid" aria-busy={loading}>
-        {loading
-          ? Array.from({ length: SKELETON_COUNT }, (_, index) => (
-              <article
-                key={`loading-${index}`}
-                className="saint-card skeleton-card"
-                aria-hidden="true"
-              >
-                <div className="skeleton-line skeleton-title" />
-                <div className="skeleton-line" />
-                <div className="skeleton-line skeleton-short" />
-                <div className="skeleton-meta">
-                  <div className="skeleton-line skeleton-meta-line" />
-                  <div className="skeleton-line skeleton-meta-line" />
-                  <div className="skeleton-line skeleton-meta-line" />
-                </div>
-                <div className="skeleton-tags">
-                  <span className="skeleton-pill" />
-                  <span className="skeleton-pill" />
-                </div>
-              </article>
-            ))
-          : null}
-        {!loading && results.length === 0 ? (
-          <article className="empty-state">No saints matched your filters.</article>
-        ) : null}
-        {!loading
-          ? visibleResults.map((saint) => (
-              <article key={saint.id} className="saint-card">
-                <h2>{saint.name}</h2>
-                <p className="summary">{saint.summary}</p>
-                <ul className="meta">
-                  <li>
-                    <strong>Continent:</strong> {saint.continent}
-                  </li>
-                  <li>
-                    <strong>Country:</strong> {saint.country}
-                  </li>
-                  <li>
-                    <strong>Region:</strong> {saint.city_or_region}
-                  </li>
-                  {/* <li>
-                <strong>Feast Day:</strong> {saint.feast_day}
-              </li> */}
-                </ul>
-                {saint.tags?.length ? (
-                  <div className="tags">
-                    {saint.tags.map((tag) => (
-                      <span key={`${saint.id}-${tag}`}>{tag}</span>
-                    ))}
+        <div className="home-hero-visual">
+          <div
+            className="home-card-stack"
+            role="button"
+            tabIndex={0}
+            aria-label="Shuffle saint cards — press Enter or Space to cycle"
+            onClick={shuffleCards}
+            onKeyDown={(event) => {
+              if (event.key === 'Enter' || event.key === ' ') {
+                event.preventDefault()
+                shuffleCards()
+              }
+            }}
+          >
+            {SAINT_CARDS.map((saint, index) => {
+              const posClass = `home-card-pos-${cardIndices[index] + 1}`
+              return (
+                <div key={saint.name} className={`home-card ${posClass}`}>
+                  <div className="home-card-content">
+                    <h3>{saint.name}</h3>
+                    <p>{saint.location}</p>
                   </div>
-                ) : null}
-              </article>
-            ))
-          : null}
+                  <img src={saint.img} alt={saint.name} />
+                </div>
+              )
+            })}
+          </div>
+        </div>
       </section>
 
-      {!loading && hasMoreResults ? (
-        <div className="result-actions">
-          <button
-            type="button"
-            className="load-more-button"
-            onClick={() => setVisibleCount((count) => count + LOAD_MORE_STEP)}
-          >
-            Show more saints
-          </button>
-        </div>
-      ) : null}
+      <section className="home-stats" aria-label="Statistics">
+        {STATS.map((stat) => (
+          <StatItem key={stat.label} target={stat.target} label={stat.label} />
+        ))}
+      </section>
     </>
   )
 }
