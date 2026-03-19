@@ -32,6 +32,28 @@ const CONTINENT_BY_FILENAME = {
   'switzerland.md': 'Europe',
 }
 
+const REGION_LABEL_BY_FILENAME = {
+  'africa.md': 'Africa',
+  'asia.md': 'Asia',
+  'austria.md': 'Austria',
+  'belgium.md': 'Belgium',
+  'britain.md': 'Britain',
+  'eastern-europe.md': 'Eastern Europe',
+  'france.md': 'France',
+  'germany.md': 'Germany',
+  'ireland.md': 'Ireland',
+  'italy.md': 'Italy',
+  'italy-middle-formatted.md': 'Italy',
+  'latin-america.md': 'Latin America',
+  'netherlands.md': 'Netherlands',
+  'north-america.md': 'North America',
+  'oceania.md': 'Oceania',
+  'portugal.md': 'Portugal',
+  'scandinavia.md': 'Scandinavia',
+  'spain.md': 'Spain',
+  'switzerland.md': 'Switzerland',
+}
+
 const toArray = (value) => {
   if (!value) return []
   if (Array.isArray(value)) return value.map((entry) => String(entry).trim()).filter(Boolean)
@@ -83,6 +105,10 @@ const inferContinent = (filePath, explicitValue) => {
   return CONTINENT_BY_FILENAME[path.basename(filePath).toLowerCase()] || 'Unknown'
 }
 
+const inferRegionLabel = (filePath) => {
+  return REGION_LABEL_BY_FILENAME[path.basename(filePath).toLowerCase()] || titleFromFilename(filePath)
+}
+
 const parseLegacyRegionsMarkdown = (fileText, filePath, relativeSource) => {
   const fileName = path.basename(filePath)
   if (/^(readme|about)\.md$/i.test(fileName)) {
@@ -131,6 +157,7 @@ const parseLegacyRegionsMarkdown = (fileText, filePath, relativeSource) => {
           continent,
           country: currentCountry,
           city_or_region: currentLocation,
+          region: inferRegionLabel(filePath),
           summary: entry,
           tags: [],
           aliases: [],
@@ -153,6 +180,7 @@ const normalizeSaint = (input, sourcePath, indexInFile = 0) => {
   const continent = ensureString(input.continent)
   const country = ensureString(input.country)
   const cityOrRegion = ensureString(input.city_or_region)
+  const region = compactSpaces(input.region ?? '')
   const feastDay = ensureString(input.feast_day, 'Unknown')
   const summary = truncateText(
     ensureString(input.summary, 'No summary available.'),
@@ -173,6 +201,10 @@ const normalizeSaint = (input, sourcePath, indexInFile = 0) => {
     continent,
     city_or_region: cityOrRegion,
     summary,
+  }
+
+  if (region.length > 0) {
+    saint.region = region
   }
 
   if (tags.length > 0) {
@@ -203,6 +235,7 @@ const parseSaintsFile = async (filePath) => {
   const relativeSource = path.relative(projectRoot, filePath).replace(/\\/g, '/')
   const fileText = await fs.readFile(filePath, 'utf8')
   const { data, content } = matter(fileText)
+  const regionLabel = inferRegionLabel(filePath)
 
   if (Array.isArray(data.saints)) {
     return data.saints.map((saint, index) =>
@@ -212,6 +245,7 @@ const parseSaintsFile = async (filePath) => {
           country: data.country,
           city_or_region: data.city_or_region,
           tags: data.tags,
+          region: regionLabel,
           ...saint,
         },
         relativeSource,
@@ -226,6 +260,7 @@ const parseSaintsFile = async (filePath) => {
         {
           ...data,
           continent: inferContinent(filePath, data.continent),
+          region: regionLabel,
           summary: data.summary || markdownToText(content).slice(0, 260),
         },
         relativeSource,
@@ -250,7 +285,7 @@ const generate = async () => {
     await fs.writeFile(path.join(outputDir, 'saints.json'), '[]\n')
     await fs.writeFile(
       path.join(outputDir, 'filters.json'),
-      JSON.stringify({ continents: [], countriesByContinent: {} }, null, 2) + '\n',
+      JSON.stringify({ continents: [], countriesByContinent: {}, regions: [] }, null, 2) + '\n',
     )
     return
   }
@@ -265,11 +300,15 @@ const generate = async () => {
     }))
 
   const countriesByContinent = {}
+  const regionsSet = new Set()
   for (const saint of saints) {
     if (!countriesByContinent[saint.continent]) {
       countriesByContinent[saint.continent] = new Set()
     }
     countriesByContinent[saint.continent].add(saint.country)
+    if (saint.region) {
+      regionsSet.add(saint.region)
+    }
   }
 
   const filters = {
@@ -282,6 +321,7 @@ const generate = async () => {
           Array.from(value).sort((a, b) => a.localeCompare(b)),
         ]),
     ),
+    regions: Array.from(regionsSet).sort((a, b) => a.localeCompare(b)),
   }
 
   await fs.writeFile(path.join(outputDir, 'saints.json'), JSON.stringify(saints) + '\n')

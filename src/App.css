@@ -573,6 +573,38 @@ footer a:focus-visible {
   color: var(--accent-color);
 }
 
+.saint-card h3 {
+  margin: 0 0 6px;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  color: var(--accent-color);
+  font-family: var(--font-heading);
+}
+
+.regions-location-list {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.location-group {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.location-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-heading);
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid var(--glass-border);
+  padding-bottom: 6px;
+  margin: 0;
+}
+
 .summary {
   color: var(--text-secondary);
   margin: 0 0 10px;

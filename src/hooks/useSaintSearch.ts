@@ -6,6 +6,7 @@ export type Saint = {
   country: string
   continent: string
   city_or_region: string
+  region?: string
   tags?: string[]
   keywords?: string
   summary: string
@@ -14,11 +15,13 @@ export type Saint = {
 type FiltersData = {
   continents: string[]
   countriesByContinent: Record<string, string[]>
+  regions: string[]
 }
 
 const DEFAULT_FILTERS: FiltersData = {
   continents: [],
   countriesByContinent: {},
+  regions: [],
 }
 
 type SearchData = {
@@ -78,6 +81,7 @@ const loadSearchData = async (): Promise<SearchData> => {
           saint.country,
           saint.continent,
           saint.city_or_region,
+          saint.region ?? '',
           ...(saint.tags ?? []),
           saint.keywords ?? '',
         ]
