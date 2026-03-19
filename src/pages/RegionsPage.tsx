@@ -1,60 +1,85 @@
-import { useDeferredValue, useMemo, useState } from 'react'
-import { useSaintSearch } from '../hooks/useSaintSearch'
+import { useMemo, useState } from 'react'
+import { marked } from 'marked'
 
-const INITIAL_VISIBLE_RESULTS = 24
-const LOAD_MORE_STEP = 24
+const REGION_IMPORTS: Record<string, () => Promise<{ default: string }>> = {
+  Africa: () => import('../../content/saints/regions/africa.md?raw'),
+  Asia: () => import('../../content/saints/regions/asia.md?raw'),
+  Austria: () => import('../../content/saints/regions/austria.md?raw'),
+  Belgium: () => import('../../content/saints/regions/belgium.md?raw'),
+  Britain: () => import('../../content/saints/regions/britain.md?raw'),
+  'Eastern Europe': () => import('../../content/saints/regions/eastern-europe.md?raw'),
+  France: () => import('../../content/saints/regions/france.md?raw'),
+  Germany: () => import('../../content/saints/regions/germany.md?raw'),
+  Ireland: () => import('../../content/saints/regions/ireland.md?raw'),
+  Italy: () => import('../../content/saints/regions/italy.md?raw'),
+  'Latin America': () => import('../../content/saints/regions/latin-america.md?raw'),
+  Netherlands: () => import('../../content/saints/regions/netherlands.md?raw'),
+  'North America': () => import('../../content/saints/regions/north-america.md?raw'),
+  Oceania: () => import('../../content/saints/regions/oceania.md?raw'),
+  Portugal: () => import('../../content/saints/regions/portugal.md?raw'),
+  Scandinavia: () => import('../../content/saints/regions/scandinavia.md?raw'),
+  Spain: () => import('../../content/saints/regions/spain.md?raw'),
+  Switzerland: () => import('../../content/saints/regions/switzerland.md?raw'),
+}
+
+const REGION_NAMES = Object.keys(REGION_IMPORTS)
+
+const configureMarked = () => {
+  const renderer = new marked.Renderer()
+  renderer.heading = ({ text, depth, raw }: { text: string; depth: number; raw: string }) => {
+    const id = raw
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/\p{M}/gu, '')
+      .replace(/[^\w]+/g, '-')
+      .replace(/^-+|-+$/g, '')
+    return `<h${depth} id="${id}">${text}</h${depth}>`
+  }
+  return renderer
+}
+
+const renderer = configureMarked()
 
 export function RegionsPage() {
-  const { error, filters, loading, results: allSaints } = useSaintSearch()
   const [selectedRegion, setSelectedRegion] = useState('')
-  const [query, setQuery] = useState('')
-  const [visibleCount, setVisibleCount] = useState(INITIAL_VISIBLE_RESULTS)
-  const deferredQuery = useDeferredValue(query)
+  const [markdownText, setMarkdownText] = useState<string | null>(null)
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
-  const handleRegionChange = (value: string) => {
-    setSelectedRegion(value)
-    setVisibleCount(INITIAL_VISIBLE_RESULTS)
+  const handleRegionChange = async (region: string) => {
+    setSelectedRegion(region)
+    if (!region) {
+      setMarkdownText(null)
+      setError(null)
+      return
+    }
+    setLoading(true)
+    setError(null)
+    setMarkdownText(null)
+    try {
+      const mod = await REGION_IMPORTS[region]()
+      setMarkdownText(mod.default)
+    } catch {
+      setError('Failed to load region content.')
+    } finally {
+      setLoading(false)
+    }
   }
 
-  const handleQueryChange = (value: string) => {
-    setQuery(value)
-    setVisibleCount(INITIAL_VISIBLE_RESULTS)
-  }
+  const html = useMemo(() => {
+    if (!markdownText) return ''
+    return marked.parse(markdownText, { renderer }) as string
+  }, [markdownText])
 
-  const regionSaints = useMemo(() => {
-    if (!selectedRegion) return []
-    const normalizedQuery = deferredQuery.trim().toLowerCase()
-    return allSaints.filter((saint) => {
-      const regionMatch = saint.region === selectedRegion
-      const queryMatch =
-        normalizedQuery.length === 0 || saint.normalizedSearchText.includes(normalizedQuery)
-      return regionMatch && queryMatch
-    })
-  }, [selectedRegion, deferredQuery, allSaints])
-
-  const locationGroups = useMemo(() => {
-    const groups = new Map<string, typeof regionSaints>()
-    for (const saint of regionSaints) {
-      const loc = saint.city_or_region || 'Unknown Location'
-      if (!groups.has(loc)) groups.set(loc, [])
-      groups.get(loc)!.push(saint)
-    }
-    return Array.from(groups.entries()).sort(([a], [b]) => a.localeCompare(b))
-  }, [regionSaints])
-
-  const visibleGroups = useMemo(() => {
-    let count = 0
-    const visible: Array<[string, typeof regionSaints]> = []
-    for (const [loc, saints] of locationGroups) {
-      if (count >= visibleCount) break
-      visible.push([loc, saints])
-      count += saints.length
-    }
-    return visible
-  }, [locationGroups, visibleCount])
-
-  const totalVisible = visibleGroups.reduce((sum, [, s]) => sum + s.length, 0)
-  const hasMoreResults = totalVisible < regionSaints.length
+  const tocItems = useMemo(() => {
+    if (!html) return []
+    const tempDiv = document.createElement('div')
+    tempDiv.innerHTML = html
+    return Array.from(tempDiv.querySelectorAll('h1')).map((h1) => ({
+      id: h1.id,
+      text: h1.textContent ?? '',
+    }))
+  }, [html])
 
   return (
     <>
@@ -72,96 +97,53 @@ export function RegionsPage() {
           <select
             id="region-select"
             value={selectedRegion}
-            onChange={(event) => handleRegionChange(event.target.value)}
+            onChange={(event) => void handleRegionChange(event.target.value)}
           >
             <option value="">Select a region…</option>
-            {filters.regions.map((region) => (
+            {REGION_NAMES.map((region) => (
               <option key={region} value={region}>
                 {region}
               </option>
             ))}
           </select>
         </div>
-        {selectedRegion ? (
-          <div className="field">
-            <label htmlFor="region-query">Search within region</label>
-            <input
-              id="region-query"
-              type="search"
-              value={query}
-              placeholder="Name, location, feast day…"
-              onChange={(event) => handleQueryChange(event.target.value)}
-            />
-          </div>
-        ) : null}
       </section>
 
       <section className="result-meta" role="status" aria-live="polite" aria-atomic="true">
         {loading ? (
           <p className="loading-status">
             <span className="loading-dot" aria-hidden="true" />
-            Loading saints index…
+            Loading {selectedRegion}…
           </p>
-        ) : selectedRegion ? (
-          <p>
-            Showing {totalVisible} of {regionSaints.length} saints in {selectedRegion}
-          </p>
-        ) : (
+        ) : !selectedRegion ? (
           <p>Choose a region above to view its saints.</p>
-        )}
+        ) : null}
         {error ? <p className="error">{error}</p> : null}
       </section>
 
-      {!loading && selectedRegion && regionSaints.length === 0 ? (
-        <section className="result-grid">
-          <article className="empty-state">No saints found for this region.</article>
-        </section>
-      ) : null}
-
-      {!loading && selectedRegion && visibleGroups.length > 0 ? (
-        <section className="regions-location-list" aria-label="Saints by location">
-          {visibleGroups.map(([location, saints]) => (
-            <div key={location} className="location-group">
-              <h2 className="location-heading">{location}</h2>
-              <div className="result-grid">
-                {saints.map((saint) => (
-                  <article key={saint.id} className="saint-card">
-                    <h3>{saint.name}</h3>
-                    <p className="summary">{saint.summary}</p>
-                    <ul className="meta">
-                      <li>
-                        <strong>Country:</strong> {saint.country}
-                      </li>
-                      <li>
-                        <strong>Location:</strong> {saint.city_or_region}
-                      </li>
-                    </ul>
-                    {saint.tags?.length ? (
-                      <div className="tags">
-                        {saint.tags.map((tag) => (
-                          <span key={`${saint.id}-${tag}`}>{tag}</span>
-                        ))}
-                      </div>
-                    ) : null}
-                  </article>
+      {!loading && html ? (
+        <div className="region-content-wrap">
+          {tocItems.length > 1 ? (
+            <nav className="region-toc" aria-label="Jump to country">
+              <p className="region-toc-label">Jump to:</p>
+              <div className="region-toc-links">
+                {tocItems.map((item) => (
+                  <a key={item.id} href={`#${item.id}`} className="region-toc-pill">
+                    {item.text}
+                  </a>
                 ))}
               </div>
-            </div>
-          ))}
-        </section>
-      ) : null}
-
-      {!loading && hasMoreResults ? (
-        <div className="result-actions">
-          <button
-            type="button"
-            className="load-more-button"
-            onClick={() => setVisibleCount((count) => count + LOAD_MORE_STEP)}
-          >
-            Show more saints
-          </button>
+            </nav>
+          ) : null}
+          <article
+            className="region-markdown content-page"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
         </div>
       ) : null}
+
+      {!loading && !html && !error && !selectedRegion ? null : null}
     </>
   )
 }
+
