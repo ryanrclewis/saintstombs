@@ -10,6 +10,36 @@ const contentDir = path.join(projectRoot, 'content', 'saints')
 const outputDir = path.join(projectRoot, 'public', 'data')
 const SUMMARY_MAX_LENGTH = 200
 
+const loadGeoData = async () => {
+  const geoCacheFile = path.join(outputDir, 'geo-cache.json')
+  const centroidsFile = path.join(outputDir, 'country-centroids.json')
+
+  let geoCache = {}
+  try {
+    geoCache = JSON.parse(await fs.readFile(geoCacheFile, 'utf8'))
+  } catch {
+    // No cache yet — coordinates will fall back to country centroids
+  }
+
+  let countryCentroids = {}
+  try {
+    countryCentroids = JSON.parse(await fs.readFile(centroidsFile, 'utf8'))
+  } catch {
+    // No centroids file — skip coordinate enrichment
+  }
+
+  return { geoCache, countryCentroids }
+}
+
+const resolveCoords = (saint, geoCache, countryCentroids) => {
+  const cacheKey = `${saint.city_or_region}||${saint.country}`
+  if (cacheKey in geoCache && geoCache[cacheKey]) {
+    return geoCache[cacheKey]
+  }
+  const centroid = countryCentroids[saint.country]
+  return centroid ?? null
+}
+
 const CONTINENT_BY_FILENAME = {
   'africa.md': 'Africa',
   'asia.md': 'Asia',
@@ -255,14 +285,21 @@ const generate = async () => {
     return
   }
 
+  const { geoCache, countryCentroids } = await loadGeoData()
+
   const saintsNested = await Promise.all(files.map((file) => parseSaintsFile(file)))
   const saints = saintsNested
     .flat()
     .sort((a, b) => a.name.localeCompare(b.name))
-    .map((saint, index) => ({
-      ...saint,
-      id: `s${(index + 1).toString(36)}`,
-    }))
+    .map((saint, index) => {
+      const coords = resolveCoords(saint, geoCache, countryCentroids)
+      const record = { ...saint, id: `s${(index + 1).toString(36)}` }
+      if (coords) {
+        record.lat = coords.lat
+        record.lng = coords.lng
+      }
+      return record
+    })
 
   const countriesByContinent = {}
   for (const saint of saints) {

@@ -16,6 +16,10 @@ const routeMetadata = {
     description:
       'Search the resting places of saints and martyrs by name, location, and region.',
   },
+  '/map': {
+    title: 'Map | SaintsTombs',
+    description: 'Browse the locations of saints and martyrs on an interactive world map.',
+  },
   '/about': {
     title: 'About | SaintsTombs',
     description: 'Learn about the SaintsTombs project and its research mission.',
@@ -50,6 +54,12 @@ const DonatePage = lazy(() =>
   })),
 )
 
+const MapPage = lazy(() =>
+  import('./pages/MapPage').then((module) => ({
+    default: module.MapPage,
+  })),
+)
+
 const GlobalSearchModal = lazy(() =>
   import('./components/GlobalSearchModal').then((module) => ({
     default: module.GlobalSearchModal,
@@ -58,6 +68,7 @@ const GlobalSearchModal = lazy(() =>
 
 const navItems = [
   { to: '/home', label: 'Home' },
+  { to: '/map', label: 'Map' },
   { to: '/about', label: 'About' },
   { to: '/contact', label: 'Contact' },
   { to: '/donate', label: 'Donate' },
@@ -247,6 +258,7 @@ function App() {
             <Route path="/" element={<Navigate to="/home" replace />} />
             <Route path="/home" element={<HomePage />} />
             <Route path="/saints" element={<HomePage />} />
+            <Route path="/map" element={<MapPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/donate" element={<DonatePage />} />
             <Route path="/contact" element={<ContactPage />} />
