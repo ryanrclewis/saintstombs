@@ -859,15 +859,15 @@ Concattedrale dei santi Nicola, Donato e Bonaventura
 
 Balze, Province of Forli-Cesena, Emilia-Romagna region
 
-Eremo di Sant'Alberico
+- Eremo di Sant'Alberico
 
   - Ven. Quintino Sicuro, priest, d. 12/26/1968
 
-Barbana, near Trieste, Friuli-Venezia Giulia
+Barbana island, Grado Lagoon, Gradio, Province of Gorizia, Friuli-Venezia Giulia region
 
-- Santuario di Barbana
+- Santuario di Barbana//Santuario dell’Isola di Barbana
 
-  - Ven. Egidio Bullesi/gidije Bulešić), layman, 8/29/1928
+  - Ven. Egidio Bullesi/Egidije Bulešić, layman, d. 4/25/1929
 
 Barbania, Province of Turin
 
@@ -875,16 +875,13 @@ Barbania, Province of Turin
 
   - Ss. Julian, Bisuzius, Isidore, and Martinianus, martyrs, 8/28
 
-Barbarano Vicentino, Municipality of Barbarano Mossano, Province of
-Vicenza, Veneto region
+Barbarano Vicentino, Municipality of Barbarano Mossano, Province of Vicenza, Veneto region
 
-Convento di San Pancrazio, cappella di San Francesco
+- Convento di San Pancrazio, cappella di San Francesco
 
-  - Fr. Clemente Gatti (née Ernesto Domenico), OFM, priest/martyr of the
-    Romanian communists, d. 6/6/1952
+  - Fr. Clemente Gatti (née Ernesto Domenico), OFM, priest/martyr of the Romanian communists, d. 6/6/1952
 
-Barberino di Mugello, Montecarelli *frazione*, Metropolitan City of
-Florence, Toscana region
+Barberino di Mugello, Montecarelli *frazione*, Metropolitan City of Florence, Toscana region
 
 - Cimitero di Montecarelli/Cemetery
 
@@ -892,27 +889,25 @@ Florence, Toscana region
 
 Barberino Val d'Elsa, *comune* of Florence, Tuscany
 
-San Bartolomeo
+- San Bartolomeo
 
   - Bl. Davanzato di Poggibonsi, priest, 6/27
-
-Barletta, Province of Bari
-
-- Cappella del Capitolo Cattedrale, near il Cimitero di Barletta
-
-  - Servant of God Ruggero Maria Caputo, priest, d. 6/15/1980
 
 Barletta, Province of Barletta-Andria-Trani (BT), northern Apulia region
 
 - Santuario della Madonna dello Sterpeto
 
-Madonna dello Sterpeto, icon, 5/8
+  - Madonna dello Sterpeto, icon, 5/8
+
+- Parrocchia Prepositura Curata S. Giacomo Maggiore (C.so Vittorio Emanuele II, 147)
+
+  - Ven. Ruggero Maria Caputo, priest, d. 6/15/1980 (Chapel of the Blessed Sacrament)
 
 - Chiesa San Giovanni Apostolo
 
   - Bl. Raffaele (Raphael) di Barletta, Servite friar, 7/14
 
-Oratorio e Parrocchia San Filippo Neri (Via Mons. Dimiccoli, 116)
+- Oratorio e Parrocchia San Filippo Neri (Via Mons. Dimiccoli, 116)
 
   - Ven. Raffaele Dimiccoli, priest, d. 4/5/1956
 
@@ -922,7 +917,7 @@ Oratorio e Parrocchia San Filippo Neri (Via Mons. Dimiccoli, 116)
 
 - Basilica del Santo Sepolcro
 
-- Treasures taken in the 13^th^ c. from the Holy Sepulchre in Jerusalem
+  - Treasures taken in the 13^th^ c. from the Holy Sepulchre in Jerusalem
 
 Bari, Province of Bari, Puglia region
 
@@ -2273,9 +2268,15 @@ Campofontana, near Selva di Progno, Province of Verona
 
   - Servant of God Pura Pagani (née Carmela Cesira), PSSF, religious/nursery school teacher, d. 7/2/2001
 
-Campugliano
+Camposampiero, Province of Padua, Veneto region
 
-- Duomo
+- Santuari Antoniani di Camposampiero
+
+  - Ven. Girolamo Maria (né Arcangelo) Biasi, OFM Conv., priest/cofounder, d. 6/20/1929
+
+- Santuario della Visione
+
+  - Where St. Anthony of Padua had his vision of the Christ child
 
 Canale (Canale d'Alba), Province of Cuneo, Piemonte region
 
@@ -4837,6 +4838,13 @@ Genoa, Sestri Ponente district
 
   - St. Albert of Genoa (aka, Lambert), O. Cist., hermit, 7/8
 
+Genoa/Genova, Voltri quartiere
+
+- Chiesa di Santa Limbania (in the small square of the same name in Borgo
+  Cerusa)
+
+  - St. Limbania of Cyprus, hermitess, 6/16
+
 Gerace, Metropolitan City of Reggio Calabria, Calabria region
 
 - Cattedrale di Santa Maria Assunta
@@ -5757,6 +5765,12 @@ Malcesine, upper Lake Garda, province of Verona
 
   - St. Caro, hermit, 7/26
 
+Maleo, Province of Lodi, Lombardia region
+
+- Chiesa Collegiata dei Santi Gervasio e Protasio
+
+  - Ven. Pietro Domenico Trabattoni, priest, d. 2/14/1930
+
 Malesco, Province of Verbano-Cusio-Ossola, Piemonte region
 
 - Chiesa parrochiale dei Santi Pietro e Paolo/Parish church of Ss. Peter &
@@ -6084,9 +6098,9 @@ Our Lady of the Letter
 
   - St. Martin
 
-Francesco Maurolico (non-cause)
+  - Francesco Maurolico (non-cause)
 
-The crucifix that spoke to St. Annibale Maria Di Francia
+  - The crucifix that spoke to St. Annibale Maria Di Francia
 
 - Tempio di Gesù Sacramentato/Chiesa di Gesù Sacramentato/Church of
   Jesus in the Blessed Sacrament
@@ -6096,9 +6110,9 @@ The crucifix that spoke to St. Annibale Maria Di Francia
   - Servant of God Maria Alfonsa of the Child Jesus (Elena Bruno),
     religious, d. 8/23/1994
 
-Stele della Madonna della Lettera sul Forte del Santissimo Salvatore
+  - Stele della Madonna della Lettera sul Forte del Santissimo Salvatore/Stele of the Madonna of the Letter on the Fort of the Most Holy Savior
 
-Santa Maria del Carmine (Piazza del Carmine, 1)
+- Santa Maria del Carmine (Piazza del Carmine, 1)
 
   - St. Albert of Sicily, O. Carm., priest, 8/7
 
@@ -6108,13 +6122,15 @@ Santa Maria del Carmine (Piazza del Carmine, 1)
 
 - Santuario di Madonna di Montalto
 
-Our Lady of Montalto/Santa Maria di Montalto, 6/12
+  - Our Lady of Montalto/Santa Maria di Montalto, 6/12
 
-Istituto delle Figlie del Divin Zelo (Piazza Spirito Santo)
+- Istituto delle Figlie del Divin Zelo (Piazza Spirito Santo)
 
   - Ven. Maria Nazarena (née Maria) Majone, cofoundress, d. 1/25/1939
 
-- ???
+- Istituto delle Figlie di Maria Immacolata (via Borelli)
+
+  - Ven. Maria Francesca (née Carmela) Giannetto, FMI, religious, d. 2/16/1930
 
 Mevania
 
@@ -6195,20 +6211,20 @@ Milan (Milano)
   - Ven. Antonio Pietro Cortinovis (Cecilio Maria da Costa Serina), OFM
     Cap, religious, d. 4/10/1984
 
-Sant'Agostino
+- Sant'Agostino
 
   - Ven. Attilio Giordani, CDB/ASC, layman, d. 12/18/1972
 
   - St. Faustus, soldier, 8/7 (not certain, no one really knows)
 
-Sant'Ambrogio
+- Sant'Ambrogio
 
   - St. Ambrose
 
   - St. Gervase & Protase
 
-- St. Marcellina, virgin, sister of St. Ambrose, 7/17, Chapel of St.
-  Marcellina
+  - St. Marcellina, virgin, sister of St. Ambrose, 7/17 (Chapel of St.
+  Marcellina)
 
   - St. Maternus/Materno of Milan, bishop, 7/18 (near Nabor & Felix)
 
@@ -6216,15 +6232,15 @@ Sant'Ambrogio
 
   - Ss. Nabor and Felix (See Savina), 7/12
 
-- St. Satiro/Satyrus, confessor, brother of St. Ambrose, 9/17 (Chapel
+  - St. Satiro/Satyrus, confessor, brother of St. Ambrose, 9/17 (Chapel
   of Ss. Bartholomew & Satyrus, 2^nd^ on the right)
 
-- St. Savina, died while praying at the tomb of Nabor & Felix, 1/30,
+  - St. Savina, died while praying at the tomb of Nabor & Felix, 1/30,
   Chapel of St. Savina, third chapel on right
 
 - St. Victor, martyr, Chapel of San Vittore
 
-Sant'Angelo
+- Sant'Angelo
 
   - Bl. Beatrice Rusca de Como, wife, mother, widow, religious, 3/16
 
@@ -6238,7 +6254,7 @@ Sant'Angelo
 
   - Bl. Sisto Brioschi, OFM, priest, 11/22
 
-Sant'Apollinare di Milano
+- Sant'Apollinare di Milano
 
   - St. Fausto
 
@@ -6263,13 +6279,13 @@ Sant'Apollinare di Milano
 
   - St. Erlembaldo Cotta of Milan, reformer, 6/28
 
-Sant'Eufemia
+- Sant'Eufemia
 
   - St. Senator, bishop, 5/28
 
-Sant'Eustorgio
+- Sant'Eustorgio
 
-- St. Ausano/Auxanus of Milan, bishop, 9/3 (reliquary bust)
+  - St. Ausano/Auxanus of Milan, bishop, 9/3 (reliquary bust)
 
   - St. Eustorgius I, bishop, 9/18
 
@@ -6293,15 +6309,15 @@ San Francesco Saverio dell'Istituto Missionario
 
   - Ven. Angelo Ramazzotti, bishop
 
-San Giorgio
+- San Giorgio
 
   - Bl. Alessandro da Milano, Franciscan, 9/7
 
-San Giorgio al Palazzo
+- San Giorgio al Palazzo
 
   - St. Natale/Natalis of Milan, bishop, 5/13
 
-San Gregorio
+- San Gregorio
 
   - St. Celestine, martyr (no feast date) (Cappella dell'Addolorata)
 
@@ -6399,25 +6415,27 @@ San Gregorio
   - St. Veronica of Binasco, OSA (aka, of Milan), religious, 1/13 (a
     relic if anything)
 
-Piccola Casa San Giuseppe/Istituto delle Suore della Carità/Institute
+- Piccola Casa San Giuseppe/Istituto delle Suore della Carità/Institute
 of the Sisters of Charity, Via del Caravaggio, 10
 
   - Bl. Enrichetta (née Maria Angela Domenica) Alfieri, SCSJA,
     religious, 11/23
 
-Casa Madre del Istituto delle Suore di Maria Consolatrice (via
+- Casa Madre del Istituto delle Suore di Maria Consolatrice (via
 Melchiorre Gioia, 51)
 
   - Bl. Arsenio da Trigolo (née Giuseppe Antonio) Migliavacca, OFM Cap.,
     priest/founder, 12/10
 
-- Catholic University of the Sacred Heart, crypt
+- Università Cattolica del Sacro Cuore/Catholic University of the Sacred Heart, crypt
 
   - Servant of God Agostino Gemelli, priest, 7/15/1959
 
   - Bl. Armida Barelli, laywoman/foundress, 8/15
 
   - Bl. Contardo Ferrini, layman, 1/0/17
+
+  - Ven. Ludovico Necchi Villa, TOSF, physician, d. 1/10/1930
 
 - Cimitero Monumentale di Milano
 
@@ -6439,10 +6457,7 @@ Melchiorre Gioia, 51)
 
   - St. Eusebius, preceded Geruntius
 
-  - St. Erminio Filippo Pampuri; Riccardo Pampuri; Ricardo Pampuri,
-    religious, 5/1
-
-- St. Faustus of Rome and Milan, martyr, 7/16 (buried in the Chiesa di
+  - St. Faustus of Rome and Milan, martyr, 7/16 (buried in the Chiesa di
   Sant'Antonio, but is that Chiesa di Sant'Antonio Abate or Chiesa di
   Sant'Antonio di Padova?)
 
@@ -6831,7 +6846,13 @@ Montefusco, Province of Avellino, Campania Region
 
 Montemarano, Province of Avellino, Campania region
 
-- Chiesa di Santa Maria Assunta (aka, "cattedrale")
+- Chiesa di Santa Maria Assunta (aka, "cattedrale") (Piazza del Popolo) 
+
+  - St. Giovanni di Montemarano, OSB, bishop, 4/14 (incorrupt)
+
+- Chiesa del Purgatorio/Church of Purgatory (Piazza Mercato)
+
+  - Museum with several reliquaries in it
 
 Montemiletto, Province of Avellino, Campania region
 
@@ -6839,9 +6860,9 @@ Montemiletto, Province of Avellino, Campania region
 
   - St. Ottone Frangipane, hermit, 3/23 (relics only)
 
-Montepulciano
+Montepulciano, Province of Siena, Toscana region
 
-- Sanctuary of St. Agnes of Montepulciano
+- Santuario di Sant'Agnese di Montepulciano/Sanctuary of St. Agnes of Montepulciano
 
   - St. Agnes of Montepulciano, 4/20
 
@@ -7003,12 +7024,6 @@ Monza, Province of Monza e Brianza, Lombardia Region
 - Casa Madre Suore Misericordine di San Gerardo
 
   - Bl. Luigi Talamoni, priest, 1/31 & 10/3
-
-- Collegio delle Suore del Preziosissimo Sangue/College of the Sisters of
-the Precious Blood
-
-  - Bl. Alfonsa Clerici, religious, 1/14 (capella cimiteriale/cemetery
-  chapel)
 
 - ???
 
@@ -8121,15 +8136,13 @@ Palermo
 
   - St. Mamiliano da Palermo, bishop, 9/15 or 3/12 (head only)
 
-- Santuario di Santa Rosalia/Metropolitan church
+- Santuario di Santa Rosalia/Metropolitan Church
 
   - St. Rosalia, hermitess, 9/4
 
-- Capuchin friary church
+- Chiesa delle Cappuccinelle (Via Cappuccinelle, 109)
 
-  - Ven. Andrea da Burgio, d. 6/16/1772 (Chapel of the Crucifix)
-
-  - St. Bernardo of Corleone, OFM Cap., patron of expectant parents, 1/12
+  - Ven. Maria Maddalena del SS. Crocifisso (née Carmela) Alesci, OSCCap, religious, d. 11/3/1929
 
 - Chiesa di Cristo Re (next to the Casa Madre delle Ancelle Missionarie di Cristo Re in the Uditore district)
 
@@ -8178,6 +8191,12 @@ Palermo
 - Chiesa di Santa Maria degli Angeli
 
   - Servant of God Antonino "Nino" Petyx, TOSF, layman, d. 10/18/1935
+
+- Chiesa di Santa Maria della Pace/Chiesa dei Cappuccini/Church of St. Mary of Peace (Piazza Cappuccini, 1)
+
+  - Ven. Andrea da Burgio, OFM Cap., religious, d. 6/16/1772 (Chapel of the Crucifix)
+
+  - St. Bernardo of Corleone, OFM Cap., patron of expectant parents, 1/12
 
 - Santa Maria di Gesù
 
@@ -9054,6 +9073,10 @@ Pontecorvo, Province of Frosinone, Lazio region
 - Concattedrale di San Bartolomeo/Co-Cathedral of St. Bartholomew
 
   - St. Grimoaldo di Pontecorvo, priest, 9/29
+
+- Santuario Madonna delle Grazie
+
+  - Ven. Giuseppe di Gesù e Maria (nee Vincenzo) Pesci, CP, priest, d. 1/12/1929
 
 - San Paolo
 
@@ -10088,12 +10111,12 @@ Casa Generalizia delle Suore Oblate al Divino Amore (Via Marruvio, 4,)
   - Servant of God Margherita (née Diomira Ludovica) Romana Crispi,
     foundress, d. 6/18/1974
 
-Casa Generalizia della Suore del Sacro Cuore del Verbo Incarnato
+- Casa Generalizia della Suore del Sacro Cuore del Verbo Incarnato
 
   - Ven. Carmela di Gesù (née Francesca Paola) Prestigiacomo,
     foundress, d. 12/14/1948
 
-Cappella della Casa Generalizia delle Figlie di San Camillo
+- Cappella della Casa Generalizia delle Figlie di San Camillo
 
   - Bl. Luigi Tezza, Founder, "Apostle of Lima", 9/26
 
@@ -10108,7 +10131,7 @@ Cappella della Casa Generalizia delle Figlie di San Camillo
 - St. Eugenia, martyr, 12/25, probably at Apronianus cemetery on the Via
   Latina
 
-Catacombs of Calepodius
+- Catacombs of Calepodius
 
   - St. Calepodius, martyr, 5/10
 
@@ -10116,7 +10139,7 @@ Catacombs of Calepodius
 
   - St. Julius of Rome, senator/martyr, 8/19
 
-Catacombs of St. Callixtus/Callisto (Via Appia Antica, 110/126)
+- Catacombs of St. Callixtus/Callisto (Via Appia Antica, 110/126)
 
   - Pope St. Anicetus, martyr, 4/20
 
@@ -10157,16 +10180,16 @@ Catacombs of St. Callixtus/Callisto (Via Appia Antica, 110/126)
 
   - St. Tertullinus of Rome, priest/martyr, 8/4
 
-Catacombe di Santa Ciriaca/Catacombs of St. Cyriaca (Via Tiburtina;
+- Catacombe di Santa Ciriaca/Catacombs of St. Cyriaca (Via Tiburtina;
 very near the Basilica of San Lorenzo Fuori le Mura)
 
   - St. Justin of Rome, martyr, 8/4
 
-Catacombe di Sant'Ermete/Catacombs of St. Hermes (Via Latina, 493)
+- Catacombe di Sant'Ermete/Catacombs of St. Hermes (Via Latina, 493)
 
 - St. Hyacinth of Rome, martyr, 8/4 (tomb may exist or may be lost)
 
-Catacomba di Massimo (Santa Felicita)
+- Catacomba di Massimo (Santa Felicita)
 
   - Pope St. Boniface I, 9/4
 
@@ -10197,7 +10220,7 @@ Catacombs of Praetextatus
 
   - St. Valerian of Trastevere, husband of Cecilia/martyr, 4/14
 
-Catacombs of Priscilla
+- Catacombs of Priscilla
 
   - St. Crescentio of Rome, martyr, 8/4
 
@@ -10209,7 +10232,7 @@ Catacombs of Priscilla
 
   - St. Smaragdus, martyr, 8/8
 
-Catacombs of St. Sebastian
+- Catacombs of St. Sebastian
 
 - St. Maximus, martyr, Chapel of St. Maximus
 
@@ -10234,7 +10257,7 @@ Catacombs on the Via Salaria
 
   - St. Candida, martyr,
 
-Tomba di San Timoteo (Via Ostiense 195/B)
+- Tomba di San Timoteo (Via Ostiense 195/B)
 
   - St. Timothy of Rome, Syrian priest/martyr, 8/22
 
@@ -10278,12 +10301,12 @@ Tomba di San Timoteo (Via Ostiense 195/B)
 
   - Servant of God Mario Picchi, priest, d. 5/29/2010
 
-Convento della Congregazione Suore di S. Dorotea della Frassinetti
+- Convento della Congregazione Suore di S. Dorotea della Frassinetti
 (near Sant'Onofrio al Gianicolo)
 
   - St. Paola Frassinetti, foundress, 6/11
 
-Maestre Pie Venerini, Via Giuseppe Gioachino Belli 31
+- Maestre Pie Venerini, Via Giuseppe Gioachino Belli 31
 
   - St. Rosa Venerini, MPV, foundress, 5/7
 
@@ -10559,8 +10582,12 @@ Sant'Appassara
     the crucifix that hung from her belt)
 
 - San Biagio degli Armeni (aka, San Biagio della Pagnotta)(Via Giulia, 63)
-- 
+
   - St. Blaise, bishop/martyr, 2/3 (a portion of his throat)
+
+- Ss. Biagio e Carlo ai Catinari (Piazza Benedetto Cairoli, 117)
+
+  - Servant of God Rosa Giovannetti, laywoman, d. 1/30/1929
 
 - Santa Bibiana
 
@@ -10873,15 +10900,19 @@ San Lorenzo in Lucina
 
 - Santa Maria in Aracoeli
 
-  - Bl. Evangelista di San Marcello, preacher, 1/3
+  - Servant of God Aristide Leonori, TOSF, layman, d. 7/30/1928
 
-  - St. Helen, empress
+  - Bl. Evangelista di San Marcello, preacher, 1/3
 
   - Bl. Giovanni della Cina/St. Giovanni da Triora (née Francesco Maria
     Lantrua)/John of China, OFM, priest/martyr, 2/7 (near St. Helen's tomb
     and the gift shop)
 
-  - St. Junipero, 1/29
+  - Servant of God Giulio Salvadori, TOSF, layman, d. 10/7/1928
+
+  - St. Helen, empress, 5/21 and 8/18
+
+  - St. Junipero, OFM, an original follower of St. Francis of Assisi, 1/29
 
 - Santa Maria del Buon Consiglio al Quadraro, Via Tuscolana (near Cinecittà)
 
@@ -11464,6 +11495,10 @@ Roncofreddo, Province of Forlì-Cesena, Emilia-Romagna region
 
 Rovigo, Provincia di Rovigo, Veneto, Italy
 
+- Il Santuario/Centro Mariano della Beata Vergine Addolorata/Shrine of Our Lady of Sorrows (via Badaloni, 14)
+
+  - Ven. Maria Dolores (née Libera Italia Maria) Inglese, SMR, religious, d. 12/29/1928
+
 - Cimitero Comunale di Rovigo
 
   - Bl. Maria Bolognesi, laywoman, 1/30
@@ -11730,6 +11765,12 @@ Sant’Elpidio a Mare, Casette d’Ete frazione, Province of Fermo, Le Marche re
 - Chiesa del Santissimo Redentore/Church of the Most Holy Redeemer (75 Via Garibaldi A.)
 
   - Ven. Marietta Gioia, laywoman, d. 3/7/1931
+
+San Felice a Cancello, Province of Caserta, Campania region
+
+- San Giovanni Evangelista (via Napoli, 8)
+
+  - Ven. Vittorio Maria De Marino, CRSP, priest, d. 7/16/1929
 
 San Fior, Province of Treviso, Veneto region
 
@@ -13546,11 +13587,11 @@ Ospedale di San Lorenzo
 
   - Bl. Ogerio/Ogerius di Lucedio, abbot, 9/25
 
-Trivolzio, Pavia
+Trivolzio, Province of Pavia, Lombardia region
 
-- Parish church
+- Chiesa dei Santi Cornelio e Cipriano/Church of Ss. Cornelius & Cyprian (via Perotti, 7)
 
-  - St. Ricardo/Richard Pampuri, OH (the "holy doctor"), religious, 5/1
+  - St. Erminio Filippo (née Riccardo), OH, religious, 5/1 & 5/16
 
 Tronzano Vercellese, Province of Vercelli, Piedmont region
 
@@ -14034,64 +14075,6 @@ Vasto, Province of Chieti, Abruzzo region
 
   - Servant of God Giuseppe Cinquina, priest, d. 3/14/1945
 
-Vatican City State
-
-Vatican City State
-- San Lino 
-  - Pope St. Cletus/Anacletus, 4/26
-- Basilica di San Pietro in Vaticano
-  - St. Abundius the Sacristan, sacristan, 4/14 (grave likely lost)
-  - Pope St. Agapitus I, 4/22
-  - Pope St. Agatone/Agatho, 1/10
-  - Pope St. Anastasius II, 11/19
-  - Pope St. Benedict II, 5/8
-  - Pope St. Boniface IV, 5/8
-  - King St. Caedwalla of Wales, 4/20
-  - Pope St. Cletus/Anacletus, 4/26
-  - St. Cyprian, martyr, 9/26
-  - Pope St. Adeodatus I/St. Deusdedit I, 11/8
-  - Pope St. Eleuterus, 5/26
-  - Pope St. Eugene I, 6/2
-  - Bl. Pope Eugene III, 7/8
-  - Pope St. Evaristus (Aristo), 10/26
-  - Pope St. Felix IV, 10/12
-  - Pope St. Gelasius I, 11/21
-  - St. Giustina, martyr, 9/26
-  - Pope St. Gregory the Great
-  - Pope St. Gregory II, 2/11 (grave lost)
-  - Pope St. Gregory III, 12/10
-  - St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relics)
-  - Pope St. Hormisdas, 8/6
-  - Pope St. Igino/Hyginus, 1/11
-  - Pope St. John I, martyr, 5/18
-  - Pope St. John XXIII, 10/11
-  - Bl. Pope John Paul I, 8/26
-  - Pope St. John Paul II, 10/22
-  - St. Josaphat Kuntsevych, martyr, 11/12
-  - Bl. Pope Innocent XI, 8/12
-  - Pope St. Leo the Great, 11/10
-  - Pope St. Leo II, 7/3
-  - Pope St. Leo III, 6/12
-  - Pope St. Leo IV, 7/17
-  - Pope St. Leo IX, 4/19
-  - Pope St. Linus, 9/23
-  - Pope St. Nicholas I, 11/13
-  - Pope Saint Paul I, 6/26
-  - Pope St. Paul VI, 5/29
-  - St. Petronilla (in her eponymous chapel), laywoman, 5/31
-  - Pope St. Pius I, 7/11
-  - Pope St. Pius X
-  - Ven. Pope Pius XII, d. 10/9/1958
-  - Ss. Processus and Martinian, soldiers/martyrs (in their eponymous chapel), 7/2
-  - - Pope St. Sergius I, 9/8
-  - St. Simon de Crépy, monk, 9/30
-  - Pope St. Simplicius, 3/10
-  - Pope St. Symmachus, 7/19
-  - Pope St. Telesphorus, martyr, 1/5
-  - Bl. Pope Urban II, 7/29
-  - Pope St. Victor I, martyr, 7/28
-  - Pope St. Vitalian, 1/27
-
 Velletri, Città metropolitana di Roma Capitale, Lazio region
 
 - Basilica cattedrale di San Clemente/Cathedral
@@ -14198,9 +14181,11 @@ San Giorgio Maggiore (Isola di San Giorgio Maggiore/Island of San Giorgio Maggio
 
   - St. John the Almoner (Giovanni l'Elemosiniere), archbishop of Alexandria, 11/11 (in the chapel of San Giovanni l'Elemosiniere; disputed with St. Martin's Cathedral in Bratislava, Slovakia)
 
-- Santi Giovanni e Paolo
+- Basilica di Santi Giovanni e Paolo (Campo S.S. Giovanni e Paolo)
 
   - Bl. James (aka, Giacomo, Father of the Poor) Salomoni the Venetian, OP, priest/mystic, 5/31
+
+  - Ven. Giocondo Pio Lorgna, OP, priest/founder, d. 7/8/1928
 
 - San Girolamo
 
@@ -14329,6 +14314,8 @@ Verbicaro, Province of Cosenza, Calabria region
 Vercelli
 
 - Duomo -- Sant'Eusebio di Vercelli (Piazza Sant'Eusebio, 0161/255205, open on request)
+
+  - Bl. Alfonsa Clerici, SPS, religious, 1/14 
 
   - Bl. Amadeus IX of Savoy (in the chapel to the right of the high altar), 3/30
 
@@ -14863,7 +14850,7 @@ Vò di Brendola, Province of Vicenza, Veneto region
 Voghera (outside the walls in the village of San Pietro), Province of
 Pavia, Lombardia region
 
-San Bovo in Borgo
+- San Bovo in Borgo
 
   - St. Bovo/Bogo of Provence/di Voghera, warrior/pilgrim, 5/22
 
@@ -14893,15 +14880,8 @@ Volterra
 
 - Bl. James (aka Jacopo Guidi) of Certaldo, 4/13 (chapel of Santa Croce)
 
-Madonna dei Maremmani (aka, Madonna di San Sebastiano, patroness of
+  - Madonna dei Maremmani (aka, Madonna di San Sebastiano, patroness of
 Volterra)
-
-Voltri quartiere, Genoa/Genova
-
-- Chiesa di Santa Limbania (in the small square of the same name in Borgo
-  Cerusa)
-
-  - St. Limbania of Cyprus, hermitess, 6/16
 
 Zero Branco, Sant\'Alberto frazione, Province of Treviso, Veneto region
 
@@ -14915,6 +14895,65 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
 - Cimitero Comunale di Zoppola/Zoppola Cemetery
 
   - Servant of God Celso Benigno Luigi Costantini, cardinal/founder, 10/17
+
+# Vatican City State
+
+- San Lino 
+  - Pope St. Cletus/Anacletus, 4/26
+- Basilica di San Pietro in Vaticano
+  - St. Abundius the Sacristan, sacristan, 4/14 (grave likely lost)
+  - Pope St. Agapitus I, 4/22
+  - Pope St. Agatone/Agatho, 1/10
+  - Pope St. Anastasius II, 11/19
+  - Pope St. Benedict II, 5/8
+  - Pope St. Boniface IV, 5/8
+  - King St. Caedwalla of Wales, 4/20
+  - Pope St. Cletus/Anacletus, 4/26
+  - St. Cyprian, martyr, 9/26
+  - Pope St. Adeodatus I/St. Deusdedit I, 11/8
+  - Pope St. Eleuterus, 5/26
+  - Pope St. Eugene I, 6/2
+  - Bl. Pope Eugene III, 7/8
+  - Pope St. Evaristus (Aristo), 10/26
+  - Pope St. Felix IV, 10/12
+  - Pope St. Gelasius I, 11/21
+  - St. Giustina, martyr, 9/26
+  - Pope St. Gregory the Great
+  - Pope St. Gregory II, 2/11 (grave lost)
+  - Pope St. Gregory III, 12/10
+  - St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relics)
+  - Pope St. Hormisdas, 8/6
+  - Pope St. Igino/Hyginus, 1/11
+  - Pope St. John I, martyr, 5/18
+  - Pope St. John XXIII, 10/11
+  - Bl. Pope John Paul I, 8/26
+  - Pope St. John Paul II, 10/22
+  - St. Josaphat Kuntsevych, martyr, 11/12
+  - Bl. Pope Innocent XI, 8/12
+  - Pope St. Leo the Great, 11/10
+  - Pope St. Leo II, 7/3
+  - Pope St. Leo III, 6/12
+  - Pope St. Leo IV, 7/17
+  - Pope St. Leo IX, 4/19
+  - Pope St. Linus, 9/23
+  - Pope St. Nicholas I, 11/13
+  - Pope Saint Paul I, 6/26
+  - Pope St. Paul VI, 5/29
+  - St. Petronilla (in her eponymous chapel), laywoman, 5/31
+  - Pope St. Pius I, 7/11
+  - Pope St. Pius X
+  - Ven. Pope Pius XII, d. 10/9/1958
+  - Ss. Processus and Martinian, soldiers/martyrs (in their eponymous chapel), 7/2
+  - Servant of God Rafael Merry del Val, OL, Cardinal, d. 2/26/1930
+  - Pope St. Sergius I, 9/8
+  - St. Simon de Crépy, monk, 9/30
+  - Ss. Simon and Jude, apostles, 10/28
+  - Pope St. Simplicius, 3/10
+  - Pope St. Symmachus, 7/19
+  - Pope St. Telesphorus, martyr, 1/5
+  - Bl. Pope Urban II, 7/29
+  - Pope St. Victor I, martyr, 7/28
+  - Pope St. Vitalian, 1/27
 
 ## Undetermined
 
