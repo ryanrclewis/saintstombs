@@ -172,16 +172,21 @@ Borisoglebsky (Барысаглебскім), Borisoglebsky District, Yaroslavl 
   - St. Kirill of Turov, theologian/monk/bishop, 4/28 (Russian Orthodox
     saint)
 
-Hlybokaye or Glubokoye (Belarusian: Глыбокае), formerly Berezwecz
-(Belarussian - Беразьве́чча), Hlybokaye District, Vitebsk Oblast
+Hlybokaye or Glubokoye (Belarusian: Глыбокае), formerly Berezwecz (Belarussian - Беразьве́чча), Hlybokaye District, Vitebsk Oblast
 
-Borek forest near Berezwecz (Барэцкі лес каля Беразвечча)
+- Borek forest near Berezwecz (Барэцкі лес каля Беразвечча)
 
   - Bl. Fr. Mieczysław Bohatkiewicz, 3/4
 
   - Bl. Stanisław Pyrtek, priest/martyr, 3/4
 
   - Bl. Wladyslaw Mackowiak, priest/martyr, 3/4
+
+Minsk
+
+- Касцёл Святога Сымона і Святой Алены/Kościół Świętego Szymona i Świętej Heleny/Church of Ss. Simon and Helena (Плошча Незалежнасці/Independence Square)
+
+  - Servant of God Edward Antoni Leonard Woyniłłowicz/Эдвард Вайніловіч/Edvard Vajniłovič, layman, d. 6/16/1928
 
 Navumavichy, Grodno District, Grodno Region
 
@@ -191,8 +196,7 @@ Navumavichy, Grodno District, Grodno Region
 
 Nowogrodek/Navahradak/Наваградак, Hrodna voblast Province
 
-- Касцёл Праабражэння Гасподняга (Белая фара)/Church of the
-  Transfiguration (Biała Fara)
+- Касцёл Праабражэння Гасподняга (Белая фара)/Church of the Transfiguration (Biała Fara)
 
   - Адзінаццаці Наваградскіх мучанікаў/Eleven Martyrs of Novogrodek, 8/1
 
@@ -2216,9 +2220,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
   - St. Stanisław/Stanislaus, bishop/martyr, 4/11
 
-Kościół Najświętszego Serca Pana Jezusa w Krakowie (ul.
-Kopernika)/Church of the Sacred Heart of Jesus/kościół konwentualny
-jezuitów/Jesuit Church
+- Kościół Najświętszego Serca Pana Jezusa w Krakowie (ul. Kopernika)/Church of the Sacred Heart of Jesus/kościół konwentualny jezuitów/Jesuit Church
 
   - St. Andrew Bobola, SJ, 5/16
 
@@ -2238,7 +2240,7 @@ jezuitów/Jesuit Church
 
   - St. Jacek Odrowąż/Hyacinth, OP, priest/missionary, 8/17
 
-Kolegiata św. Anny (13 św. Anny Street)
+- Kolegiata św. Anny (13 św. Anny Street)
 
   - St. Jan z Kęt/Jan Kanty/John of Kanty/John Cantius), theologian/parish
     priest, 12/23
@@ -2250,51 +2252,44 @@ Kolegiata św. Anny (13 św. Anny Street)
 
   - Bl. Bronisława/Bronislava of Poland, abbess, 8/29
 
-Kościoła pw. Świętego Bernardyna ze Sieny
+- Kościoła pw. Świętego Bernardyna ze Sieny
 
   - St. Szymon z Lipnicy/Szymon of Lipnica, OFM, priest, 7/18
 
-Kościół Franciszkanów Reformowanych św. Kazimierza/St. Casimir Reformed
-Franciscan Church
+- Kościół Franciszkanów Reformowanych św. Kazimierza/St. Casimir Reformed Franciscan Church
 
-- Once a year, on November 2, the crypts of the church with their
-  mummified bodies are made available to visitors
+- Once a year, on November 2, the crypts of the church with their   mummified bodies are made available to visitors
 
-Sanktuarium Ecce Homo św. Brata Alberta w Krakowie
+- Sanktuarium Ecce Homo św. Brata Alberta w Krakowie
 
   - St. Albert (aka, Adam) Chmielowski, priest/founder 6/17
 
   - Bl. Bernardyna (nee Maria) Jabłońska, religious/foundress/mystic, 9/23
 
-- Convent of St. Catherine of Krakow
+- Klasztor św. Katarzyny w Krakowie/Convent of St. Catherine of Krakow (ul. Augustiańska 7-9)
 
   - Bl. Isaiah Boner of Krakow, priest/scholar, 11/8
 
-Kościół św. Floriana
+- Kościół św. Floriana (ul. Warszawska 1b)
 
-  - St. Florian of Lorch, martyr, 5/3 (relics only if they're still even
-    here)
+  - St. Florian of Lorch, martyr, 5/3 (relics only if they're still even here)
 
-- Bazylika św. Franciszka z Asyżu/Basilica of the Saint Francis of Assisi
-  (Franciszkańska Kaplica Męki Pańskiej Franciscan Chapel of Our Lord's
-  Passion)
+- Bazylika św. Franciszka z Asyżu/Basilica of the Saint Francis of Assisi (Franciszkańska Kaplica Męki Pańskiej Franciscan Chapel of Our Lord's   Passion)
 
   - Bl. Salomea the Princess of Galicia, PC, nun, 11/17
 
 - Bl. Aniela/Angela Salawa, laywoman, 3/12 (in the Chapel of Our Lord's
   Passion)
 
-- Kościoła św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie/Church
-  of St. John the Baptist and St. John the Evangelist
+- Kościoła św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie/Church of St. John the Baptist and St. John the Evangelist
 
   - Bl. Zofia Czeska (née Maciejowska), widow/foundress, 4/1 (skull only)
 
-- Kościoła św. Maksymiliana Marii Kolbego w Krakowie/Church of St.
-  Maksymilian Maria Kolbe
+- Kościoła św. Maksymiliana Marii Kolbego w Krakowie/Church of St. Maksymilian Maria Kolbe
 
-- Servant of God Józef Kurzeja, priest, d. 8/15/1976 (krypta/crypt)
+  - Servant of God Józef Kurzeja, priest, d. 8/15/1976 (krypta/crypt)
 
-Kościół św. Marka w Krakowie, ul. Saint Mark 10
+- Kościół św. Marka w Krakowie, ul. Saint Mark 10
 
   - Bl. Michał Giedroyć, OCRM, priest, 5/4
 
@@ -2306,16 +2301,15 @@ Kościół św. Marka w Krakowie, ul. Saint Mark 10
 
   - Bl. Hanna Helena Chrzanowska, OblOSB, nurse/cancer victim, 4/29
 
-- Kościół św. Stanisława Kostki w Krakowie/Church of St. Stanislaus Kostka
-  in the VIII Dębniki district (l. Konfederackiej 6/6 Konfederacka Street)
+- Kościół św. Stanisława Kostki w Krakowie/Church of St. Stanislaus Kostka in the VIII Dębniki district (l. Konfederackiej 6/6 Konfederacka Street)
 
   - Ven. Jan Leopold Tyranowski, tailor, d. 3/15/1947
 
-Sanktuarium Bożego Miłosierdzia/Sanctuary of Divine Mercy
+- Sanktuarium Bożego Miłosierdzia/Sanctuary of Divine Mercy
 
   - St. Maria Faustina (nee Helena) Kowalska, nun/mystic, 10/5
 
-Niepokalanego Serca Maryi/Felician Sisters Mother House
+- Niepokalanego Serca Maryi/Felician Sisters Mother House
 
   - Bl. Angela Maria (Sofia Camilla) Truszkowska, foundress, 10/10
 
@@ -2323,11 +2317,9 @@ Niepokalanego Serca Maryi/Felician Sisters Mother House
 
   - Servant of God Jerzy Ciesielski, layman, Focolare movement, d. 10/9/1970
 
-Cmentarz Kraków-Prądnik Biały/Cmentarz na Prądniku Białym/Kraków-Prądnik
-Biały cemetery (ul. Piaszczysta)
+- Cmentarz Kraków-Prądnik Biały/Cmentarz na Prądniku Białym/Kraków-Prądnik Biały cemetery (ul. Piaszczysta)
 
-  - Servant of God Zofia (née Paula) Tajber, religious/foundress, d.
-    5/28/1963
+  - Servant of God Zofia (née Paula) Tajber, religious/foundress, d. 5/28/1963
 
 - Cmentarz Rakowicki/Rakowicki Cemetery
 
@@ -2335,8 +2327,9 @@ Biały cemetery (ul. Piaszczysta)
 
   - Ven. Rozalia Celakówna, laywoman, d. 9/13/1944
 
-- Cmentarzu wojskowym przy ul. Prandoty/Military cemetery on Prandoty
-  Street
+- Cmentarzu wojskowym przy ul. Prandoty/Military cemetery (ul. bp. Jana Prandoty 1)
+
+  - Servant of God Emilia (née Kaczorowska) Wojtyła, laywoman, d. 4/13/1929
 
   - Servant of God Karol Wojtyła, layman/father of Pope John Paul II, d.
     2/18/1941
@@ -3844,12 +3837,15 @@ Nitra, Nitra district, Nitra region
 
 Prešov (aka, Prjašev), Prešov district, Prešov region
 
-- Chrám svätého Jána Krstiteľa/Cathedral of St. John the Baptist (Greek
-  Catholic)
+- Chrám svätého Jána Krstiteľa/Cathedral of St. John the Baptist (Greek Catholic)
 
   - Bl. Pavel/Pavol Peter Gojdic, bishop/martyr, 7/17
 
   - Bl. Vasil/Basil Hopko, bishop/martyr, 6/2 or 7/23
+
+- Mestský cintorín Prešov - Šváby/City Cemetery Prešov – Šváby
+
+  - Servant of God Olena Hlibovyts'ka, OSBM, religious, d. 10/9/1929
 
 Ružomberok, Liptov region, Ružomberok district, Žilina County
 
