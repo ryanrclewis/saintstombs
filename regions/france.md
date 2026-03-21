@@ -1664,12 +1664,20 @@ Issoire, Puy-de-Dôme department, Auvergne-Rhône-Alpes region
 
 Issoudun, Indre Département, Centre-Val de Loire region
 
-- Basilica
-  - Servant of God Fr. Jules Chevalier, founder, 10/21/1907
+- Basilique Notre-Dame du Sacré-Cœur/Basilica of Our Lady of the Sacred Heart (2 Rue Estienne d’Orves)
+
+  - Servant of God Fr. Jules Chevalier, MSC, founder, 10/21/1907
+
+Issy-les-Moulineaux, Boulogne-Billancourt arrondissement, Hauts-de-Seine department, Île-de-France region
+
+- Fils de la Charité Saint Joseph (22 rue de l’Abbé Derry)
+
+  - Servant of God Jean-Émile Anizan, priest/founder, d. 5/1/1928 (in the Chapelle du Père Anizan)
 
 Ivry-sur-Seine, L'Haÿ-les-Roses arrondissement, Val-de-Marne department, Île-de-France
 
 - Cimetière d'Ivry/Cemetery of Ivry
+
   - Ven. Madeleine Delbrêl, convert/author/poet/mystic, d. 10/13/1964
 
 Javron, Maine
@@ -3098,8 +3106,13 @@ Pecquencourt, Douai arrondissement, Nord department, Nord-Pas-de-Calais region
 
 Pellevoisin, Valençay canton, Chateauroux arrondissement, Indre department, Centre-Val de Loire region
 
-- Sanctuaire de Pellevoisin/Sanctuary of Our Lady of Pellevoisin
-  - Notre-Dame de Pellevoisin/Notre-Dame de Miséricorde/Our Lady of Pellevoisin, apparition, 2/14
+- Sanctuaire de Pellevoisin/Sanctuary of the All-Merciful Mother of Pellevoisin (Rue Jean Giraudoux)
+
+  - Grotto de Montbel/Grotto of Montbel (in the Château de Montbel)
+
+- Cimetière de Pellevoisin/Pellevoisin Cemetery (10 Rue Estelle Faguette)
+
+  - Servant of God Estelle Faguette, laywoman/visionary, d. 8/23/1929
 
 Périgueux, Dordogne department, Nouvelle Aquitaine region
 
