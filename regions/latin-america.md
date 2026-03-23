@@ -64,6 +64,12 @@ Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal,
 
   - Servant of God José Ramón Aristi Alcorta, SSS, priest/remarkable confessor, d. 4/6/1996 (maybe at the Basilica Santisimo Sacramento)
 
+Buenos Aires, Caballito barrio/neighborhood, Ciudad Autónoma de Buenos Aires, Capital Federal
+
+- Parroquia Buen Pastor in the Caballito neighborhood of Buenos Aires (Juan F. Aranguren 693)
+
+  - Servant of God María de San Agustín de Jesus (nee Josefa) Fernández Concha, RBP, religious, d. 1/13/1928
+
 Cafayate, Cafayate department, Province of Salta
 
 - Iglesia catedral de Nuestra Señora del Rosario
@@ -1228,7 +1234,7 @@ Santiago
 
 - Iglesia Matriz de las Hermanas de la Providencia (in the Providencia neighborhood)
 
-  - Servant of God Bernarda Morin (Venerance Morin Rouleau), founder, d. 10/4/1929
+  - Servant of God Bernarda Morin (née Vénérance Morin Rouleau), founder, d. 10/4/1929
 
 El cementerio situado en el interior de la iglesia y convento de la Recoleta Franciscana (cemetery inside the Recoleta Franciscana Church)
 
@@ -1690,7 +1696,7 @@ Casa Madre de las Hermanas de Maríana de Jesús/Congregación de las Maríanita
 
 San Miguel de Los Bancos (Los Bancos), Pichincha Province
 
-- Iglesia Católica San Miguel Arcángel \|
+- Iglesia Católica San Miguel Arcángel
 
   - Servant of God José Antonio Sarasola Uruláin (Padre Bernabé de Larraul), OFM Cap., d. 1998 or d. 4/29/1988
 
@@ -1708,7 +1714,7 @@ El Paisnal, San Salvador department
 
 San Juan Nonualco, La Paz department
 
-San Juan Bautista
+- San Juan Bautista
 
   - Bl. Sante (Cosma) Spessotto, OFM, priest/martyr, 6/14
 
@@ -1719,6 +1725,12 @@ San Salvador
   - Servant of God Luis Chávez, archbishop, d. 3/27/1987
 
   - St. Óscar Arnulfo Romero y Galdámez, archbishop/martyr, 3/24
+
+Santa Tecla, San Salvador Metropolitan Area, La Libertad department
+
+- Colegio Belén/Belén school (3ª Avenida Norte y 3ª Calle Oriente)
+
+  - Servant of God Clara María de Jesús Quirós (née Clara del Carmen Quirós López), CSJ, wife/mother/foundress, d. 12/8/1928
 
 # Guatemala
 
@@ -1844,7 +1856,7 @@ Rivière Froide arrondissement, Port-au-Prince metropolitan region, Ouest depart
 
 Municipio de San Esteban, Olancho department
 
-San Esteban Parish Church
+- San Esteban Parish Church
 
   - Servant of God Casimir Cypher (aka, Michael Jerome Cypher), OFM, d. 6/25/1975
 
@@ -1872,13 +1884,13 @@ Aguascalientes, Aguascalientes state
 
   - Ven. Julia de las Espinas del Sagrado Corazón (née Julia Navarrete Guerrero), foundress, d. 11/21/1974
 
-Ciudad de los Niños
+- Ciudad de los Niños
 
   - Servant of God Antonio Hernández Gallegos, bishop, d. 10/22/1973
 
 Ahualulco de Mercato, Jalisco
 
-San Francisco de Asís in Ahualulco de Mercato
+- San Francisco de Asís in Ahualulco de Mercato
 
   - Bl. Jorge Ramon Vargas Gonzalez, martyr, 4/2
 
@@ -1888,13 +1900,13 @@ San Francisco de Asís in Ahualulco de Mercato
 
 Arandas, Altos Sur region, Jalisco state
 
-La capilla de los misioneros Xaverianos de Arandas
+- La capilla de los misioneros Xaverianos de Arandas
 
   - Bl. Luis Magaña Servin, lay martyr, 2/9
 
 Atlihuetzia (Santa María Atlihuetzian), Yauhquemecan municipality, Tlaxcala state
 
-Ex-Convento de Santa María de la Concepción Atlihuetzia
+- Ex-Convento de Santa María de la Concepción Atlihuetzia
 
   - Child Martyrs of Tlaxcala/Niños Mártires de Tlaxcala, Ss. Cristobal and Two Companion Child Martyrs (Antonio & Juan), 9/23
 
@@ -1915,6 +1927,16 @@ Buenavista de Cuellar, Guerrero
 - Church of San Antonio de Padua
 
   - St. David Uribe-Velasco, martyr, 5/25
+
+Cañada de Caracheo, Cortazar municipality, Guanajato state
+
+- Parroquia de Nuestra Señora de los Dolores
+
+  - Bl. Elias del Socorro Nieves (aka, Mateo Elias Nieves), priest/martyr, 3/10
+  
+  - Servant of God José Eusebio Arnulfo de Jesús Sierra Vera, layman/martyr, d. 3/10/1928
+  
+  - Servant of God José Marcelino Anastasio de los Dolores Sierra Vera, layman/martyr, d. 3/10/1928E
 
 Chalchihuites, Zacatecas
 
@@ -2152,9 +2174,15 @@ Templo del Inmaculado Corazón de María
 
 Magdelena de Kino, Sonora
 
-Cripta del Padre Eusebio Kino
+- Cripta del Padre Eusebio Kino
 
   - Ven. Eusebio Francisco Kino (Chini), SJ, priest, 5/15/1711
+
+Manzanillo, Colima state
+
+- ???
+
+  - Servant of God José Guadalupe Fidencio Michel González, priest/martyr, d. 3/7/1929
 
 Mechoacanejo Delegacione, Municipio de Teocaltiche, Jalisco
 
@@ -2252,7 +2280,7 @@ Mexico City/Ciudad de Mexico
 
 - Casa Generalicia de la Congregación de las Esclavas del Divino Pasto/Slaves of the Divine Shepherd (Av. Revolución 1267, Colonia Nochebuena, Benito Juárez)
 
-  - Servant of God Antonio Repiso Martinez de Orbe, founder, d. 6/27/1929 (this is where he is buried)
+  - Servant of God Antonio Repiso Martinez de Orbe, SJ, founder, d. 6/27/1929 (this is where he is buried)
 
 - Capilla de San Juan Bautista de la Salle, Casa General de Hermanas Guadalupanas de la Salle, C/Mucia, 11, Deleg. Benito Juarez
 
@@ -2859,11 +2887,11 @@ La Basílica Menor y Convento de San Agustín
 
   - Ven. Francisco del Castillo, SJ, priest, d. 4/11/1673 (next to the Cruz del Baratillo)
 
-Oratorio de Santa Teresita, José Díaz 421
+- Oratorio de Santa Teresita, José Díaz 421
 
   - Ven. Teresa de la Cruz Candamo Álvarez Calderón, religious, d. 8/24/1953
 
-Religiosas Franciscanas de la Inmaculada Concepción - Casa Madre F.I.C. (Jr. Bolognesi 651, Magdalena del Mar)
+- Religiosas Franciscanas de la Inmaculada Concepción - Casa Madre F.I.C. (Jr. Bolognesi 651, Magdalena del Mar)
 
   - Servant of God María Josefa Camila Del Carmen (Clara del Corazón de María) Álvarez Salas, foundress, d. 2/25/1924
 
