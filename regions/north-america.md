@@ -1270,7 +1270,7 @@ Olyphant, Lackawanna County, Pennsylvania
 Omaha, Nebraska
 
 - Immaculate Conception Parish, Dowd Memorial Chapel, Boys Town
-  - Servant of God Edward Joseph Flanagan, priest, d. 5/15/1948
+  - Ven. Edward Joseph Flanagan, priest, d. 5/15/1948
 
 Onamia, Mille Lacs County, Minnesota
 
