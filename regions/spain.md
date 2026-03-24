@@ -7491,20 +7491,20 @@ Sanlúcar la Mayor, El Aljarafe comarca, Province of Seville
 
 - La iglesia del Colegio Cardenal Spínola Sanlúcar La Mayor
 
-  - Servant of God Maria Dolores Romero Algarín (Madre Belén), religious, d.
+  - Ven. Maria Dolores Romero Algarín (Madre Belén), religious, d.
     11/12/1977
 
 Santa María de Guía de Gran Canaria, Gran Canaria, Province of Las
 Palmas, Canary Islands autonomous community
 
-Templo Matriz de Santa María de Guía
+- Templo Matriz de Santa María de Guía
 
-Virgen de la Guía, 7/1
+	- Virgen de la Guía, 7/1
 
 Santa María de Huerta, Province of Soria, Castilla y León autonomous
 community
 
-Monasterio de Santa María de Huerta
+- Monasterio de Santa María de Huerta
 
   - St. Martín de Hinojosa/Finojosa, bishop, 5/5
 
@@ -7518,7 +7518,7 @@ Santa María de Huerta, Provincia de Soria, Castilla y León
 San Martín Sasgayolas/Sant Martí Sesgueioles, Anoia comarca, Noya
 region, Province of Barcelona, Catalonia autonomous region
 
-Casa La Salle
+- Casa La Salle
 
   - Bl. Benild Josep (née Francesc Casademunt Ribas), FSC, religious/martyr,
     8/26
@@ -7557,14 +7557,14 @@ San Millán de la Cogolla, La Rioja
 San Nicolás del Puerto, Sierra Norte de Sevilla comarca, Province of
 Sevilla, Andalucia autonomous community
 
-Ermita de San Diego
+- Ermita de San Diego
 
   - St. Diego de San Nicolás/Didacus of Alcalá, OFM, religious, 11/12
 
 Sant Pere dels Arquells, Ribera d'Ondara municipality, Segarra comarca,
 Province of Lleida, Catalonia autonomous community
 
-Más Claret farm memorial site
+- Más Claret farm memorial site
 
   - Bl. Antonio Elizalde Garvisu, CMF, religious, 2/1 & 10/19
 
