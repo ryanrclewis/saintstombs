@@ -1778,7 +1778,7 @@ Hijas de la Caridad Casa Central/Central House of the Daughters of Charity (JC3R
 
   - Servant of God Moisés Cisneros Rodríguez, FMS, religious/martyr, d. 4/29/1991
 
-  - Servant of God Stanisława (née Barbara) Samulowska, DC, religious/visionary, d. 12/6/1950 (buried in a cemetery in the tomb of the Sisters of Mercy)
+  - Ven. Stanisława (née Barbara) Samulowska, DC, religious/visionary, d. 12/6/1950 (buried in a cemetery in the tomb of the Sisters of Mercy)
 
 Los Plátanos, Chicamán municipality, El Quiché department or Chicaman
 
