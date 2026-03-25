@@ -9275,7 +9275,7 @@ Prignano sulla Secchia, Montebaranzone *frazione*, Province of Modena, Emilia-Ro
 
 - Cimitero di Montebaranzone/Cemetery
 
-  - Servant of God Giuseppe Castagnetti, TOSF, politician, d. 6/22/1965
+  - Ven. Giuseppe Castagnetti, TOSF, politician, d. 6/22/1965
 
 Prima Porta, Città Metropolitana di Roma Capitale, Lazio region
 
