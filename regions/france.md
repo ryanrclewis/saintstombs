@@ -338,7 +338,7 @@ Auchy-lès-Hesdin, Pas-de-Calais, Hauts-de-France/Nord-Pas-de-Calais-Picardie
 Auneuil (Troussures section/village), Beauvais arrondissement, Oise department, Hauts-de-France region
 
 - Le petit cimetière du village/The little cemetery of the village
-  - Servant of God Henri Caffarel, priest/founder, d. 9/18/1996
+  - Ven. Henri Caffarel, priest/founder, d. 9/18/1996
 
 Auray, Lorient arrondissement, Morbihan department, Brittany region
 
