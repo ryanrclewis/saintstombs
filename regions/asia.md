@@ -113,6 +113,12 @@ Kdol Leu/ក្តុល លូវ, Kampong Siem District/កំពង់សៀ�
 
   - Servant of God Pierre Rapin, MEP, priest, d. 2/24/1972 (in the funerary chapel)
 
+Tangkok village/ភូមិតាំងកុក, Barai district, Kampong Thom Province, Central Cambodia
+
+- ព្រះវិហារកាតូលិក Tangkok និងទីសក្ការៈបូជារបស់ទុក្ករបុគ្គល/Tangkok Catholic Church and Shrine of Martyrs (743C+RWC, ឃុំ សូយោង/Khum Sou Young)
+
+  - No relics; just a shrine
+
 - ???
 
   - Servant of God ប៉ូល ទេព អ៊ីមសុត្ថា/Paul Tep Im Sotha, apostolic prefect, d. 5/8/1975 in Phnom Pen
