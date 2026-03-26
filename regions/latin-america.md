@@ -1320,6 +1320,8 @@ Casa Madre de Dominicas Hijas de Nuestra Señora de Nazareth
 
   - Servant of God Emilio Sotomayor Luque, priest/founder, d. 4/12/1983
 
+  - Servant of God Gabriela de San Martín (née Gabriela) Durán Párraga, HDSC, cofoundress, d. 7/19/1927
+
   - Servant of God Jorge Murcia Riaño, priest/founder, d. 11/15/1944
 
   - Servant of God Margarita Fonseca Silvestre, foundress, d. 1/6/1945 in the Casa Madre de la Congregación "Siervas de Cristo Sacerdote"
