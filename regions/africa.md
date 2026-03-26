@@ -703,12 +703,17 @@ Tamale, Northern
 
 # Guinea
 
-Kabiéta, Womey, Nzérékoré Prefecture
+Gouécké, Nzérékoré Prefecture, Nzérékoré Region
 
-- ???
+- Cimetière catholique de Gouécké/Catholic cemetery of Gouécké
 
-  - Servant of God Göbou Yaza, catechumen/martyr, d. 1928 (possibly at
-    Kpellè)
+  - Servant of God Göbou Yaza (aka, Zaoro Göbou Yaza Félémou), layman/martyr, d. 7/28/1927
+
+Kabiéta, Womey, Nzérékoré Region
+
+- Shrine of the Servant of God Göbou Yaza (aka, Zaoro Göbou Yaza Félémou)
+
+  - Annual pilgrimage site
 
 # Kenya
 
