@@ -2211,6 +2211,12 @@ Kostomłoty, Lublin Voivodeship
 
   - Martyrs of Podlachia, 1/24
 
+Kozienice, Kozienice Powiat/County, Masovian Voivodeship
+
+- Kościół św. Józefa/St. Joseph Church (ul. Konstytucji 3-go Maja 37)
+
+  - Ven. Maria od św. Józefa (née Kazimiera) Gruszczyńska, CSFA, foundress, d. 9/17/1927
+
 Krakow/Kraków
 http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
