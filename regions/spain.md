@@ -1659,7 +1659,7 @@ Bilbao
   - Ven. Gerardo de San Francisco (née Francisco Sagarduy de Lasgoitia), CP,
     religious, d. 5/29/1962
 
-Motherhouse of the Instituto de las Siervas de Jesús
+- Motherhouse of the Instituto de las Siervas de Jesús
 
   - St. María Josefa del Corazón de Jesús, foundress, 3/20
 
@@ -1671,8 +1671,7 @@ Motherhouse of the Instituto de las Siervas de Jesús
 
   - Bl. Francisco Gárate Aranguren, SJ, religious, 9/9
 
-Casa madre de Instituto de las Siervas de Jesús de la Caridad (La Naja
-1)
+- Casa madre de Instituto de las Siervas de Jesús de la Caridad (La Naja 1)
 
   - Bl. María Josefa del Corazón de Jesús Sancho y de Guerra
 
@@ -1691,14 +1690,18 @@ Casa madre de Instituto de las Siervas de Jesús de la Caridad (La Naja
   - Bl. Antonio Cid Rodriguez, SDB, priest/martyr, 9/265 (whereabouts of
     remains unknown)
 
-Bilbao, Deusto/Deustu district), Province of Biscay, Basque Country
-autonomous community
+Bilbao, Begoña district/neighborhood/barrio, Gran Bilbao comarca, Vizcaya/Biscay Province, País Vasco autonomous community
 
-- Santuario Pasionista de San Felicísimo en Deusto/Deustuko San Felicísimo
-  santutegi pasionala/Passionist sanctuary of San Felicísimo in Deusto
+- ???
 
-  - Ven. Francisco de la Pasión "Aita Patxi" (née Vittoriano) Gondra
-    Muruaga, CSsR, priest, d. 8/6/1974
+	- Servant of God Antonia de Jesús Otegi Zabala, AASC, religious, d. 2/12/1927
+
+
+Bilbao, Deusto/Deustu district, Province of Biscay, Basque Country autonomous community
+
+- Santuario Pasionista de San Felicísimo en Deusto/Deustuko San Felicísimo santutegi pasionala/Passionist sanctuary of San Felicísimo in Deusto
+
+  - Ven. Francisco de la Pasión "Aita Patxi" (née Vittoriano) Gondra Muruaga, CSsR, priest, d. 8/6/1974
 
 Binéfar, Province of Huesca, Aragon autonomous community
 
@@ -1707,10 +1710,9 @@ Cementerio de Binéfar
   - Bl. Amancio Marín Mínguez, O. de M., priest/martyr, 7/26 (my source says
     Binéfar)
 
-Blancafort, Conca de Barberà comarca, Province of Tarragona, Catalonia
-autonomous community
+Blancafort, Conca de Barberà comarca, Province of Tarragona, Catalonia autonomous community
 
-Cementerio de Blancafort
+- Cementerio de Blancafort
 
   - Bl. Isidre Torres Balsells, priest/martyr, 8/24
 
