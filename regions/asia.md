@@ -3432,7 +3432,7 @@ Toba Tek Singh, Toba Tek Singh district, Punjab province
 
 # Philippines
 
-Angeles City, Pampanga Province, Central Luzon region
+Angeles City/Lungsod ng Angeles, 1st District, Pampanga Province, Central Luzon region
 
 - Carmelite Monastery (Santo Rosario Street)
 
@@ -3511,13 +3511,18 @@ Manila
     might be buried at Dumaguete, Province of Negros Oriental, where her
     convent was located)
 
+Manila, Intramuros area, Metropolitan Manila First District
+
+- Simbahan ni San Ignacio/Church of San Ignacio (14° 35.398′ N, 120° 58.407′ E)
+
+  - Ven. Ignacia del Espiritu Santo Iuco, RVM, foundress, d. 9/10/1748 (tomb destroyed by bombing during World War II)
+
 Manila, Quiapo district, National Capital Region
 
 - Basilika Menor at Pambansang Dambana ni Jesus Nazareno/Minor Basilica
   and National Shrine of Jesus Nazareno
 
-Nuestro Padre Jesús Nazareno/Mahál na Poóng Jesús Nazareno/The Black
-Nazarene, 1/9
+  - Nuestro Padre Jesús Nazareno/Mahál na Poóng Jesús Nazareno/The Black Nazarene, 1/9
 
 Marikina City, Metro Manila
 
@@ -3553,6 +3558,10 @@ Quezon City
 
   - Bl. Iustus Takayama Ukon/Justo Takayama/Hikogoro
     Shigetomo/ジュスト高山右近, samurai, 2/3
+
+- St. Mary's College of Quezon City (Mother Ignacia Avenue)
+
+  - Shrine of Ignacia del Espiritu Santo
 
 - Himlayang Filipino Cemetery
 
