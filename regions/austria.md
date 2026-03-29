@@ -376,10 +376,11 @@ Lance of St. Longinus
   - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the
     crypt)
 
-- Maria am Gestade (Salvatorgasse 12)
+- St. Maria am Gestade (Salvatorgasse 12)
 
-  - St. Klement Maria Hofbauer (aka, John Dvorák), CSsR, apostle of Vienna,
-    3/15
+  - St. Klement Maria Hofbauer (aka, John Dvorák), CSsR, apostle of Vienna, 3/15
+
+  - Ven. Wilhelm Janauschek, CSsR, priest, d. 6/30/1926
 
 - Ruprechtskirche (Ruprechtspl. 1)
 
