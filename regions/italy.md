@@ -218,6 +218,10 @@ Albacina village, Fabriano comune, Province of Ancona, Le Marche region
 
 Albano Laziale (near Rome)
 
+- Cathedral of San Pancrazio
+
+  - Ven. Lodovico Altieri, bishop, d. 8/11/1867
+
 - Chiesa di San Paolo/Church of St. Paul
 
   - St. Gaspar del Buffalo, founder, 12/28
@@ -242,26 +246,26 @@ Albenga, Province of Savona, Liguria region
 
   - St. Verano/Vrain of Cavaillon, bishop, 10/19 (relics)
 
-Santa Maria de Fontibus
+- Santa Maria de Fontibus
 
   - St. Benedetto/Benedict Revelli, bishop, 2/12
 
 Albino, Vall'Alta frazione, Province of Bergamo, Lombardia region
 
-Parrocchia Santa Maria Assunta e S. Giacomo
+- Parrocchia Santa Maria Assunta e S. Giacomo
 
   - St. Victoria, martyr
 
 - Santuario della Beata Vergine del Monte Altino/Sanctuary of the Blessed
   Virgin of Mount Altino
 
-Nostra Signora di Altino/Our Lady of Altino, 7/23
+  - Nostra Signora di Altino/Our Lady of Altino, 7/23
 
 Alcamo, Province of Trapani, Sicily
 
 - Santuario della Madonna dei Miracoli
 
-Our Lady of the Miracles, 6/21
+  - Our Lady of the Miracles, 6/21
 
 - Monastery of Santa Maria di Gesù
 
@@ -571,9 +575,15 @@ Ariano Irpino, Province of Avellino, Campania region
   - Servant of God Giuseppina (née Ernestina Maria Luisa) Arcucci,
     foundress, d. 1/21/1940
 
-San Pietro de' Reclusis
+- San Pietro de' Reclusis
 
-- Shrine of St. Ottone/Otho Frangipane (site of his cell)
+  - Shrine of St. Ottone/Otho Frangipane (site of his cell)
+
+Ariccia, Metropolitan City of Rome, Lazio region
+
+- Sede Generalizia della Religiose Francescane di Sant'Antonio/General House of the Franciscan Sister of St. Anthony (via Cicerone, 60)
+
+  - Ven. Miradio della Provvidenza di San Gaetano (née Giulia) Bonifacio, RFSA, foundress, d. 12/15/1926
 
 Arienzo, Province of Caserta, Campania region
 
@@ -584,11 +594,11 @@ Arienzo, Province of Caserta, Campania region
 
 Armento, Province of Potenza, Basilicata region
 
-San Luca Abate
+- San Luca Abate
 
   - St. Luke the Abbot, 10/19
 
-La cappella di San Vitale
+- La cappella di San Vitale
 
   - St. Vitale/Vitalis de Castronovo, monk, 3/9
 
@@ -614,7 +624,7 @@ Ascoli Piceno, Province of Ascoli Piceno, Le Marche region
 
   - St. Cristanziano of Piceno, deacon/martyr, 5/13
 
-San Francesco
+- San Francesco
 
   - St. Corrado (Conrad) Miliani of Ascoli, religious, 4/19
 
@@ -925,10 +935,9 @@ Bari, Province of Bari, Puglia region
 
   - St. Colomba, martyr (incorrupt)
 
-- St. Sabinus of Canosa, bishop, 2/9 (in the crypt)
+  - St. Sabinus of Canosa, bishop, 2/9 (in the crypt)
 
-- Maria Santissima Addolorata/Chiesa della Madonna Addolorata/Our Lady of
-  Sorrows
+- Maria Santissima Addolorata/Chiesa della Madonna Addolorata/Our Lady of Sorrows
 
   - St. Fortunato of Thibiuca, martyr, 5/4 and 10/24
 
@@ -936,29 +945,27 @@ Bari, Province of Bari, Puglia region
 
   - St. Nicholas of Myra (aka, Santa Claus), bishop, 12/6
 
-- Monastero abbazia di Santa Scolastica/Abbey Monastery of Santa
-  Scolastica (Via Camillo Rosalba 52)
+- Monache Carmelitane Scalze Monastero San Giuseppe (via Elia di San Clemente, 245)
 
-  - Bl. Carmelo Carmine de Palma, priest/"hero of the confessional", d.
-    8/24/1961
+  - Bl. Elia di San Clemente (née Teodora) Fracasso, OCD, religious, 5/29
+
+- Monastero abbazia di Santa Scolastica/Abbey Monastery of Santa Scolastica (Via Camillo Rosalba 52)
+
+  - Bl. Carmelo Carmine de Palma, priest/"hero of the confessional", d. 8/24/1961
 
 - ???
 
-  - Bl. Elia di San Clemente (Teodora Fracasso), religious, 5/29
-
-  - Servant of God Giovanni Modugno, college professor, d. 3/18/1957
+   - Servant of God Giovanni Modugno, college professor, d. 3/18/1957
 
   - Servant of God Isabella "Bina" Morfini, laywoman, d. 12/9/1969 (possibly
     at Parrocchia Maria SS. del Rosario in San Francesco da Paola, which is
     handling the beatification process)
 
-  - Servant of God Teresa di Gesù (née Teresa) Gimma, OCD, religious, d.
-    12/1/1948
+  - Servant of God Teresa di Gesù (née Teresa) Gimma, OCD, religious, d. 12/1/1948
 
 Bassano del Grappa, Province of Vicenza, Veneto region
 
-Casa Madre, Suore della Divina Volontà/Mother House, Sisters of the
-Divine Will (via B. Giovanna, 90
+- Casa Madre, Suore della Divina Volontà/Mother House, Sisters of the Divine Will (via B. Giovanna, 90)
 
   - Bl. Gaetana Sterni, religious/foundress, 11/26
 
@@ -2062,11 +2069,13 @@ Cagliari, Sardinia
 
   - Servant of God Marcello Inguscio, layman, d. 1/2/1996
 
-- Santuario di Nostra Signora di Bonaria/Shrine of Our Lady of Bonaria (Piazza Bonaria, 2)
+- Santuario di Nostra Signora di Bonaria/Shrine of Our Lady of Bonaria/Our Lady of Fair Winds (Piazza Bonaria, 2)
 
   - Our Lady of Bonaria, 4/24
 
-- Mercedarian convent of Santa Maria di Bonaria
+  - Servant of God Antonino Pisano, O. de M., religious, d. 8/6/1927
+
+- Mercedarian convent of Santa Maria di Bonaria (Piazza Bonaria, 2)
 
   - Bl. Carlo Catalano, O. de M., friar, 3/8
 
@@ -2296,6 +2305,14 @@ Canischio, Metropolitan City of Torino, Piemonte region
 
   - St. Adelaide di Susa/Adelaide of Susa, countess, 12/19
 
+Cannobio, Province of Verbano-Cusio-Ossola, Piemonte region
+
+- Santuario della SS. Pietà/Sanctuary of the Most Holy Pietà (via Al Santuario, 2)
+
+  - Miraculous icon of the Sacred Rib
+  
+  - Servant of God Silvio Gallotti, priest, d. 5/2/1927
+
 Cantalupo in Sabina, Province of Rieti, Lazio region
 
 - Chiesa di Sant'Adamo
@@ -2402,9 +2419,13 @@ Capurso, Province of Bari, Apulia region
 
 Caravaggio, Province of Bergamo, Lombardia region
 
-- Il santuario di Caravaggio
+- Il santuario di Caravaggio (Viale Papa Giovanni XXIII)
 
   - Nostra Signora di Caravaggio or Santa Maria del Fonte, 5/26
+
+- Chiesa dei Santi Fermo e Rustico
+
+  - Ss. Fermus and Rusticus, martyrs, 8/9 (relics only)
 
 Carbone, Potenza, Basilicata
 
@@ -2772,7 +2793,7 @@ Catanzaro, Province of Catanzaro, Calabria region
   - Servant of God Raffaele Gentile, layman/physician, d. 12/18/2004 (buried
     in the family chapel)
 
-Cava de' Tirreni/ Cava de Tirreni, Province of Salerno, Campania region
+Cava de' Tirreni/Cava de Tirreni, Province of Salerno, Campania region
 
 - Abbazia territoriale della Santissima Trinità di Cava de' Tirreni/Holy Trinity Abbey
 
@@ -2808,6 +2829,10 @@ Cava de' Tirreni/ Cava de Tirreni, Province of Salerno, Campania region
 - Chiesa delle Anime del Purgatorio (Corso Umberto I)
 
   - St. Felicianus, martyr
+
+- Santuario di San Filippo Neri/Sanctuary of St. Philip Neri (Corso Umberto I, 13)
+
+  - Servant of God Giulio Castelli, CO, priest, d. 7/21/1926
 
 - Cimitero di Cava de' Tirreni
 
@@ -2905,7 +2930,11 @@ Cerignola, Province of Foggia, Puglia region
 
 - Cattedrale di San Pietro Apostolo/Cathedral of St. Peter the Apostle
 
-Nostra Signora di Ripalta/Our Lady of Ripalta icon, 9/8
+  - Nostra Signora di Ripalta/Our Lady of Ripalta icon, 9/8
+
+- Chiesa di San Domenico/Church of St. Dominic (Piano S. Rocco)
+
+  - Servant of God Antonio Palladino, priest/founder, d. 5/15/1926
 
 Cernusco sul Naviglio, Province of Milan, Lombardia region
 
@@ -3307,6 +3336,12 @@ Colledara, Province of Teramo, Abruzzo region
 
   - Servant of God Pietrino De Natale, teen layman, d. 8/20/1984
 
+Colleferro, Metropolitan City of Rome, Lazio region
+
+- Cimitero di Colleferro/Local cemetery (Via degli Abeti)
+
+  - Servant of God Maria Lilia Mastacchini, foundress, d. 4/1/1926
+
 Collegno, Metropolitan City of Turin, Piemonte region
 
 - Chiesa di San Massimo
@@ -3534,7 +3569,7 @@ Corleone, Province of Palermo, Sicily
 
 Corpolò, frazione of Rimini, Province of Rimini, Emilia Romagna
 
-Santa Maria
+- Santa Maria
 
   - St. Chiara Agolanti da Rimini, religious, 2/10
 
@@ -3548,12 +3583,12 @@ Cortona, Province of Arezzo, Toscana region
 
   - Bl. Ugolino Zefferini, OSA, priest, 3/22
 
-San Domenico
+- San Domenico
 
   - Bl. Piero Capucci da Città di Castello, OP, priest/"Preacher of Death,"
     10/21
 
-San Francesco
+- San Francesco
 
   - Bl. Fra Elia Coppi, early Franciscan
 
@@ -3567,14 +3602,19 @@ San Francesco
 
 Cosenza, Province of Cosenza, Calabria region
 
-Motherhouse Sisters Minims of the Passion of Our Lord Jesus Christ (via
-dei Martiri 9)
+- Motherhouse Sisters Minims of the Passion of Our Lord Jesus Christ (via dei Martiri 9)
 
   - Bl. Elena Aiello, stigmatist/foundress, 6/19
 
+Cosio Valtellino, Regoledo di Cosio frazione, Province of Sondrio, Lombardia region
+
+- Cimitero comunale/Cimitero della frazione/Municipal cemetery (Via Don Luigi Guanella, 44)
+
+  - Servant of God Roberto Malgesini, priest, d. 9/15/2020
+
 Costacciaro, Province of Perugia, Umbria region
 
-San Francesco dei Minori Conventuali
+- San Francesco dei Minori Conventuali
 
   - Bl. Tommaso da Costacciaro, monk, 3/25
 
@@ -4009,6 +4049,10 @@ Fermo, Province of Fermo, Le Marche region
 
   - Bl. Antonio (née Vincenzo) Grassi, CO, priest 12/13 & 12/15
 
+- Chiesa della Madonna della Misericordia/Church of the Madonna of Mercy (via Augusto Murri, 1)
+
+  - Ven. Paola Renata Carboni, laywoman, 9/11/1927
+
 - ???
 
   - Bl. Pietro Corradini da Mogliano, OFM, priest, 7/25 (he died here, but
@@ -4022,11 +4066,11 @@ Ferrara, Province of Ferrara, Emilia-Romagna region
 
 - Duomo
 
-Urban III (not canonized)
+  - Pope Urban III (not canonized)
 
-Sant'Antonio in Polesine (Via Beatrice II d'Este)
+- Sant'Antonio in Polesine (Via Beatrice II d'Este)
 
-- Bl. Beatrice d'Este, queen/religious, 7/11 (in the cloister chapel)
+  3- Bl. Beatrice d'Este, queen/religious, 7/11 (in the cloister chapel)
 
   - Bl. Beatrice II d'Este the Younger, OSB, noblewoman/nun, 1/18
 
@@ -4664,7 +4708,7 @@ Gandino, Province of Bergamo, Lombardia region
 
 Garaguso, Province of Matera, Basilicata region
 
-San Nicola di Myra/St. Nicholas of Myra
+- San Nicola di Myra/St. Nicholas of Myra
 
   - St. Gaudenzio/Gaudentius of Rimini, bishop, 10/14 (arm relics only)
 
@@ -4678,7 +4722,7 @@ Gargano, Province of Foggia, Apulia region
 
 - Cave Shrine of St. Michael the Archangel
 
-Apparition of San Michele Arcangelo, 5/8
+  - Apparition of San Michele Arcangelo, 5/8
 
 Gargani di Roccarainola, NA (east of Naples)
 
@@ -4692,11 +4736,17 @@ Gasperina, Province of Catanzaro, Calabria region
 
   - Ven. Francesco Antonio Caruso, priest, d. 10/18/1951
 
+Gavardo, Province of Brescia, Lombardia region
+
+- Casa San Giuseppe (via del Colle, 21)
+
+  - Ven. Elisa Baldo Foresti, widow/cofoundress, d. 7/5/1926
+
 Genazzano, Province of Rome, Lazio region
 
 - Basilica Shrine of Madonna del Buon Consiglio
 
-Madonna del Buon Consiglio icon, 4/26
+  - Madonna del Buon Consiglio icon, 4/26
 
   - Bl. Stefano Bellesini, OSA, priest, 2/2
 
@@ -10285,6 +10335,8 @@ Catacombs on the Via Salaria
 
   - Servant of God Francis Joseph Parater, seminarian, d. 2/7/1920
 
+  - Servant of God Giuseppina Berettoni, TOSF, laywoman, d. 1/17/1928 (plot n. 2 – Pincetto Vecchio)
+
   - Ven. Léon (née Clovis) Veuthy, OFM Conv., priest, d. 6/7/1974 (in the
     burial place of the Francescani Conventuali/Conventual Franciscans)
 
@@ -11468,24 +11520,30 @@ Rome (Garbatella urban zone), Metropolitan City of Rome, Lazio region
 
   - Servant of God Maria Chiara di San Francesco (nee Guidobaldina Kuefstein), OSC Cap, d. 3/15/1933
 
-Rome, Prenestino-Centocelle district, Metropolitan City of Rome, Lazio
+Rome (Prenestino-Centocelle district), Metropolitan City of Rome, Lazio
 region
 
 - Cappella delle Casa Madre Cappella delle Suore Benedettine di Carità (Via Tor de' Schiavi 116)
 
   - Bl. Kolomba (née Janina Matylda) Gabriel, OSB, religious/founder, 9/24
 
+Rome, Quartierre Centocelle, Metropolitan City of Rome, Lazio region
+
+- Casa Generalizia Suore Benedettine della Carità (via Tor de' Schiavi, 116)
+
+  - Bl. Janina (née Kolumba Matylda) Gabriel, OSB, foundress, 9/24
+
 Ronco all'Adige, Verona
 
-- Motherhouse of the Piccole Figlie di San Giuseppe
+- Motherhouse of the Piccole Figlie di San Giuseppe (via Ippolita Forante, 12)
 
   - Bl. Giuseppe Baldo, founder, 10/24
 
-Ronco Scrivia
+Ronco Scrivia, Metropolitan City of Genoa, Liguria region
 
-- ???
+- Cimitero/Cemetery
 
-  - St. Benedetta Cambiagio Frassinello 3/21
+  - St. Benedetta Cambiagio Frassinello, foundress, 3/21 (remains lost forever due to the bombing of the town during World War II)
 
 Roncofreddo, Province of Forlì-Cesena, Emilia-Romagna region
 
@@ -12409,7 +12467,7 @@ Serra de' Conti, Province of Ancona, Le Marche region
 
 - Cimitero di Serra de' Conti
 
-  - Ven. Zeinab Alif (Sr. Maria Giuseppina Benvenuti), abbess, d. 4/24/1926
+  - Ven. Maria Giuseppina Benvenuti (née Zeinab Alif), OSC, religious, d. 4/24/1926
 
 Serra Sant'Abbondio, Province of Pesara e Urbino, Le Marche region
 
