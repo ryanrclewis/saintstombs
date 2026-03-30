@@ -614,9 +614,9 @@ Durham
 
 Edinburgh, Scotland
 
-- St. Patrick Church, Cowgate
+- St. Patrick Church, Cowgate, 5 South Gray's Close, 40 High Street
 
-  - Ven. Margaret Sinclair, OSC, religious
+  - Ven. Margaret Sinclair, OSC, religious, d. 11/24/1925
 
 Edmunsburgh, Suffolk
 
