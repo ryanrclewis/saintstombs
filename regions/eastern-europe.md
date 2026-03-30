@@ -401,20 +401,19 @@ Heraklion
 
 Bale, Istria
 
-Pohođenje Djevice Marije/Visitazione di Maria Vergine
+- Pohođenje Djevice Marije/Visitazione di Maria Vergine
 
   - Bl. Julijan iz Bala/Giuliano Cesarello da Valle/of Bale, OFM
 
 Blato, Island of Korčula, Dubrovnik-Neretva County
 
-Družba Kćeri Milosrđa tsr Sv. Franje Samostanska kapela Krista
+- Družba Kćeri Milosrđa tsr Sv. Franje Samostanska kapela Krista
 Kralja/Daughters of Mercy, Third Order Regular of Saint Francis
 Monastery chapel of Christ the King or at Svetište Blažene Djevice
 Marije Isusa/Shrine of the Blessed Virgin Mary Jesus (they may be the
 same place; sources are confused)
 
-  - Ven. Marija od Propetog Isusa (née Marija Petković),
-    religious/foundress, d. 7/9/1966
+  - Ven. Marija od Propetog Isusa (née Marija Petković), religious/foundress, d. 7/9/1966
 
 Dubrovnik, Grad Dubrovnik, Dubrovacko-Neretvanska
 
@@ -450,15 +449,13 @@ Poreč, Istria County
 
 Rijeka, Primorsko-goranska Županija/County
 
-- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the
-  Blessed Virgin Mary
+- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the Blessed Virgin Mary
 
   - St. Marcijan of Rijeka/Marcian of Rome, senator/martyr, 9/16 (partially
     incorrupt; bočni oltar sv. Antuna Padovanskog/side altar of St. Anthony
     of Padua)
 
-- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin
-  Church of Our Lady of Lourdes
+- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin Church of Our Lady of Lourdes
 
   - Ven. Ante Josip/Antonio Tomičić, Capuchin priest, d. 11/25/1981
 
@@ -480,27 +477,21 @@ Salona (ruined city), near Solin, Dalmatia region
 
 Split, Split-Dalmatia County
 
-- Katedrala Svetog Duje/Sveti Dujam (Cathedral of St. Domnius)/Cathedral
-  of Saint Duje (oldest and smallest cathedral in the world)
+- Katedrala Svetog Duje/Sveti Dujam (Cathedral of St. Domnius)/Cathedral of Saint Duje (oldest and smallest cathedral in the world)
 
   - St. Duje (aka, Doimus, Domnio, Domnius, Dujam), bishop-martyr, 5/7
 
   - St. Domnius of Salona (Solin), bishop-martyr, 4/11
 
-- Benediktinski samostan sv. Arnira u Splitu/Benedictine monastery of St.
-  Arnira
+- Benediktinski samostan sv. Arnira u Splitu/Benedictine monastery of St. Arnira
 
-- St. Raynerius of Split, monk/archbishop/martyr, 8/4 (The monastery was
-  demolished in 1945, except for the bell tower and the chapel.)
+  - St. Raynerius of Split, monk/archbishop/martyr, 8/4 (The monastery was demolished in 1945, except for the bell tower and the chapel.)
 
-- Samostan i crkva svetog Ante/Franciscan Monastery and Church of St.
-  Anthony
+- Samostan i crkva svetog Ante/Franciscan Monastery and Church of St. Anthony
 
   - Servant of God Ivo (née Srećko) Peran, OFM, priest, d. 9/14/2003
 
-Riznica Dioklecijanove palače/Riznica katedrale Svetog Dujma/Treasury of
-Diocletian\'s Palace/Treasury of the Cathedral of Saint Domnius
-(Dioklecijanova palača)
+- Riznica Dioklecijanove palače/Riznica katedrale Svetog Dujma/Treasury of Diocletian\'s Palace/Treasury of the Cathedral of Saint Domnius (Dioklecijanova palača)
 
   - St. Anastasius the Fuller, martyr, 8/26 (in an ossuary)
 
@@ -508,14 +499,17 @@ Svetice village, Ozalj municipality, Karlovac County
 
 - Groblje na Sveticama/Cemetery
 
-  - Servant of God Janez Strašek, CM, priest/martyr, d. 3/30/1947 (his grave
-    is marked by a bust, a monument, and a tomb.
+  - Servant of God Janez Strašek, CM, priest/martyr, d. 3/30/1947 (his grave is marked by a bust, a monument, and a tomb)
 
 Svetvinčenat, Istria County
 
 - Župna crkva/Parish church
 
   - Bl. Miroslav Bulešić, priest/martyr, 8/24
+
+Tisno, Šibenik-Knin County
+
+- Svetište Gospe od Karavaja/Shrine of Our Lady of Caravaggio (43.7936372N, 15.6411008E)
 
 Trogir, Split-Dalmatia County
 
@@ -2264,7 +2258,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
 - Kościół Franciszkanów Reformowanych św. Kazimierza/St. Casimir Reformed Franciscan Church
 
-- Once a year, on November 2, the crypts of the church with their   mummified bodies are made available to visitors
+  - Once a year, on November 2, the crypts of the church with their mummified bodies are made available to visitors
 
 - Sanktuarium Ecce Homo św. Brata Alberta w Krakowie
 
@@ -2284,8 +2278,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
   - Bl. Salomea the Princess of Galicia, PC, nun, 11/17
 
-- Bl. Aniela/Angela Salawa, laywoman, 3/12 (in the Chapel of Our Lord's
-  Passion)
+  - Bl. Aniela/Angela Salawa, laywoman, 3/12 (in the Chapel of Our Lord's Passion)
 
 - Kościoła św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie/Church of St. John the Baptist and St. John the Evangelist
 
@@ -2310,6 +2303,10 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 - Kościół św. Stanisława Kostki w Krakowie/Church of St. Stanislaus Kostka in the VIII Dębniki district (l. Konfederackiej 6/6 Konfederacka Street)
 
   - Ven. Jan Leopold Tyranowski, tailor, d. 3/15/1947
+
+- Kościoła Zmartwychwstania Pańskiego w Krakowie/Church of the Resurrection (ul. Łobzowskiej 10)
+
+  - Ven. Paweł Klemens Smolikowski, CR, priest, d. 9/11/1926
 
 - Sanktuarium Bożego Miłosierdzia/Sanctuary of Divine Mercy
 
@@ -2866,7 +2863,7 @@ Kierocińskiej Street
 
   - Servant of God Marcjanna Grzanka, laywoman, d. 6/26/1941
 
-Stara Wieś, Brzozów County, Podkarpackie voivodeship
+Stara Wieś, Gmina Brzozów (County), Podkarpackie voivodeship
 
 - Dom Macierzysty Zgromadzenia Sióstr Służebniczek Najświętszej Maryi
   Panny Niepokalanie Poczętej/Motherhouse of the Congregation of the
@@ -2878,6 +2875,8 @@ Stara Wieś, Brzozów County, Podkarpackie voivodeship
 - Cmentarzu w Starej Wsi/Town cemetery
 
   - Servant of God Roberta (nee Zofia) Babiak, BDNP, religious, d. 7/12/1945
+
+  - Servant of God Wojciech Maria Baudiss, SJ, priest, d. 4/25/1926
 
 Starym Sączu, Nowy Sącz county, Lesser Poland voivodeship
 
