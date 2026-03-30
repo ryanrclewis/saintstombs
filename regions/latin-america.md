@@ -518,27 +518,31 @@ Campinas, São Paulo state, Southeast region
 
   - Nossa Senhora das Lágrimas/Our Lady of Tears, 6/2 or 6/13 or 8/29
 
-Catanduva, São José do Rio Preto mesoregion, São Paulo state, Southeast region
+Canela, Rio Grande do Sul
 
-Igreja Matriz de São Domingos/São Domingos Parish Church
-
-  - Ven. Albino Alves da Cunha e Silva, priest, d. 9/19/1973
+- Santuário de Caravaggio/Shrine of Our Lady of Caravaggio (at the exit from Canela on the way toward São Francisco de Paula, specifically situated along the RS-235 highway)
 
 Casa Branca, São Paulo state, Southeast region
 
-Santuário de Nossa Senhora do Desterro/Sanctuary of Our Lady of Exile
+- Santuário de Nossa Senhora do Desterro/Sanctuary of Our Lady of Exile
 
   - Ven. Roberto Giovanni, CSS, religious, d. 1/11/1994
 
+Catanduva, São José do Rio Preto mesoregion, São Paulo state, Southeast region
+
+- Igreja Matriz de São Domingos/São Domingos Parish Church
+
+  - Ven. Albino Alves da Cunha e Silva, priest, d. 9/19/1973
+
 Catumbi, Centro zone, Rio de Janeiro state
 
-Cemitério São Francisco de Paula
+- Cemitério São Francisco de Paula
 
   - Servant of God Nemésio de Veranópolis (née José Bernardi), OFM Cap., priest, d. 2/4/2016
 
 Curitiba, Paraná state
 
-Cemitério Água Verde
+- Cemitério Água Verde
 
   - Servant of God José (née Giuseppe) Calvi, OSJ, priest, d. 9/26/1943
 
@@ -546,13 +550,17 @@ Cemitério Água Verde
 
 Espírito Santo do Pinhal, São Paulo state, Southeast region
 
-Igreja Matriz de São João Batista/Parish Church of St. John the Baptist
+- Igreja Matriz de São João Batista/Parish Church of St. John the Baptist
 
   - Servant of God Mateus (née Petrus Canisius) van Herkhuizen, AA, priest, d. 4/15/1973
 
+Farroupilha, Rio Grande do Sul
+
+- Santuário de Nossa Senhora do Caravaggio (Rodovia dos Romeiros, RS-470, Distrito de Caravaggio)
+
 Fazenda Sousa, Caxias do Sul municipality, Rio Grande do Sul state
 
-Capela de João Schiavo
+- Capela de João Schiavo
 
   - Bl. Giovanni Schiavo, CSI, priest, 1/27 ("He is buried inside a chapel that bears his name.")
 
@@ -1284,7 +1292,7 @@ Angostura, Antiouqua department
 
 - Capilla de la Virgen del Carmen (Chapel of Our Lady of Mount Carmel)
 
-  - Bl. Maríano de Jesús Euse Hoyos, priest, 7/13
+  - Bl. Maríano de Jesús Euse Hoyos  (aka, “Padre Marianito”), priest, 7/13 (incorrupt)
 
 Arauca, Arauca department
 
