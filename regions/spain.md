@@ -3,17 +3,16 @@
 Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in
 southern Andorra
 
-Canòlich sanctuary
+- Canòlich sanctuary
 
-Mare de Déu de Canòlich/Mother of God of Canòlich, 7/14
+	- Mare de Déu de Canòlich/Mother of God of Canòlich, 7/14
 
 Meritxell, Canillo parish
 
 - Basílica de la Mare de Déu de Meritxell/Basilica of Our Lady of
   Meritxell
 
-Mare de Déu de Meritxell/Our Lady of Meritxell, patroness of Andorra,
-9/8
+	- Mare de Déu de Meritxell/Our Lady of Meritxell, patroness of Andorra, 9/8
 
 # Spain
 
@@ -958,9 +957,9 @@ Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer,
     12/7/1972 (Capella del Santíssim Sagrament/Chapel of the Blessed
     Sacrament)
 
-- Iglesia de Santa Maria del Pi
+- Iglesia de Santa Maria del Pi (Plaça del Pi, in the Barri Gòtic district)
 
-  - St. Joseph Oriol, priest, 3/23
+  - St. José “Thaumaturgus” Oriol, priest, 3/23
 
 - Basilica-Església de la Mare de Deu de la Mercè i Sant Miquel Arcàngel/
   Convento de la Merced/Convento de la Mercè
@@ -1032,17 +1031,17 @@ Església de Sant Pio X (Carrer de la Garrotxa, 4)
 
   - Bl. Narcís Sitjà Basté, SF, religious/martyr, 8/9
 
-Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred
+- Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred
 Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
 - Bl. Francisco Bandrés Sánchez, SDB, priest/martyr, 8/3 (crypt of the
   Salesian Martyrs' Chapel)
 
-San Vicente de Sarría
+- San Vicente de Sarría
 
   - Bl. Pere Tarrés i Claret, doctor/priest, 5/30 & 8/31
 
-Santuari de Sant Josep de la Muntanya
+- Santuari de Sant Josep de la Muntanya
 
   - Bl. Petra de Sant Josep (née Ana Josefa) Pérez Florido, foundress, 8/16
 
@@ -1056,13 +1055,12 @@ Santuari de Sant Josep de la Muntanya
   - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín,
     OCD, religious, d. 1/3/1594 (an arm and a hand only)
 
-Monasterio Carmelita de la Encarnación, Calle de Panamá, 12
+- Monasterio Carmelita de la Encarnación, Calle de Panamá, 12
 
   - Servant of God María Cristina de la Eucaristía Alonso y Alonso, OC, d.
     5/3/1979
 
-Convento de la Mercè/Convento Mercedario de Santa Eulalia/Mercedarian
-convent of Saint Eulalia (Plaça de la Mercè, 1)
+- Convento de la Mercè/Convento Mercedario de Santa Eulalia/Mercedarian convent of Saint Eulalia (Plaça de la Mercè, 1)
 
   - Bl. Berengar Cantull, O. de M., Master General, 12/2
 
@@ -1072,7 +1070,7 @@ convent of Saint Eulalia (Plaça de la Mercè, 1)
 
   - Bl. Jerónimo Miguel Calmell, O. de M., theologian, 7/31
 
-Monasterio de San Pedro de las Puellas (Carrer d'Anglí, 55)
+- Monasterio de San Pedro de las Puellas (Carrer d'Anglí, 55)
 
   - Bl. Andrea (née Ramona) Solans Ballesté, religious/martyr, 7/31
 
@@ -1084,53 +1082,51 @@ Monasterio de San Pedro de las Puellas (Carrer d'Anglí, 55)
 
   - Bl. Patrocinio (née María) Vilanova Alsina, religious, 7/31
 
-La cripta de Colegio Mayor Bonaigua/l'Oratori de Bonaigua de Barcelona
+- La cripta de Colegio Mayor Bonaigua/l'Oratori de Bonaigua de Barcelona
 
   - Ven. María Montserrat Grases García, teen Opus Dei laywoman, d.
     3/26/1959
 
-Casa Mare de les Germanes Carmelites de Sant Josep
+- Casa Mare de les Germanes Carmelites de Sant Josep
 
   - Ven. Rosa Ojeda Creus, cofoundress, d. 5/15/1954
 
-Casa mare de les Carmelites Tereses de S. Josep
+- Casa mare de les Carmelites Tereses de S. Josep
 
   - Ven. Teresa del Cuore Immacolato di Maria Guasch y Toda, religious, d.
     12/15/1912
 
   - Ven. Teresa Toda i Juncosa, foundress, d. 7/30/1898
 
-Capella de les Serventes de la Passió (C Llobet i Vall llosera, 12) (el
-Guinardó neighborhood)
+- Capella de les Serventes de la Passió (C Llobet i Vall llosera, 12) (el Guinardó neighborhood)
 
   - Ven. Teresa Gallifa i Palmarola, foundress, d. 3/17/1907
 
-Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
+- Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
 
   - Bl. María Mercedes del Sagrado Corazón (née María Mercè Prat i Prat),
     STJ, religious/martyr, 7/24 (in the chapel)
 
-Colegio Casa Nostra, casa general de las Operaria
+- Colegio Casa Nostra, casa general de las Operaria
 
   - Servant of God Magdalena Aulina Saurina, lay mystic, d. 5/15/1956
 
-Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona
+- Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona
 (Calle Mallorca, 191, in the Eixample district)
 
   - Bl. María del Carmen Zaragoza y Zaragoza, religious/martyr, 8/7
 
   - Bl. María Rosa Adrover Martí, religious/martyr, 8/7
 
-Colegio (College) de Jesús, María y José
+- Colegio (College) de Jesús, María y José
 
-- St. Josep Manyanet y Vives, founder, 12/17 (chapel)
+	- St. Josep Manyanet y Vives, founder, 12/17 (chapel)
 
-Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5,
-Sarrià-Sant Gervasi)
+- Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5, Sarrià-Sant Gervasi)
 
   - Ven. Magdalena Aulina y Saurina, mystic/foundress, d. 5/15/1956
 
-Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
+- Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
 
   - Bl. Antero Mateo García, TOSD, layman/martyr, 8/8
 
@@ -1138,27 +1134,25 @@ Cementerio de Las Corts (Av. de Joan XXIII, 5, Les Corts barrio)
 
   - Bl. Juan Bautista Egozcuezábal Aldaz, martyr, 7/27
 
-??? (murdered here, but buried here?)
+	- ??? (murdered here, but buried here?)
 
-  - Bl. Ángel Andrés (née Lucio) Izquierdo López, FMS, religious/martyr,
-    10/8
+  		- Bl. Ángel Andrés (née Lucio) Izquierdo López, FMS, religious/martyr, 10/8
 
-  - Bl. Virgilio (née Trifón) Lacunza Unzu, FMS, religious/martyr, 10/8
+  		- Bl. Virgilio (née Trifón) Lacunza Unzu, FMS, religious/martyr, 10/8
 
-Cementiri Municipal de Montcada i Reixac
+- Cementiri Municipal de Montcada i Reixac
 
   - Bl. Doroteu de Villalba dels Arcs (née Jordi) Sampé Tarragó, OFM Cap.,
     priest/martyr, 12/19
 
-- Bl. Joan Torrents Figueras, CMF, priest/martyr, 2/1 & 3/16 (mass grave;
-  his body has never been found)
+	- Bl. Joan Torrents Figueras, CMF, priest/martyr, 2/1 & 3/16 (mass grave; his body has never been found)
 
   - Bl. Martí de Barcelona (née Jaime/Jaume) Boguñá Casanovas, OFM Cap.,
     priest/martyr, 12/19
 
-- Bl. Ramón Oromí Sullà, priest/martyr, 5/3 or 4/26 (mass grave)
+	- Bl. Ramón Oromí Sullà, priest/martyr, 5/3 or 4/26 (mass grave)
 
-Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
+- Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Bl. Alfonso Antonio Ramírez Salazar of Columbia, martyr
 
@@ -1213,12 +1207,11 @@ Cementiri de Montjuïc (Carrer de la Mare de Déu del Port, 56-58)
 
   - Servant of God Rosa Deulofeu Gonzalez, laywoman, d. 1/5/2004
 
-Cementerio de San Baudillo/Cementiri de Sant Boi de Llobregat en
-Barcelona (Plaça d'Emili Sagrera, 2)
+- Cementerio de San Baudillo/Cementiri de Sant Boi de Llobregat en Barcelona (Plaça d'Emili Sagrera, 2)
 
   - Bl. Francisco Javier Ponsa Casallarch, martyr, 9/28
 
-Castillo de Montjuic/Castell de Montjuïc/Montjuïc Castle
+- Castillo de Montjuic/Castell de Montjuïc/Montjuïc Castle
 
   - Bl. Fernando/Ferran María (née Ferran) Llovera Pulgsech, O. Carm.,
     priest/martyr, 11/22 (he was killed in the moat here; where is he
@@ -1322,8 +1315,6 @@ Castillo de Montjuic/Castell de Montjuïc/Montjuïc Castle
 
   - Bl. Joaquín Jovaní Marín, priest/martyr, 12/5 (killed in the Montcada i
     Reixac cemetery)
-
-José Joseph Thaumaturgus y Orioli, 3/23
 
   - Servant of God José María Pujadas Ferrer, priest/founder, d. 12/9/1984
 
@@ -5159,13 +5150,17 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
   - Bl. Tomás Alonso Sanjuán, SDB, priest/martyr, 8/31
 
+- Iglesia del Sagrado Corazón/Church of the Sacred Heart (Plaza de San Ignacio 2)
+
+	- Bl. Tiburcio Arnáiz Muñoz, SJ, priest/cofounder, 7/18
+
 - Santuario de la Victoria/Sanctuary of Victory
 
   - Servant of God José Gálvez Ginachero, physician, d. 4/29/1952 (in the
     crypt under la Capilla de la Inmaculada/the Chapel of the Immaculate
     Conception)
 
-Convento de San Agustín (Calle San Agustín, 1-3)
+- Convento de San Agustín (Calle San Agustín, 1-3)
 
   - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (could be at the
     cathedral, instead)
@@ -5173,15 +5168,15 @@ Convento de San Agustín (Calle San Agustín, 1-3)
   - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according
     to AI; take it with a grain of salt; could be at the cathedral, instead)
 
-Cementerio de San Rafael (there are five mass graves here)
+- Cementerio de San Rafael (there are five mass graves here)
 
-- Bl. Antonio Pancorbo López, SDB, priest/martyr, 9/24 (mass grave)
-
-- Bl. Esteban García y García, SDB, religious/martyr, 9/24 (mass grave)
-
-- Bl. Manuel Gómez Contioso, SDB, priest/martyr, 9/24 (mass grave)
-
-- Bl. Rafael Rodríguez Mesa, SDB, religious/martyr, 9/24 (mass grave)
+	- Bl. Antonio Pancorbo López, SDB, priest/martyr, 9/24 (mass grave)
+	
+	- Bl. Esteban García y García, SDB, religious/martyr, 9/24 (mass grave)
+	
+	- Bl. Manuel Gómez Contioso, SDB, priest/martyr, 9/24 (mass grave)
+	
+	- Bl. Rafael Rodríguez Mesa, SDB, religious/martyr, 9/24 (mass grave)
 
 - ???
 
