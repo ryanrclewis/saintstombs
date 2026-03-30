@@ -567,6 +567,12 @@ Wadi El Natrun/وادي النطرون, Beheira Governorate, Nitrian Desert (aka
 - ???
   - St. Moses the Ethiopian
 
+In the Red Sea between Saudi Arabia and Egypt
+
+- Buried in the Red Sea
+
+  - Bl. Maria Carola (née Fiorina) Cecchin, SSGC, d. 11/13/1925
+
 ??? (these following exist but where?)
 
   - St. Abaskhiroun Veneration (Arabic) Biography
