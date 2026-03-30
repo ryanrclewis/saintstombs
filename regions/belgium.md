@@ -216,13 +216,9 @@ Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
 
   - Bl. Kasper of Grimbergen, O. Praem., 6/11
 
-  - Ven. Jean du Sacré Coeur (née Léon-Gustave) Dehon, SCJ, priest/founder,
-    d. 8/12/1925 (beatification cause suspended) (possibly at Basilica of
-    Cristo Re)
-
 Brussels, Laeken/Laken neighborhood, Brussels Capital Region
 
-Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
+- Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
 
   - Servant of God Baudouin of Belgium, king, d. 7/31/1993
 
