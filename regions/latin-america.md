@@ -2244,7 +2244,7 @@ Mexico City/Ciudad de Mexico
 
 - Church of the Passion (Iglesia de la Pasion at Col. Guadalupe Insurgentes)
 
-  - Ven. Dolores Medina Zepeda (María Dolores of the Wound of the Side of Jesus), foundress, d. 12/16/1925
+  - Ven. Dolores Medina Zepeda (María Dolores de la Herida del Costado de Jesús), foundress, d. 12/16/1925
 
 - Capilla de San José del Altillo Barrio de Santa Catarina, Coyoacán Borough (Avenida Universidad, Col. Santa Caterina, Coyoacan, 04010)
 
