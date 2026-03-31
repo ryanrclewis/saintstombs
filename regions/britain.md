@@ -1374,19 +1374,21 @@ Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
 - Tyburn Convent
 
-Linen and straw stained with the blood of five Jesuit martyrs:
+  - Linen and straw stained with the blood of five Jesuit martyrs:
+  
+  - Thomas Whitbread
+  
+  - William Harcourt
+  
+  - John Fenwick
+  
+  - Antony Turner
 
-Thomas Whitbread
+  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
 
-William Harcourt
-
-John Fenwick
-
-Antony Turner
-
-John Gavan
-
-Vertebra and precordia of John Lockwood
+  - John Gavan
+  
+  - Vertebra and precordia of John Lockwood
 
   - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
 
