@@ -2799,8 +2799,7 @@ Bazylika Archikatedralna pod wezwaniem Jana Chrzciciela
 
 - Cathedral Basilica of St. John the Baptist
 
-- St. Jozef Sebastian Pelczar (in the chapel of the relics of St Fredro),
-  bishop, 3/28
+  - St. Jozef Sebastian Pelczar, bishop, 3/28 (in the chapel of the relics of St. Fredro)
 
 - Salesian Church (Salezjanie)
 
@@ -4994,10 +4993,11 @@ Archcathedral Basilica of the Assumption of the Blessed Virgin Mary
   - Ven. Серафима Львівського/Serafym of Lviv (nee Aloiz Kazymir Kashuba),
     OFM Cap., priest, d. 9/20/1977
 
-- Lychakiv/Lychakivsky Cemetery
+- Личаківський цвинтар/Cmentarz Łyczakowski/Lychakiv Cemetery (Вулиця Мечникова/Vul. Mechnikova [Mechnikov Street] 33) 
 
-  - Bl. Bishop Nicholas (aka, Mykola) Carneckyj (aka, Charnetsky), martyr
-    4/2
+  - Servant of God Дольницький Ісидор Іванович/Isidor Dolnytskyi, priest, d. 9/22/1924
+
+  - Bl. Bishop Nicholas (aka, Mykola) Carneckyj (aka, Charnetsky), martyr 4/2
 
 - Старосихівському цвинтарі/Starosykhiv cemetery
 
