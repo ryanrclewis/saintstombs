@@ -112,6 +112,7 @@ Amboise, Loches arrondissement, Indre-et-Loire department, Centre-Val de Loire
 Amiens
 
 - Cathedral
+  - St. Antoine Daveluy, missionary bishop/martyr, 3/30 (relics)
   - St. Arnoul de la Pierre, bishop, 7/18
   - Ss. Fuscian, Victoricus, and Gentian, martyrs, 12/11
   - St. Firmin d'Amiens, bishop/martyr, 9/25
@@ -764,6 +765,12 @@ Bourbriac, Callac canton, Guingamp arrondissement, Côtes-d'Armor department, Br
 
 - Église Saint-Briac
   - St. Briac/Briarch of Bourbriac, abbot, 12/17
+
+Bourg-lès-Valence, Valence arrondissement, Drôme department, Auvergne-Rhône-Alpes region
+
+- Cimetière du Pavillon/Cemetery (27 Chemin du Pavillon)
+
+  - Servant of God Guy Pierre de Fontgalland, child, d. 1/24/1925
 
 Bourg-Saint-Andéol (Bergoïata), Ardèche department, Rhône Valley southern France
 
@@ -3549,7 +3556,7 @@ Roville-aux-Chênes, Vosges department
 Roye, Montdidier arrondissement, Somme department, Hauts-de-France region
 
 - Église Saint-Pierre de Roye
-  - St. Antoine Daveluy, missionary bishop/martyr, 3/30
+  - St. Antoine Daveluy, missionary bishop/martyr, 3/30 (relics)
   - St. Florent,
   - St. Precord/Precordius, preacher, 2/1
 
@@ -4106,7 +4113,7 @@ Saint-Quentin, Aisne department, Hauts-de-France region
 - Abbey of St. Prix
   - St. Projectus, bishop, 1/25 (relics, not tomb)
 - Église Saint-Martin
-  - Ven. Jean du Sacré Coeur (nee Léon-Gustave) Dehon, SJC, priest/founder, d. 8/12/1925
+  - Ven. Jean du Sacré Coeur (née Léon-Gustave) Dehon, SCJ, priest/founder, d. 8/12/1925 (beatification cause suspended)
 - ???
   - St. Quentin, martyr, evangelist, 10/31
 
