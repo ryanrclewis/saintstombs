@@ -3852,6 +3852,10 @@ Erba, Province of Como, Lombardia region
 
 Ercolano, Metropolitan City of Naples, Campania region
 
+- Chiesa di Santa Maria della Consolazione e Sant’Agostino (corso Resina 15)
+
+  - Servant of God Giuseppe D'Antonio, priest, d. 12/27/192
+
 - Casa Generalizia (via Tironi di Moccia 44)
 
   - Servant of God Letizia Zagari, foundress, d. 3/8/1985
@@ -4254,7 +4258,7 @@ Santa Annunziata
   - Bl. Umiliana (aka, Humiliana), cloistered Franciscan tertiary, 5/19
     (transept chapel)
 
-- Church, via dei Bruni, 12
+- Monastero delle Scalze/Discalced Carmelite Monastery of St. Teresa (via de' Bruni, 12)
 
   - St. Teresa Margaret Redi of the Sacred Heart, O. Carm., 3/7
 
@@ -4263,20 +4267,24 @@ Santa Annunziata
 
   - Bl. Elisabetta/Elizabeth Salviati, abbess, 2/11
 
-San Lorenzo
+- Chiesa di San Giuliano (via Faenza, 104R)
+  - Bl. Celestina della Madre di Dio (née Maria Anna) Donati, FPSGC, cofoundress, 3/18
+  - Servant of God Celestino (née Raffaele) Zini, SchP, priest/cofounder, d. 4/19/1892
+
+- San Lorenzo
 
   - Bl. Niels Stenson/Nicolas Steno/Neils Steensen, anatomist/bishop/"Father
     of Geology," 12/5
 
-- St. Zenobio, bishop (another source says he's in the Duomo)
+  - St. Zenobio, bishop (another source says he's in the Duomo)
 
-San Marco
+- San Marco
 
   - St. Antoninus of Florence, OP, bishop and confessor. 5/2
 
   - Ven. Giorgio La Pira, TOSD, mayor, d. 11/5/1977
 
-Santa Maria degli Angeli
+- Santa Maria degli Angeli
 
   - Blessed Mary-Bartholomew Bagnesi, Carmelite, 5/28
 
@@ -13678,11 +13686,11 @@ Tropea, Province of Vibo Valentia, Calabria region
 
 - Cathedral/Duomo di Maria Santissima di Romania
 
-Icon, Maria Santissima di Romania (Virgin Mary of Romania)
+  - Icon, Maria Santissima di Romania (Virgin Mary of Romania)
 
   - St. Dominica of Campania, martyr, 7/6
 
-Sanctuary of Santa Maria dell'Isola di Tropea
+- Sanctuary of Santa Maria dell'Isola di Tropea
 
 - ???
 
@@ -13692,7 +13700,7 @@ Turin (Torino)
 
 - Cathedral of San Giovanni
 
-Holy Shroud of Turin, 5/4
+  - Holy Shroud of Turin, 5/4
 
   - Bl. Giovanni Orsini, cardinal archbishop, 12/26
 
@@ -13708,18 +13716,18 @@ Holy Shroud of Turin, 5/4
 
   - Bl. Philippine of Chalon
 
-Casa di Carità Arti e Mestieri (Corso Benedetto Brin, 26)
+- Casa di Carità Arti e Mestieri (Corso Benedetto Brin, 26)
 
   - Ven. Teodoreto (née Giovanni) Garberoglio, FSC, religious, d. 5/13/1954
 
-Casa Madre Congregazione dei Suore Sant'Anna (Via della Consolata, 20)
+- Casa Madre Congregazione dei Suore Sant'Anna (Via della Consolata, 20)
 
   - Bl. Maria Enrichetta (Caterina) Dominici, religious, 2/21
 
 - Santuario della Consolata/Casa madre dei Missionari della Consolata
   (Corso Ferrucci, 18)
 
-Our Lady of Consolation, 6/20
+- Our Lady of Consolation, 6/20
 
   - St. Giuseppe Allamano, IMC, founder, 2/16
 
@@ -13738,7 +13746,7 @@ Our Lady of Consolation, 6/20
 - Chiesa di Monte di Torino (aka, Monte dei Cappuccini, near Gran Madre di
   Dio)
 
-Madonna dei Lavoratori
+- Madonna dei Lavoratori
 
   - St. Botontus (aka, Botonto), child martyr, 1/15
 
@@ -13746,15 +13754,15 @@ Madonna dei Lavoratori
 
   - Bl. Marcantonio Durando, priest, 12/10
 
-Santa Barbara
+- Santa Barbara
 
   - St. Leonardo Murialdo, priest/founder, 3/30
 
-Parrocchia San Dalmazzo (via Garibaldi)
+- Parrocchia San Dalmazzo (via Garibaldi)
 
   - St. Victoria (Vittoria), martyr
 
-San Domenico
+- San Domenico
 
   - Bl. Aimo Taparelli, OP, preacher, 8/14
 
@@ -13804,16 +13812,16 @@ San Domenico
   - St. Ignazio da Santhià (née Lorenzo Maurizio Belvisotti), OFM Cap.,
     priest, 9/22
 
-Nostra Signora del Suffragio
+- Nostra Signora del Suffragio
 
   - Bl. Francesco Faà di Bruno, priest/world-class mathematician, 3/27
 
-San Secondo/St. Secundus
+- San Secondo/St. Secundus
 
   - Ven. Giovanni Battista Pinardi, bishop, d. 8/2/1962 (altare del Sacro
     Cuore/altar of the Sacred Heart)
 
-Santi Solutore, Ottavio, and Avventore
+- Santi Solutore, Ottavio, and Avventore
 
   - St. Goslino/Gozzelino/Goscelinus, OSB, abbot, 2/12 (Cappella San Paolo)
 
@@ -13832,12 +13840,11 @@ Santi Solutore, Ottavio, and Avventore
 
   - St. Felix, martyr (no feast date)
 
-Istituto del Cottolengo
+- Istituto del Cottolengo
 
   - St. Marina, martyr
 
-Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel.
-39 011 89 80 429 )
+- Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel. 39 011 89 80 429 )
 
   - Ven. Adolfo Barberis, priest/founder, d. 9/24/1967
 
@@ -13850,16 +13857,17 @@ Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel.
   - Servant of God Amedea (Caterina) Vercellone, religious, d. April 13,
     1670 (incorrupt)
 
-Piccola Casa
+- Piccola Casa
 
   - St. Giuseppe Benedetto/Joseph Benedict Cottolengo, 4/30
 
 - Santuario della Madonna della Salute in Borgo Vittoria
 
+  - Ven. Eugenio Reffo, CSI, priest/cofounder, d. 5/9/1925
+
   - St. Leonardo Murialdo, priest, 3/30
 
-Valsalice mother house of the Salesian sisters L'Istituto delle Piccole
-Suore del Sacro Cuore di Gesù
+- Valsalice mother house of the Salesian sisters L'Istituto delle Piccole Suore del Sacro Cuore di Gesù
 
   - Bl. Anna (née Giovanna Francesca) Michelotti, foundress, 2/1
 
@@ -13955,14 +13963,17 @@ Urbino, Province of Pesaro e Urbino, Marche Region
 
   - Bl. Giovanni Pelingotto, TOSF, wealthy and generous layman, 6/1
 
-L'oratorio di San Giovanni Battista, di Sant'Antonio Abate e di San
-Giacomo Apostolo
+- L'oratorio di San Giovanni Battista, di Sant'Antonio Abate e di San Giacomo Apostolo
 
   - Bl. Pietro Spagnoli, monk/hermit, 6/15
 
-Monasterio San Bernardino degli Zoccolanti
+- Monasterio San Bernardino degli Zoccolanti
 
   - Bl. Donatus (Donato) of Urbino
+
+- Comune di Urbino Cimitero di S. Bernardino
+
+  - Servant of God Renata Nezzo, laywoman, d. 10/11/1925
 
 - ???
 
@@ -14352,6 +14363,10 @@ Ventimiglia, Province of Imperia, Liguria region
   - Ven. Alfano (née Giuseppe Carlo) Vaser, FMS, d. 3/1/1943 (possibly at Fratelli Maristi delle Scuole, Via Gallardi, 105)
 
 Verano (near Rome)
+
+- San Fermo Maggiore (Piazza San Fermo)
+
+  - Ss. Firmo/Firmus and Rustico/Rusticus, martyrs, 8/9
 
 - San Lorenzo al Verano
 
