@@ -9,6 +9,8 @@ export type Saint = {
   tags?: string[]
   keywords?: string
   summary: string
+  lat?: number
+  lng?: number
 }
 
 type FiltersData = {
