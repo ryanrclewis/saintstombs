@@ -1336,7 +1336,7 @@ Philadelphia, Pennsylvania
 
 Phoenix, Arizona
 
-- St. Francis Cemetery
+- St. Francis Cemetery (2033 N. 48th Street)
   - Servant of God Paul Murphy, MJ, layman & architect, d. 2/10/1976
 
 Pine City, Chemung County, New York
