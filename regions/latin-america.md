@@ -470,17 +470,21 @@ Belém, Pará state, North region
 
   - Servant of God Edmundo Armando Saint'Clair Igreja, priest/founder, d. 3/25/1996
 
+- Igreja de São Francisco
+
+  - Ven. Daniele di Samarate (née Felice) Rossini, OFM Cap., priest, d. 5/19/1924 (relics)
+
 Belo Horizonte, Minas Gerais state
 
-Igreja dos Sagrados Corações de Jesus e María/Church of the Sacred Hearts of Jesus and Mary
+- Igreja dos Sagrados Corações de Jesus e María/Church of the Sacred Hearts of Jesus and Mary
 
   - Bl. Eustáquio (née Hubertus) van Lieshout, SS.CC., priest, 8/30
 
-Igreja de Santo Antonio, Bairro 1o. de Maio
+- Igreja de Santo Antonio, Bairro 1o. de Maio
 
   - Ven. Dinah Amorim (María dos Anjos de Santa Tereza), religious, d. 9/1/1988
 
-Noviciado Nossa Senhora da Piedade
+- Noviciado Nossa Senhora da Piedade
 
   - Ven. Benigna Victima de Jesus (María da Conceição Santos), religious, d. 10/16/1981
 
@@ -496,9 +500,15 @@ Braganca, Município de Bragança, Pará state
 
   - Servant of God Eliseu María Coroli, bishop, d. 7/29/1982 (Capela Mortuária Dos Bispos)
 
+Caeté, Minas Gerais state, Southeast region
+
+- Congregacao das Irmãs Auxiliares de Nossa Senhora da Piedade/Asilo São Luiz/Community of the Congregation of the Sisters Auxiliaries of Our Lady of Mercy (Est Asilo São Luiz, 1 - near the Serra da Piedade)
+
+  - Servant of God Domingos Evangelista Pinheiro, priest/founder, d. 5/14/1924 (Capila do São Luís Gonzaga)
+
 Caetés, Pernambuco state, Northeast region
 
-Memorial Irmã Adélia/The Sister Adélia Memorial (R. Barão de Rio Branco, 300)
+- Memorial Irmã Adélia/The Sister Adélia Memorial (R. Barão de Rio Branco, 300)
 
   - Servant of God Adélia (née María da Luz) Teixeira de Carvalho, religious, d. 10/13/2013
 
