@@ -107,7 +107,7 @@ Andechs, Bavaria
 
   - Queen St. Hedwig of Poland/Andechs, 10/16 (relics only)
 
-A huge collection of relics
+  - A huge collection of relics
 
 Ansbach, Mittelfranken administrative district, Bayern/Bavaria state
 
@@ -124,7 +124,7 @@ Arnoldsweiler, Düren town, Düren district, North Rhine-Westphalia
 
 Arnsberg, Hochsauerland county, Nordrhein-Westfalen state
 
-Prämonstratenserkloster Wedinghausen/Kloster Wedinghausen/Norbertine
+- Prämonstratenserkloster Wedinghausen/Kloster Wedinghausen/Norbertine
 monastery of Wedinghausen/Propsteikirche/Klosterkirche St.
 Laurentius/Monastery Church of St. Laurence
 
@@ -145,7 +145,7 @@ Augsburg, Swabia, Bayern/Bavaria state
 
 - Church of Ss. Ulrich and Afra
 
-- St. Afra of Augsburg, martyr, 8/12 (in the crypt)
+  - St. Afra of Augsburg, martyr, 8/12 (in the crypt)
 
   - St. Hilaria of Augsburg, martyr, 8/12 (mother of Afra)
 
@@ -157,9 +157,9 @@ Augsburg, Swabia, Bayern/Bavaria state
 
   - St. Wigbert of Augsburg, bishop, 4/18
 
-Kirche St. Peter am Perlach
+- Kirche St. Peter am Perlach
 
-Unsere Liebe Frau, Knotenlöserin/Our Lady Undoer of Knots, 9/28
+  - Unsere Liebe Frau, Knotenlöserin/Our Lady Undoer of Knots, 9/28
 
 - ???
 
@@ -1856,7 +1856,7 @@ Paderborn, North Rhine-Westphalia
 
 - Cathedral
 
-- St. Badurad of Paderborn, 2^nd^ bishop, 9/17 (tomb lost)
+  - St. Badurad of Paderborn, 2^nd^ bishop, 9/17 (tomb lost)
 
   - St. Liborius, bishop, 7/23
 
@@ -1876,7 +1876,7 @@ country)
 - Pfarrei St. Lioba- Kirche St. Peter/Liobakirche/Church of St. Lioba
   (formerly St. Peter) (located on Petersberg, the mountain)
 
-- St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is
+  - St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is
   here, too)
 
 Petershausen, Dachau District, Upper Bavaria Region, State of Bavaria
@@ -1887,7 +1887,7 @@ Petershausen, Dachau District, Upper Bavaria Region, State of Bavaria
 
 Pirmasens, Rhineland-Palatinate
 
-Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
+- Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
 
   - Bl. Paul Josef Nardini, founder, 1/27
 
@@ -1897,7 +1897,7 @@ Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
 
 Prüfening (on the western edge of Regensburg)
 
-Klöster Prüfening (aka, Schloss Prüfening \[Prüfening Castle\])
+- Klöster Prüfening (aka, Schloss Prüfening \[Prüfening Castle\])
 
   - St. Erminold of Prüfening, OSB, prior, 1/6
 
@@ -1921,7 +1921,7 @@ Audifax), martyrs, 1/19
 
 Puch, Fürstenfeldbruck
 
-Kirche St. Sebastian
+- Kirche St. Sebastian
 
   - Bl. Edigna of Puch, hermit, 2/26
 
@@ -2461,7 +2461,7 @@ Vallendar, Mayen-Koblenz district, Rheinland-Pfalz
 
 Vechta, Vechta district, Lower Saxony
 
-Dominikanerkloster Vechta (Dominikanerweg 45)
+- Dominikanerkloster Vechta (Dominikanerweg 45)
 
   - Ven. Titus (nee Franz) Horten, OP, priest, d. 1/25/1936
 
@@ -2478,23 +2478,29 @@ Baden-Württemberg state
 
 - Kloster St. Clara/Bickenkloster/St. Clara Monastery
 
-- Bl. Ursula Haider, PC, abbess/visionary, 1/20 (monastery church, beside
+  - Bl. Ursula Haider, PC, abbess/visionary, 1/20 (monastery church, beside
   the altar)
+
+Vilsbiburg, Landkreis Landshut, Bayern state
+
+- Wallfahrtskirche Mariahilf zu Vilsbiburg/Pilgrimage church of Mary’s help
+
+  - Ven. Viktrizius von Eggenfelden (née Antonius) Weiß, OFM Cap., priest, d. 10/8/1924
 
 Völklingen, Lauterbach district, Saarland
 
-Kirche Sankt Paulinus
+- Kirche Sankt Paulinus
 
   - St. Paulinus of Trier, bishop/missionary, 8/31
 
 Waldbreitbach, Neuwied, Rheinland-Palatinate state
 
-- Church of the Motherhouse of the Franciscan Sisters of the Blessed
-  Virgin Mary of the Angels
+- Kirche des Mutterhauses der Franziskanerinnen der Seligen Jungfrau Maria vom Engel/Church of the Motherhouse of the Franciscan Sisters of the Blessed Virgin Mary of the Angels
 
   - Bl. Margaretha Flesche, foundress, 3/25
 
 Walldürn, Neckar-Odenwald-Kreis district, Karlsruhe region, Baden-Württemberg state
+
 - Wallfahrtsbasilika St. Georg/Pilgrimage Basilica of St. George (Hauptstraße 2/Burgstrasse 26)
   - Eucharistic miracle (on the Blutaltar/Blood altar in the left transept)
 
@@ -2507,10 +2513,10 @@ Wassenach, District of Ahrweiler, Rhineland-Palatinate
 Weißenburg in Bayern, Weißenburg-Gunzenhausen district, Bavaria/Bayern
 state
 
-  - St. Gunthildiskapelle (other sources say it\'s in Suffersheim, 10
+  - St. Gunthildiskapelle (other sources say it's in Suffersheim, 10
     minutes to the south)
 
-  - St. Gunthildis of Suffersheim, poor servant, 9/22
+    - St. Gunthildis of Suffersheim, poor servant, 9/22
 
 Weltkirchen
 
