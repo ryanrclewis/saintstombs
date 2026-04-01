@@ -3643,15 +3643,19 @@ Cremona, Province of Cremona, Lombardia region
   - St. Facio/Fazio (Facius, Fatius, Fazius) of Verona,
     goldsmith/philanthropist, 1/18 (in the crypt)
 
-- Servant of God Giovanni Cazzani, archbishop, d. 8/26/1952 (in the crypt)
+  - Servant of God Giovanni Cazzani, archbishop, d. 8/26/1952 (in the crypt)
 
   - St. Imerio/Himerius, bishop, 6/17
 
-- St. Omobono/Homobonus Tucenghi, merchant, 11/13 (body in the crypt)
+  - St. Omobono/Homobonus Tucenghi, merchant, 11/13 (body in the crypt)
 
-Sant'Antonio
+- Sant'Antonio
 
   - St. Fazio/Facio of Cremona, layman/goldsmith/philanthropist, 9/7
+
+- Chiesa di San Luca
+
+  - Ven. Serafino Maria Ghidini, CRSP, religious, d. 1/13/1924
 
 - Sant'Egidio/Church of St. Giles
 
@@ -3662,7 +3666,7 @@ Sant'Antonio
 
   - St. Asella di Roma, consecrated woman, 12/6
 
-San Zeno
+- San Zeno
 
   - St. Euprepius of Verona, 1^st^ bishop, 8/21
 
@@ -3671,9 +3675,9 @@ San Zeno
   Spera district \[today Via Manzoni\] and the facade facing what is now
   Via Cazzaniga.)
 
-- Bl. Albert of Bergamo, TOSD, farmer, 5/7 & 5/11 (in the choir)
+  - Bl. Albert of Bergamo, TOSD, farmer, 5/7 & 5/11 (in the choir)
 
-Casa di Cura San Camillo (Via Mantova, 113)
+- Casa di Cura San Camillo (Via Mantova, 113)
 
   - Bl. Enrico Rebuschini, MI, priest, 5/10
 
@@ -6263,11 +6267,12 @@ Milan (Milano)
 
   - St. Cristina, martyr
 
-- Chiesa Sacro Cuore di Gesù dei Frati Minori Cappuccini (viale Piave,
+- Chiesa Sacro Cuore di Gesù dei Frati Minori Cappuccini/Sacred Heart of Jesus of the Capuchin (viale Piave,
   2)
 
-  - Ven. Antonio Pietro Cortinovis (Cecilio Maria da Costa Serina), OFM
-    Cap, religious, d. 4/10/1984
+  - Ven. Antonio Pietro Cortinovis (Cecilio Maria da Costa Serina), OFM Cap., religious, d. 4/10/1984
+
+  - Ven. Daniele di Samarate (née Felice) Rossini, OFM Cap., priest, d. 5/19/1924
 
 - Sant'Agostino
 
@@ -7003,6 +7008,8 @@ Monteverdi Marittimo, Province of Pisa, Toscana/Tuscany region
 Monreale, Metropolitan City of Palermo, Sicily
 
 - Cattedrale di Santa Maria Nuova di Monreale/Duomo di Monreale/Cathedral
+
+  - Ven. Antonio di Gesù (née Antonio Augusto) Intreccialagli, OCD, archbishop/cofounder, d. 9/19/1924
 
   - St. Castrese di Sessa, bishop/martyr, 2/11
 
@@ -8381,7 +8388,7 @@ Parco Nazionale dei Monti Sibillini, Le Marche (near Loreto)
 
 Parma
 
-- Santa Maria Assunta/Cathedral
+- Cattredrale di Santa Maria Assunta/Cathedral
 
   - St. Bernardo degli Uberti, bishop, 12/4
 
@@ -8397,7 +8404,7 @@ Parma
 
   - Servant of God Giancarlo Rastelli, Mayo Clinic heart surgeon, 2/2/1970
 
-Casa Generalizia Ancelle dell'Immacolata, Generalate of the Handmaids of the Immaculate (Via Domenico Maria Villa, 6)
+- Casa Generalizia Ancelle dell'Immacolata, Generalate of the Handmaids of the Immaculate (Via Domenico Maria Villa, 6)
 
   - Bl. Anna Maria Adorni Botti, widow/foundress, 2/7
 
@@ -8416,6 +8423,10 @@ Casa Generalizia Ancelle dell'Immacolata, Generalate of the Handmaids of the Imm
 - Casa Madre delle Suore Missionarie di Maria
 
   - Ven. Celestina Bottego, MS, foundress, d. 8/20/1980 (American-born)
+
+- Cimitero della Villetta/Villetta Cemetery
+
+  - Ven. Lino di Parma (née Alpinolo) Maupas, OFM, priest, d. 5/14/1924
 
 - ???
 
