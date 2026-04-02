@@ -365,6 +365,13 @@ Clifton, Passaic County, New Jersey
   - Devotion to the Holy Face
   - Life sized replica of the Shroud of Turin
 
+Clyde, Nodaway County, Missouri
+
+- Benedictine Sisters Convent of Perpetual Adoration (31970 State Highway P)
+  - Relics chapel in the church (Over 400 relics)
+- Dom Lukas Etlin Gravesite (31970 State Highway P)
+  - Servant of God Lukas Alfred Etlin, OSB, priest, d. 12/16/1927
+
 Cold Spring, Stearns County, Minnesota
 
 - Assumption Chapel (aka, Grasshopper Chapel)(22912 Chapel Hill Road)
@@ -478,7 +485,7 @@ Dubuque, Iowa
 
 Duluth, St. Louis County, Minnesota
 
-- Cathedral of Our Lady of the Rosary
+- Cathedral of Our Lady of the Rosary (2801 East 4th Street)
   - Servant of God Monsignor Joseph Buh, missionary priest, d. 2/2/1922
 
 Duralde, Evangeline Parish, Louisiana
@@ -1068,7 +1075,7 @@ Monroe, Ouachita Parish
 
 Monroe, Orange County, New York
 
-- Our Lady of the Assumption Cemetery
+- Parish Visitors of Mary Immaculate Motherhouse/Marycrest (164 Quaker Hill Road)
   - Servant of God Mother Mary Teresa Tallon, religious/foundress, d. 3/10/1954
 
 Morton County, North Dakota
