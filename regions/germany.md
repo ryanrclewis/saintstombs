@@ -2133,9 +2133,15 @@ Saarbrücken (Sankt Arnual Stadtteil \[district\]), Saarland
 
   - Servant of God Willi Graf, layman/martyr, d. 10/12/1943
 
+Sachsenkam, Bad Tölz-Wolfratshausen Landkreis/District, Bayern/Bavaria state
+
+- Franziskanerinnenkloster Reutberg/Klosterkirche Reutberg/Reutberg Abbey Church (Am Reutberg 1)
+
+  - Ven. Maria Fidelis (née Eleonore Margarete) Weiß, OSF, religious/stigmatist, d. 2/11/1923
+
 Sankt Goar, Rhein-Hunsrück-Kreis district, Rheinland-Pfalz state
 
-Katholische Kirche St. Goar und St. Elisabeth
+- Katholische Kirche St. Goar und St. Elisabeth
 
   - St. Goar of Aquitaine, priest/hermit, 7/6
 
@@ -2144,7 +2150,7 @@ Schäftlarn, Munich/München district, Oberbayern, Bayern/Bavaria state
 - Kloster Schäftlarn/Prämonstratenserkloster Schäftlarn/Norbertine Abbey
   of Schäftlarn (was Norbertine, now Benedictine; amazing to see)
 
-Side altar of the crucifix, saint buried here
+  - Side altar of the crucifix, saint buried here
 
   - Bl. Eberhard of Schäftlarn, O.Praem., prior, 1/9
 
@@ -2161,7 +2167,7 @@ Schönau, Karlsruhe administrative region, Baden-Württemberg state
 Schwanfeld, Schweinfurt district, Unterfranken administrative region,
 Bayern/Bavaria state
 
-Klosterkirche Heiligenthal (now privately owned)
+- Klosterkirche Heiligenthal (now privately owned)
 
   - Bl. Jutta of Heiligenthal, abbess, 11/29 (under the high altar)
 
@@ -2177,18 +2183,18 @@ state
 
   - Ss. Peter & Marcellinus
 
-  - Ss. Peter and Marcellinus, Roman martyrs
+    - Ss. Peter and Marcellinus, Roman martyrs
 
 - Abbey
 
-Einhard the Historian (not a saint; historical figure)
+  - Einhard the Historian (not a saint; historical figure)
 
   - Ss. Marius and Martha, spouses, Audifax and Abachum, brothers, all
     of Persia, martyrs, 1/19 (relics only)
 
 Selm, Unna district, Arnsberg, Nordhein-Westfalen state
 
-Schloss Cappenberg/Cappenberg Castle (former Premonstratensian canonry)
+- Schloss Cappenberg/Cappenberg Castle (former Premonstratensian canonry)
 
   - Bl. Giselbert of Cappenberg, O. Praem., monk, 6/8 (he died here; is his
     tomb still extant?)
@@ -2206,7 +2212,7 @@ Siegburg, Rhein-Sieg District, North Rhine-Westphalia
 
 Sigmaringen, Tübingen administrative region, Baden-Württemberg state
 
-Kirche des Heiligen Fidelis
+- Kirche des Heiligen Fidelis
 
   - St. Fidelis of Sigmaringen, OFM, martyr, 4/24 (relics only)
 
@@ -2215,21 +2221,21 @@ Nordrhein-Westfalen/North Rhine-Westphalia state
 
   - St. Patrokli
 
-  - St. Patroklus/Parre/Patroclus of Troyes, layman/martyr, 1/21
+    - St. Patroklus/Parre/Patroclus of Troyes, layman/martyr, 1/21
 
 Solnhofen, near Eichstätt, Bavaria
 
-Sola-Basilika/Solabasilika
+- Sola-Basilika/Solabasilika
 
-- St. Solus/Sola, hermit, 12/4 (tomb empty?)
+  - St. Solus/Sola, hermit, 12/4 (tomb empty?)
 
   - St. Märgen
 
 - Monastery of St. Märgen
 
-Miraculous image of Our Lady
+  - Miraculous image of Our Lady
 
-- "Catacomb saint" Constantius
+  - "Catacomb saint" Constantius
 
 Speyer, Rhineland-Palatinate
 
