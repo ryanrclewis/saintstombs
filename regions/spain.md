@@ -3289,14 +3289,18 @@ Abadía del Sacromonte
   - Bl. María de la Concepción (Conchita) Barrecheguren García, laywoman,
     5/13 (Francisco's daughter)
 
-Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada
+- Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada
 (Plaza Sor Cristina de la Cruz, 1)
 
   - Bl. María Emilia Riquelme y Zayas, religious/foundress, 12/10
 
-Museo de S. Juan de Dios (Calle Vonvalescencía)
+- Colegio Ave María Casa Madre (Cuesta del Chapiz 3)
 
-The room in which St. John of God died and his belongings
+	- Ven. Andrés Manjón y Manjón, priest/founder, d. 7/10/1923
+
+- Museo de S. Juan de Dios (Calle Vonvalescencía)
+
+	- The room in which St. John of God died and his belongings
 
 - ???
 
@@ -3321,14 +3325,14 @@ Granada's eastern section of Sacromonte
 
 - Abbey
 
-  - St. Caecilius of Granada/of Elvira, first bishop, 5/15
+	- St. Caecilius of Granada/of Elvira, first bishop, 5/15
 
-11 other martyrs
+	- 11 other martyrs
 
 Granollers, Vallès Oriental comarca, Province of Barcelona, Catalonia
 region
 
-Convento de San Francisco (Carrer de Corró, 47)
+- Convento de San Francisco (Carrer de Corró, 47)
 
   - Bl. Alfonso (née Federico) López y López, OFM Conv., priest/martyr, 8/3
 
@@ -6074,16 +6078,16 @@ Oviedo, Asturias
 
   - Ss. Vincent, Ramiro, and companions, martyrs, 9/11
 
-Monasterio de San Pelayo
+- Monasterio de San Pelayo
 
   - St. Pelagius/Pelayo of Córdoba, boy martyr, 6/26
 
-Convento de los Capuchinos (Calle de San Vicente, 1)
+- Convento de los Capuchinos (Calle de San Vicente, 1)
 
   - Bl. Arcángel de Valdavida (née Ángel de la Red Pérez), OFM Cap.,
     priest/martyr, 8/14
 
-Convento de Santo Domingo de Guzmán (located at Plaza de Santo Domingo)
+- Convento de Santo Domingo de Guzmán (located at Plaza de Santo Domingo)
 
   - St. José Melchór García-Sampedro Suárez, OP, priest/martyr in Vietnam,
     7/28
@@ -6120,7 +6124,9 @@ Convento de Santo Domingo de Guzmán (located at Plaza de Santo Domingo)
   - Servant of God Isaac Díaz Gonzalez, layman, d. 3/9/1970 (maybe at
     Parroquia de Sta. María la Real de La Corte)
 
-  - Ven. Práxedes Fernández García, TOSD, laywoman, d. 10/6/1936
+	- Servant of God María Serafina (née Marie-Adeline) Couderc Caminade, SAC, religious, d. 6/20/1923 (possibly at the Casa Madre de las Hermanas del Ángel de la Guarda, Calle Velasquita Giráldez, 14)
+
+   - Ven. Práxedes Fernández García, TOSD, laywoman, d. 10/6/1936
 
   - Bl. Salustiano González Crespo, CM, religious/martyr, 10/13 (cremated)
 
