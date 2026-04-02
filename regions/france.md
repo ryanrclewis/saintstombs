@@ -772,6 +772,12 @@ Bourg-lès-Valence, Valence arrondissement, Drôme department, Auvergne-Rhône-A
 
   - Servant of God Guy Pierre de Fontgalland, child, d. 1/24/1925
 
+Bourg-lès-Valence, Valence arrondissement, Drôme department, Auvergne-Rhône-Alpes
+
+- Vieux Cimetière de Bourg-lès-Valence/Old Cemetery of Bourg-lès-Valence (17 Chemin du Gaz)
+
+  - Servant of God Guy de Fontgalland, boy layman, January 4, 1925
+
 Bourg-Saint-Andéol (Bergoïata), Ardèche department, Rhône Valley southern France
 
 - Chapelle Saint-Polycarpe/Chapel of St. Polycarp
@@ -3218,6 +3224,8 @@ Poitiers
   - St. Radegund, queen/abbess, 8/13 (relics burned by Calvinists; nonetheless, some survived and are kept here in her eponymous chapel)
 - Abbaye Saint-Cyprien de Poitiers/Saint-Cyprien Abbey of Poitiers (now Pasteur Hospital)
   - St. Faciolus, OSB, monk, 9/7 (grave likely lost)
+- Cimetière de l’Hôpital-des-Champs (Rue de l’Hôpital-des-Champs)
+  - Servant of God Josefa Menéndez del Moral, religious/mystic, d. 12/29/1923
 - ???
   - St. Abra of Poitiers, missionary, 12/12
   - Bl. Gautier Van den Zande of Bruges, bishop, 1/21 (relics destroyed by the Huguenots)
@@ -4681,8 +4689,6 @@ Valence, Département Drôme, Auvergne-Rhône-Alpes region
 
 - Église Saint-Jean-Baptiste
   - St. Venantius of Viviers, bishop, 8/5 & 8/12
-- Grand Séminaire, la chapelle Saint-Félix
-  - Servant of God Guy de Fontgalland, boy layman, January 4, 1925
 - ???
   - St. Apollinaris of Valence, bishop, 10/5 (relics were at the cathedral; the Huguenots dumped them into the River Rhone)
   - St. Humbert of Romans, OP, prominent friar, 7/14 (possibly at a Dominican church)
