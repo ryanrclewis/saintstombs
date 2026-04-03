@@ -1,3 +1,5 @@
+# Austria
+
 Admont, Liezen district, Styria state
 
 - Stift Admont (Admont Abbey) church
@@ -8,10 +10,20 @@ Admont, Liezen district, Styria state
 
 Alkoven, Eferding district, Upper Austria
 
-Schloss Hartheim
+- Schloss Hartheim
 
   - Servant of God Euzebiusz Józef Huchracki, OFM, priest/martyr, d.
     5/6/1942 (grave likely lost)
+
+- NS-Tötungsanstalt Hartheim, Alkoven, Eferding
+
+  - ???
+
+    - Fr. Bernhard Heinzmann, priest/martyr, d. 8/10/1942
+  
+    - Fr. Friedrich Karas, priest/martyr, d. 3/28/1942
+  
+    - Fr. Peter Bioly, priest/martyr, d. 5/4/1942 (died in the gas chamber)
 
 Bosenburg (aka, Persenbeug)
 
@@ -21,18 +33,18 @@ Bosenburg (aka, Persenbeug)
 
 Braunau am Inn, Braunau am Inn Bezirk, Upper Austria
 
-Sankt Radegund
+- Sankt Radegund
 
   - Bl. Franz Jägerstätter, husband/father/lay martyr of the Nazis, 5/21
 
 Bregenz, Vorarlberg state
 
-Hohen Bregenz Castle, Gebhardsberg, Wallfahrtskirche St. Gebhard und St.
+- Hohen Bregenz Castle, Gebhardsberg, Wallfahrtskirche St. Gebhard und St.
 Georg (pilgrimage church of Ss. Gebhard and George)
 
   - St. Gebhard of Constance, bishop, 8/27 (arm only)
 
-Territorialabtei Wettingen-Mehrerau/Abadía territorial de
+- Territorialabtei Wettingen-Mehrerau/Abadía territorial de
 Wettingen-Mehrerau
 
   - Bl. Aberilla, nun, 1/30 (grave likely lost when the state illicitly tore
@@ -44,7 +56,7 @@ Kärnten/Carinthia state
 - Maria im Walde Chapel (Shrine of Holy Mary in the Forest), Haibach 80,
   4785 Freinberg
 
-Marian apparition site, 6/17
+  - Marian apparition site, 6/17
 
 Eben am Achensee, Tyrol
 
@@ -87,7 +99,7 @@ Götzens, Innsbruck Land district, Tyrol state
 
 Graz, Eggenberg Distrikt, Steiermark/Styria state
 
-Kloster der Franziskanerinnen von der unbefleckten Empfängnis
+- Kloster der Franziskanerinnen von der unbefleckten Empfängnis
 (Kaiser-Franz-Josef Kai 16)
 
   - Ven. Maria Klara (nee Rosa Maria) Fietz, religious, d. 6/15/1937
@@ -100,7 +112,7 @@ Gurk, Sankt Veit an der Glan district, Kärnten/Carinthia state
 
 Güssing, Burgenland
 
-Franziskanerkloster mit Klosterkirche und Batthyanischer Familiengruft
+- Franziskanerkloster mit Klosterkirche und Batthyanischer Familiengruft
 
   - Bl. László/Lazlo (aka, Ladislaus) Batthyány-Strattmann, doctor, 1/22
 
@@ -123,11 +135,11 @@ Innsbruck, Tyrol state
 
   - Bl. Otto Neururer, priest/martyr, 5/30 (relic only)
 
-Innsbrucker Jesuitenkirche
+- Innsbrucker Jesuitenkirche
 
   - St. Pirmin, evangelist, 11/3
 
-Kapuzinerkirche (located in the Kaiserjägerstrasse)
+- Kapuzinerkirche (located in the Kaiserjägerstrasse)
 
   - Bl. Tommaso Acerbis da Olera, OFM Cap., 5/3
 
@@ -178,7 +190,7 @@ Linz, Statutarstadt district, Oberösterreich (Upper Austria) state
 
   - Ven. Franz Joseph Rudigier, bishop, 11/29/1884
 
-Hartheim Concentration Camp and Euthanasia Center
+- Hartheim Concentration Camp and Euthanasia Center
 
   - Bl. Jan Oprzadek, Franciscan martyr, 5/18
 
@@ -316,15 +328,11 @@ Sankt Gerold
 
   - St. Gerold von Großwalsertal, hermit, 4/19
 
-NS-Tötungsanstalt Hartheim, Alkoven, Eferding
+Sankt Marein bei Graz, Graz-Umgebung political district, Steiermark/Styria state
 
-- ???
+- Pfarrkirche St. Marein am Pickelbach Pfarrfriedhof/Parish cemetery
 
-  - Fr. Bernhard Heinzmann, priest/martyr, d. 8/10/1942
-
-  - Fr. Friedrich Karas, priest/martyr, d. 3/28/1942
-
-  - Fr. Peter Bioly, priest/martyr, d. 5/4/1942 (died in the gas chamber)
+  - Servant of God Maria Lichtenegger, young laywoman, d. 7/8/1923
 
 Traunkirchen, Gmunden district, Oberösterreich/Upper Austria state
 
