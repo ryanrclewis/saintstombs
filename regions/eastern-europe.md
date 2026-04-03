@@ -755,7 +755,7 @@ Prague/Praha
 
   - St. Wenceslas I, ruler/martyr, 9/28
 
-Prague Castle
+- Prague Castle
 
   - St. Pribyslava, OSB, nun/sister of St. Wenceslaus, 12/12 (probably in
     the chapel of St. Wenceslaus)
@@ -807,7 +807,7 @@ Prague, Břevnov district
 - Baziliky sv. Markéty/Basilica of St. Margaret of Antioch (Markétská
   1/28)
 
-Tombstone of St. Vintír/Gunther of Bohemia, hermit, 10/9
+  - Tombstone of St. Vintír/Gunther of Bohemia, hermit, 10/9
 
 Prague, Ďáblice municipal district, District 8, Prague Region
 
@@ -822,7 +822,7 @@ Prague, Ďáblice municipal district, District 8, Prague Region
 
 Prague, Strahovské nádvoři in the Hradčany district
 
-Královská kanonie premonstrátů na Strahově/Royal Premonstratensian
+- Královská kanonie premonstrátů na Strahově/Royal Premonstratensian
 Canonry of Strahov (Strahovský klášter) (Strahovské nádvoří 1/132)
 
   - Bl. Heinrich Zdik, O. Praem, bishop, 6/25
@@ -849,7 +849,7 @@ Sedlec, suburb of Kutna Hora
 
 - Kostnice of the Cistercian All Saints chapel
 
-Ossuary of 40,000 Christians
+  - Ossuary of 40,000 Christians
 
 Slatiňany, Chrudim district, Pardubice region
 
@@ -860,7 +860,7 @@ Slatiňany, Chrudim district, Pardubice region
 
 Sobotin, Okres Šumperk (district), Olomoucký kraj
 
-Kostel svatého Vavřince (St. Lawrence)
+- Kostel svatého Vavřince (St. Lawrence)
 
   - Bl. Maria Magdalena (Maria Paschalis) Jahn, religious, 5/11
 
@@ -874,17 +874,23 @@ kraj/region
 
 Starovičky, Břeclav District, South Moravian Region
 
-??? (probably at Hřbitov Starovičky)
+- ??? (probably at Hřbitov Starovičky)
 
   - Bl. Václav Drbola, priest/martyr, 8/3
 
 Teplá, Cheb District, Karlovy Vary region
 
-Klášter Teplá
+- Klášter Teplá
 
   - Bl. Andreas Ebersbach, prior, 7/3
 
   - Bl. Hroznata of Ovenec, nobleman, 7/14
+
+Velehrad, Okres Uherské Hradiště, Zlin
+
+- Římskokatolická Farnost Velehrad (Roman Catholic Parish Velehrad) (Stojanovo nádvoří 206)
+
+  - Ven. Antonín Cyril Stoja, archbishop, d. 9/29/1923 (Royal Chapel)
 
 Želiv, Pelhřimov district, Vysočina region
 
@@ -894,7 +900,7 @@ Klášter Teplá
 
 - ???
 
-- Bl. Godescalc, 3/1, said by santiebeati to be buried at the Abbey of
+  - Bl. Godescalc, 3/1, said by santiebeati to be buried at the Abbey of
   Siloam in Bohemia.
 
   - Bl. Nicholas Plutzer, O. Praem, prior, 6/21
@@ -1701,11 +1707,17 @@ Gozo
 
   - Servant of God Mikiel Attard, priest, d. 7/30/2004
 
+Ħamrun, Northern Harbour District, Southern Region
+
+- The Nuzzo Institute/Casa Madre of the Daughters of the Sacred Heart/Ulied il-Qalb ta' Ġesù (Triq il-Ferrovija/Railway Street)
+
+  - Servant of God Maria Teresa Nuzzo, UQĠ, foundress, d. 4/17/1923
+
 Il-Mellieħa/Mellieħa, Northern Region
 
 - Il-Prijorat ta' San Duminku/Priory of St. Dominic (1km south from Rabat)
 
-- Madonna tal-Grotta/Our Lady of the Grotto
+  - Madonna tal-Grotta/Our Lady of the Grotto
 
 Mdina
 
@@ -2199,9 +2211,15 @@ Koniemłoty, Staszów County, Świętokrzyskie Voivodeship
 
   - Servant of God Roman Kotlarz, priest/martyr, d. 8/18/1976
 
+Kórnik, Poznań Powiat, Greater Poland Voivodeship/wielkopolskie Województwo
+
+- Kolegiacie Wszystkich Świętych/All Saints' Collegiate Church (Średzka 1)
+
+  - Servant of God Jadwiga Zamoyska, laywoman/activist, d. 11/4/1923
+
 Kostomłoty, Lublin Voivodeship
 
-- Shrine of the Martyrs of Podlachia
+- Sanktuarium Unitów Podlaskich św. Nikity Męczennika/Sanktuarium Męczenników Podlaskich/Shrine of the Martyrs of Podlachia (Kostomłoty 15)
 
   - Martyrs of Podlachia, 1/24
 
