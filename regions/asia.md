@@ -2729,7 +2729,7 @@ Cheongju (청주시), North Chungcheong Province
 
 Cheongsong
 
-Clerical Congregation of the Blessed Korean Martyrs
+  - Clerical Congregation of the Blessed Korean Martyrs
 
   - Servant of God Leo Bang Yu-ryong, priest/founder, d. 1/24/1986
 
@@ -2749,7 +2749,7 @@ Chuncheon (춘천), Gangwon Province
 
   - Servant of God Fr. James Maginn, martyr, 7/4/1950
 
-Fr. Frank Canavan
+  - Fr. Frank Canavan, priest/martyr
 
 Chungcheong-do (충청도), Chungjumok → Gongjumok
 
@@ -2775,7 +2775,7 @@ Daejon (Taejon), Hoseo region
 
 - ???
 
-Fr. John O\'Brien
+  - Fr. John O\'Brien, priest/martyr
 
   - Msgr. Patrick Brennan, priest/martyr, d. 9/24/1950
 
@@ -2797,6 +2797,12 @@ Chungcheongnam-do
   - Bl. Franciscus Bang, layman/martyr, 1/21 & 9/20
 
   - Bl. Laurence Pak Chwi-deuk, lay martyr, 4/3
+
+Jecheon-si City제천시, North Chungcheong Province/Chungcheongbuk-do Province/충청북도
+
+- 배론 성지/Baeron Holy Site (충청북도 제천시 봉양읍 배론성지길 296/296, Baeronseongji-gil, Bongyang-eup)
+
+  - Ven. 최양업/Thomas Thomas Choe Yang-eop, priest, d. 6/15/1861
 
 Jeongsan county (정선군), Province of Gangwon-do
 
