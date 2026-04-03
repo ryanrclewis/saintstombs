@@ -1,3 +1,5 @@
+# Italy
+
 Acerno, Province of Salerno, Calabria region
 
 - Montevergine Abbey
@@ -562,6 +564,12 @@ Arezzo, Province of Arezzo, Toscana/Tuscany region
 
   - St. Pergentinus of Arezzo, martyr, 6/3
 
+Argenta, Province of Ferrara, Emilia-Romagna region
+
+- Concattedrale di San Nicolò (Via Don Giovanni Minzoni, 20)
+
+  - Servant of God Giovanni Minzoni, priest/martyr, d. 8/23/1923
+
 Argenta, Bando *frazione*, Province of Ferrara, Emilia-Romagna region
 
 - Chiesa di San Macario d'Egitto
@@ -781,7 +789,7 @@ San Ippolisto
 
   - St. Hippolytus/Ippolisto of Atripalda, martyr, 5/1
 
-Aulla, Province of Massa and Carrara, Tuscania region
+Aulla, Province of Massa and Carrara, Toscana region
 
 - Abbey of San Caprasio
 
@@ -839,7 +847,7 @@ Badia Polesine, Province of Rovigo, Veneto region
 
   - St. Nicholaus of Vangadizza, priest, 5/31 (buried here?)
 
-Bagno a Ripoli, Metropolitan City of Florence, Tuscania region
+Bagno a Ripoli, Metropolitan City of Florence, Toscana region
 
 - Chiesa dello Spirito Santo di Varlungo
 
@@ -1692,9 +1700,9 @@ Brescia, Province of Brescia, Lombardy region
 
   - St. Philastrius (Filastrius, Filastrio), bishop/stigmatist, 7/18
 
-- Three fragments of the True Cross (Chapel of the Holy Cross)
+  - Three fragments of the True Cross (Chapel of the Holy Cross)
 
-Sant'Afra in Sant'Eufemia (on Corso Magenta near Piazzale Arnaldo)
+- Sant'Afra in Sant'Eufemia (on Corso Magenta near Piazzale Arnaldo)
 
   - St. Afra of Brescia, martyr, 5/4
 
@@ -1704,7 +1712,7 @@ Sant'Afra in Sant'Eufemia (on Corso Magenta near Piazzale Arnaldo)
 
   - St. Paterio/Paterius, bishop, 2/21
 
-Sant'Agata
+- Sant'Agata
 
   - St. Deusdedit di Brescia, bishop, 12/10 (in the dark room by the high
     altar)
@@ -1770,7 +1778,7 @@ Sant'Agata
 
   - 40 Martyrs of Sebaste (relics only), 3/9
 
-40 Martyrs of Caesarea in Cappadocia
+  - 40 Martyrs of Caesarea in Cappadocia
 
   - Relics from the Holy Land
 
@@ -1779,17 +1787,17 @@ Sant'Agata
 
   - St. John the Baptist (relics only)
 
-San Giuseppe
+- San Giuseppe
 
   - St. Ursicino/Ursicinus di Brescia, bishop, 12/1
 
-San Luca
+- San Luca
 
   - Bl. Giuseppi Antonio Tovini, banker, 1/16
 
   - Servant of God Vittorino Chizzolini, layman, d. 5/24/1984
 
-Santa Maria Immacolata
+- Santa Maria Immacolata
 
   - St. Lodovico Pavoni, priest, 4/1
 
@@ -1810,11 +1818,11 @@ Santa Maria Immacolata
     been here since the late 18^th^/19^th^ century, so it is not known
     whether they took her remains with them or to where)
 
-Suore Ancelle della Carità motherhouse (Via Borgosatollo, 3)
+- Suore Ancelle della Carità motherhouse (Via Borgosatollo, 3)
 
   - St. Maria Crocifissa (née Paola) di Rosa, foundress, 12/15
 
-Seminario Diocesano di Brescia
+- Seminario Diocesano di Brescia
 
   - Bl. Mosè/Moses Tovini, seminary rector, 1/28 or 6/9
 
@@ -1837,15 +1845,19 @@ Seminario Diocesano di Brescia
 
   - St. Deusdedit, bishop, 12/10 (nothing on seb)
 
+  - Ven. Elisabetta Girelli, laywoman/foundress, d. 1/21/1919
+
   - St. Faustino of Brescia, bishop, 2/16
 
   - Bl. Faustino Chiari, OFM, monk, 5/13
 
-    - St. Felix, bishop, 2/23/650 (nothing on seb)
+  - St. Felix, bishop, 2/23/650 (nothing on seb)
 
   - St. Gaudiosus, bishop, 3/7 (his relics are here)
 
   - Ven. Giovanni Battista Zuaboni, priest/founder, d. 12/12/1939 (He died here in Brescia, but where is he buried?)
+
+  - Ven. Maddalena Girelli, laywoman/foundress, d. 3/7/1923
 
   - St. Massimo/Maximus of Brescia, martyr, 1/7
 
@@ -1952,9 +1964,9 @@ Buonvicino, Province of Cosenza, Calabria region
 
 Burano (an island in the Venetian lagoon)
 
-Oratorio di Santa Barbara
+- Oratorio di Santa Barbara
 
-- St. Barbara, martyr, 12/4 (relics only, probably the side chapel of San
+  - St. Barbara, martyr, 12/4 (relics only, probably the side chapel of San
   Martino)
 
 - Chiesa di San Martino
@@ -2138,11 +2150,11 @@ Caiazzo, Province of Caserta, Campania region
 Calasca-Castiglione (Castiglione Ossola), Province of
 Verbano-Cusio-Ossola, Piemonte region
 
-San Gottardo
+- San Gottardo
 
   - Bl. Giuseppe Rossi, priest/martyr, 2/26
 
-Calcinaia, Province of Pisa, Tuscania region
+Calcinaia, Province of Pisa, Toscana region
 
 - Chiesa di San Giovanni Battista
 
@@ -2247,13 +2259,19 @@ Camogli, Metropolitan City of Genoa, Liguria region
 
   - Nostra Signora del Boschetto/Our Lady of the Grove apparition, 8/12
 
+Campi Bisenzio, San Piero a Ponti, Metropolitan City of Florence, Toscana region
+
+- Chiesa del Convento delle Suore Francescane dell'Immacolata (via del Santo, 9)
+
+  - Ven. Olinto Fedi, priest/founder, d. 1/23/1923
+
 Campli, Province of Teramo, Abruzzo region
 
 - ???
 
   - Bl. Battista (Baptist) of Florence, OFM, monk, 3/9
 
-Campi Bisenzio, Metropolitan City of Florence, Tuscania region
+Campi Bisenzio, Metropolitan City of Florence, Toscana region
 
 - La Casa Madre dell'Ordine Carmelitano di Santa Teresa at San Martino di Campi Bisenzio
 
@@ -3197,9 +3215,9 @@ Cinisello Balsamo (aka, Balsamo), Province of Milan
 
 Cinisi, Metropolitan City of Palermo, Sicily
 
-- Santuario di Beata Maria di Gesù (Via Sacramento 1)
+- Santuario di Santa Maria di Gesù (Via Sacramento 1)
 
-  - Bl. Maria di Gesù (née Carolina) Santocanale, religious/foundress, 1/27
+  - St.. Maria di Gesù (née Carolina) Santocanale, religious/foundress, 1/27
 
 Cirò Marina, Province of Crotone, Calabria region
 
@@ -3219,12 +3237,12 @@ Città di Castello, Province of Perugia, Umbria region
 
   - St. Florido, bishop, 11/13
 
-San Domenico, Via Luca Signorelli 8
+- San Domenico (via Luca Signorelli, 8)
 
   - Bl. Margaret of Metola (aka, of Città di Castello), OP, lame religious,
     4/13
 
-San Donnino
+- San Donnino
 
   - St. Domninus, hermit, 10/9
 
@@ -4185,7 +4203,7 @@ San Martino
   - St. Marchiziano, martyr, 7/6
 
 Figline e Incisa Valdarno, Incisa in Val d'Arno frazione, Municipal City
-of Florence, Tuscania region
+of Florence, Toscana region
 
 - Camposanto della cittadella di Loppiano (Focolare movement)
 
@@ -4997,7 +5015,7 @@ Grado, Province of Gorizia, Friuli Venezia Giulia region
 
 Gragnano Trebbiense, Province of Piacenza, Emilia-Romagna region
 
-San Michele Arcangelo
+- San Michele Arcangelo
 
   - Bl. Giuseppe Beotti, priest/martyr, 7/20
 
@@ -5014,6 +5032,12 @@ Gravedona, Province of Como, Lombardia Region
   - St. Gusmeo, martyr, 9/11
 
   - St. Matteo, martyr, 9/11
+
+Gravina di Puglia, Metropolitan City of Bari, Puglia region
+
+- Casa Madre delle Suore Missionarie del Sacro Costato e di Maria Santissima Addolorata (via Ludovico Maiorana, 2)
+
+  - Servant of God Eustachio Montemurro, priest/founder, d. 1/2/1923
 
 Grizzana Morandi, Pioppe di Salvaro *frazione*, Metropolitan City of Bologna, Emilia-Romagna
 
@@ -5391,7 +5415,7 @@ Lauria, Potenza (Basilicata?)
 
 Laurino, Province of Salerno, Campania region
 
-La Collegiata
+- La Collegiata
 
   - St. Elena da Laurino,
 
@@ -5441,7 +5465,7 @@ Sant\'Antonio a Fulgenzio
 - Casa Madre de suore Salesiane dei Sacri Cuori/Salesian Sisters of the
 Sacred Hearts (Via Carlo Russi, 73100 Lecce)
 
-  - St. Filippo Smaldone, priest, 6/4
+  - St. Filippo Smaldone, priest/founder, 6/4
 
 - Cappella della Casa generalizia delle Suore Discepole del Sacro Cuore
 
@@ -5714,7 +5738,7 @@ Lucinasco, Province of Imperia, Liguria region
 
   - Ven. Adele Bonolis, laywoman, d. 8/11/1980
 
-Lugo, province of Ravenna, Emilia-Romagna region
+Lugo, Province of Ravenna, Emilia-Romagna region
 
 - Chiesa dei Santi Francesco ed Illaro, called "La Collegiata"
 
@@ -5723,6 +5747,8 @@ Lugo, province of Ravenna, Emilia-Romagna region
 - ???
 
   - Bl. Alexander Baldrati of Lugo, MOP, martyr, 2/10 (relics only)
+
+  - Ven. Margherita (née Costanza) Ricci Curbastro, ASCGA, foundress, d. 1/7/1923
 
 Lugo, San Potito di Lugo *frazione*, Province of Ravenna, Emilia-Romagna
 region
@@ -6723,14 +6749,14 @@ Monselice, Province of Padua, Veneto Region
 
   - St. Rusticianus, martyr
 
-Monsummano Terme, Province of Pistoia, Tuscania region
+Monsummano Terme, Province of Pistoia, Toscana region
 
 - Santuario di Santa Maria della Fontenuova a Monsummano (Via Giacomo
   Matteotti, 13)
 
 Madonna della Fontenuova/Our Lady of the Plain, 6/9
 
-Montaione, Metropolitan City of Florence, Tuscania region
+Montaione, Metropolitan City of Florence, Toscana region
 
 Convento di San Vivaldo "The Jerusalem of Tuscany"
 
@@ -6739,7 +6765,7 @@ Convento di San Vivaldo "The Jerusalem of Tuscany"
 
   - Bl. Vivaldo da Gimignano, hermit, 5/1
 
-Montalcino, Province of Siena, Tuscania region
+Montalcino, Province of Siena, Toscana region
 
 - Abbazia di Sant'Antimo (10 km/6 miles from Montalcino)
 
@@ -6819,8 +6845,7 @@ Monte Cassino/Montecassino
 
 - ???
 
-- Bl. Giovanni Gradenigo, OSB, monk/hermit, 12/5 (buried in a church he
-  built near the monastery)
+  - Bl. Giovanni Gradenigo, OSB, monk/hermit, 12/5 (buried in a church he built near the monastery)
 
   - St. Petronace/Petronax di Monte Cassino, OSB, abbot, 5/6
 
@@ -6835,6 +6860,10 @@ Monte Cerignone, Province of Pesaro e Urbino, Le Marche region
   - Bl. Domenico Spadafora, OP, priest, 12/21
 
 Montefalco, Province of Perugia, Umbria Region
+
+- Santuario della Madonna della Stella/Shrine of Our Lady of the Star (Vocabolo)
+
+  - Servant of God Righetto (née Federico) Cionchi, CRS, religious/visionary, d. 5/31/1923
 
 - Sant'Agostino
 
@@ -7046,7 +7075,7 @@ Montevergine, Sicily
 
   - Ss. Festus and Desiderius, martyrs
 
-Monticchiello, Pienza commune, Province of Siena, Tuscania region
+Monticchiello, Pienza commune, Province of Siena, Toscana region
 
 - Chiesa di San Martino
 
@@ -8438,6 +8467,8 @@ Parma
 
   - St. Giovanni da Parma, abbot, 5/22
 
+  - Ven. Maria Lucrezia (née Drusilla) Zileri dal Verme, OMSC, religious/renovator, d. 8/3/1923
+
 Partinico, Metropolitan City of Palermo, Sicily
 
 - Chiesa del Sacro Cuore/Sacred Heart Church
@@ -8609,7 +8640,7 @@ Pavullo nel Frignano, Crocette *frazione*, Province of Modena, Emilia-Romagna re
 
   - Bl. Luigi Lenzini, priest/martyr, d. 7/21/1945
 
-Peccioli, Province of Pisa, Tuscania region
+Peccioli, Province of Pisa, Toscana region
 
 - ???
 
@@ -11869,7 +11900,7 @@ San Germano Vercellese, Province of Vercelli, Piemonte region
 
 - Bl. Antonio della Chiesa, OP, priest, 1/22
 
-San Gimignano, Province of Siena, Tuscania region
+San Gimignano, Province of Siena, Toscana region
 
 - Duomo (in the Cappella di Santa Fina)
 
@@ -12589,9 +12620,12 @@ San Domenico
   - St. Catherine (Benincasa) of Siena, OP, 4/29 (head only)
 
 - Basilica di San Francesco (Piazza San Francesco)
+
   - Eucharistic miracle of Siena
+
 - San Francesco all’Alberino/Chiesa Nuova dell’Immacolata (Via del Vecchietta, 30)
-  - Bl. Giovanni/John Colombini, Founder, 7/31, cousin of St. Catherine (under the altar of Altare della Madonna)
+
+   - Bl. Giovanni/John Colombini, Founder, 7/31, cousin of St. Catherine (under the altar of Altare della Madonna)
 
 - Santa Maria dei Servi
 
@@ -12605,8 +12639,11 @@ San Domenico
 
   - St. Alda (Aldobrandesca; Aude; Blanca; Bruna), widow, 4/26
 
-- Monastero delle Clarisse di Siena (most likely at Via Paolo Mascagni,
-  38)
+- Chiesa della Visitazione/Chiesa di Sant’Elisabetta della Visitazione/Church of the Visitation (via dei Rossi, 30)
+
+  - Bl. Savina Petrilli, foundress, 4/18
+
+- Monastero delle Clarisse di Siena (most likely at Via Paolo Mascagni, 38)
 
   - Bl. Pietro Pettinaio, TOSF, businessman, 12/4 (an arm only)
 
@@ -12634,8 +12671,6 @@ San Domenico
 
   - Bl. Nera, TOSD, laywoman, 12/25
 
-  - Bl. Savina Petrilli, foundress, 4/18
-
   - Bl. Vincenzo da Siena, OFM, friar, 2/14
 
 Signa, Province of Florence, Tuscany Region
@@ -12648,7 +12683,7 @@ Signa, Province of Florence, Tuscany Region
 
   - Former wooden coffin of Bl. Giovanna da Signa
 
-Sinalunga, Province of Siena, Tuscania region
+Sinalunga, Province of Siena, Toscana region
 
 Convento di San Bernardino (with adjacent Madonna del Rifugio sanctuary)
 
@@ -12979,6 +13014,10 @@ Sulbiate, Brentana *frazione*, Province of Monza and Brianza, Lombardia region
 - Chiesa di Sant\'Antonino
 
   - Bl. Mario Ciceri, priest, d. 4/4/1945
+
+- Sorelle della Famiglia del Sacro Cuore di Gesù (via Madre Laura, 18 and 22)
+
+  - Ven. Maria Laura (née Laura Rosa) Baraggia, foundress, d. 12/18/1923
 
 Sulmona, Province of L'Aquila, Abruzzo region
 
@@ -13506,7 +13545,7 @@ Trequanda, Province of Siena, Toscana region
 
   - Bl. Bonizella Piccolomini Cacciaconti, charitable widow, 5/6
 
-Treschietto, Bagnone, Province of Massa and Carrara, Tuscania region
+Treschietto, Bagnone, Province of Massa and Carrara, Toscana region
 
 - Parish church
 
@@ -13907,7 +13946,7 @@ Turin (Torino)
 
   - Bl. Sebastian Valfre
 
-Tuscania, Province of Viterbo, Lazio Region
+Toscana, Province of Viterbo, Lazio Region
 
 - Chiesa di Santa Maria Maggiore
 
