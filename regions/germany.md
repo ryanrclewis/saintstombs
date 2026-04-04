@@ -674,7 +674,7 @@ Disibodenberg, Rhineland-Palatinate
 Donaueschingen, Schwarzwald-Baar-Kreis, Freiburg administrative region,
 Baden-Württemberg state
 
-??? (possibly at St. Johann; urn with his ashes)
+- ??? (possibly at St. Johann; urn with his ashes)
 
   - Msgr. Heinrich Feurstein, martyr of Dachau, d. 8/2/1942
 
@@ -685,18 +685,21 @@ Rhine-Westphalia state
 
   - St. Reinhold of Cologne, OSB, murdered monk, 1/7
 
+- Franziskanerkloster (Franziskanerstraße 1, in the Innenstadt-Ost district)
+
+  - Ven. Jordan (née Heinrich) Mai, OFM, religious, d. 2/20/1922
+
 Dresden
 
-Katholische Hofkirche/Sanctissimae Trinitatis/Catholic Court
-Church/Cathedral
+- Katholische Hofkirche/Sanctissimae Trinitatis/Catholic Court Church/Cathedral
 
   - Bl. Alois Andritzki/Alojs Andricki, priest/martyr, 2/3
 
   - St. Benno of Meissen, 6/16 (relics only)
 
-- St. Benno's miter (in the Benno Chapel)
+  - St. Benno's miter (in the Benno Chapel)
 
-Neuer Katholischer Friedhof
+- Neuer Katholischer Friedhof
 
   - Bl. Czesław Jóźwiak, layman/martyr, 8/24 (buried with the other four)
 
@@ -708,8 +711,6 @@ Neuer Katholischer Friedhof
 
   - Bl. Jarogniew Wojciechowski, layman/martyr, 8/24 (buried with the other
     four)
-
-- ???
 
 Dülmen, Coesfeld district, North Rhine-Westphalia
 
@@ -737,7 +738,7 @@ Nordrhein-Westfalen state
 
 Ebsdorfergrund (near Hamburg), Hesse
 
-Near the battlefield
+- Near the battlefield
 
   - St. Bruno of Saxony, duke/martyr, 2/2
 
