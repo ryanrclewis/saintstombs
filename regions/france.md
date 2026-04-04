@@ -220,6 +220,8 @@ Annecy, Haute-Savoie department, Auvergne-Rhône-Alpes region
 - Basilica de la Visitation
   - St. François/Francis de Sales, bishop, apologist, 1/29
   - St. Jeanne-Françoise de Chantal, VHM, laywoman/foundress, 8/12 & 8/21
+- Ancien Cimetière/Old Cemetery (Rue de Lachat)
+  - Ven. Anne de Guigné, child, d. 1/14/1922
 - ???
   - St. André d'Antioche/Andrew of Antioch, OSA, religious, 11/30
 
@@ -3005,6 +3007,8 @@ Paris
   - Servant of God Raoul Follereau, author, d. 12/6/1977
 - Cimetière de Bagneux
   - Servant of God Georges Guerin, priest/founder, d. 3/15/1972
+- Cimetière de Gentilly/Gentilly Cemetery (5 Rue de Ste Hélène)
+  - Servant of God Paulin Enfert, layman, d. 9/1/1922
 - Cimetière Montparnasse
   - Bl. Marie de la Providence/Eugénie Smet, foundress of Helpers of the Holy Souls, 2/7
   - Bl. Rosalie Rendu, religious, 2/7
