@@ -3579,9 +3579,15 @@ Sarrat, Province of Illocos Norte
 
   - Servant of God Niña Ruiz Abad, young girl, d. 8/16/1993
 
+Sibonga, Province of Cebu, Central Visayas region
+
+- Simala Shrine/Monastery of the Holy Eucharist/Our Lady of Lindogon Shrine (XJH2+PG6)
+
+  - Our Lady of Lindogon/Blessed Virgin of Simala, miraculous image, 9/8
+
 Silang, Province of Cavite
 
-Boys Town
+- Boys Town (7X58+9PF, Brgy. Adlas)
 
   - Ven. Aloysius Schwartz, priest/founder, d. 3/16/1992
 
