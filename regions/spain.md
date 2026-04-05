@@ -9,8 +9,7 @@ southern Andorra
 
 Meritxell, Canillo parish
 
-- Basílica de la Mare de Déu de Meritxell/Basilica of Our Lady of
-  Meritxell
+- Basílica de la Mare de Déu de Meritxell/Basilica of Our Lady of Meritxell
 
 	- Mare de Déu de Meritxell/Our Lady of Meritxell, patroness of Andorra, 9/8
 
@@ -6188,20 +6187,23 @@ Palma de Mallorca, Mallorca Island, Islas Baleares
 
 - Iglesia de los Padres Capuchinos
 
-  - Servant of God Eduardo Bonnín Aguiló, layman/founder of Cursillo, d.
-    2/6/2008
+  - Servant of God Eduardo Bonnín Aguiló, layman/founder of Cursillo, d. 2/6/2008
 
-Monasterio de San Honorato
+- Monasterio de San Honorato
 
   - Servant of God Sebastián Gayá, priest/founder, d. 12/23/2007
 
-Monasterio de Sta. Teresa de Jesús (C/ Teresas, 8)
+- Monasterio de Sta. Teresa de Jesús (C/ Teresas, 8)
 
   - Servant of God María de la Concepción de Santiago y Sta. Teresa (née
     María de la Concepción de Oleza y Gual), OCD, religious, d. 2/7/1999
     (Since the tomb is closed within the cloistered Monastery of St. Teresa
     of Jesus, it is not possible to enter to visit it and pray before it,
     but you may write prayer intentions and give it to the nuns.)
+
+- Colegio Madre Alberta/Col·legi Mare Alberta (carrer de la Puresa, 12/calle Pureza, 12)
+
+	- Ven. Gaietana Alberta Giménez i Adrover, RPM, foundress, d. 12/21/1922
 
 - Cimiterio/Cemetery
 
@@ -6664,10 +6666,15 @@ Playa de la Malvarrosa, Valencia
   - Bl. Jaime (née Armando) Óscar Valdés, OH, religious/martyr, 8/11 (his
     remains, left on the beach, are missing)
 
-Pontils (formerly Santa Perpètua de Gaià), Conca de Barberà region,
-Province of Tarragona, Catalonia autonomous region
+Pollença, Sierra de Tramontana comarca, Province of the Balearic Islands, Islas Baleares autonomous community
 
-Sant Magí de Brufaganya
+- Cementiri Municipal de Pollença (Carrer de la Noria)
+
+	- Ven. Miquel Costa i Llobera, poet/priest, d. 10/16/1922
+
+Pontils (formerly Santa Perpètua de Gaià), Conca de Barberà region, Province of Tarragona, Catalonia autonomous region
+
+- Sant Magí de Brufaganya
 
   - St. Maginus/Magín/Magí of Tarragona, hermit, 8/19
 
