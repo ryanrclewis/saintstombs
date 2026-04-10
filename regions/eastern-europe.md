@@ -1019,11 +1019,11 @@ Corfu/Kerkyra/Κέρκυρα
 
 - Ναός Παναγίας Σπηλαιώτισσας/Church of Panagia Spilaiotissa
 
-Empress St. Θεοδώρα/Theodora, 2/11
+  - Empress St. Θεοδώρα/Theodora, 2/11
 
 - Ναός Αγίου Σπυρίδωνα/St. Spyridon Church
 
-- [Ἅ]{dir="rtl"}γιος Σπυρίδων/St. Spyridon, Church Father, 12/12
+  - Αγιος Σπυρίδων/St. Spyridon, Church Father, 12/12
 
 - ???
 
