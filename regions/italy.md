@@ -10111,8 +10111,6 @@ Rome (Roma)
 
   - Servant of God Maria Gedda, movement founder, 1/29/1985
 
-  - Servant of God Maria Maddalena di Gesù Crocifisso (née Emenegilda) Moccia, O.SS.S., d. 4/22/1922
-
   - Servant of God Maria Rachele Tararan, religious, d. 8/1/1980
 
   - St. Maximus of Rome, priest/martyr, 11/19 (supposedly buried in the
@@ -10187,9 +10185,15 @@ Rome (Roma)
 
   - Bl. Clement of Sant'Elpidio (aka, of Osimo), prior general, 5/19
 
-- Casa di Santa Brigida (Piazza Farnese)
+- Casa di Santa Brigida (Piazza Farnese, 96)
 
   - St. Maria Elisabetta Hesselblad, OSsS, foundress, 4/24
+
+  - Ven. Maria Riccarda (née Madaleina Catherine) Beauchamp Hambrough, OSsS, religious/mother superior, d. 6/26/1966
+
+- Casa di Santa Brigida (Via delle Isole, 34)
+
+  - Servant of God Maria Maddalena di Gesù Crocifisso (née Emenegilda) Moccia, O.SS.S., d. 4/22/1922
 
 - Casa dell'Istituto di Suore Missionarie dei Sacri Cuori di Gesù e Maria/Missionary Sisters of the Sacred Hearts of Jesus and Mary (Via
 del Trullo 372)
@@ -11514,11 +11518,6 @@ Santa Maria Maggiore
 
   - Servant of God Jenaro del Sagrado Corazón de Jesús (née Jenaro
     Fernández Echeverría), OAR, priest, d. 7/3/1972
-
-- Casa di Santa Brigida (Piazza Farnese, 96)
-
-  - Ven. Maria Riccarda (née Madaleina Catherine) Beauchamp Hambrough,
-    religious/mother superior, d. 6/26/1966
 
 - Tre Fontane Grotto/Sanctuary of the Virgin of the Revelation (Via Laurentina, 400; across the street from Tre Fontane Monastery)
 
