@@ -264,7 +264,7 @@ Quilmes, Quilmes partido, Buenos Aires Province
 
 - Catedral de la Inmaculada Concepción
 
-  - Servant of God Jorge Novak, SVD, bishop, d. 7/9/2001
+  - Servant of God Jorge Novak, SVD, bishop, d. 7/9/2001 (cause revoked, but he can still be titled a Servant of God)
 
 Rosario, Province of Santa Fe
 
