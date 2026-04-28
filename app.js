@@ -70,7 +70,7 @@ heroSection.addEventListener('mouseleave', () => {
 const cardStack = document.querySelector('.card-stack');
 // Current order of class indices for the 3 cards
 // default HTML order: card[0] has card-1, card[1] has card-2, card[2] has card-3
-let cardIndices = [0, 1, 2];
+let cardIndices = [0, 1, 2, 3];
 
 function shuffleCards() {
     // Rotate indices: last becomes first
@@ -80,7 +80,7 @@ function shuffleCards() {
     // Re-assign classes based on new indices
     cards.forEach((card, index) => {
         // Remove all position classes
-        card.classList.remove('card-1', 'card-2', 'card-3');
+        card.classList.remove('card-1', 'card-2', 'card-3', 'card-4');
 
         // Add new position class based on the rotated array
         // The card at index 0 gets the class for index cardIndices[0] + 1
