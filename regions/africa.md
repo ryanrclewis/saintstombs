@@ -25,6 +25,10 @@ Algiers
 
   - Bl. Severinus Gallo, O. de M., religious/martyr, 1/1
 
+Annaba (formerly Hippo), Annaba Province
+بازيليكا القديس أوغسطينوس- /Basilica of St. Augustine
+  - St. Augustine of Hippo, Church Doctor & Father (relic only, arm bone in his statue)
+
 Cherchell/شرشال (formerly Julia Caesarea in Mauretania), Province of Tipaza
 
 - ???
@@ -123,6 +127,10 @@ Mpângala
 - ???
 
   - Servant of God Angelo (Lazzaro da Sarcedo) Graziani, O.F.M. Cap., priest/martyr, d. 3/16/1961 (Mpângala is probably not where he's buried)
+
+Muxima, Quiçama (Kissama) municipality, Province of Icolo e Bengo (on the Kwanza River, south of Luanda)
+- Nossa Senhora da Conceição da Muxima/Church of Our Lady of Muxima (9.52067°S 13.959657°E)
+  - Site of Marian apparition
 
 Sapù, Luanda
 
@@ -629,6 +637,10 @@ No idea where or whether they exist.
   - St. Theodore of Egypt, monk, 1/7
 
 # Equatorial Guinea
+
+- Pico Basilé (Basile Mountain), Bioko Island, Bioko Norte Province
+
+  - Shrine of Our Lady of Bisila
 
 - ???
 
