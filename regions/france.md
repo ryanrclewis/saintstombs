@@ -929,7 +929,11 @@ Candé, Segré-en-Anjou Bleu canton, Segré arrondissement, Maine-et-Loire depar
 - Église paroissiale Saint-Denis/Parish church
   - St. Reginald of Mélinais, OSA, hermit, 9/17
 
-Carcassone, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
+Cannes
+- Notre Dame du Bon Voyage
+  - Where travelers go to pay for a safe journey
+
+Carcassonne, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
 
 - Sainte-Marie de Grâce (church of the former Notre-Dame monastery)
   - St. Albin of Embrun, bishop, 3/1
@@ -3089,6 +3093,9 @@ Paris, Auteuil quarter/arrondissement
 
 - Sainte-Thérèse-de-l'Enfant-Jésus sanctuary
   - Bl. Daniel Brottier, CSSp, priest, 2/28
+- Maison-mère of the Religieuses de l’Assomption (17 Rue de l’Assomption)
+  - Servant of God Isabelle de Gethsémani (née Isabelle de Clermont-Tonnerre), OrA, cofoundress, d. 7/3/1921
+
 
 Parnoy-en-Bassigny, Langres arrondissement, Haute-Marne department, Grand Est department
 
