@@ -198,19 +198,23 @@ Lisbon/Lisboa
 
   - St. Vicente de Zaragoza/Vincent of Saragossa, deacon/Spain\'s protomartyr, 1/22 (rumored to be here)
 
-Igreja de Santo António de Lisboa
+- Igreja de Santo António de Lisboa/Church of St. Anthony (Largo de Santo António da Sé)
+
+  - Site where St. Anthony of Padua was born (in the crypt)
+
+  - St. Anthony of Padua (relic only)(in the crypt
 
   - St. Justina of Antioch, martyr, 9/26
 
-Igreja do Corpo Santo
+- Igreja do Corpo Santo
 
   - Bl. Gil/Giles Rodrigues de Valadares of Santarém (São Frei Gil), OP, scholar/former satanic tool, 5/14 (tibia only)
 
-Mosteiro dos Jerónimos/Mosteiro Santa Maria de Belém area
+- Mosteiro dos Jerónimos/Mosteiro Santa Maria de Belém area
 
   - Bl. Lourenço de Belém, monk, 4/12 (he died here; is he buried here?)
 
-Vasco da Gama, explorer (not a saint)
+  - Vasco da Gama, explorer (not a saint)
 
 - São Roque/St. Roque (this is a Jesuit priory, so it may be the same as "Jesuit church" here)
 
@@ -221,9 +225,7 @@ prayers at his tomb)
 
 - Convento de/Igreja de Santiago
 
-  - Santos Mártires de Lisboa/Holy Martyrs of Lisbon/Ss. Veríssimo, Máxima, and Júlia, martyrs, 10/1 (Their relics were in the Convento, but the 
-    Convento no longer exists, so is this the church that used to be attached to the convent? Another source says they're at Convento de
-    Santos-o-Novo \[Calçada Cruz da Pedra, no. 44\])
+  - Santos Mártires de Lisboa/Holy Martyrs of Lisbon/Ss. Veríssimo, Máxima, and Júlia, martyrs, 10/1 (Their relics were in the Convento, but the Convento no longer exists, so is this the church that used to be attached to the convent? Another source says they're at Convento de     Santos-o-Novo \[Calçada Cruz da Pedra, no. 44\])
 
   - St. Apollonia (reliquary bust)
 
