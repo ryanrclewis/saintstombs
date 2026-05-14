@@ -62,15 +62,24 @@ Attleboro, Bristol County, Massachusetts
 
 - National Shrine of Our Lady of La Salette (947 Park St.)
 
+Augusta, Richmond County, Georgia
+
+- Most Holy Trinity Catholic Church (720 Telfair Street)
+
+  - Over 40 relics (including St. Longinus and Pope St. John Paul II)
+
 Auriesville, Montgomery County, New York (41 miles west of Albany)
 
 - National Shrine of the North American Martyrs (Rte. 5S and Noeltner Rd.)
+
   - St. Isaac Jogues, priest/martyr
 
 Baltimore, Maryland
 
 - Our Lady of Mount Providence Convent Chapel (701 Gun Road)
+
   - Servant of God Mother Mary Elizabeth Lange, foundress, d. 2/3/1882
+
 - St. Jude Shrine (512 W. Saratoga Street/308 N. Paca Street)
 
 Bay St. Louis, Hancock County, Mississippi
@@ -607,11 +616,19 @@ Franklin, Hampton Roads, Virginia
 Garfield Heights, Cuyahoga County, Ohio
 
 - Marymount Congregational Home (12215 Granger Road)
+
   - Our Lady of Czestochowa
+
+Garrett, Keyser Township, DeKalb County, Indiana
+
+- St. Joseph Church
+
+  - Our Lady of Lourdes Grotto
 
 Garrison, Putnam County, New York
 
 - Graymoor Friars Cemetery
+
   - Servant of God Paul James (née Lewis Thomas Wattson), SA, founder, d. 2/8/1940
 
 Genoa, Ottawa County, Ohio
@@ -786,6 +803,12 @@ Jersey City, Hudson County, New Jersey
 Juneau, Alaska
 
 - Shrine of St. Thérèse (21425 Glacier Hwy.)
+
+Kailua, Hawaii
+
+- Holy Theotokos of Iveron Orthodox Church (201 N. Kainalu Drive)
+
+  - The myrrh-streaming icon of Iveron
 
 Kalaupapa, Kalawao County, Hawaii
 
@@ -1026,26 +1049,34 @@ Miami, Miami-Dade County, Florida
 - Our Lady of Mercy Cemetery
   - Servant of God John Joseph McKniff, OSA, missionary, d. 3/24/1994
 - Tolomato Cemetery
+
   - Varella Chapel (former tomb of Ven. Félix Varela, priest/missionary, d. 2/18/1853)
 
 Middletown, New York
 
 - National Shrine of Our Lady of Mount Carmel (70 Carmelite Dr.)
+
   - Statue of Our Lady done to the specifications of Sr. Lucia of Fatima
+
   - Many different relics (St. Patrick, Carmelite saints, True Cross, etc.)
 
 Milledgeville, Baldwin County, Georgia
 
 - Memory Hill Cemetery
+
   - Flannery O'Connor, laywoman/author, d. 8/3/1964
 
 Milwaukee, Milwaukee County, Wisconsin
 
 - Archdiocesan Marian Shrine (141 N. 68<sup>th</sup> Street)
+
 - St. Vincent Pallotti Parish - East Church (5424 W. Bluemound Rd.)
+
   - Exact replica of the Marian Shrine of Schoenstatt, Germany
-- Holy Cross Cemetery (7301 W. Nash St., block 2, section B, parcel 126)
-  - Servant of God M. Theresia of the Blessed Trinity (Hendrika) Ijsseldijk, religious, d. 3/10/1926<sup>[\[1\]](#endnote-1)</sup>
+
+- Holy Cross Cemetery (7301 W. Nash St., block 2, section B, parcel 126; 43°4′35″ N  88°0′2″ W)
+
+  - Ven. Maria Theresia of the Blessed Trinity (Hendrika) Ijsseldijk, religious, d. 3/10/1926
 
 Mio, Oscoda County, Michigan
 
@@ -1243,6 +1274,12 @@ North Royalton, Cuyahoga County, Ohio
 North Tonawanda, Niagara County, New York
 
 - Infant Jesus Shrine (3442 Niagara Falls Boulevard)
+
+Norwalk, Fairfield County, Connecticut
+
+- San Joselito Adoration Chapel (85 S. Main Street)
+
+  - St. José Sánchez del Río, teen martyr, 2/10 (relic only)
 
 Notre Dame, St. Joseph County, Indiana
 
@@ -1916,7 +1953,8 @@ Waverly, Lancaster County, Nebraska
 Wernersville, Berks County, Pennsylvania
 
 - Phoebe Ministries (formerly the Jesuit Center Cemetery, 1 Reading Drive)
-  - Servant of God Fr. Walter J. Ciszek, SJ, priest/white martyr, d. 12/8/1984
+
+  - Servant of God Fr. Walter J. Ciszek, SJ, priest/white martyr, d. 12/8/1984 (his cause was cancelled by the Vatican in April 2026, but he is still considered a Servant of God)
 
 West Bend, Palo Alto County, Iowa
 
