@@ -1722,13 +1722,17 @@ Brescia, Province of Brescia, Lombardy region
 
   - St. Gaudosio/Gaudosius of Brescia, bishop, 3/7
 
-- Sant'Angela Merici (or the Casa S. Angela)
+- Santuario di Sant'Angela Merici (via Crispi 19)
 
   - St. Afra, martyr
 
   - St. Angela Merici, foundress, 1/27 (incorrupt)
-
+ 
+  - Ven. Elisabetta Girelli, laywoman/foundress, d. 1/21/1919
+  
   - St. Faustino di Brescia/Faustinus of Brescia, bishop, 2/16
+
+  - Ven. Maddalena Girelli, laywoman/foundress, d. 3/7/1923
 
   - Ss. Faustinus & Jovita, martyrs, (possibly fictitious), 2/15
 
@@ -1844,8 +1848,6 @@ Brescia, Province of Brescia, Lombardy region
 
   - St. Deusdedit, bishop, 12/10 (nothing on seb)
 
-  - Ven. Elisabetta Girelli, laywoman/foundress, d. 1/21/1919
-
   - St. Faustino of Brescia, bishop, 2/16
 
   - Bl. Faustino Chiari, OFM, monk, 5/13
@@ -1856,7 +1858,6 @@ Brescia, Province of Brescia, Lombardy region
 
   - Ven. Giovanni Battista Zuaboni, priest/founder, d. 12/12/1939 (He died here in Brescia, but where is he buried?)
 
-  - Ven. Maddalena Girelli, laywoman/foundress, d. 3/7/1923
 
   - St. Massimo/Maximus of Brescia, martyr, 1/7
 
@@ -4861,7 +4862,7 @@ Genoa (Genova)
 
 - Suore Minime di San Francesco da Paola/Mother House of the Congregation (via Marassi, 4)
 
-  - Servant of God Maria Raffaella (née Maria) de Giovanna, religious/foundress, d. 3/11/1933 (buried in the chapel)
+  - Ven. Maria Raffaella (née Maria) de Giovanna, religious/foundress, d. 3/11/1933 (buried in the chapel)
 
 - Casa madre delle Suore del Cenacolo Domenicano (Viale Ermelinda Rigon, 18)
 
@@ -6110,7 +6111,7 @@ Melicuccà, Province of Reggio Calabria, Calabria region
 
 Mercatello sul Metauro, Province of Pesaro e Urbino, Le Marche region
 
-- ???
+- Monastero delle Clarisse Cappuccine/Capuchin Poor Clares Monastery (Via S. Croce, 3)
 
   - Ven. Maria Francesca (née Clemenza Adelaide) Cesira Ticchi, OSC Cap., religious, d. 6/20/1922 (might be at Monastero delle Clarisse Cappuccine/Sacro Cuore, via Santa Croce, 1/3)
 
@@ -6606,7 +6607,7 @@ Milazzo, Province of Messina, Sicily
 
 Mineo, Province of Catania, Sicily
 
-Sant'Agrippina (Via Umberto, 1)
+- Sant'Agrippina (Via Umberto, 1)
 
   - St. Agrippina of Rome, martyr, 6/23
 
@@ -6746,7 +6747,7 @@ Monopello
 
 Monsampolo del Tronto, Province of Ascoli Piceno, Le Marche region
 
-Santa Maria Assunta
+- Santa Maria Assunta
 
   - St. Teopista/Theopista, lay martyr, 6/14
 
@@ -6765,11 +6766,11 @@ Monsummano Terme, Province of Pistoia, Toscana region
 - Santuario di Santa Maria della Fontenuova a Monsummano (Via Giacomo
   Matteotti, 13)
 
-Madonna della Fontenuova/Our Lady of the Plain, 6/9
+  - Madonna della Fontenuova/Our Lady of the Plain, 6/9
 
 Montaione, Metropolitan City of Florence, Toscana region
 
-Convento di San Vivaldo "The Jerusalem of Tuscany"
+- Convento di San Vivaldo "The Jerusalem of Tuscany"
 
   - Ven. Faustino (née Guglielmo Giacomo) Ghilardi, OFM, priest, d.
     10/25/1937
@@ -8464,6 +8465,10 @@ Parma
 
   - Ven. Celestina Bottego, MS, foundress, d. 8/20/1980 (American-born)
 
+- Suore Orsoline Missionarie del Sacro Cuore (Borgo delle Orsoline, 2)
+
+  - Ven. Maria Lucrezia (née Drusilla) Zileri dal Verme, OMSC, religious/renovator, d. 8/3/1923
+
 - Cimitero della Villetta/Villetta Cemetery
 
   - Ven. Lino di Parma (née Alpinolo) Maupas, OFM, priest, d. 5/14/1924
@@ -8477,8 +8482,6 @@ Parma
   - Bl. Eugenia Picco, religious, 9/7
 
   - St. Giovanni da Parma, abbot, 5/22
-
-  - Ven. Maria Lucrezia (née Drusilla) Zileri dal Verme, OMSC, religious/renovator, d. 8/3/1923
 
 Partinico, Metropolitan City of Palermo, Sicily
 
@@ -8994,7 +8997,7 @@ Pisa
 
 - Duomo
 
-- Pope Gregory VIII (not canonized) Note: The Cathedral burned in 1600,
+  - Pope Gregory VIII (not canonized) Note: The Cathedral burned in 1600,
   destroying the tomb
 
   - Bl. Guido della Gherardesca, hermit, 5/20
@@ -9007,11 +9010,11 @@ Pisa
 
   - Bl. John of Peace (della Pace, ask, Bl. John Cini), penitent, 11/12
 
-Santa Caterina
+- Santa Caterina
 
   - Bl. Chiara (Clare) Gambacorti, OP, religious/widow, 4/17
 
-San Domenico
+- San Domenico
 
   - Bl. Maria Mancini, OP, religious, 1/22 & 1/30
 
@@ -9020,29 +9023,29 @@ San Domenico
   - Bl. Bartolomeo Aiutamicristo da Pisa, ECMC, 1/28 (relics only; in the
     sacristy)
 
-San Giuseppe
+- San Giuseppe
 
   - Bl. Giordano/Jordan of Pisa, OP, extraordinary preacher, 3/6 & 8/19
 
-Santa Maria della Spina
+- Santa Maria della Spina
 
-Thorn from the crown of Christ
+  - Thorn from the crown of Christ
 
-San Martino
+- San Martino
 
   - St. Bona of Pisa, mystic/visionary/Augustinian tertiary, 5/29
 
-San Michele in Borgo
+- San Michele in Borgo
 
   - Bl. Domenico Vernagalli, OP, 4/20
 
   - St. Egino of Augsburg, OSB, abbot, 7/15
 
-San Zeno
+- San Zeno
 
   - Bl. Matteo/Mathieu of Albano, OSB Clun., cardinal bishop, 12/25
 
-? Possibly San Francesco
+- ? Possibly San Francesco
 
   - St. Wilfrido (Walfredo) della Gherardesca
 
@@ -9053,6 +9056,12 @@ San Zeno
 
   - Servant of God Luigi Pera, OSA, priest, d. 11/19/1952 (he died here, but
     where is he buried?)
+
+Pisa, Marina di Pisa frazione, Province of Piza, Toscania region
+
+- Chiesa di Santa Maria Assunta (Via Padre Agostino da Montefeltro 17)
+
+  - Servant of God Agostino da Montefeltro (née Luigi Vicini), OFM, priest, d. 4/5/1921
 
 Pisco Montano, Terracina
 
