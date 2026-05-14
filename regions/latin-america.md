@@ -800,9 +800,13 @@ Petrolina, Pernambuco state, Northeast region
 
 Petrópolis, Zona Leste da capital, Rio de Janeiro state
 
-Igreja de Nossa Senhora de Loudes, no Alto do Juruá
+- Igreja de Nossa Senhora de Loudes, no Alto do Juruá
 
   - SoG João María Cavalcanti de Brito, priest, d. 10/16/1905
+
+- ???
+
+  - Servant of God João Francisco de Siqueira Andrade, priest/founder, d. 4/10/1881
 
 Pinhão, Paraná state
 
@@ -1600,7 +1604,7 @@ Esmeraldas, Province of Esmeraldas
 
 - Cementerio General de Esmeraldas (Calle 13 de Julio, s/n)
 
-  - Servant of God Pedro Manuel Salado de Alba, religious missionary, d. 2/5/2012
+  - Ven. Pedro Manuel Salado de Alba, religious missionary, d. 2/5/2012
 
 Guayaquil, Guayaquil, Guayas
 
@@ -2518,6 +2522,10 @@ Tacubaya, District Federal
 
   - Servant of God Jose María Vilaseca Aguilera, founder, 4/3/1910
 
+Talpa de Allende, Jalisco state
+
+- Santuario di Nuestra Señora del Rosario/Shrine of Our Lady of the Rosary of Talpa (Morelos S/N)
+
 Taxco de Alarcon, Guerrero state
 
 - Capilla del Señor de Ojeda
@@ -2538,7 +2546,7 @@ La Casa General de las Hermanas del Corazón de Jesús Sacramentado, Calle Churu
 
 Tepatitlán de Morelos, Jalisco state
 
-San Francisco de Tepatitlán,
+- San Francisco de Tepatitlán,
 
   - St. Tranquilino Ubiarco Robles, priest/martyr, 10/5
 
@@ -2548,11 +2556,17 @@ San Francisco de Tepatitlán,
 
 Teul, Teúl de González Ortega Municipality, Zacatecas
 
-Templo de San Juan Bautista
+- Templo de San Juan Bautista
 
   - St. Agustín Caloca Cortés, priest/martyr, 5/21 or 5/25
 
-Tlaxcala
+Tlaquepaque, Jalisco state
+
+- Santuario de los Mártires de Cristo Re/Sanctuary of the Martyrs (Cerro del Tesoro)
+
+  - Two reliquaries of Mexico's Cristero martyrs
+
+Tlaxcala, Tlaxcala state
 
 - Gruta del Santuario de San Miguel Arcángel del Milagro/Grotto Shrine of St. Michael the Archangel of the Miracle (and the miraculous well)
 
@@ -2562,7 +2576,7 @@ Tlaxcala
 
 Totatiche, Totatiche Municipality, Jalisco
 
-Templo de Nuestra Señora del Rosario
+- Templo de Nuestra Señora del Rosario
 
   - St. Agustín Caloca, priest/martyr, 5/21
 
