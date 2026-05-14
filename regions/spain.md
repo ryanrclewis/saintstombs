@@ -2150,6 +2150,10 @@ Cervera, Segarra comarca, Province of Lleida/Lerida, Catalonia autonomous region
 
   - Ven. Maria Guell Puig, foundress, d. 6/14/1921
 
+- Capella de les Filles del Cor de Maria (Carrer Major, 107)
+
+	- Ven. Maria Güell i Puig, MCM, foundress, d. 6/14/1921
+
 - Cementiri de Cervera, Panteó dels Claretians
 
   - Bl. Antonio Elizalde Garvisu, CMF, religious/martyr, 2/1 & 10/19,
