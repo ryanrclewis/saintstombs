@@ -575,7 +575,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - St. Lambert of Maastricht, bishop, 9/17
 
-Église Sainte Croix/Holy Cross
+- Église Sainte Croix/Holy Cross
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
@@ -592,7 +592,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - Bl. Étienne de Liège/Stephen of Liège, OSB, abbot, 1/13
 
-Basilique Saint-Martin de Liège
+- Basilique Saint-Martin de Liège
 
   - Bl. Eve/Eva/Ève de Saint-Martin/Ève de Liège, hermitess, 3/14
 
@@ -604,11 +604,15 @@ Basilique Saint-Martin de Liège
 
   - St. Adalbert of Liège, bishop, 1/1
 
-Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters
+- Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters
 of the Cross (Rue Saint-Gilles 200)
 
   - St. Marie-Thérèse du Sacré-Cœur de Jésus (nee Jeanne) Haze,
     religious/foundress, 1/7
+
+- Cimetière de St. Gilles/St. Giles Cemetery (Cour Saint-Gilles 37)
+
+  - Servant of God Louis Mertens, SDB, priest, d. 4/25/1920 (cause suspended by the Salesians, but he is still titled a Servant of God)
 
 - ???
 
