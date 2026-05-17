@@ -286,6 +286,10 @@ region
 
 Sofia/София
 
+- Сестри от манастира Евхаристия/Generalate House of the Sisters of the Eucharist (Улица Монтевидео 15/Montevideo Street 15)
+
+  - Servant of God Maria Cristina di Gesù (née Eurosia) Alloatti/Мария Кристина ди Джесу (родена в Евросия) Алоати, SE, cofoundress, d. 12/26/1920
+
 - ???
 
   - Bl. Vikentij/Eugene Bossilkov, martyr,Bl. Евгений Босилков/Vikentij
@@ -566,6 +570,10 @@ Zagreb
 - Crkva sv. Franje/St. Francis Church (Kaptol 9)
 
   - Ven. Vendelin (né Mihael) Vošnjak, OFM, priest, d. 3/18/1933
+
+- Crkvu sv. Franje Ksaverskoga/Church of St. Francis Xavier (Ulica Matije Jandrića 21)
+
+  - Servant of God Anton Mahnič, bishop, d. 12/14/1920
 
 - Groblje Mirogoj/Mirogoj Cemetery
 
