@@ -47,7 +47,7 @@ Fortuna Island
 
 Island Bay, Wellington
 
-Home of Compassion
+- Our Lady’s Home of Compassion (2 Rhine Street)
 
   - Ven. Suzanne Aubert (Mother Mary Joseph), foundress, 10/1/1926
 
@@ -66,7 +66,7 @@ Lae
 
 - ???
 
-Fr. Hubert Hofmans, CMM, murder victim
+  - Fr. Hubert Hofmans, CMM, murder victim
 
 Rabaul, East New Britain, New Britain Island
 

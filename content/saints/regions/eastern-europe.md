@@ -172,16 +172,21 @@ Borisoglebsky (Барысаглебскім), Borisoglebsky District, Yaroslavl 
   - St. Kirill of Turov, theologian/monk/bishop, 4/28 (Russian Orthodox
     saint)
 
-Hlybokaye or Glubokoye (Belarusian: Глыбокае), formerly Berezwecz
-(Belarussian - Беразьве́чча), Hlybokaye District, Vitebsk Oblast
+Hlybokaye or Glubokoye (Belarusian: Глыбокае), formerly Berezwecz (Belarussian - Беразьве́чча), Hlybokaye District, Vitebsk Oblast
 
-Borek forest near Berezwecz (Барэцкі лес каля Беразвечча)
+- Borek forest near Berezwecz (Барэцкі лес каля Беразвечча)
 
   - Bl. Fr. Mieczysław Bohatkiewicz, 3/4
 
   - Bl. Stanisław Pyrtek, priest/martyr, 3/4
 
   - Bl. Wladyslaw Mackowiak, priest/martyr, 3/4
+
+Minsk
+
+- Касцёл Святога Сымона і Святой Алены/Kościół Świętego Szymona i Świętej Heleny/Church of Ss. Simon and Helena (Плошча Незалежнасці/Independence Square)
+
+  - Servant of God Edward Antoni Leonard Woyniłłowicz/Эдвард Вайніловіч/Edvard Vajniłovič, layman, d. 6/16/1928
 
 Navumavichy, Grodno District, Grodno Region
 
@@ -191,8 +196,7 @@ Navumavichy, Grodno District, Grodno Region
 
 Nowogrodek/Navahradak/Наваградак, Hrodna voblast Province
 
-- Касцёл Праабражэння Гасподняга (Белая фара)/Church of the
-  Transfiguration (Biała Fara)
+- Касцёл Праабражэння Гасподняга (Белая фара)/Church of the Transfiguration (Biała Fara)
 
   - Адзінаццаці Наваградскіх мучанікаў/Eleven Martyrs of Novogrodek, 8/1
 
@@ -281,6 +285,10 @@ region
 # Bulgaria
 
 Sofia/София
+
+- Сестри от манастира Евхаристия/Generalate House of the Sisters of the Eucharist (Улица Монтевидео 15/Montevideo Street 15)
+
+  - Servant of God Maria Cristina di Gesù (née Eurosia) Alloatti/Мария Кристина ди Джесу (родена в Евросия) Алоати, SE, cofoundress, d. 12/26/1920
 
 - ???
 
@@ -397,20 +405,19 @@ Heraklion
 
 Bale, Istria
 
-Pohođenje Djevice Marije/Visitazione di Maria Vergine
+- Pohođenje Djevice Marije/Visitazione di Maria Vergine
 
   - Bl. Julijan iz Bala/Giuliano Cesarello da Valle/of Bale, OFM
 
 Blato, Island of Korčula, Dubrovnik-Neretva County
 
-Družba Kćeri Milosrđa tsr Sv. Franje Samostanska kapela Krista
+- Družba Kćeri Milosrđa tsr Sv. Franje Samostanska kapela Krista
 Kralja/Daughters of Mercy, Third Order Regular of Saint Francis
 Monastery chapel of Christ the King or at Svetište Blažene Djevice
 Marije Isusa/Shrine of the Blessed Virgin Mary Jesus (they may be the
 same place; sources are confused)
 
-  - Ven. Marija od Propetog Isusa (née Marija Petković),
-    religious/foundress, d. 7/9/1966
+  - Ven. Marija od Propetog Isusa (née Marija Petković), religious/foundress, d. 7/9/1966
 
 Dubrovnik, Grad Dubrovnik, Dubrovacko-Neretvanska
 
@@ -446,15 +453,13 @@ Poreč, Istria County
 
 Rijeka, Primorsko-goranska Županija/County
 
-- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the
-  Blessed Virgin Mary
+- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the Blessed Virgin Mary
 
   - St. Marcijan of Rijeka/Marcian of Rome, senator/martyr, 9/16 (partially
     incorrupt; bočni oltar sv. Antuna Padovanskog/side altar of St. Anthony
     of Padua)
 
-- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin
-  Church of Our Lady of Lourdes
+- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin Church of Our Lady of Lourdes
 
   - Ven. Ante Josip/Antonio Tomičić, Capuchin priest, d. 11/25/1981
 
@@ -476,27 +481,21 @@ Salona (ruined city), near Solin, Dalmatia region
 
 Split, Split-Dalmatia County
 
-- Katedrala Svetog Duje/Sveti Dujam (Cathedral of St. Domnius)/Cathedral
-  of Saint Duje (oldest and smallest cathedral in the world)
+- Katedrala Svetog Duje/Sveti Dujam (Cathedral of St. Domnius)/Cathedral of Saint Duje (oldest and smallest cathedral in the world)
 
   - St. Duje (aka, Doimus, Domnio, Domnius, Dujam), bishop-martyr, 5/7
 
   - St. Domnius of Salona (Solin), bishop-martyr, 4/11
 
-- Benediktinski samostan sv. Arnira u Splitu/Benedictine monastery of St.
-  Arnira
+- Benediktinski samostan sv. Arnira u Splitu/Benedictine monastery of St. Arnira
 
-- St. Raynerius of Split, monk/archbishop/martyr, 8/4 (The monastery was
-  demolished in 1945, except for the bell tower and the chapel.)
+  - St. Raynerius of Split, monk/archbishop/martyr, 8/4 (The monastery was demolished in 1945, except for the bell tower and the chapel.)
 
-- Samostan i crkva svetog Ante/Franciscan Monastery and Church of St.
-  Anthony
+- Samostan i crkva svetog Ante/Franciscan Monastery and Church of St. Anthony
 
   - Servant of God Ivo (née Srećko) Peran, OFM, priest, d. 9/14/2003
 
-Riznica Dioklecijanove palače/Riznica katedrale Svetog Dujma/Treasury of
-Diocletian\'s Palace/Treasury of the Cathedral of Saint Domnius
-(Dioklecijanova palača)
+- Riznica Dioklecijanove palače/Riznica katedrale Svetog Dujma/Treasury of Diocletian\'s Palace/Treasury of the Cathedral of Saint Domnius (Dioklecijanova palača)
 
   - St. Anastasius the Fuller, martyr, 8/26 (in an ossuary)
 
@@ -504,14 +503,17 @@ Svetice village, Ozalj municipality, Karlovac County
 
 - Groblje na Sveticama/Cemetery
 
-  - Servant of God Janez Strašek, CM, priest/martyr, d. 3/30/1947 (his grave
-    is marked by a bust, a monument, and a tomb.
+  - Servant of God Janez Strašek, CM, priest/martyr, d. 3/30/1947 (his grave is marked by a bust, a monument, and a tomb)
 
 Svetvinčenat, Istria County
 
 - Župna crkva/Parish church
 
   - Bl. Miroslav Bulešić, priest/martyr, 8/24
+
+Tisno, Šibenik-Knin County
+
+- Svetište Gospe od Karavaja/Shrine of Our Lady of Caravaggio (43.7936372N, 15.6411008E)
 
 Trogir, Split-Dalmatia County
 
@@ -569,6 +571,10 @@ Zagreb
 
   - Ven. Vendelin (né Mihael) Vošnjak, OFM, priest, d. 3/18/1933
 
+- Crkvu sv. Franje Ksaverskoga/Church of St. Francis Xavier (Ulica Matije Jandrića 21)
+
+  - Servant of God Anton Mahnič, bishop, d. 12/14/1920
+
 - Groblje Mirogoj/Mirogoj Cemetery
 
   - Servant of God Marica Stanković, lay teacher/foundress, d. 10/8/1957
@@ -584,6 +590,10 @@ Famagusta, Gazimağusa District
   - St. Pierre Thomas (nee Pierre de Salignac de Thomas), O.Carm., Latin
     patriarch of Constantinople, 1/6 (grave lost)
 
+Larnaca, Larnaca District
+- Ιερός Ναός Αγίου Λαζάρου/Church of Saint Lazarus (Agios Lazaros)
+  - Άγιος Λάζαρος/St. Lazarus the Resurrected, Christ's friend/a bishop, the Saturday before Holy Week/the Saturday before Palm Sunday
+C
 Limassol
 
 - ???
@@ -632,7 +642,7 @@ Troodos, Paphos District
 
   - St. Paul of Cyprus, monk, martyr, 3/17
 
-# Czech Republic
+# Czech Republic/Czechia
 
 České Budějovice/Budweis, České Budějovice district, South Bohemian
 region
@@ -757,7 +767,7 @@ Prague/Praha
 
   - St. Wenceslas I, ruler/martyr, 9/28
 
-Prague Castle
+- Prague Castle
 
   - St. Pribyslava, OSB, nun/sister of St. Wenceslaus, 12/12 (probably in
     the chapel of St. Wenceslaus)
@@ -767,7 +777,7 @@ Prague Castle
   - Servant of God Adolf Kajpr, SJ, priest, d. 9/17/1959 (Kapli sv. Aloise
     Gonzygy/Chapel of St. Aloise Gonzaga)
 
-Náš Marie Snĕžé/Our Lady of the Snows
+- Náš Marie Snĕžé/Our Lady of the Snows
 
   - Bl. Frederick Bachstein and 13 companions (Martyrs of Prague),
     Franciscan martyrs, 2/15
@@ -809,7 +819,7 @@ Prague, Břevnov district
 - Baziliky sv. Markéty/Basilica of St. Margaret of Antioch (Markétská
   1/28)
 
-Tombstone of St. Vintír/Gunther of Bohemia, hermit, 10/9
+  - Tombstone of St. Vintír/Gunther of Bohemia, hermit, 10/9
 
 Prague, Ďáblice municipal district, District 8, Prague Region
 
@@ -822,9 +832,13 @@ Prague, Ďáblice municipal district, District 8, Prague Region
   - Servant of God Josef Toufar, priest/martyr, d. 2/25/1950 (buried in a
     mass grave)
 
+Prague, Hradčany
+- Kostel sv. Benedikta/Church of St. Benedict (Hradčanské náměstí 184; within the Prague Castle complex)
+  - Ven. Maria Eletta di Gesù (née Caterina) Tramazzoli, OCD, religious, d. 1/11/1663 (incorrupt)
+
 Prague, Strahovské nádvoři in the Hradčany district
 
-Královská kanonie premonstrátů na Strahově/Royal Premonstratensian
+- Královská kanonie premonstrátů na Strahově/Royal Premonstratensian
 Canonry of Strahov (Strahovský klášter) (Strahovské nádvoří 1/132)
 
   - Bl. Heinrich Zdik, O. Praem, bishop, 6/25
@@ -851,7 +865,7 @@ Sedlec, suburb of Kutna Hora
 
 - Kostnice of the Cistercian All Saints chapel
 
-Ossuary of 40,000 Christians
+  - Ossuary of 40,000 Christians
 
 Slatiňany, Chrudim district, Pardubice region
 
@@ -862,7 +876,7 @@ Slatiňany, Chrudim district, Pardubice region
 
 Sobotin, Okres Šumperk (district), Olomoucký kraj
 
-Kostel svatého Vavřince (St. Lawrence)
+- Kostel svatého Vavřince (St. Lawrence)
 
   - Bl. Maria Magdalena (Maria Paschalis) Jahn, religious, 5/11
 
@@ -876,17 +890,23 @@ kraj/region
 
 Starovičky, Břeclav District, South Moravian Region
 
-??? (probably at Hřbitov Starovičky)
+- ??? (probably at Hřbitov Starovičky)
 
   - Bl. Václav Drbola, priest/martyr, 8/3
 
 Teplá, Cheb District, Karlovy Vary region
 
-Klášter Teplá
+- Klášter Teplá
 
   - Bl. Andreas Ebersbach, prior, 7/3
 
   - Bl. Hroznata of Ovenec, nobleman, 7/14
+
+Velehrad, Okres Uherské Hradiště, Zlin
+
+- Římskokatolická Farnost Velehrad (Roman Catholic Parish Velehrad) (Stojanovo nádvoří 206)
+
+  - Ven. Antonín Cyril Stoja, archbishop, d. 9/29/1923 (Royal Chapel)
 
 Želiv, Pelhřimov district, Vysočina region
 
@@ -896,7 +916,7 @@ Klášter Teplá
 
 - ???
 
-- Bl. Godescalc, 3/1, said by santiebeati to be buried at the Abbey of
+  - Bl. Godescalc, 3/1, said by santiebeati to be buried at the Abbey of
   Siloam in Bohemia.
 
   - Bl. Nicholas Plutzer, O. Praem, prior, 6/21
@@ -921,6 +941,12 @@ Aegina Island
 
   - St. Nectarios of Aegina, Metropolitan, 11/9 (recent Greek Orthodox
     saint)
+
+Aigialeia/Αιγιάλεια, Achaea, West Greece Peloponnese
+- Ιερά Μονή των Παμμεγίστων Ταξιαρχών/Sacred Monastery of the Holy Angels/Monastery of the Pammegiston Taxiarchon
+  - Icon of the Taxiarchis (Archangel Michael, made from the mud and blood of martyred monks)
+  - Αγία Κυριακή/St. Kyriaki the Great Martyr, female martyr, 7/7
+  - Άγιος Λεόντιος o Μονεμβασιώτης/St. Leontius of Monemvasia, 12/11 (incorrupt)
 
 Ampelokipi, district of Athens (Αμπελόκηποι (συνοικία της Αθήνας))
 
@@ -1015,11 +1041,11 @@ Corfu/Kerkyra/Κέρκυρα
 
 - Ναός Παναγίας Σπηλαιώτισσας/Church of Panagia Spilaiotissa
 
-Empress St. Θεοδώρα/Theodora, 2/11
+  - Empress St. Θεοδώρα/Theodora, 2/11
 
 - Ναός Αγίου Σπυρίδωνα/St. Spyridon Church
 
-- [Ἅ]{dir="rtl"}γιος Σπυρίδων/St. Spyridon, Church Father, 12/12
+  - Αγιος Σπυρίδων/St. Spyridon, Church Father, 12/12
 
 - ???
 
@@ -1703,11 +1729,17 @@ Gozo
 
   - Servant of God Mikiel Attard, priest, d. 7/30/2004
 
+Ħamrun, Northern Harbour District, Southern Region
+
+- The Nuzzo Institute/Casa Madre of the Daughters of the Sacred Heart/Ulied il-Qalb ta' Ġesù (Triq il-Ferrovija/Railway Street)
+
+  - Servant of God Maria Teresa Nuzzo, UQĠ, foundress, d. 4/17/1923
+
 Il-Mellieħa/Mellieħa, Northern Region
 
 - Il-Prijorat ta' San Duminku/Priory of St. Dominic (1km south from Rabat)
 
-- Madonna tal-Grotta/Our Lady of the Grotto
+  - Madonna tal-Grotta/Our Lady of the Grotto
 
 Mdina
 
@@ -2117,7 +2149,7 @@ north of the country)
 
 Jarosław, Yaroslavl County, Subcarpathia voivodeship
 
-Starym Cmentarzu w Jarosławiu
+- Starym Cmentarzu w Jarosławiu
 
   - Servant of God Anna Jenke, teacher, d. 2/15/1976
 
@@ -2154,10 +2186,16 @@ Kalisz, Greater Poland voivodeship
 
   - St. Padre Pio (relic only)
 
-Keeper of the log of all the miracles attributed to St. Joseph's
+  - Keeper of the log of all the miracles attributed to St. Joseph's
 intercession
 
-Miraculous painting of St. Joseph
+- Miraculous painting of St. Joseph
+
+Kalwaria Pacławska, Fredropol, Przemyśl
+- Bazylika Znalezienia Krzyża Świętego i klasztor Franciszkanów Konwentualnych/Basilica of the Discovery of the Holy Cross (Kalwaria Pacławska 40)
+  - Obraz Matki Bożej Kalwaryjskiej (Cierpliwie Słuchającej)/The painting of Our Lady of Kalwaria (Listening Patiently)
+  - Relics of the Holy Cross, St. Faustina Kowalska, St. John Paul II, St. Florian, St. Thecla, St. Francis of Assisi, St. Anthony of Padua, St. Joseph of Cupertino, Bl. Strzemię, St. Josaphat Kuncewicz, Blessed Zbigniew Strzałkowski, Bl. Michał Tomaszek, St. Valentine, St. Stanislaus Kostka
+  - Ven. Wenanty (née Józef) Katarzyniec, OFM Conv., priest, d. 3/31/1921
 
 Kalwaria Zebrzydowska, Gmina Kalwaria Zebrzydowska, Wadowice County,
 Lesser Poland Voivodeship
@@ -2201,11 +2239,23 @@ Koniemłoty, Staszów County, Świętokrzyskie Voivodeship
 
   - Servant of God Roman Kotlarz, priest/martyr, d. 8/18/1976
 
+Kórnik, Poznań Powiat, Greater Poland Voivodeship/wielkopolskie Województwo
+
+- Kolegiacie Wszystkich Świętych/All Saints' Collegiate Church (Średzka 1)
+
+  - Servant of God Jadwiga Zamoyska, laywoman/activist, d. 11/4/1923
+
 Kostomłoty, Lublin Voivodeship
 
-- Shrine of the Martyrs of Podlachia
+- Sanktuarium Unitów Podlaskich św. Nikity Męczennika/Sanktuarium Męczenników Podlaskich/Shrine of the Martyrs of Podlachia (Kostomłoty 15)
 
   - Martyrs of Podlachia, 1/24
+
+Kozienice, Kozienice Powiat/County, Masovian Voivodeship
+
+- Kościół św. Józefa/St. Joseph Church (ul. Konstytucji 3-go Maja 37)
+
+  - Ven. Maria od św. Józefa (née Kazimiera) Gruszczyńska, CSFA, foundress, d. 9/17/1927
 
 Krakow/Kraków
 http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
@@ -2216,9 +2266,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
   - St. Stanisław/Stanislaus, bishop/martyr, 4/11
 
-Kościół Najświętszego Serca Pana Jezusa w Krakowie (ul.
-Kopernika)/Church of the Sacred Heart of Jesus/kościół konwentualny
-jezuitów/Jesuit Church
+- Kościół Najświętszego Serca Pana Jezusa w Krakowie (ul. Kopernika)/Church of the Sacred Heart of Jesus/kościół konwentualny jezuitów/Jesuit Church
 
   - St. Andrew Bobola, SJ, 5/16
 
@@ -2238,7 +2286,7 @@ jezuitów/Jesuit Church
 
   - St. Jacek Odrowąż/Hyacinth, OP, priest/missionary, 8/17
 
-Kolegiata św. Anny (13 św. Anny Street)
+- Kolegiata św. Anny (13 św. Anny Street)
 
   - St. Jan z Kęt/Jan Kanty/John of Kanty/John Cantius), theologian/parish
     priest, 12/23
@@ -2250,51 +2298,43 @@ Kolegiata św. Anny (13 św. Anny Street)
 
   - Bl. Bronisława/Bronislava of Poland, abbess, 8/29
 
-Kościoła pw. Świętego Bernardyna ze Sieny
+- Kościoła pw. Świętego Bernardyna ze Sieny
 
   - St. Szymon z Lipnicy/Szymon of Lipnica, OFM, priest, 7/18
 
-Kościół Franciszkanów Reformowanych św. Kazimierza/St. Casimir Reformed
-Franciscan Church
+- Kościół Franciszkanów Reformowanych św. Kazimierza/St. Casimir Reformed Franciscan Church
 
-- Once a year, on November 2, the crypts of the church with their
-  mummified bodies are made available to visitors
+  - Once a year, on November 2, the crypts of the church with their mummified bodies are made available to visitors
 
-Sanktuarium Ecce Homo św. Brata Alberta w Krakowie
+- Sanktuarium Ecce Homo św. Brata Alberta w Krakowie
 
   - St. Albert (aka, Adam) Chmielowski, priest/founder 6/17
 
   - Bl. Bernardyna (nee Maria) Jabłońska, religious/foundress/mystic, 9/23
 
-- Convent of St. Catherine of Krakow
+- Klasztor św. Katarzyny w Krakowie/Convent of St. Catherine of Krakow (ul. Augustiańska 7-9)
 
   - Bl. Isaiah Boner of Krakow, priest/scholar, 11/8
 
-Kościół św. Floriana
+- Kościół św. Floriana (ul. Warszawska 1b)
 
-  - St. Florian of Lorch, martyr, 5/3 (relics only if they're still even
-    here)
+  - St. Florian of Lorch, martyr, 5/3 (relics only if they're still even here)
 
-- Bazylika św. Franciszka z Asyżu/Basilica of the Saint Francis of Assisi
-  (Franciszkańska Kaplica Męki Pańskiej Franciscan Chapel of Our Lord's
-  Passion)
+- Bazylika św. Franciszka z Asyżu/Basilica of the Saint Francis of Assisi (Franciszkańska Kaplica Męki Pańskiej Franciscan Chapel of Our Lord's   Passion)
 
   - Bl. Salomea the Princess of Galicia, PC, nun, 11/17
 
-- Bl. Aniela/Angela Salawa, laywoman, 3/12 (in the Chapel of Our Lord's
-  Passion)
+  - Bl. Aniela/Angela Salawa, laywoman, 3/12 (in the Chapel of Our Lord's Passion)
 
-- Kościoła św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie/Church
-  of St. John the Baptist and St. John the Evangelist
+- Kościoła św. Jana Chrzciciela i św. Jana Ewangelisty w Krakowie/Church of St. John the Baptist and St. John the Evangelist
 
   - Bl. Zofia Czeska (née Maciejowska), widow/foundress, 4/1 (skull only)
 
-- Kościoła św. Maksymiliana Marii Kolbego w Krakowie/Church of St.
-  Maksymilian Maria Kolbe
+- Kościoła św. Maksymiliana Marii Kolbego w Krakowie/Church of St. Maksymilian Maria Kolbe
 
-- Servant of God Józef Kurzeja, priest, d. 8/15/1976 (krypta/crypt)
+  - Servant of God Józef Kurzeja, priest, d. 8/15/1976 (krypta/crypt)
 
-Kościół św. Marka w Krakowie, ul. Saint Mark 10
+- Kościół św. Marka w Krakowie, ul. Saint Mark 10
 
   - Bl. Michał Giedroyć, OCRM, priest, 5/4
 
@@ -2306,16 +2346,19 @@ Kościół św. Marka w Krakowie, ul. Saint Mark 10
 
   - Bl. Hanna Helena Chrzanowska, OblOSB, nurse/cancer victim, 4/29
 
-- Kościół św. Stanisława Kostki w Krakowie/Church of St. Stanislaus Kostka
-  in the VIII Dębniki district (l. Konfederackiej 6/6 Konfederacka Street)
+- Kościół św. Stanisława Kostki w Krakowie/Church of St. Stanislaus Kostka in the VIII Dębniki district (l. Konfederackiej 6/6 Konfederacka Street)
 
   - Ven. Jan Leopold Tyranowski, tailor, d. 3/15/1947
 
-Sanktuarium Bożego Miłosierdzia/Sanctuary of Divine Mercy
+- Kościoła Zmartwychwstania Pańskiego w Krakowie/Church of the Resurrection (ul. Łobzowskiej 10)
+
+  - Ven. Paweł Klemens Smolikowski, CR, priest, d. 9/11/1926
+
+- Sanktuarium Bożego Miłosierdzia/Sanctuary of Divine Mercy
 
   - St. Maria Faustina (nee Helena) Kowalska, nun/mystic, 10/5
 
-Niepokalanego Serca Maryi/Felician Sisters Mother House
+- Niepokalanego Serca Maryi/Felician Sisters Mother House
 
   - Bl. Angela Maria (Sofia Camilla) Truszkowska, foundress, 10/10
 
@@ -2323,11 +2366,9 @@ Niepokalanego Serca Maryi/Felician Sisters Mother House
 
   - Servant of God Jerzy Ciesielski, layman, Focolare movement, d. 10/9/1970
 
-Cmentarz Kraków-Prądnik Biały/Cmentarz na Prądniku Białym/Kraków-Prądnik
-Biały cemetery (ul. Piaszczysta)
+- Cmentarz Kraków-Prądnik Biały/Cmentarz na Prądniku Białym/Kraków-Prądnik Biały cemetery (ul. Piaszczysta)
 
-  - Servant of God Zofia (née Paula) Tajber, religious/foundress, d.
-    5/28/1963
+  - Servant of God Zofia (née Paula) Tajber, religious/foundress, d. 5/28/1963
 
 - Cmentarz Rakowicki/Rakowicki Cemetery
 
@@ -2335,8 +2376,9 @@ Biały cemetery (ul. Piaszczysta)
 
   - Ven. Rozalia Celakówna, laywoman, d. 9/13/1944
 
-- Cmentarzu wojskowym przy ul. Prandoty/Military cemetery on Prandoty
-  Street
+- Cmentarzu wojskowym przy ul. Prandoty/Military cemetery (ul. bp. Jana Prandoty 1)
+
+  - Servant of God Emilia (née Kaczorowska) Wojtyła, laywoman, d. 4/13/1929
 
   - Servant of God Karol Wojtyła, layman/father of Pope John Paul II, d.
     2/18/1941
@@ -2803,8 +2845,7 @@ Bazylika Archikatedralna pod wezwaniem Jana Chrzciciela
 
 - Cathedral Basilica of St. John the Baptist
 
-- St. Jozef Sebastian Pelczar (in the chapel of the relics of St Fredro),
-  bishop, 3/28
+  - St. Jozef Sebastian Pelczar, bishop, 3/28 (in the chapel of the relics of St. Fredro)
 
 - Salesian Church (Salezjanie)
 
@@ -2867,7 +2908,7 @@ Kierocińskiej Street
 
   - Servant of God Marcjanna Grzanka, laywoman, d. 6/26/1941
 
-Stara Wieś, Brzozów County, Podkarpackie voivodeship
+Stara Wieś, Gmina Brzozów (County), Podkarpackie voivodeship
 
 - Dom Macierzysty Zgromadzenia Sióstr Służebniczek Najświętszej Maryi
   Panny Niepokalanie Poczętej/Motherhouse of the Congregation of the
@@ -2879,6 +2920,8 @@ Stara Wieś, Brzozów County, Podkarpackie voivodeship
 - Cmentarzu w Starej Wsi/Town cemetery
 
   - Servant of God Roberta (nee Zofia) Babiak, BDNP, religious, d. 7/12/1945
+
+  - Servant of God Wojciech Maria Baudiss, SJ, priest, d. 4/25/1926
 
 Starym Sączu, Nowy Sącz county, Lesser Poland voivodeship
 
@@ -3844,12 +3887,15 @@ Nitra, Nitra district, Nitra region
 
 Prešov (aka, Prjašev), Prešov district, Prešov region
 
-- Chrám svätého Jána Krstiteľa/Cathedral of St. John the Baptist (Greek
-  Catholic)
+- Chrám svätého Jána Krstiteľa/Cathedral of St. John the Baptist (Greek Catholic)
 
   - Bl. Pavel/Pavol Peter Gojdic, bishop/martyr, 7/17
 
   - Bl. Vasil/Basil Hopko, bishop/martyr, 6/2 or 7/23
+
+- Mestský cintorín Prešov - Šváby/City Cemetery Prešov – Šváby
+
+  - Servant of God Olena Hlibovyts'ka, OSBM, religious, d. 10/9/1929
 
 Ružomberok, Liptov region, Ružomberok district, Žilina County
 
@@ -4993,10 +5039,11 @@ Archcathedral Basilica of the Assumption of the Blessed Virgin Mary
   - Ven. Серафима Львівського/Serafym of Lviv (nee Aloiz Kazymir Kashuba),
     OFM Cap., priest, d. 9/20/1977
 
-- Lychakiv/Lychakivsky Cemetery
+- Личаківський цвинтар/Cmentarz Łyczakowski/Lychakiv Cemetery (Вулиця Мечникова/Vul. Mechnikova [Mechnikov Street] 33) 
 
-  - Bl. Bishop Nicholas (aka, Mykola) Carneckyj (aka, Charnetsky), martyr
-    4/2
+  - Servant of God Дольницький Ісидор Іванович/Isidor Dolnytskyi, priest, d. 9/22/1924
+
+  - Bl. Bishop Nicholas (aka, Mykola) Carneckyj (aka, Charnetsky), martyr 4/2
 
 - Старосихівському цвинтарі/Starosykhiv cemetery
 

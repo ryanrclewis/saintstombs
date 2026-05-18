@@ -1,4 +1,5 @@
-Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia state
+Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
+state
 
 - Cathedral
 
@@ -106,7 +107,7 @@ Andechs, Bavaria
 
   - Queen St. Hedwig of Poland/Andechs, 10/16 (relics only)
 
-A huge collection of relics
+  - A huge collection of relics
 
 Ansbach, Mittelfranken administrative district, Bayern/Bavaria state
 
@@ -123,7 +124,7 @@ Arnoldsweiler, Düren town, Düren district, North Rhine-Westphalia
 
 Arnsberg, Hochsauerland county, Nordrhein-Westfalen state
 
-Prämonstratenserkloster Wedinghausen/Kloster Wedinghausen/Norbertine
+- Prämonstratenserkloster Wedinghausen/Kloster Wedinghausen/Norbertine
 monastery of Wedinghausen/Propsteikirche/Klosterkirche St.
 Laurentius/Monastery Church of St. Laurence
 
@@ -144,7 +145,7 @@ Augsburg, Swabia, Bayern/Bavaria state
 
 - Church of Ss. Ulrich and Afra
 
-- St. Afra of Augsburg, martyr, 8/12 (in the crypt)
+  - St. Afra of Augsburg, martyr, 8/12 (in the crypt)
 
   - St. Hilaria of Augsburg, martyr, 8/12 (mother of Afra)
 
@@ -156,9 +157,9 @@ Augsburg, Swabia, Bayern/Bavaria state
 
   - St. Wigbert of Augsburg, bishop, 4/18
 
-Kirche St. Peter am Perlach
+- Kirche St. Peter am Perlach
 
-Unsere Liebe Frau, Knotenlöserin/Our Lady Undoer of Knots, 9/28
+  - Unsere Liebe Frau, Knotenlöserin/Our Lady Undoer of Knots, 9/28
 
 - ???
 
@@ -213,9 +214,15 @@ region, Baden-Württemberg
 
 Bad Segeberg, Segeberg district/Landkreis, Schleswig-Holstein state
 
-Kloster Segeberg (destroyed by the Lutherans)
+- Kloster Segeberg (destroyed by the Lutherans)
 
   - Bl. Volker von Segeberg, OSA, monk/martyred by pagans, 3/7
+
+Bad Staffelstein, Lichtenfels district, Bayern/Bavaria state
+
+- Schloss Banz/Banz Castle/Kloster Banz/Banz Abbey
+
+  - Ss. Vincenzius, Valerius, Benedictus, and Felix Benedictus, transfers from the Roman catacombs. Nothing else is known about them.
 
 Bamberg, Urban district, Upper Franconia administrative region, Bavaria state
 
@@ -673,7 +680,7 @@ Disibodenberg, Rhineland-Palatinate
 Donaueschingen, Schwarzwald-Baar-Kreis, Freiburg administrative region,
 Baden-Württemberg state
 
-??? (possibly at St. Johann; urn with his ashes)
+- ??? (possibly at St. Johann; urn with his ashes)
 
   - Msgr. Heinrich Feurstein, martyr of Dachau, d. 8/2/1942
 
@@ -684,18 +691,21 @@ Rhine-Westphalia state
 
   - St. Reinhold of Cologne, OSB, murdered monk, 1/7
 
+- Franziskanerkloster (Franziskanerstraße 1, in the Innenstadt-Ost district)
+
+  - Ven. Jordan (née Heinrich) Mai, OFM, religious, d. 2/20/1922
+
 Dresden
 
-Katholische Hofkirche/Sanctissimae Trinitatis/Catholic Court
-Church/Cathedral
+- Katholische Hofkirche/Sanctissimae Trinitatis/Catholic Court Church/Cathedral
 
   - Bl. Alois Andritzki/Alojs Andricki, priest/martyr, 2/3
 
   - St. Benno of Meissen, 6/16 (relics only)
 
-- St. Benno's miter (in the Benno Chapel)
+  - St. Benno's miter (in the Benno Chapel)
 
-Neuer Katholischer Friedhof
+- Neuer Katholischer Friedhof
 
   - Bl. Czesław Jóźwiak, layman/martyr, 8/24 (buried with the other four)
 
@@ -707,8 +717,6 @@ Neuer Katholischer Friedhof
 
   - Bl. Jarogniew Wojciechowski, layman/martyr, 8/24 (buried with the other
     four)
-
-- ???
 
 Dülmen, Coesfeld district, North Rhine-Westphalia
 
@@ -736,7 +744,7 @@ Nordrhein-Westfalen state
 
 Ebsdorfergrund (near Hamburg), Hesse
 
-Near the battlefield
+- Near the battlefield
 
   - St. Bruno of Saxony, duke/martyr, 2/2
 
@@ -1307,13 +1315,8 @@ Unterfranken administrative region, Bayern/Bavaria state
 
   - Bl. Imina/Immina of Würzburg, abbess, 11/25
 
-Kempten, Swabia, Bavaria state
-
-- Zentralfriedhof/Main cemetery (Rottachstraße 62)
-
-  - Servant of God Gertraud von Bullion, laywoman/cofoundress, d. 6/11/1930 (buried in the von Bullion family crypt/der Gruft der Familie von Bullion)
-
-Kempten in the Allgäu, Bavaria (situated between Lake Constance and Monaco)
+Kempten in the Allgäu, Bavaria (situated between Lake Constance and
+Monaco)
 
 - St. Lorenz basilica
 
@@ -1323,17 +1326,20 @@ Kempten in the Allgäu, Bavaria (situated between Lake Constance and Monaco)
 
 Kiel, Schleswig-Holstein state
 
-- Kiel Kloster (destroyed during the Reformation)
+Kiel Kloster (destroyed during the Reformation)
 
   - Bl. Adolf IV of Schauenburg, nobleman/Franciscan priest, 7/8
 
-Kitzingen, Kitzingen district, Unterfranken administrative region, Bayern/Bavaria state
+Kitzingen, Kitzingen district, Unterfranken administrative region,
+Bayern/Bavaria state
 
 - ???
 
-  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun, 2/2 (her relics were scattered by Protestants during the Peasant's War)
+  - St. Hadeloga von Kitzingen/Adeloga of Kitzingen, OSB, princess/nun,
+    2/2 (her relics were scattered by Protestants in the Peasant's War)
 
-  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess, 10/15 (her relics were scattered by Protestants during the Peasant's
+  - St. Thecla (aka, Tecla, Heilga) of England/of Kitzingen, abbess,
+    10/15 (her relics were scattered by Protestants in the Peasant's
     War)
 
 Klotten, Cochem-Zell, Rhineland-Palatinate
@@ -1344,7 +1350,7 @@ Klotten, Cochem-Zell, Rhineland-Palatinate
 
 Koblenz, Urban district, Rhineland-Palatinate state
 
-- Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
+Sankt Kastor von Karden/Basilika St. Kastor, also Kastorkirche
 
   - St. Castor of Karden, priest/hermit, 2/13
 
@@ -1857,7 +1863,7 @@ Paderborn, North Rhine-Westphalia
 
 - Cathedral
 
-- St. Badurad of Paderborn, 2^nd^ bishop, 9/17 (tomb lost)
+  - St. Badurad of Paderborn, 2^nd^ bishop, 9/17 (tomb lost)
 
   - St. Liborius, bishop, 7/23
 
@@ -1877,7 +1883,7 @@ country)
 - Pfarrei St. Lioba- Kirche St. Peter/Liobakirche/Church of St. Lioba
   (formerly St. Peter) (located on Petersberg, the mountain)
 
-- St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is
+  - St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is
   here, too)
 
 Petershausen, Dachau District, Upper Bavaria Region, State of Bavaria
@@ -1888,7 +1894,7 @@ Petershausen, Dachau District, Upper Bavaria Region, State of Bavaria
 
 Pirmasens, Rhineland-Palatinate
 
-Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
+- Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
 
   - Bl. Paul Josef Nardini, founder, 1/27
 
@@ -1898,7 +1904,7 @@ Franciscan Sisters of the Holy Family/Sisters of Mallersdorf
 
 Prüfening (on the western edge of Regensburg)
 
-Klöster Prüfening (aka, Schloss Prüfening \[Prüfening Castle\])
+- Klöster Prüfening (aka, Schloss Prüfening \[Prüfening Castle\])
 
   - St. Erminold of Prüfening, OSB, prior, 1/6
 
@@ -1922,7 +1928,7 @@ Audifax), martyrs, 1/19
 
 Puch, Fürstenfeldbruck
 
-Kirche St. Sebastian
+- Kirche St. Sebastian
 
   - Bl. Edigna of Puch, hermit, 2/26
 
@@ -2052,7 +2058,7 @@ State
 Reute, Emmendingen district, Freiburg administrative region,
 Baden-Württemberg state
 
-Unserer Lieben Frau vom Rosenkranz/Our Lady of the Rosary in Unterreute
+- Unserer Lieben Frau vom Rosenkranz/Our Lady of the Rosary in Unterreute
 
   - Bl. Elizabeth Achler (aka, Bertha the Good), TOSF, stigmatist, 11/25
     (she's buried in a church)
@@ -2065,7 +2071,7 @@ Riesenbeck, Steinfurt district, North Rhine-Westphalia state
 
 Roggenburg, District of Neu-Ulm, Bayern state
 
-Kloster Roggenburg
+- Kloster Roggenburg
 
   - St. Laurentia
 
@@ -2075,7 +2081,7 @@ Kloster Roggenburg
 
   - St. Venantius
 
-Prämonstratenser Kloster Roggenburg
+- Prämonstratenser Kloster Roggenburg
 
   - Bl. Severin Ott, O.Praem., priest, 12/11
 
@@ -2089,7 +2095,7 @@ Baden-Württemberg state
 Rot an der Rot, Biberach district, Tübingen administrative region,
 Baden-Württemberg state
 
-Reichsabtei Rot an der Rot
+- Reichsabtei Rot an der Rot
 
   - Bl. Odino/Ottino of Rot, O.Praem, abbot, 1/2
 
@@ -2106,13 +2112,9 @@ Baden-Württemberg state
 
   - Servant of God Joannes Baptista Sproll, bishop, d. 3/4/1948
 
-Rupertsburg
-
-- ???
-
 Rülzheim, Germersheim district, Rhineland-Palatinate state
 
-Dieterskirchel
+- Dieterskirchel
 
   - St. Theodard van Maastricht, murdered bishop, 9/10 (relics only)
 
@@ -2134,9 +2136,15 @@ Saarbrücken (Sankt Arnual Stadtteil \[district\]), Saarland
 
   - Servant of God Willi Graf, layman/martyr, d. 10/12/1943
 
+Sachsenkam, Bad Tölz-Wolfratshausen Landkreis/District, Bayern/Bavaria state
+
+- Franziskanerinnenkloster Reutberg/Klosterkirche Reutberg/Reutberg Abbey Church (Am Reutberg 1)
+
+  - Ven. Maria Fidelis (née Eleonore Margarete) Weiß, OSF, religious/stigmatist, d. 2/11/1923
+
 Sankt Goar, Rhein-Hunsrück-Kreis district, Rheinland-Pfalz state
 
-Katholische Kirche St. Goar und St. Elisabeth
+- Katholische Kirche St. Goar und St. Elisabeth
 
   - St. Goar of Aquitaine, priest/hermit, 7/6
 
@@ -2145,7 +2153,7 @@ Schäftlarn, Munich/München district, Oberbayern, Bayern/Bavaria state
 - Kloster Schäftlarn/Prämonstratenserkloster Schäftlarn/Norbertine Abbey
   of Schäftlarn (was Norbertine, now Benedictine; amazing to see)
 
-Side altar of the crucifix, saint buried here
+  - Side altar of the crucifix, saint buried here
 
   - Bl. Eberhard of Schäftlarn, O.Praem., prior, 1/9
 
@@ -2162,7 +2170,7 @@ Schönau, Karlsruhe administrative region, Baden-Württemberg state
 Schwanfeld, Schweinfurt district, Unterfranken administrative region,
 Bayern/Bavaria state
 
-Klosterkirche Heiligenthal (now privately owned)
+- Klosterkirche Heiligenthal (now privately owned)
 
   - Bl. Jutta of Heiligenthal, abbess, 11/29 (under the high altar)
 
@@ -2178,18 +2186,18 @@ state
 
   - Ss. Peter & Marcellinus
 
-  - Ss. Peter and Marcellinus, Roman martyrs
+    - Ss. Peter and Marcellinus, Roman martyrs
 
 - Abbey
 
-Einhard the Historian (not a saint; historical figure)
+  - Einhard the Historian (not a saint; historical figure)
 
   - Ss. Marius and Martha, spouses, Audifax and Abachum, brothers, all
     of Persia, martyrs, 1/19 (relics only)
 
 Selm, Unna district, Arnsberg, Nordhein-Westfalen state
 
-Schloss Cappenberg/Cappenberg Castle (former Premonstratensian canonry)
+- Schloss Cappenberg/Cappenberg Castle (former Premonstratensian canonry)
 
   - Bl. Giselbert of Cappenberg, O. Praem., monk, 6/8 (he died here; is his
     tomb still extant?)
@@ -2207,7 +2215,7 @@ Siegburg, Rhein-Sieg District, North Rhine-Westphalia
 
 Sigmaringen, Tübingen administrative region, Baden-Württemberg state
 
-Kirche des Heiligen Fidelis
+- Kirche des Heiligen Fidelis
 
   - St. Fidelis of Sigmaringen, OFM, martyr, 4/24 (relics only)
 
@@ -2216,21 +2224,21 @@ Nordrhein-Westfalen/North Rhine-Westphalia state
 
   - St. Patrokli
 
-  - St. Patroklus/Parre/Patroclus of Troyes, layman/martyr, 1/21
+    - St. Patroklus/Parre/Patroclus of Troyes, layman/martyr, 1/21
 
 Solnhofen, near Eichstätt, Bavaria
 
-Sola-Basilika/Solabasilika
+- Sola-Basilika/Solabasilika
 
-- St. Solus/Sola, hermit, 12/4 (tomb empty?)
+  - St. Solus/Sola, hermit, 12/4 (tomb empty?)
 
   - St. Märgen
 
 - Monastery of St. Märgen
 
-Miraculous image of Our Lady
+  - Miraculous image of Our Lady
 
-- "Catacomb saint" Constantius
+  - "Catacomb saint" Constantius
 
 Speyer, Rhineland-Palatinate
 
@@ -2305,7 +2313,7 @@ Thale, Harz district, Sachsen-Anhalt/Saxony-Anhalt state
 
 Tholey, Sankt Wendel district, Saarland
 
-Sankt Wendel
+- Sankt Wendel
 
   - St. Wendelin, hermit, 10/22
 
@@ -2321,11 +2329,15 @@ Trier
 
 - Cathedral of St. Peter
 
-The robe of Christ
+  - The robe of Christ
 
   - St. Gregorio da Spoleto, priest/martyr, 12/24 (relics only)
 
-Groß Sankt Martin
+- Jesuitenkirche (Jesuitenstraße 12-13)
+
+  - Ven. Wilhelm Eberschweiler, SJ, priest, d. 12/23/1921
+
+- Groß Sankt Martin
 
   - St. Eliphius von Rampillon, deacon/martyr, 10/16
 
@@ -2361,7 +2373,7 @@ Groß Sankt Martin
 
   - St. Fibitius, bishop, 11/5 (grave may be lost to time)
 
-Basilika Sankt Paulin
+- Basilika Sankt Paulin
 
   - St. Bonosus von Trier, priest, 2/17
 
@@ -2408,13 +2420,13 @@ Basilika Sankt Paulin
 
 Trier-Euren
 
-Pfarramt St. Helena (St.-Helena-Straße 25A)
+- Pfarramt St. Helena (St.-Helena-Straße 25A)
 
   - St. Numerianus von Trier, OSB, bishop, 7/5
 
 Trier-Pfalzel (district of Trier)
 
-Kloster Pfalzel
+- Kloster Pfalzel
 
   - St. Adela, widow/abbess, 11/23
 
@@ -2462,7 +2474,7 @@ Vallendar, Mayen-Koblenz district, Rheinland-Pfalz
 
 Vechta, Vechta district, Lower Saxony
 
-Dominikanerkloster Vechta (Dominikanerweg 45)
+- Dominikanerkloster Vechta (Dominikanerweg 45)
 
   - Ven. Titus (nee Franz) Horten, OP, priest, d. 1/25/1936
 
@@ -2479,23 +2491,29 @@ Baden-Württemberg state
 
 - Kloster St. Clara/Bickenkloster/St. Clara Monastery
 
-- Bl. Ursula Haider, PC, abbess/visionary, 1/20 (monastery church, beside
+  - Bl. Ursula Haider, PC, abbess/visionary, 1/20 (monastery church, beside
   the altar)
+
+Vilsbiburg, Landkreis Landshut, Bayern state
+
+- Wallfahrtskirche Mariahilf zu Vilsbiburg/Pilgrimage church of Mary’s help
+
+  - Ven. Viktrizius von Eggenfelden (née Antonius) Weiß, OFM Cap., priest, d. 10/8/1924
 
 Völklingen, Lauterbach district, Saarland
 
-Kirche Sankt Paulinus
+- Kirche Sankt Paulinus
 
   - St. Paulinus of Trier, bishop/missionary, 8/31
 
 Waldbreitbach, Neuwied, Rheinland-Palatinate state
 
-- Church of the Motherhouse of the Franciscan Sisters of the Blessed
-  Virgin Mary of the Angels
+- Kirche des Mutterhauses der Franziskanerinnen der Seligen Jungfrau Maria vom Engel/Church of the Motherhouse of the Franciscan Sisters of the Blessed Virgin Mary of the Angels
 
   - Bl. Margaretha Flesche, foundress, 3/25
 
 Walldürn, Neckar-Odenwald-Kreis district, Karlsruhe region, Baden-Württemberg state
+
 - Wallfahrtsbasilika St. Georg/Pilgrimage Basilica of St. George (Hauptstraße 2/Burgstrasse 26)
   - Eucharistic miracle (on the Blutaltar/Blood altar in the left transept)
 
@@ -2508,10 +2526,10 @@ Wassenach, District of Ahrweiler, Rhineland-Palatinate
 Weißenburg in Bayern, Weißenburg-Gunzenhausen district, Bavaria/Bayern
 state
 
-  - St. Gunthildiskapelle (other sources say it\'s in Suffersheim, 10
+  - St. Gunthildiskapelle (other sources say it's in Suffersheim, 10
     minutes to the south)
 
-  - St. Gunthildis of Suffersheim, poor servant, 9/22
+    - St. Gunthildis of Suffersheim, poor servant, 9/22
 
 Weltkirchen
 
