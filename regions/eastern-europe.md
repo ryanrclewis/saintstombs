@@ -1374,9 +1374,9 @@ Budaszentlőrinc pálos kolostor
   - Bl. László Báthory, monk, 2/27 (probably lost because of destruction by
     the Turks)
 
-Remete Szent Pál templom/St. Paul the Hermit
+  - Remete Szent Pál templom/St. Paul the Hermit
 
-- Bl. John Dominic de Banchini, 6/10 (tomb destroyed by the Turks)
+  - Bl. John Dominic de Banchini, 6/10 (tomb destroyed by the Turks)
 
   - St. Paul the First Hermit, 1/15.
 
@@ -1386,7 +1386,7 @@ Remete Szent Pál templom/St. Paul the Hermit
 
 Budapest
 
-Szent István Király templom -- Clarisseum of the Salesians
+- Szent István Király templom -- Clarisseum of the Salesians
 
   - Bl. István Sándor, SDB, martyr, 6/8 (skull only)
 
@@ -1415,6 +1415,12 @@ Budapest, Rákoskeresztúr (Budapest\'s 17th district)
 
   - Bl. Sándor István/István Sándor, SDB, religious/martyr, d. 6/8/1953
     (plot 301)
+
+Császár, Komárom-Esztergom County
+
+- Császár temető/falusi temető/Village cemetery (Ady Endre u. 55)
+
+  - Servant of God Wohlmuth Ferenc/Ferenc Wohlmuth, priest/martyr, d. 6/5/1919
 
 Érd, Érdi járás, Pest 
 
@@ -1507,6 +1513,12 @@ Szengotthárd, Zsida village, Vas County
   - Site of the martyrdom of Bl. Anasztáz (née János) Brenner/Brenner János,
     O.Cist., priest/martyr, 12/16 (contains the surplice he was wearing when
     murdered, too)
+
+Szentendre, Pest County
+
+- Katolikus Kálvária/Szentendrei kálváriára/Szentendre Calvary (Bükkös part 36)
+
+  - Servant of God Kucsera Ferenc/Ferenc Kucsera, priest/doctor/martyr, d. 6/25/1919
 
 Szolnok, Jász-Nagykun-Szolnok County/vármegye, Northern Great Plain
 region/Észak-Alföld
