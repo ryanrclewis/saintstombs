@@ -216,13 +216,9 @@ Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
 
   - Bl. Kasper of Grimbergen, O. Praem., 6/11
 
-  - Ven. Jean du Sacré Coeur (née Léon-Gustave) Dehon, SCJ, priest/founder,
-    d. 8/12/1925 (beatification cause suspended) (possibly at Basilica of
-    Cristo Re)
-
 Brussels, Laeken/Laken neighborhood, Brussels Capital Region
 
-Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
+- Onze-Lieve-Vrouw van Laken/Our Lady of Laeken
 
   - Servant of God Baudouin of Belgium, king, d. 7/31/1993
 
@@ -579,7 +575,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - St. Lambert of Maastricht, bishop, 9/17
 
-Église Sainte Croix/Holy Cross
+- Église Sainte Croix/Holy Cross
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
@@ -596,7 +592,7 @@ Liege/Liège/Luik, Liege Arrondissement, Liege Province, Wallonia Region
 
   - Bl. Étienne de Liège/Stephen of Liège, OSB, abbot, 1/13
 
-Basilique Saint-Martin de Liège
+- Basilique Saint-Martin de Liège
 
   - Bl. Eve/Eva/Ève de Saint-Martin/Ève de Liège, hermitess, 3/14
 
@@ -608,11 +604,15 @@ Basilique Saint-Martin de Liège
 
   - St. Adalbert of Liège, bishop, 1/1
 
-Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters
+- Maison mère des Filles de la Croix de Liège/Motherhouse of the Daughters
 of the Cross (Rue Saint-Gilles 200)
 
   - St. Marie-Thérèse du Sacré-Cœur de Jésus (nee Jeanne) Haze,
     religious/foundress, 1/7
+
+- Cimetière de St. Gilles/St. Giles Cemetery (Cour Saint-Gilles 37)
+
+  - Servant of God Louis Mertens, SDB, priest, d. 4/25/1920 (cause suspended by the Salesians, but he is still titled a Servant of God)
 
 - ???
 

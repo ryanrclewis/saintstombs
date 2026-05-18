@@ -112,6 +112,7 @@ Amboise, Loches arrondissement, Indre-et-Loire department, Centre-Val de Loire
 Amiens
 
 - Cathedral
+  - St. Antoine Daveluy, missionary bishop/martyr, 3/30 (relics)
   - St. Arnoul de la Pierre, bishop, 7/18
   - Ss. Fuscian, Victoricus, and Gentian, martyrs, 12/11
   - St. Firmin d'Amiens, bishop/martyr, 9/25
@@ -219,6 +220,8 @@ Annecy, Haute-Savoie department, Auvergne-Rhône-Alpes region
 - Basilica de la Visitation
   - St. François/Francis de Sales, bishop, apologist, 1/29
   - St. Jeanne-Françoise de Chantal, VHM, laywoman/foundress, 8/12 & 8/21
+- Ancien Cimetière/Old Cemetery (Rue de Lachat)
+  - Ven. Anne de Guigné, child, d. 1/14/1922
 - ???
   - St. André d'Antioche/Andrew of Antioch, OSA, religious, 11/30
 
@@ -338,7 +341,7 @@ Auchy-lès-Hesdin, Pas-de-Calais, Hauts-de-France/Nord-Pas-de-Calais-Picardie
 Auneuil (Troussures section/village), Beauvais arrondissement, Oise department, Hauts-de-France region
 
 - Le petit cimetière du village/The little cemetery of the village
-  - Servant of God Henri Caffarel, priest/founder, d. 9/18/1996
+  - Ven. Henri Caffarel, priest/founder, d. 9/18/1996
 
 Auray, Lorient arrondissement, Morbihan department, Brittany region
 
@@ -765,6 +768,18 @@ Bourbriac, Callac canton, Guingamp arrondissement, Côtes-d'Armor department, Br
 - Église Saint-Briac
   - St. Briac/Briarch of Bourbriac, abbot, 12/17
 
+Bourg-lès-Valence, Valence arrondissement, Drôme department, Auvergne-Rhône-Alpes region
+
+- Cimetière du Pavillon/Cemetery (27 Chemin du Pavillon)
+
+  - Servant of God Guy Pierre de Fontgalland, child, d. 1/24/1925
+
+Bourg-lès-Valence, Valence arrondissement, Drôme department, Auvergne-Rhône-Alpes
+
+- Vieux Cimetière de Bourg-lès-Valence/Old Cemetery of Bourg-lès-Valence (17 Chemin du Gaz)
+
+  - Servant of God Guy de Fontgalland, boy layman, January 4, 1925
+
 Bourg-Saint-Andéol (Bergoïata), Ardèche department, Rhône Valley southern France
 
 - Chapelle Saint-Polycarpe/Chapel of St. Polycarp
@@ -914,7 +929,11 @@ Candé, Segré-en-Anjou Bleu canton, Segré arrondissement, Maine-et-Loire depar
 - Église paroissiale Saint-Denis/Parish church
   - St. Reginald of Mélinais, OSA, hermit, 9/17
 
-Carcassone, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
+Cannes
+- Notre Dame du Bon Voyage
+  - Where travelers go to pay for a safe journey
+
+Carcassonne, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
 
 - Sainte-Marie de Grâce (church of the former Notre-Dame monastery)
   - St. Albin of Embrun, bishop, 3/1
@@ -1664,12 +1683,20 @@ Issoire, Puy-de-Dôme department, Auvergne-Rhône-Alpes region
 
 Issoudun, Indre Département, Centre-Val de Loire region
 
-- Basilica
-  - Servant of God Fr. Jules Chevalier, founder, 10/21/1907
+- Basilique Notre-Dame du Sacré-Cœur/Basilica of Our Lady of the Sacred Heart (2 Rue Estienne d’Orves)
+
+  - Servant of God Fr. Jules Chevalier, MSC, founder, 10/21/1907
+
+Issy-les-Moulineaux, Boulogne-Billancourt arrondissement, Hauts-de-Seine department, Île-de-France region
+
+- Fils de la Charité Saint Joseph (22 rue de l’Abbé Derry)
+
+  - Servant of God Jean-Émile Anizan, priest/founder, d. 5/1/1928 (in the Chapelle du Père Anizan)
 
 Ivry-sur-Seine, L'Haÿ-les-Roses arrondissement, Val-de-Marne department, Île-de-France
 
 - Cimetière d'Ivry/Cemetery of Ivry
+
   - Ven. Madeleine Delbrêl, convert/author/poet/mystic, d. 10/13/1964
 
 Javron, Maine
@@ -2984,6 +3011,8 @@ Paris
   - Servant of God Raoul Follereau, author, d. 12/6/1977
 - Cimetière de Bagneux
   - Servant of God Georges Guerin, priest/founder, d. 3/15/1972
+- Cimetière de Gentilly/Gentilly Cemetery (5 Rue de Ste Hélène)
+  - Servant of God Paulin Enfert, layman, d. 9/1/1922
 - Cimetière Montparnasse
   - Bl. Marie de la Providence/Eugénie Smet, foundress of Helpers of the Holy Souls, 2/7
   - Bl. Rosalie Rendu, religious, 2/7
@@ -3064,6 +3093,9 @@ Paris, Auteuil quarter/arrondissement
 
 - Sainte-Thérèse-de-l'Enfant-Jésus sanctuary
   - Bl. Daniel Brottier, CSSp, priest, 2/28
+- Maison-mère of the Religieuses de l’Assomption (17 Rue de l’Assomption)
+  - Servant of God Isabelle de Gethsémani (née Isabelle de Clermont-Tonnerre), OrA, cofoundress, d. 7/3/1921
+
 
 Parnoy-en-Bassigny, Langres arrondissement, Haute-Marne department, Grand Est department
 
@@ -3098,8 +3130,13 @@ Pecquencourt, Douai arrondissement, Nord department, Nord-Pas-de-Calais region
 
 Pellevoisin, Valençay canton, Chateauroux arrondissement, Indre department, Centre-Val de Loire region
 
-- Sanctuaire de Pellevoisin/Sanctuary of Our Lady of Pellevoisin
-  - Notre-Dame de Pellevoisin/Notre-Dame de Miséricorde/Our Lady of Pellevoisin, apparition, 2/14
+- Sanctuaire de Pellevoisin/Sanctuary of the All-Merciful Mother of Pellevoisin (Rue Jean Giraudoux)
+
+  - Grotto de Montbel/Grotto of Montbel (in the Château de Montbel)
+
+- Cimetière de Pellevoisin/Pellevoisin Cemetery (10 Rue Estelle Faguette)
+
+  - Servant of God Estelle Faguette, laywoman/visionary, d. 8/23/1929
 
 Périgueux, Dordogne department, Nouvelle Aquitaine region
 
@@ -3198,6 +3235,8 @@ Poitiers
   - St. Radegund, queen/abbess, 8/13 (relics burned by Calvinists; nonetheless, some survived and are kept here in her eponymous chapel)
 - Abbaye Saint-Cyprien de Poitiers/Saint-Cyprien Abbey of Poitiers (now Pasteur Hospital)
   - St. Faciolus, OSB, monk, 9/7 (grave likely lost)
+- Cimetière de l’Hôpital-des-Champs (Rue de l’Hôpital-des-Champs)
+  - Servant of God Josefa Menéndez del Moral, religious/mystic, d. 12/29/1923
 - ???
   - St. Abra of Poitiers, missionary, 12/12
   - Bl. Gautier Van den Zande of Bruges, bishop, 1/21 (relics destroyed by the Huguenots)
@@ -3536,7 +3575,7 @@ Roville-aux-Chênes, Vosges department
 Roye, Montdidier arrondissement, Somme department, Hauts-de-France region
 
 - Église Saint-Pierre de Roye
-  - St. Antoine Daveluy, missionary bishop/martyr, 3/30
+  - St. Antoine Daveluy, missionary bishop/martyr, 3/30 (relics)
   - St. Florent,
   - St. Precord/Precordius, preacher, 2/1
 
@@ -4093,7 +4132,7 @@ Saint-Quentin, Aisne department, Hauts-de-France region
 - Abbey of St. Prix
   - St. Projectus, bishop, 1/25 (relics, not tomb)
 - Église Saint-Martin
-  - Ven. Jean du Sacré Coeur (nee Léon-Gustave) Dehon, SJC, priest/founder, d. 8/12/1925
+  - Ven. Jean du Sacré Coeur (née Léon-Gustave) Dehon, SCJ, priest/founder, d. 8/12/1925 (beatification cause suspended)
 - ???
   - St. Quentin, martyr, evangelist, 10/31
 
@@ -4661,8 +4700,6 @@ Valence, Département Drôme, Auvergne-Rhône-Alpes region
 
 - Église Saint-Jean-Baptiste
   - St. Venantius of Viviers, bishop, 8/5 & 8/12
-- Grand Séminaire, la chapelle Saint-Félix
-  - Servant of God Guy de Fontgalland, boy layman, January 4, 1925
 - ???
   - St. Apollinaris of Valence, bishop, 10/5 (relics were at the cathedral; the Huguenots dumped them into the River Rhone)
   - St. Humbert of Romans, OP, prominent friar, 7/14 (possibly at a Dominican church)

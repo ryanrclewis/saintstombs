@@ -376,11 +376,15 @@ Chichester, West Sussex
 
   - Bl. Ralph Crockett, priest/martyr, 10/1
 
-Chorlton-cum-Hardy (Barlow Moor area), Manchester
+Chorlton-cum-Hardy, Metropolitan Borough of Manchester, Greater Manchester
 
 - Church of St Ambrose (Princess Road)
 
   - St. Ambrose Edward Barlow, priest/martyr, 9/10 (jawbone only)
+
+- Southern Cemetery (212 Barlow Moor Road)
+
+  - Servant of God Pedro Ballester Arenas, layman, d. 1/13/2018
 
 Clodock, Herefordshire
 
@@ -614,9 +618,9 @@ Durham
 
 Edinburgh, Scotland
 
-- St. Patrick Church, Cowgate
+- St. Patrick Church, Cowgate, 5 South Gray's Close, 40 High Street
 
-  - Ven. Margaret Sinclair, OSC, religious
+  - Ven. Margaret Sinclair, OSC, religious, d. 11/24/1925
 
 Edmunsburgh, Suffolk
 
@@ -1374,19 +1378,21 @@ Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
 - Tyburn Convent
 
-Linen and straw stained with the blood of five Jesuit martyrs:
+  - Linen and straw stained with the blood of five Jesuit martyrs:
 
-Thomas Whitbread
+    - Thomas Whitbread
+    
+    - William Harcourt
+    
+    - John Fenwick
+    
+    - Antony Turner
+    
+    - John Gavan
 
-William Harcourt
+  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
 
-John Fenwick
-
-Antony Turner
-
-John Gavan
-
-Vertebra and precordia of John Lockwood
+  - Vertebra and precordia of John Lockwood
 
   - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
 
@@ -1997,7 +2003,7 @@ Weedon, Northamptonshire
 
 Welsh Newton, Herefordshire
 
-- St. Mary the Virgin churchyard
+  - St. Mary the Virgin churchyard
 
   - St. John Kemble, priest/martyr, 8/22, 10/25, & 10/29
 
@@ -2008,7 +2014,7 @@ West Grinstead, Catholic Diocese of Arundel and Brighton
 
   - Blessed Francis Bell, martyr
 
-  - Renowned author Hilaire Belloc
+Renowned author Hilaire Belloc
 
 Whitby, North Yorkshire
 
@@ -2032,11 +2038,13 @@ Whithorn, Wigtownshire, Dumfries and Galloway, Scotland
 
 - Whithorn Priory/Abbey
 
-  - St. Ninian (aka, Dinan, Ninias, Ninus, Nynia, Ringan, Ringen), bishop, 9/16, relics likely lost during the Reformation
+  - St. Ninian (aka, Dinan, Ninias, Ninus, Nynia, Ringan, Ringen), bishop,
+    9/16, relics likely lost during the Reformation
 
 Wilton, Wiltshire, South West region
 
-- Wilton Abbey (suppressed by Henry VIII in 1539; totally gone; might be underneath Wilton House)
+- Wilton Abbey (suppressed by Henry VIII in 1539; totally gone; might be
+  underneath Wilton House)
 
   - St. Ælfflæd, Eadflæd, and Æthelhild
 
@@ -2060,7 +2068,8 @@ Winchcombe, Tewkesbury district, Gloucestershire, South West region
 
 - St. Peter Church
 
-  - King St. Kenelm, putative martyr, 7/17 (they have his coffin, but is there anyone in it?)
+  - King St. Kenelm, putative martyr, 7/17 (they have his coffin, but is
+    there anyone in it?)
 
 Winchester
 
@@ -2139,7 +2148,7 @@ York Minster (aka, St. Peter's)
 
   - St. Margaret Clitherow, martyr, 3/25 & 10/21
 
-- The Bar Convent (17 Blossom Street)
+- The Bar Convent, 17 Blossom Street
 
   - St. Margaret Clitherow, martyr, 3/25 and 10/21 (only her hand)
 

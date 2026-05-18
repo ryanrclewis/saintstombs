@@ -63,7 +63,7 @@ Yerevan/Երևան
   Illuminator (Կենտրոն վարչական շրջան/Kentron District; adjacent to the
   General Andranik metro station)
 
-- St. Գրիգոր Լուսաւորիչ/Gregory the Illuminator, bishop/Church Father,
+  - St. Գրիգոր Լուսաւորիչ/Gregory the Illuminator, bishop/Church Father,
   9/30
 
 - Զորավոր Սուրբ Աստվածածին եկեղեցի/Zoravor Surp Church
@@ -105,7 +105,45 @@ Golla (possibly Chotogolla or Choto Golla), Nayansree, Nawabganj, Dhaka, Dhaka D
 
   - Servant of God William Evans, CSC, priest/martyr, d. 11/13/1971
 
+# Cambodia
+
+Kdol Leu/ក្តុល លូវ, Kampong Siem District/កំពង់សៀម, Kampong Cham Province/កំពង់ចាម
+
+- ព្រះវិហារក្តុលលើ/Kdol Leu Church/St. Joseph Church
+
+  - Servant of God Pierre Rapin, MEP, priest, d. 2/24/1972 (in the funerary chapel)
+
+Tangkok village/ភូមិតាំងកុក, Barai district, Kampong Thom Province, Central Cambodia
+
+- ព្រះវិហារកាតូលិក Tangkok និងទីសក្ការៈបូជារបស់ទុក្ករបុគ្គល/Tangkok Catholic Church and Shrine of Martyrs (743C+RWC, ឃុំ សូយោង/Khum Sou Young)
+
+  - No relics; just a shrine
+
+- ???
+
+  - Servant of God ប៉ូល ទេព អ៊ីមសុត្ថា/Paul Tep Im Sotha, apostolic prefect, d. 5/8/1975 in Phnom Pen
+  - Servant of God Jean-Baptiste (née Charles) Badré, OSB, priest, d. 5/8/1975 in Bat Trang, Mongkol Borey, Banteay Mean Chey
+  - Servant of God ហ្សាកឺលីន សួន/Jacqueline Soeun, SPP, religious, d. 1975
+  - Servant of God យ៉ូសែប ឆ្មារ សាឡាស/Joseph Chhmar Salas, bishop, d. 9/15/1977 in Anlong Veng, Oddar Meanchey or at Chamcar Andong
+  - Servant of God យ៉ូសែប ឆ្មារ សាឡឹម/Joseph Chhmar Salem, priest, d. 1977 in Phnom Penh
+  - Servant of God ម៉ាសែល ទ្រឿង សាង សំរើន/Marcel Truong Sang Samronh, priest, d. 1977 in Chamkar Andong, Chamkar Leu, Kampong Cham
+  - Servant of God ដាមីយ៉ាំង/Damien Dang Ngoc An, priest, FSF, d. 1977 in Sam Rieng, Taing Kork, Kampong Thom
+  - ervant of God លីឌី នូ សាវ៉ាន់/Lydie Nou Savann, SPP, religious, d. 1977
+  - Servant of God សិលា ឈុំ សំចៃ/Pierre Chhum Somchay, layman, d. 1977 in Phnom Penh
+  - Servant of God សិលា រស់ អេន/Joseph Ros En, layman, d. 1977 in Kampong Kor, Kampong Svay, Kampong Thom
+  - ervant of God យ៉ូសែប ថុង/Joseph Thong, layman/married catechist, d. 1978 in Sam Rieng, Taing Kork, Kampong Thom
+
 # China
+
+Ankang (安康), Hanbin District (汉滨区), Shaanxi Province (陕西)
+
+- ???
+
+  - Servant of God Giovanni Soggiu, OFM Conv., bishop/martyr, 11/12 (because of the depredations of the Cultural Revolution, the precise location of his tomb is unknown)
+
+- 耶稣圣心主教座堂/Cathedral of the Sacred Heart of Jesus/安康市天主堂/Ankang City Catholic Church (汉滨区金银巷45号/No. 45 Jinyin Lane, Hanbin District)
+
+  - Since there is no grave for the above Servant of God, you can pray for his intercession here.
 
 Beiwangtou, Shenzhou City, Hebei Province
 
@@ -114,6 +152,12 @@ Beiwangtou, Shenzhou City, Hebei Province
   - St. Ioannes Baptista Zhao Mingxi, martyr, 7/3
 
   - St. Petrus Zhao Mingzhen, lay martyr, 7/3
+
+Changzhi/长治市, Shanxi Province
+
+- ???
+
+  - Servant of God Bertilla (née Maria Wilhelmina) à Campo, KZSJ, religious, d. 10/16/1929 (according to her postulator, her grave was desecrated and lost during the Cultural Revolution)
 
 Chengdu, Province of Sichuan
 
@@ -392,13 +436,7 @@ Shenzhou City, Hebei Province
 
   - St. Paulus Wu Wanshu, lay martyr, 6/29 (supposedly in the town of Xiaoluyi territory, but no such place seems to exist)(possibly Shenzhou City, Hengshui Prefecture, Hebei Province)
 
-Shiquan (石泉县), Ankang region (安康), Shaanxi Province (陕西)
-
-- ???
-
-  - Servant of God Giovanni Soggiu, OFM Conv., bishop/martyr, 11/12
-
-Shuanzhong (maybe modern day Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区) district, Metropolitan City of Tianjin)
+Shuanzhong (maybe Sungezhuang \孙各庄满族乡\?), Jizhou (蓟州区) district, Metropolitan City of Tianjin
 
 - ???
 
@@ -659,7 +697,8 @@ Ajmer, Rajasthan
 
 - Cathedral of the Immaculate Conception (Kaisar Ganj)
 
-  - Servant of God Fortunat de Tours (née Henri Caumont), OFM Cap., bishop/cofounder, d. 8/6/1930
+  - Servant of God Fortunat de Tours (nee Henri Caumont), OFM Cap.,
+    bishop/cofounder, d. 8/6/1930
 
 Alappuzha (Alleppey) Alappuzha district, Kerala state
 
@@ -939,11 +978,11 @@ Kochi (Ernakulam Island), Kerala
   - Servant of God Immanuel Lopez (ഇമ്മാനുവൽ
     ലോപ്പസ്), "the Vianney of Kerala," priest, d. 3/20/2004
 
-Konthuruthy Island, Thevara, Kochi, Kerala state
+Konthuruthy Island, Kochi, Ernakulam district, Kerala state
 
-- St. John Nepumsian Syro-Malabar Catholic Church
+- സെന്റ് ജോൺ നെപുംസിയൻ സീറോ-മലബാർ കത്തോലിക്കാ പള്ളി/St. John Nepumsian Syro-Malabar Catholic Church (W8R2+HC6, Father Mulavarickal Road)
 
-  - Ven. Varghese Payapilly Palakkappilly, priest/founder, d. 10/5/1929
+  - Ven. Varghese Payyappilly/വര്‍ഗീസ് പയ്യപ്പിള്ളി, priest/founder, d. 10/5/1929
 
 Kothamangalam, Ernakulam district, Kerala state
 
@@ -1265,12 +1304,6 @@ state
   - Servant of God John Peter Savarinayagam, OFM Cap, priest, d.
     3/2/1979
 
-Tirunelveli, Palayamkottai neighborhood, Tirunelveli District, Tamil Nadu state
-
-- Sacred Heart Generalate (House of the Sacred Heart) (9H North High Ground Road)
-
-  - Servant of God Adrien Caussanel, SJ, priest/founder, d. 2/22/1930
-
 Udainagar, Dewas district, Madhya Pradesh state
 
 - Udaynagar Catholic Church
@@ -1314,28 +1347,19 @@ Velankanni, Nagapattinam district, Tamil Nadu state
 
 Varapuzha/Varappuzha, Ernakulam district, Kerala state
 
-- St. Joseph's Convent
+- St. Joseph\'s Convent
 
-  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (tomb chapel, "Smruthi Mandhiram")
+  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (
+    tomb chapel, "Smruthi Mandhiram")
 
 Vedalai, Ramanathapuram district, Tamil Nadu state
-
-- ???
-
-  - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body lost but there may be a shrine to him there
-
-Vilakkannur, Naduvil Grama panchayat, Kannur district, Kerala state
-
-- Christ the King Church (Naduvil PO)
-
-  - Vatican approved eucharistic miracle
 
 - ???
 
   - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body
     lost but there may be a shrine to him there)
 
-  - Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
+- Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
 
   - Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
 
@@ -1535,11 +1559,23 @@ subdeacon/martyr, d. 6/3/2007
 
 # Israel / Palestinian Territories
 
-Al-Qubeiba, Jerusalem/القبيبة/Emmaus Al Qubeibeh
+Al-Eizariya (Bethany), Quds Governorate, Palestinian Authority
 
-- Shrine of the Manifestation of Jesus/House of Cleopas
+- Shrine of the House of Martha, Mary and Lazarus
 
-al-Ubeidiya (formerly Cathismus) (12 km from Bethlehem)
+- Tomb of Lazarus
+
+- Home of Simon the Leper
+
+Al-Mujaydil/al-Mujeidil/المْجيدل
+
+- Shrine Convent of St. Gabriel the Archangel
+
+Al-Qubeiba/El-Qubeibeh (aka, Emmaus), Jerusalem/القبيبة, Jerusalem Governorate, Palestinian Authority
+
+  - Shrine of the Manifestation of Jesus/House of Cleopas
+
+Al-Ubeidiya (formerly Cathismus)/العبيدية (12 km from Bethlehem)
 
 - Monastery of St. Theodosius
 
@@ -1559,6 +1595,12 @@ Ashkelon
 
 - Monastery
 
+Beit Sahour (بيت ساحور), Bethlehem Governorate, Palestinian Authority
+
+- Chapel of the Shepherds’ Field (כנסיית שדה הרועים)
+
+- Greek Orthodox Monastery of the Shepherds/Kenisat er-Ruwat
+
 Beit Shemesh/בית שמש, Jerusalem District
 
 בית ג\'מאל/بيت جمال
@@ -1573,16 +1615,20 @@ Bethlehem, West Bank
 
   - St. Paula, 1/26
 
-Carmel of the Holy Child Jesus
+- St. Catherine Church/كنيسة القديسة كترينا/כנסיית קתרינה הקדושה
 
-  - St. Mary of Jesus Crucified ("Al Qiddisa," Mariam/Maram Baouardy),
-    Bethlehem, 8/25
+  - Site of St. Catherine of Alexandria's vision of Jesus
+  
+  - Fragment of the crib of Jesus
 
-- Rachel\'s Tomb/ קבר רחל/ قبر راحيل at the
-  Bilal bin Rabah mosque (on the road to Ephrat between Bethlehem and
+- Carmel of the Holy Child Jesus
+
+  - St. Mary of Jesus Crucified ("Al Qiddisa," Mariam/Maram Baouardy), Bethlehem, 8/25
+
+- Rachel's Tomb/ קבר רחל/ قبر راحيل at the Bilal bin Rabah mosque (on the road to Ephrat between Bethlehem and
   Gilo)
 
-Rachel the Matriarch, 11/1 &12/24
+  - Rachel the Matriarch, 11/1 &12/24
 
 - ???
 
@@ -1590,6 +1636,10 @@ Rachel the Matriarch, 11/1 &12/24
     Paula), 9/28
 
   - St. Ibzan the Judge of Bethlehem, Israelite Judge, 9/1
+
+Capernaum/פַר נַחוּם
+
+- House of Peter/Church of the Promise of the Eucharist
 
 Caesarea
 
@@ -1603,6 +1653,18 @@ Caesarea
 
   - St. Philip the Deacon (aka, the Evangelist), 6/6
 
+Ein Karem/Ain Karem (עין כרם), Jerusalem, Jerusalem District
+
+- Shrine Church of St. John the Baptist
+
+  - Birthplace of the Baptist
+
+- Hermitage Shrine of St John in the Desert
+
+- Shrine of the Visitation (כנסיית הביקור)
+
+- The Virgin Spring
+
 Eleutheropolis (\"city of the free\") was the Greek name of a Roman city
 in Palestine, some 53 km southwest of Jerusalem
 
@@ -1610,9 +1672,13 @@ in Palestine, some 53 km southwest of Jerusalem
 
   - St. Ananias of Damascus, biblical figure, martyr, 1/25
 
+Even Sapir/אבן ספיר, Mateh Yehuda Council, Jerusalem District
+
+- Monastery of Saint John in the Wilderness
+
 Gaza
 
-- Church of St. Timothy
+- Church of St. Timothy (no longer extant)
 
   - St. Meuris, martyr
 
@@ -1668,7 +1734,15 @@ ha-Makhpela/Sanctuary of Abraham
 
 Jerusalem
 
+- Church of All Nations/Church of Gethsemane/כנסיית כל העמים/كنيسة كل الأمم
+
+  - Site of Jesus’ agony in the garden
+
+- Church of the Flagellation (Near the Lions’ Gate [St. Stephen's Gate] in the Old City)
+
 - Church of the Holy Sepulchre
+
+  - Jesus’ tomb
 
   - Forty Martyrs of Sebaste (relics only), 3/9
 
@@ -1676,20 +1750,29 @@ Jerusalem
 
   - St. Modestus of Jerusalem, abbot, 12/17
 
+- Dominus Flevit Church
+
 - Basilica of St. Stephen (Nablus Road 83)
 
-  - Servant of God Marie-Joseph (nee Albert) Lagrange, OP, priest, d.
-    3/10/1938
+  - Servant of God Marie-Joseph (nee Albert) Lagrange, OP, priest, d. 3/10/1938
 
-Great Laura of Saint Sabas/Holy Lavra of Saint Sabbas/Mar
-Saba/Monastery of St. Sabbas (halfway between Bethlehem and the Dead
-Sea)
+- Monastery of Saint Saviour (1 St. Francis Street)
+
+  - 1,300 relics (e.g., the True Cross, etc.)
+
+- Shrine of Bethphage
+
+  - Site that commemorates the starting point of Jesus's triumphal entry into Jerusalem on a donkey. It is also believed to be where Jesus met Martha and Mary before raising Lazarus.
+
+  - It's starting point for the Palm Sunday procession that descends into Jerusalem, a tradition dating back to the Crusader era
+
+- Great Laura of Saint Sabas/Holy Lavra of Saint Sabbas/Mar Saba/Monastery of St. Sabbas (halfway between Bethlehem and the Dead Sea)
 
   - St. Anastasius XVI of Jerusalem, martyr, 3/20
 
   - St. John, martyr, 3/20
 
-  - St. John Damascene, Doctor, Father, 3/27 & 12/4 (**VERIFY**)
+  - St. John Damascene, Doctor, Church Father, 3/27 & 12/4 
 
   - St. Patrick, martyr
 
@@ -1702,29 +1785,26 @@ Sea)
 
   - Martyrs of San Sabas, 3/20
 
-600 or so martyrs of 7^th^ century Persian atrocities
+  - 600 or so martyrs of 7^th^ century Persian atrocities
 
-- Monastery of the Iberians (was just to the west of the Tower of David;
-  likely it doesn't exist anymore)
+- Monastery of the Iberians (was just to the west of the Tower of David; likely it doesn't exist anymore)
 
-Forty Martyrs of Sebastia
+  - Forty Martyrs of Sebastia
 
   - St. Peter the Iberian, bishop
 
-John the Eunuch
+  - John the Eunuch
 
-Abraham the Hermit of Athribis
+  - Abraham the Hermit of Athribis
 
 - Convent of the Dominican Sisters of the Most Holy Rosary/Rosary Church
 
   - St. Mariam Sultaneh Danil Ghattas/Marie-Alphonsine Danil Ghattas,
     foundress, 3/25
 
-- Monastery Sainte Claire (Hanock Albeck, 3; tel. +972 02.671.75.34;
-  clarisse.gerusalemme@gmail.com)
+- Monastery Sainte Claire (Hanock Albeck, 3; tel. +972 02.671.75.34; clarisse.gerusalemme@gmail.com)
 
-  - Servant of God Mary of the Trinity (nee Louisa Jaques), PC,
-    religious, d. 6/25/1942
+  - Servant of God Mary of the Trinity (nee Louisa Jaques), PC, religious, d. 6/25/1942
 
 - Tomb of King David
 
@@ -1732,13 +1812,11 @@ Abraham the Hermit of Athribis
 
 - Mount of Olives Jewish Cemetery, Tomb of the Prophets
 
-The Old Testament Prophet Haggai, 12/16
-
-The Old Testament Prophet Malachi, 12/18
-
-The Old Testament Prophet Zechariah
-
-
+  - The Old Testament Prophet Haggai, 12/16
+  
+  - The Old Testament Prophet Malachi, 12/18
+  
+  - The Old Testament Prophet Zechariah
 
 - ???
 
@@ -1748,13 +1826,13 @@ The Old Testament Prophet Zechariah
     a church built on the site of the robbers\' cave on the outskirts of
     Jerusalem)
 
-- St. Cyril of Jerusalem, Church Father, Church Doctor, 3/18
+  - St. Cyril of Jerusalem, Church Father, Church Doctor, 3/18
 
   - King St. David, patriarch, 12/19
 
   - St. Déodat of Rodez, OFM, priest/martyr, 11/14 (burned alive)
 
-- St. Hegesippus the Nazarene of Jerusalem, Church historian, 4/7
+  - St. Hegesippus the Nazarene of Jerusalem, Church historian, 4/7
 
   - Bl. Ludovico di Barga, OFM, priest, 12/28
 
@@ -1780,6 +1858,12 @@ Jish/Gush Halav/الجش/גִ\'שׁ, גּוּשׁ
 ואבטליון/Tombs of Shemaiah and Avtalion
 
   - St. Shemaiah the Prophet, 1/8 & 1/9
+
+Kafr Kanna (Cana)/كفر كنا/כַּפְר כַּנָּא
+
+- Church of the First Miracle
+
+  - Reputed site of Jesus’ turning water into wine
 
 Kever Shmuel ha-Navi/Nebi Samuel/Nebi Samwil
 
@@ -1865,26 +1949,55 @@ Mount of Olives
 
   - St. Melania the Elder, grandmother, widow, 6/8
 
+Mount Tabor, Lower Galilee, Northern District
+
+- Church of the Transfiguration/כנסיית ההשתנות/كنيسة التجلي
+
 Nazareth, Northern District
-
-כנסיית המולד/كنيسة المهد/Εκκλησία της
-Γεννήσεως/Սուրբ Ծննդյան եկեղեցի/Church of the Nativity
-
+- 	כנסיית המולד/كنيسة المهد/Εκκλησία της Γεννήσεως/Սուրբ Ծննդյան եկեղեցի/Church of the Nativity
   - St. Eustochia, laywoman
+
+
+Nein/Nain/Na'in/نين/ניין, Bustan al-Marj, Northern District
+
+- Church of the Resurrection of the Widow’s Son (St. Sidrot Ha-Bonim 110)
+
+Qasr al-Yahud/قصر اليهود/קאסר אל יהוד, Area C, Jericho Governorate, West Bank, Palestinian Authority
+
+- Site of Jesus’ baptism
 
 Sebastia/سبسطية, Nablus Governorate, Palestinian Authority
 
 مسجد النبي يحيى/Nabi Yahya Mosque
 
-The Prophet Obadiah, 11/19
+  - The Prophet Obadiah, 11/19
+
+Tabgha/الطابغة/עין שבע, Tiberias subdistrict
+- Church of the Primacy of St. Peter
+
+  - Site of Matthew 16:13-20
+
+- Church of the Multiplication
+
+  - Site of the miracle of the multiplication of the loaves and fishes
 
 Tekoa, West Bank
 
 - A cave located northeast of the ruins of a Byzantine church
 
-- Tomb of the Prophet Amos, 6/15
+  - Tomb of the Prophet Amos, 6/15
 
-Wadi Qelt, Area C, West Bank, near Jericho
+Tel Aviv-Jaffa, Gush Dan, Tel Aviv District
+
+= Church of St. Peter/نيسة القديس بطرس/כנסיית פטרוס הקדוש
+
+  - Near the site of Simon the Tanner’s house, where he had the vision of the sheet from heaven
+
+- The Russian Orthodox compound in Abu Kabir (157 Herzl Street/רחוב הרצל 157)
+
+  - Tomb of Tabitha (aka, Dorcas), 10/25
+
+Wadi Qelt, Area C, West Bank, Palestinian Authority (near Jericho)
 
 - دير القديس جورج/Monastery of St. George of Choziba
 
@@ -1892,11 +2005,11 @@ Wadi Qelt, Area C, West Bank, near Jericho
 
   - St. يوحنا الخوزيبى/John of Choziba, bishop/monk,
 
-Albert of Jerusalem, died at Acre, 9/25
+  - St. Albert of Jerusalem, died at Acre, 9/25
 
   - St. Alexander of Jerusalem, 3/18, Caesarea
 
-Ananias of Damascus, died SW of Jerusalem, 1/25
+  - Ananias of Damascus, died SW of Jerusalem, 1/25
 
   - St. Anna the Prophetess, 9/1
 
@@ -1906,7 +2019,7 @@ Ananias of Damascus, died SW of Jerusalem, 1/25
 
   - St. Brocard of Strasbourg, OP, priest, 12/24
 
-- St. Cyril of Constantinople, Church Doctor, at Mount Carmel, 3/6
+  - St. Cyril of Constantinople, Church Doctor, at Mount Carmel, 3/6
 
   - St. Deborah, prophetess, judge, 11/1
 
@@ -2529,6 +2642,10 @@ Our Lady of Akita (秋田の聖母マリア), 7/6
 
 # Jordan
 
+- Al-Maghtas/المغطس, Balqa Governorate
+
+  - Site of Jesus’ baptism
+
 جبل هارون /Jabal Hārūn (Aaron's Mountain)
 
 Mosque at the summit
@@ -2612,7 +2729,7 @@ Cheongju (청주시), North Chungcheong Province
 
 Cheongsong
 
-Clerical Congregation of the Blessed Korean Martyrs
+  - Clerical Congregation of the Blessed Korean Martyrs
 
   - Servant of God Leo Bang Yu-ryong, priest/founder, d. 1/24/1986
 
@@ -2632,7 +2749,7 @@ Chuncheon (춘천), Gangwon Province
 
   - Servant of God Fr. James Maginn, martyr, 7/4/1950
 
-Fr. Frank Canavan
+  - Fr. Frank Canavan, priest/martyr
 
 Chungcheong-do (충청도), Chungjumok → Gongjumok
 
@@ -2658,7 +2775,7 @@ Daejon (Taejon), Hoseo region
 
 - ???
 
-Fr. John O\'Brien
+  - Fr. John O\'Brien, priest/martyr
 
   - Msgr. Patrick Brennan, priest/martyr, d. 9/24/1950
 
@@ -2680,6 +2797,12 @@ Chungcheongnam-do
   - Bl. Franciscus Bang, layman/martyr, 1/21 & 9/20
 
   - Bl. Laurence Pak Chwi-deuk, lay martyr, 4/3
+
+Jecheon-si City제천시, North Chungcheong Province/Chungcheongbuk-do Province/충청북도
+
+- 배론 성지/Baeron Holy Site (충청북도 제천시 봉양읍 배론성지길 296/296, Baeronseongji-gil, Bongyang-eup)
+
+  - Ven. 최양업/Thomas Thomas Choe Yang-eop, priest, d. 6/15/1861
 
 Jeongsan county (정선군), Province of Gangwon-do
 
@@ -3115,11 +3238,16 @@ Baalbek (بَعْلَبَكّ), Baalbek-Hermel Governorate
 
   - Servant of God Romano Bottegal, OCSO, priest/hermit, d. 2/19/1978
 
-Batroun
+Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Governorate, Lebanon
 
 - St. Joseph Monastery Al Dahr, Jrabara
 
   - St. Rafqa, nun, 3/23
+
+- 
+•الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
+  - Ven. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
+
 
 Beirut
 
@@ -3194,14 +3322,12 @@ Roumieh/رومية, Matn District, Mount Lebanon Governorate
   - Servant of God يزابيل خوري/Isabelle Abdullah El-Khoury,
     religious, d. 7/20/1953
 
-Sidon Al-Janub/صيدا الجنوب/, Saida District, South Governorate
+Sidon Al-Janub/صيدا الجنوب
 
 - كنيسة المخلص المقدس/Holy Saviour Church
 
 الموقر بشارة أبو مراد/Ven. Béchara Abou Mrad, BSO,
 Melkite priest, d. 2/22/1930
-
-  - Bl. Sélim (nee Bshārah) Abū Mrād, BSO, monk, d. 2/22/1930
 
 Tanaïl, Beqaa Valley
 
@@ -3312,7 +3438,7 @@ Toba Tek Singh, Toba Tek Singh district, Punjab province
 
 # Philippines
 
-Angeles City, Pampanga Province, Central Luzon region
+Angeles City/Lungsod ng Angeles, 1st District, Pampanga Province, Central Luzon region
 
 - Carmelite Monastery (Santo Rosario Street)
 
@@ -3391,13 +3517,18 @@ Manila
     might be buried at Dumaguete, Province of Negros Oriental, where her
     convent was located)
 
+Manila, Intramuros area, Metropolitan Manila First District
+
+- Simbahan ni San Ignacio/Church of San Ignacio (14° 35.398′ N, 120° 58.407′ E)
+
+  - Ven. Ignacia del Espiritu Santo Iuco, RVM, foundress, d. 9/10/1748 (tomb destroyed by bombing during World War II)
+
 Manila, Quiapo district, National Capital Region
 
 - Basilika Menor at Pambansang Dambana ni Jesus Nazareno/Minor Basilica
   and National Shrine of Jesus Nazareno
 
-Nuestro Padre Jesús Nazareno/Mahál na Poóng Jesús Nazareno/The Black
-Nazarene, 1/9
+  - Nuestro Padre Jesús Nazareno/Mahál na Poóng Jesús Nazareno/The Black Nazarene, 1/9
 
 Marikina City, Metro Manila
 
@@ -3434,6 +3565,10 @@ Quezon City
   - Bl. Iustus Takayama Ukon/Justo Takayama/Hikogoro
     Shigetomo/ジュスト高山右近, samurai, 2/3
 
+- St. Mary's College of Quezon City (Mother Ignacia Avenue)
+
+  - Shrine of Ignacia del Espiritu Santo
+
 - Himlayang Filipino Cemetery
 
   - Servant of God Rhoel Gallardo, CMF, priest/martyr, d. 5/3/2000
@@ -3444,9 +3579,15 @@ Sarrat, Province of Illocos Norte
 
   - Servant of God Niña Ruiz Abad, young girl, d. 8/16/1993
 
+Sibonga, Province of Cebu, Central Visayas region
+
+- Simala Shrine/Monastery of the Holy Eucharist/Our Lady of Lindogon Shrine (XJH2+PG6)
+
+  - Our Lady of Lindogon/Blessed Virgin of Simala, miraculous image, 9/8
+
 Silang, Province of Cavite
 
-Boys Town
+- Boys Town (7X58+9PF, Brgy. Adlas)
 
   - Ven. Aloysius Schwartz, priest/founder, d. 3/16/1992
 
@@ -3512,7 +3653,7 @@ Najran/نجران, Najran region
 # Sri Lanka
 
 Bolawatta (about 24 miles/40 km north of Colombo)
-- Our Lady of Assumption Church
+- Our Lady of the Assumption Church
   - Servant of God पाद्री झाकॉम गोनसाल्विश/Jacome Gonsalves, CO, priest/missionary, d. 7/17/1742
 
 Colombo
@@ -3524,10 +3665,9 @@ Colombo
 
 Gonawila/ගෝනවිල, Central-Western Province
 
-- සුසාන භූමිය/Cemetery
+- සුසාන භූමිය/Cemetery (Dankotuwa Road)
 
-  - Servant of God ගෝනවිල හෙලේනා/Helena of
-    Gonawila, consecrated woman, d. 2/8/1931
+  - Servant of God ගෝනවිල හෙලේනා/Helena of Gonawila, consecrated woman, d. 2/8/1931
 
 Jaffna, Northern Province
 

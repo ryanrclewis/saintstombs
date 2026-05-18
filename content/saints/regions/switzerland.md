@@ -117,7 +117,11 @@ Einsiedeln, Bezirk Einsiedeln, Schwyz
 
   - St. Meinrad (aka, Maynard; Meginrat) of Einsiedeln, hermit, 1/21
 
-- Bl. Thietland, abbot, 5/28 (buried in the sacristy)
+  - Bl. Thietland, abbot, 5/28 (buried in the sacristy)
+
+- Friedhof der Abteikirche Einsiedeln/Cemetery of the Abbey Church
+
+  - Ven. Meinrad (née Josef Gebhard) Eugster, OSB, religious, d. 6/14/1925
 
 Engelberg, Canton of Obwalden
 

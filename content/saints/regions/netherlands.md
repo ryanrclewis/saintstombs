@@ -81,7 +81,7 @@ Martinikerk
 
 Haarlem
 
-Kathedrale Basiliek Sint Bavo
+- Kathedrale Basiliek Sint Bavo
 
   - St. Engelmund of Velsen, missionary, 5/14 (relics only)
 
@@ -91,17 +91,22 @@ Haske, Bakkeveen, Friesland
 
   - Bl. Dodo of Haske, stigmatist, 3/30
 
-Houtham village, Valkenburg aan de Geul municipality, Province of
-Limburg
+Houtham village, Valkenburg aan de Geul municipality, Province of Limburg
 
-Sint-Gerlachuskerk
+- Sint-Gerlachuskerk
 
   - St. Gerlach van Houthem/Gerlac of Valkenburg, brigand/convert/hermit,
     1/5 (in the church, the treasury, and the museum)
 
-Maastricht/Maestricth, province of Limburg
+Maarssen, Stichtse Vecht municipality, Province of Utrecht
 
-Sint-Servaasbasiliek
+= Beeresteijn Cemetery (on the Straatweg)
+
+  - Servant of God Alphons Ariëns, priest, d. 8/7/1928
+
+Maastricht, province of Limburg
+
+- Sint-Servaasbasiliek
 
   - St. Gondulf of Tongeren-Maastricht, bishop, 7/16
 
@@ -197,26 +202,30 @@ Sint-Martinuskerk
 
 Sittard/Zitterd, Province of Limburg
 
-- Congregatie van de Priesters van het Heilig Hart/Chapel of the novitiate
-  for the Congregation of the Priests of the Sacred Heart (Dehonians)
+- St. Petruskerk (Kerkplein 1)
+
+  - Ven. Ludovicus Tijssen, priest, d. 2/20/1929
+
+- Algemene Begraafplaats De Kollenberg (Lahrstraat 18)
+
+  - Ven. Ludovicus Tijssen, priest, d. 2/20/1929 (relic only)
+
+- Congregatie van de Priesters van het Heilig Hart/Chapel of the novitiate for the Congregation of the Priests of the Sacred Heart (Dehonians)
 
   - Servant of God André (nee Leo) Prévot, SCJ, religious, d. 11/26/1913
 
-- Klooster Karmelietessen v.h. Goddelijk Hart v. Jezus/Monastery of the
-  Carmelite Sister of the Divine Heart of Jesus (Kollenberg 2)
+- Klooster Karmelietessen v.h. Goddelijk Hart v. Jezus/Monastery of the Carmelite Sister of the Divine Heart of Jesus (Kollenberg 2)
 
   - Bl. Maria-Teresa van de h. Jozef (nee Anna Maria) Tauscher van den
     Bosch, DCJ, foundress, 10/30 (in a chapel)
 
 Steyl, Tegelen district, Venlo municipality
 
-Venlo Steyl Sint Michael Missiehuis/Motherhouse of the Divine Word
-Missionaries
+- Venlo Steyl Sint Michael Missiehuis/Motherhouse of the Divine Word Missionaries
 
   - St. Arnold Jansens, priest/founder, 1/15
 
-- Notre Dame Monastery of Missiezusters Dienaressen van de Heilige
-  Geest (Zusterstraat)
+- Notre Dame Monastery of Missiezusters Dienaressen van de Heilige Geest (Zusterstraat)
 
   - Bl. Mother Josepha (aka, Hendrina Stennmans), foundress, 5/20
 
@@ -224,13 +233,11 @@ Missionaries
 
 - ???
 
-  - Servant of God Maria Michaele (nee Adolfine) Tönnies, SSpSAP,
-    cofoundress, d. 2/25/1934 (she died at the Heilige Geestklooster)
+  - Servant of God Maria Michaele (nee Adolfine) Tönnies, SSpSAP, cofoundress, d. 2/25/1934 (she died at the Heilige Geestklooster)
 
 Susteren, Echt-Susteren municipality, Province of Limburg
 
-- Abdij van Susteren/Abbey of Susteren/Sint-Amelbergabasiliek/St.
-  Amelberga Basilica (Kloosterstraat 1)
+- Abdij van Susteren/Abbey of Susteren/Sint-Amelbergabasiliek/St. Amelberga Basilica (Kloosterstraat 1)
 
   - St. Alberic of Utrecht, bishop, 11/14
 
@@ -254,11 +261,11 @@ Utrecht
 
   - St. Willibrord of Echternach, bishop, 11/7 (relics)
 
-Sint-Martinuskerk
+- Sint-Martinuskerk
 
   - St. Otger of Utrecht, missionary, 5/8 (relics only)
 
-Pieterskerk
+- Pieterskerk
 
   - St. Bernulf or Bernold of Utrecht, bishop, 7/19
 
@@ -266,7 +273,7 @@ Sint-Salvatorkerk/Oud-Munsterkerk
 
   - St. Frederick I of Utrecht, bishop, 7/18
 
-Museum Catharijneconvent
+- Museum Catharijneconvent
 
 - St. Bernulf or Bernold of Utrecht, bishop, 7/19 (reliquary only)
 
@@ -293,13 +300,11 @@ Zwolle
 
 - ???
 
-  - Bl. Alanus de Rupe (Alan de la Roche), OP, possibly at Onze Lieve Vrouwe
-    ten Hemelopneming
+  - Bl. Alanus de Rupe (Alan de la Roche), OP, possibly at Onze Lieve Vrouwe ten Hemelopneming
 
 Unknown
 
-  - St. Cunera, martyr, 6/12 (relics in Emmerik \[Duchy of Cleves\] and
-    Bedaf \[near Uden\]. The Museum Catharijneconvent in Utrecht has the
+  - St. Cunera, martyr, 6/12 (relics in Emmerik \[Duchy of Cleves\] and Bedaf \[near Uden\]. The Museum Catharijneconvent in Utrecht has the
     cloth with which she was strangled)
 
   - Bl. Gerbrand of Dokkum, O.Praem., abbot, 9/5
