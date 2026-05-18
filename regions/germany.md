@@ -2323,7 +2323,7 @@ Torgau, Nordsachsen district, Saxony
 
   - St. Axon of Torgau, OFM, miracle worker, 11/15 (if this is the same
     church as Alltagskirche Torgau/Everyday Church, it no longer contains
-    Axon\'s tomb, it is reasonably certain)
+    Axon's tomb, it is reasonably certain)
 
 Trier
 
@@ -2343,6 +2343,10 @@ Trier
 
   - St. Minnborinus of Cologne, abbot, 7/18 (he was abbot here; is he buried
     here?)
+
+- St. Gangolf Church
+
+  - Ven. Hieronymus Jaegen, layman, d. 1/26/1919
 
 - Benediktinerabtei St. Matthias/St. Mattias Abbey (formerly the Abbey of
   St. Eucharius
