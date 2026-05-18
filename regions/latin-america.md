@@ -1406,7 +1406,7 @@ Medellín
 
   - Bl. Ana Julia (María Berenice) Duque Heckner, OP, foundress, 7/24 (relic)
 
-Casa Madre di Hermanitas de la Anunciación, Instituto Domus Dei
+- Casa Madre di Hermanitas de la Anunciación, Instituto Domus Dei
 
   - Bl. Ana Julia (María Berenice) Duque Heckner, OP, foundress, 7/24
 
@@ -1414,11 +1414,11 @@ Casa Madre di Hermanitas de la Anunciación, Instituto Domus Dei
 
   - St. Laura de Santa Catalina de Siena (née María Laura de Jesús) Montoya Upegui, foundress, 10/21
 
-Crypt of the Plaza de Zea convent of Congregación de Hermanas Siervas del Santísimo y de la Caridad,
+Medellin, Robledo district
 
-  - Servant of God María De Jesús Upegui Moreno, religious, d. 7/7/1921
+- Convento de las Siervas del Santísimo Sacramento y de la Caridad/Convent of Servants of the Blessed Sacrament and Charity (Cl. 78 #79 A-11)
 
-- ???
+  - Servant of God María de Jesús Upegui Moreno, SSC, foundress, d. 7/8/1921
 
 Pasto (fully San Juan de Pasto), Nariño Department, Pacific Region/Andes Region
 
@@ -2042,9 +2042,9 @@ Cuauhtinchán, Puebla
 
   - Bl. Cristobal and two companions, martyrs (possibly at the ex-convento de San Juan Bautista)
 
-Culiacan, Sinaloa
+Culiacán, Sinaloa state
 
-- ???
+- Santuario de Nuestra Señora de Guadalupe, "La Lomita" (Paseo Humaya S/N, Colonia Guadalupe)
 
   - Servant of God Silviano Carrillo Cardenas, bishop, 9/10/1921
 
@@ -2877,7 +2877,7 @@ Lima
 
   - St. Toribio/Turibius of Mogrovejo, bishop, 3/23
 
-La Basílica Menor y Convento de San Agustín
+- La Basílica Menor y Convento de San Agustín
 
   - Servant of God Luis López de Solís, OSA, bishop of Quito, d. 7/5/1606
 
@@ -2937,9 +2937,15 @@ La Basílica Menor y Convento de San Agustín
 
   - Bl. Teresa de la Cruz (née Teresa) Candamo Alvarez-Calderón, foundress, d. 8/24/1953
 
+Lima, Rimac district 
+
+- Convento del Patrocinio (Jirón Manco Cápac 164)
+
+  - Servant of God Ramón Zubieta Les, OP, bishop, d. 11/19/1921
+
 Lurin, Lurín District, Province of Lima, Lima region
 
-Casa Hogar Juan Pablo II (at the grotto)
+- Casa Hogar Juan Pablo II (at the grotto)
 
   - Servant of God Joseph Walijewski, priest, d. 4/11/2006
 
@@ -2967,13 +2973,11 @@ Santa Rosa de Ocopa district, Province of Concepción, Department of Junin
 
 - Convent of Santa Rosa de Ocopa (laicized)
 
-Br. Francisco de San José, OFM, founder of the convent
+  - Br. Francisco de San José, OFM, founder of the convent
 
   - Servant of God Pío Sarobe Otaño, OFM, priest, d. 3/7/1910
 
   - St. John of Saint Fagondez de Castrillo of Sahagun, preacher, 6/12 (relics here)
-
-  - Servant of God Ramón Zubieta Les, OP, bishop, d. 11/19/1921
 
 # Puerto Rico
 
