@@ -2222,6 +2222,14 @@ Ceuta autonomous city, North Africa
 Chauchina, Vega de Granada comarca, Province of Granada, Andalusia
 autonomous community
 
+- Santuario de Nuestra Señora del Espino/Shrine of the Virgin of the Espino (Plaza de la Constitución, 9)
+
+	- Apparition of Our Lady, 4/9
+
+- Iglesia conventual del Monasterio de las Hermanas Clarisas Capuchinas (Calle Carrera, S/N)
+
+	- Servant of God María del Rosario Granados Martín de Cantos, laywoman/visionary, d. 9/23/1921
+
 - ???
 
   - Ven. Rafaela María de Jesús Hostia Martínez-Cañavate Ballesteros,
@@ -8814,6 +8822,10 @@ Valladolid
 
   - Servant of God Amadora Gómez Alonso, foundress, d. 5/3/1976
 
+- Monasterio de La Concepción/Capilla de las Hermanas Concepcionistas (Calle Concepción 4)
+
+	- Servant of God María de los Angeles (née Florencia) Sorazu Aizpurúa, OIC, religious/mystic/poet, d. 8/28/1921
+
 - Convento de los dominicos de San Pablo/Dominican Convent of St. Paul
 
   - St. Francisco Fernández de Capillas, OP, priest/protomartyr of China,
@@ -8821,9 +8833,9 @@ Valladolid
 
 - Convento de San Agustín de Valladolid/Augustinian Convent of Valladolid
 
-  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\"Sus
+  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\“Sus
     restos mortales se encuentran en el convento agustiniano de
-    Valladolid.\")
+    Valladolid.\”)
 
 - Oratorio de la Casa General de las Discípulas de Jesús/Casa General Discípulas de Jesús (Cno. del Cementerio, 17)
 
