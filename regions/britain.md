@@ -376,11 +376,15 @@ Chichester, West Sussex
 
   - Bl. Ralph Crockett, priest/martyr, 10/1
 
-Chorlton-cum-Hardy (Barlow Moor area), Manchester
+Chorlton-cum-Hardy, Metropolitan Borough of Manchester, Greater Manchester
 
 - Church of St Ambrose (Princess Road)
 
   - St. Ambrose Edward Barlow, priest/martyr, 9/10 (jawbone only)
+
+- Southern Cemetery (212 Barlow Moor Road)
+
+  - Servant of God Pedro Ballester Arenas, layman, d. 1/13/2018
 
 Clodock, Herefordshire
 
