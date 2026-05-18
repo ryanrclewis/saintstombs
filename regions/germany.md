@@ -214,9 +214,15 @@ region, Baden-Württemberg
 
 Bad Segeberg, Segeberg district/Landkreis, Schleswig-Holstein state
 
-Kloster Segeberg (destroyed by the Lutherans)
+- Kloster Segeberg (destroyed by the Lutherans)
 
   - Bl. Volker von Segeberg, OSA, monk/martyred by pagans, 3/7
+
+Bad Staffelstein, Lichtenfels district, Bayern/Bavaria state
+
+- Schloss Banz/Banz Castle/Kloster Banz/Banz Abbey
+
+  - Ss. Vincenzius, Valerius, Benedictus, and Felix Benedictus, transfers from the Roman catacombs. Nothing else is known about them.
 
 Bamberg, Urban district, Upper Franconia administrative region, Bavaria state
 
@@ -2052,7 +2058,7 @@ State
 Reute, Emmendingen district, Freiburg administrative region,
 Baden-Württemberg state
 
-Unserer Lieben Frau vom Rosenkranz/Our Lady of the Rosary in Unterreute
+- Unserer Lieben Frau vom Rosenkranz/Our Lady of the Rosary in Unterreute
 
   - Bl. Elizabeth Achler (aka, Bertha the Good), TOSF, stigmatist, 11/25
     (she's buried in a church)
@@ -2065,7 +2071,7 @@ Riesenbeck, Steinfurt district, North Rhine-Westphalia state
 
 Roggenburg, District of Neu-Ulm, Bayern state
 
-Kloster Roggenburg
+- Kloster Roggenburg
 
   - St. Laurentia
 
@@ -2075,7 +2081,7 @@ Kloster Roggenburg
 
   - St. Venantius
 
-Prämonstratenser Kloster Roggenburg
+- Prämonstratenser Kloster Roggenburg
 
   - Bl. Severin Ott, O.Praem., priest, 12/11
 
@@ -2089,7 +2095,7 @@ Baden-Württemberg state
 Rot an der Rot, Biberach district, Tübingen administrative region,
 Baden-Württemberg state
 
-Reichsabtei Rot an der Rot
+- Reichsabtei Rot an der Rot
 
   - Bl. Odino/Ottino of Rot, O.Praem, abbot, 1/2
 
@@ -2106,13 +2112,9 @@ Baden-Württemberg state
 
   - Servant of God Joannes Baptista Sproll, bishop, d. 3/4/1948
 
-Rupertsburg
-
-- ???
-
 Rülzheim, Germersheim district, Rhineland-Palatinate state
 
-Dieterskirchel
+- Dieterskirchel
 
   - St. Theodard van Maastricht, murdered bishop, 9/10 (relics only)
 
@@ -2311,7 +2313,7 @@ Thale, Harz district, Sachsen-Anhalt/Saxony-Anhalt state
 
 Tholey, Sankt Wendel district, Saarland
 
-Sankt Wendel
+- Sankt Wendel
 
   - St. Wendelin, hermit, 10/22
 
@@ -2327,11 +2329,15 @@ Trier
 
 - Cathedral of St. Peter
 
-The robe of Christ
+  - The robe of Christ
 
   - St. Gregorio da Spoleto, priest/martyr, 12/24 (relics only)
 
-Groß Sankt Martin
+- Jesuitenkirche (Jesuitenstraße 12-13)
+
+  - Ven. Wilhelm Eberschweiler, SJ, priest, d. 12/23/1921
+
+- Groß Sankt Martin
 
   - St. Eliphius von Rampillon, deacon/martyr, 10/16
 
@@ -2367,7 +2373,7 @@ Groß Sankt Martin
 
   - St. Fibitius, bishop, 11/5 (grave may be lost to time)
 
-Basilika Sankt Paulin
+- Basilika Sankt Paulin
 
   - St. Bonosus von Trier, priest, 2/17
 
@@ -2414,13 +2420,13 @@ Basilika Sankt Paulin
 
 Trier-Euren
 
-Pfarramt St. Helena (St.-Helena-Straße 25A)
+- Pfarramt St. Helena (St.-Helena-Straße 25A)
 
   - St. Numerianus von Trier, OSB, bishop, 7/5
 
 Trier-Pfalzel (district of Trier)
 
-Kloster Pfalzel
+- Kloster Pfalzel
 
   - St. Adela, widow/abbess, 11/23
 
