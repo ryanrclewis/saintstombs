@@ -1461,6 +1461,10 @@ Bologna, Province of Bologna, Emilia-Romagna region
   - Servant of God Assunta Viscardi, teacher/religious/foundress, d.
     3/9/1947
 
+- Casa Generaliza Suore della Piccola Missione per i Sordomuti (Via Vallescura 6)
+
+  - Ven. Orsola Mezzini, SPMS, religious, d. 3/23/1919
+
 - ???
 
   - Ss. Agricola and Vitalis, martyrs (Bologna) -- the diocese's "mother
@@ -10224,6 +10228,10 @@ Sacrament
 
   - Bl. María Inés Teresa del Santísimo Sacramento Arias, foundress, 7/22
 
+- Casa Generalizia delle Suore Ancelle della Beata Vergine Maria Immacolata (Via Cassia 102–104)
+
+  - Bl. Josaphata/Yosafata (nee Mykhailyna) Gordashevska/Hordashevs'ka, SSMI, cofoundress, 4/7
+
 - Casa Generalizia delle Suore Oblate al Divino Amore (Via Marruvio, 4,)
 
   - Servant of God Margherita (née Diomira Ludovica) Romana Crispi, foundress, d. 6/18/1974
@@ -11921,6 +11929,8 @@ San Giorgio a Cremano, Province of Napoli, Campania
 
   - Bl. Maria della Passione di Nostro Signore Gesù Cristo Tarallo,
     religious, 7/27
+
+  - Ven. Maria Pia della Croce (née Maddalena Rosa) Notari, CAE, foundress, d. 7/1/1919 (put her under the first bullet)
 
 - Chiesa della Regina dei Gigli/Tempio Inferiore della Regina Bianca dei
   Gigli (viale Regina dei Gigli 1-7)
