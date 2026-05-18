@@ -252,6 +252,12 @@ Mondsee, Vöcklabruck district, Oberösterreich state
 
   - Bl. Konrad II of Mondsee, OSB, murdered abbot, 1/16
 
+Nikitsch/Füles, Oberpullendorf district, Burgenland state
+
+- Ortsfriedhof Nikitsch (Friedhofgasse)
+
+  - Servant of God Szemelliker Antal/Antal Szemelliker, priest/martyr, d. 4/9/19
+
 Pinzgau
 
 - ???
