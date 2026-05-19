@@ -876,11 +876,11 @@ Cemitério/Cemetery
 
 Rio de Janeiro, Rio de Janeiro state
 
-Igreja Nossa Senhora da Paz (Ipanema neighborhood of the South Zone)
+- Igreja Nossa Senhora da Paz (Ipanema neighborhood of the South Zone)
 
   - Ven. Guido Vidal França Schäffer, doctor/surfer/seminarian, d. 5/1/2009
 
-Carmelo de Santa Teresa (Ladeira de Sta. Teresa, 52 -- Santa Teresa 20241-140 -- Rio de Janeiro)
+- Carmelo de Santa Teresa (Ladeira de Sta. Teresa, 52 -- Santa Teresa 20241-140 -- Rio de Janeiro)
 
   - Servant of God María José de Gesù (née Honorina) de Abreu, OCD, religious, d. 3/11/1959
 
@@ -890,9 +890,15 @@ Rio de Janeiro, Botafogo neighborhood, Rio de Janeiro state, South Zone
 
   - Ven. Odette "Odethina" Vidal Oliveira Cardoso, young girl, d. 11/25/1939
 
+Rio de Janeiro, South Zone, Gávea bairro/neighborhood
+
+- Igreja Nossa Senhora da Conceição
+
+  - Servant of God Maria do Santíssimo Sacramento (née Elisa “Zélia”) Pedreira Abreu Magalhães, widow/religious, d. 9/8/1919
+
 Rio Pardo, Rio Grande do Sul state
 
-Paróquia Santuário São Roque
+- Paróquia Santuário São Roque
 
   - Servant of God María de Lourdes (Lourdinha) Benedicta Nogueira Fontão, laywoman, d. 7/18/1988
 
