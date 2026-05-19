@@ -2531,6 +2531,16 @@ Coslada, Municipality of Madrid, Madrid autonomous community
 
   - Ven. Doroteo Hernández Vera, priest/founder, d. 11/6/1991
 
+Costitx, Illes Balears, Mallorca
+
+- Església de Santa Maria/Parròquia de la Nativitat de la Mare de Déu (Plaça del Jardí, 27)
+
+	- Ven. Cativa (née Margalida) da Amengual i Campaner, laywoman/stigmatist, d. 1/30/1919
+
+- Capelleta de la Mare de Déu (Carrer Major, 70)
+
+	- Statue of the Virgin Mary tied to the founding of Christianity in the area
+
 Covarrubias, Arlanza comarca, Province of Burgos, Castile y León
 autonomous community
 
@@ -2557,11 +2567,15 @@ Cruz Cubierta, Alzira, Valencia
     Ferragud\]), 10/25
 
 Cubas de la Sagra, Autonomous community of Madrid
-- Nuestra Señora de las Apariciones (Our Lady of the Apparitions), 3/2
+
 - Monestir de Santa María de la Cruz
-  - St. Juana de la Cruz (née Juana) Vázquez Gutiérrez, abbess, d. 5/3
+
+	- Nuestra Señora de las Apariciones (Our Lady of the Apparitions), 3/2
+ 
+	- St. Juana de la Cruz (née Juana) Vázquez Gutiérrez, abbess, d. 5/3
 
 Cuellar, Province of Segovia, Castile y León autonomous community
+
 - Santuario de Nuestra Señora de El Henar
   - Bl. Adalberto María Vicente Muñoz, O. Carm, religious/martyr, 8/18
   - Bl. Adalberto María (née Adalberto) Vicente y Vicente, O. Carm.,
@@ -2626,7 +2640,7 @@ Cuteclara (near Cordoba; nothing remains of it)
 Daimiel, Campo de Calatrava comarca, Ciudad Real, Castile-La Mancha
 autonomous community
 
-Monasterio Pasionista del Santo Cristo de la Luz
+- Monasterio Pasionista del Santo Cristo de la Luz
 
   - Bl. Abilio of the Cross (Abilio Ramos y Ramos), CP, seminarian/martyr,
     7/24
