@@ -13,10 +13,10 @@ export default {
     // Serve the static admin shell at /admin and /admin/ by returning
     // the bundled admin index file so the SPA won't intercept the route.
     if (url.pathname === '/admin' || url.pathname === '/admin/') {
-      // Rewrite request to /admin/index.html
+      // Rewrite request to /admin/index.html and fetch it directly as GET
       const adminUrl = new URL(request.url)
       adminUrl.pathname = '/admin/index.html'
-      return env.ASSETS.fetch(new Request(adminUrl.toString(), request))
+      return env.ASSETS.fetch(adminUrl.toString(), { method: 'GET' })
     }
 
     return env.ASSETS.fetch(request)
