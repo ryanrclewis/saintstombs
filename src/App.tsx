@@ -3,10 +3,16 @@ import { NavLink, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import './App.css'
 import { FloatingActionButton } from './components/FloatingActionButton'
 import { HomePage } from './pages/HomePage'
+import { SearchPage } from './pages/SearchPage'
 import { getLiturgicalTheme, type LiturgicalColor } from './utils/liturgicalTheme'
 
 const routeMetadata = {
   '/home': {
+    title: 'SaintsTombs | Sacred Pilgrimage Sites',
+    description:
+      'Discover the final resting places of saints and martyrs around the world.',
+  },
+  '/search': {
     title: 'SaintsTombs | Search Saints by Location',
     description:
       'Search the resting places of saints and martyrs by name, location, and region.',
@@ -56,9 +62,14 @@ const GlobalSearchModal = lazy(() =>
   })),
 )
 
+const RegionsPage = lazy(() =>
+  import('./pages/RegionsPage').then((module) => ({ default: module.default })),
+)
+
 const navItems = [
-  { to: '/home', label: 'Home' },
   { to: '/about', label: 'About' },
+  { to: '/saints', label: 'Saints' },
+  { to: '/search', label: 'Search' },
   { to: '/contact', label: 'Contact' },
   { to: '/donate', label: 'Donate' },
 ]
@@ -229,6 +240,11 @@ function App() {
                 </NavLink>
               </li>
             ))}
+            <li>
+              <a href="/admin/index.html" className="nav-link" onClick={() => setIsMobileNavOpen(false)}>
+                Admin
+              </a>
+            </li>
           </ul>
         </nav>
 
@@ -246,7 +262,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Navigate to="/home" replace />} />
             <Route path="/home" element={<HomePage />} />
-            <Route path="/saints" element={<HomePage />} />
+            <Route path="/saints" element={<RegionsPage />} />
+            <Route path="/search" element={<SearchPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/donate" element={<DonatePage />} />
             <Route path="/contact" element={<ContactPage />} />

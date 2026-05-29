@@ -66,3 +66,15 @@ summary: Revered for repentance and ascetic devotion.
 2. Deploy Worker and static assets with `npm run deploy`
 
 Wrangler is configured to serve `dist` as static assets with SPA fallback.
+
+## Admin / CMS
+
+A lightweight Decap (Netlify CMS fork) admin is included and served from `public/admin`.
+
+- Local admin URL: `http://localhost:5174/admin/index.html` when running `npm run dev`.
+- The CMS edits the canonical markdown files under `content/saints/regions`.
+- JSON generation: the canonical data artifacts are produced by `npm run generate:data` (this is run automatically by `predev` and `prebuild`).
+
+Notes:
+- If you navigate to `/admin/` in the SPA, the app's router may intercept the path; open `/admin/index.html` directly to load the static admin UI during local development.
+- When using the GitHub-backed CMS in production, configure your hosting (Cloudflare Pages/Worker) to serve the static `/admin/index.html` so the SPA does not intercept the admin path.

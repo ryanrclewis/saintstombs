@@ -286,6 +286,22 @@ const generate = async () => {
 
   await fs.writeFile(path.join(outputDir, 'saints.json'), JSON.stringify(saints) + '\n')
   await fs.writeFile(path.join(outputDir, 'filters.json'), JSON.stringify(filters) + '\n')
+
+  // Copy region markdown files into the public data folder so the client
+  // can fetch them directly without bundling the raw content.
+  const regionsOut = path.join(outputDir, 'regions')
+  await fs.mkdir(regionsOut, { recursive: true })
+
+  const regions = []
+  for (const filePath of files) {
+    const base = path.basename(filePath)
+    const content = await fs.readFile(filePath, 'utf8')
+    await fs.writeFile(path.join(regionsOut, base), content)
+    const title = titleFromFilename(filePath)
+    regions.push({ file: base, title })
+  }
+
+  await fs.writeFile(path.join(outputDir, 'regions.json'), JSON.stringify(regions) + '\n')
 }
 
 generate().catch((error) => {

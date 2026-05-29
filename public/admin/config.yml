@@ -1,0 +1,31 @@
+# Decap CMS config for SaintsTombs — served at /admin/
+backend:
+  name: github
+  repo: ryanrclewis/saintstombs
+  branch: main
+  base_url: https://saintstombs.com
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "regions"
+    label: "Regions"
+    label_singular: "Region"
+    folder: "content/saints/regions"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "Display name for this region (e.g. Italy)"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: >
+          Use the Word-style editor below to add or update saint entries.
+          Each location should be a plain paragraph; churches are top-level
+          list items; saints are nested list items under the church.
