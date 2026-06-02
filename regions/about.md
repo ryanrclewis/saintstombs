@@ -5,7 +5,7 @@ several trips to Italy---beginning in 2003---during which I visited the
 tombs of saints in small towns. It also arose from experiences in large
 cities, standing in beautiful churches and wondering whether a saint
 might be buried there, then quietly searching for the tomb so I could
-pray
+pray.
 
 Over time, I realized that many other Christians share this desire: to
 make pilgrimages to the tombs of Servants of God, venerables, blesseds,
