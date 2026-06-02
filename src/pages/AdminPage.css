@@ -1,0 +1,370 @@
+/* ── Auth screen ─────────────────────────────── */
+.admin-auth-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+}
+
+.admin-auth-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 40px 48px;
+  background: linear-gradient(
+    150deg,
+    rgba(var(--liturgical-rgb), 0.18) 0%,
+    rgba(20, 20, 35, 0.82) 100%
+  );
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  text-align: center;
+  max-width: 360px;
+  width: 100%;
+}
+
+.admin-auth-card h1 {
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+.admin-auth-card p {
+  color: var(--text-secondary);
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.admin-auth-error {
+  color: #d2667f !important;
+  font-size: 0.85rem !important;
+}
+
+.admin-github-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  background: #24292f;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  transition: background 0.15s;
+  margin-top: 8px;
+}
+
+.admin-github-btn:hover {
+  background: #32383f;
+}
+
+/* ── Sidebar user row ────────────────────────── */
+.admin-user {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.admin-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid var(--glass-border);
+  flex-shrink: 0;
+}
+
+.admin-username {
+  font-size: 0.8rem;
+  color: var(--text-primary);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.admin-logout-btn {
+  background: none;
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  padding: 2px 6px;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.admin-logout-btn:hover {
+  color: var(--text-primary);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+/* ── Commit message input ────────────────────── */
+.admin-commit-msg {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  outline: none;
+  width: 220px;
+  min-width: 0;
+}
+
+.admin-commit-msg:focus {
+  border-color: var(--accent-color);
+}
+
+.admin-commit-msg::placeholder {
+  color: var(--text-secondary);
+}
+
+.admin-commit-msg:disabled {
+  opacity: 0.5;
+}
+
+.admin-commit-link {
+  display: inline-block;
+  margin-left: 8px;
+  color: #4bc588;
+  font-size: 0.75rem;
+  text-decoration: none;
+}
+
+.admin-commit-link:hover {
+  text-decoration: underline;
+}
+
+/* ── Main layout ─────────────────────────────── */
+.admin-page {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  height: calc(100vh - 130px);
+  gap: 0;
+  margin: -20px;
+  overflow: hidden;
+}
+
+/* ── Sidebar ─────────────────────────────────── */
+.admin-sidebar {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--glass-border);
+  background: rgba(255, 255, 255, 0.03);
+  overflow: hidden;
+}
+
+.admin-sidebar-header {
+  padding: 16px 14px 10px;
+  border-bottom: 1px solid var(--glass-border);
+  flex-shrink: 0;
+}
+
+.admin-sidebar-header h2 {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin: 0 0 10px;
+}
+
+.admin-search {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  outline: none;
+}
+
+.admin-search:focus {
+  border-color: var(--accent-color);
+}
+
+.admin-file-list {
+  list-style: none;
+  padding: 8px 0;
+  margin: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.admin-file-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-size: 0.82rem;
+  font-family: var(--font-body);
+  text-align: left;
+  transition: background 0.15s, color 0.15s;
+  border-radius: 0;
+}
+
+.admin-file-btn:hover {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text-primary);
+}
+
+.admin-file-btn.active {
+  background: rgba(212, 175, 55, 0.12);
+  color: var(--accent-color);
+}
+
+.admin-file-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.admin-dirty-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent-color);
+  flex-shrink: 0;
+  margin-left: 6px;
+}
+
+/* ── Editor pane ─────────────────────────────── */
+.admin-editor-pane {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.admin-empty-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.admin-editor-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--glass-border);
+  background: rgba(255, 255, 255, 0.02);
+  flex-shrink: 0;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.admin-editor-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.admin-editor-filename {
+  font-size: 0.85rem;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.admin-editor-stats {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+}
+
+.admin-editor-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.admin-save-msg {
+  font-size: 0.78rem;
+}
+
+.admin-save-msg--ok {
+  color: #4bc588;
+}
+
+.admin-save-msg--err {
+  color: #d2667f;
+}
+
+.admin-btn {
+  padding: 7px 18px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-family: var(--font-body);
+  cursor: pointer;
+  border: none;
+  transition: opacity 0.15s;
+}
+
+.admin-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.admin-btn--primary {
+  background: var(--primary-gradient);
+  color: #050510;
+  font-weight: 700;
+}
+
+.admin-btn--primary:not(:disabled):hover {
+  opacity: 0.85;
+}
+
+.admin-textarea {
+  flex: 1;
+  width: 100%;
+  resize: none;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 16px 20px;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  overflow-y: auto;
+  tab-size: 2;
+}
+
+.admin-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* ── Responsive ──────────────────────────────── */
+@media (max-width: 640px) {
+  .admin-page {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: auto;
+  }
+
+  .admin-sidebar {
+    border-right: none;
+    border-bottom: 1px solid var(--glass-border);
+    max-height: 220px;
+  }
+}

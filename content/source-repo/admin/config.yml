@@ -1,0 +1,42 @@
+# Decap CMS configuration for SaintsTombs.com
+# Docs: https://decapcms.org/docs/
+
+# ---------------------------------------------------------------------------
+# Backend — GitHub with Cloudflare Pages implicit OAuth proxy
+# ---------------------------------------------------------------------------
+backend:
+  name: github
+  repo: ryanrclewis/saintstombs          # owner/repo
+  branch: main                            # branch to save edits to
+  base_url: https://saintstombs.com       # must match your Cloudflare Pages domain
+
+# ---------------------------------------------------------------------------
+# Media — store uploaded images alongside the content
+# ---------------------------------------------------------------------------
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+# ---------------------------------------------------------------------------
+# Collections — one per region markdown file
+# ---------------------------------------------------------------------------
+collections:
+  - name: "regions"
+    label: "Regions"
+    label_singular: "Region"
+    folder: "regions"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "Display name for this region (e.g. Italy)"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: >
+          Use the Word-style editor below to add or update saint entries.
+          Each location should be a plain paragraph; churches are top-level
+          list items; saints are nested list items under the church.

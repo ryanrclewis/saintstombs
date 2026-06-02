@@ -1,0 +1,112 @@
+/* ── TOC ───────────────────────────────────────── */
+.regions-toc {
+  padding: 1.5rem 2rem;
+  margin-bottom: 2.5rem;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(8px);
+}
+
+.regions-toc h3 {
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-secondary);
+  margin: 0 0 1rem;
+}
+
+.regions-toc-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.regions-toc-links a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-size: 0.88rem;
+  border: 1px solid rgba(212, 175, 55, 0.28);
+  background: rgba(212, 175, 55, 0.08);
+  border-radius: 999px;
+  padding: 4px 12px;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.regions-toc-links a:hover {
+  background: rgba(212, 175, 55, 0.18);
+  border-color: rgba(212, 175, 55, 0.5);
+}
+
+/* ── Markdown content ──────────────────────────── */
+.regions-results {
+  margin-top: 24px;
+}
+
+.regions-content {
+  max-width: 860px;
+}
+
+.regions-content h1 {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  color: var(--accent-color);
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.regions-content h1:first-child {
+  margin-top: 0;
+}
+
+.regions-content h2 {
+  font-size: 1.2rem;
+  color: var(--text-primary);
+  margin: 1.6rem 0 0.6rem;
+  padding-left: 10px;
+  border-left: 3px solid var(--accent-color);
+}
+
+.regions-content h3 {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  margin: 1rem 0 0.4rem;
+}
+
+.regions-content p {
+  color: var(--text-secondary);
+  margin: 0.5rem 0 1rem;
+  line-height: 1.7;
+}
+
+.regions-content ul {
+  margin: 0.5rem 0 1.5rem 1.2rem;
+  padding: 0;
+}
+
+.regions-content li {
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+  list-style-type: disc;
+}
+
+.regions-content ul ul {
+  margin: 0.3rem 0 0.3rem 1.2rem;
+}
+
+.regions-content ul ul li {
+  list-style-type: circle;
+  font-size: 0.94rem;
+}
+
+/* ── Fade in ───────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}

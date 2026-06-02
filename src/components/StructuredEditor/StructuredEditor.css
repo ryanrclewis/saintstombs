@@ -1,0 +1,380 @@
+/* ── Root ──────────────────────────────────────────────────────────────────── */
+.se-root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* ── Toolbar ───────────────────────────────────────────────────────────────── */
+.se-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--glass-border);
+  background: rgba(255, 255, 255, 0.02);
+  flex-shrink: 0;
+}
+
+.se-toolbar-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  flex: 1;
+}
+
+.se-mode-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.se-mode-btn:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+}
+
+.se-mode-btn.active {
+  background: rgba(212, 175, 55, 0.15);
+  border-color: rgba(212, 175, 55, 0.4);
+  color: var(--accent-color);
+  cursor: default;
+}
+
+/* ── Raw editor ────────────────────────────────────────────────────────────── */
+.se-raw-editor {
+  flex: 1;
+  resize: none;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 16px 20px;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  overflow-y: auto;
+}
+
+/* ── Structured content scroll area ────────────────────────────────────────── */
+.se-structured-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* ── Shared input ──────────────────────────────────────────────────────────── */
+.se-input {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--glass-border);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  padding: 5px 8px;
+  outline: none;
+  transition: border-color 0.15s;
+  min-width: 0;
+}
+
+.se-input:focus {
+  border-color: rgba(212, 175, 55, 0.5);
+}
+
+.se-input::placeholder {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+/* ── Delete / Add buttons ───────────────────────────────────────────────────── */
+.se-delete-btn {
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: rgba(255, 100, 100, 0.5);
+  font-size: 1rem;
+  line-height: 1;
+  padding: 2px 6px;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.se-delete-btn:hover {
+  color: #ff6464;
+  border-color: rgba(255, 100, 100, 0.3);
+  background: rgba(255, 100, 100, 0.08);
+}
+
+.se-delete-btn--sm {
+  font-size: 0.85rem;
+  padding: 1px 5px;
+}
+
+.se-add-btn {
+  background: none;
+  border: 1px dashed var(--glass-border);
+  border-radius: 6px;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  padding: 5px 12px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  text-align: left;
+  width: fit-content;
+}
+
+.se-add-btn:hover {
+  color: var(--accent-color);
+  border-color: rgba(212, 175, 55, 0.4);
+  background: rgba(212, 175, 55, 0.06);
+}
+
+.se-add-country {
+  margin-top: 20px;
+  align-self: flex-start;
+}
+
+/* ── Country section ───────────────────────────────────────────────────────── */
+.se-country {
+  margin-bottom: 32px;
+}
+
+.se-country-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
+}
+
+.se-collapse-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 0.7rem;
+  padding: 2px 4px;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+
+.se-collapse-btn:hover {
+  color: var(--text-primary);
+}
+
+.se-country-name {
+  flex: 1;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent-color);
+  background: transparent;
+  border-color: transparent;
+}
+
+.se-country-name:focus {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(212, 175, 55, 0.5);
+}
+
+.se-country-implicit-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.se-country-implicit-hint {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+}
+
+.se-locations-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* ── Location block ────────────────────────────────────────────────────────── */
+.se-location {
+  margin-bottom: 24px;
+  padding: 14px 16px;
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.se-location-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.se-location-icon {
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.se-location-name {
+  flex: 1;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.se-buildings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.se-add-location {
+  margin-top: 8px;
+}
+
+/* ── Building block ────────────────────────────────────────────────────────── */
+.se-building {
+  padding: 10px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.se-building-header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.se-building-icon {
+  font-size: 0.75rem;
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+.se-building-name {
+  flex: 1;
+  font-size: 0.82rem;
+}
+
+.se-saints-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.se-add-saint {
+  font-size: 0.72rem;
+  padding: 3px 10px;
+}
+
+.se-add-building {
+  font-size: 0.75rem;
+}
+
+/* ── Saint row ─────────────────────────────────────────────────────────────── */
+.se-saint-row {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+}
+
+.se-saint-row--raw {
+  background: rgba(212, 175, 55, 0.05);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 6px;
+  padding: 4px 8px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.se-raw-badge {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #d4af37;
+  background: rgba(212, 175, 55, 0.15);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 4px;
+  padding: 1px 5px;
+  flex-shrink: 0;
+}
+
+.se-raw-toggle {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.se-raw-textarea {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--glass-border);
+  border-radius: 4px;
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  padding: 6px 8px;
+  resize: vertical;
+  outline: none;
+}
+
+.se-title-select {
+  width: 116px;
+  flex-shrink: 0;
+  font-size: 0.8rem;
+}
+
+.se-title-select option {
+  background: #171724;
+  color: #f4f4ff;
+}
+
+.se-name-input {
+  flex: 2;
+  min-width: 120px;
+}
+
+.se-role-input {
+  flex: 2;
+  min-width: 100px;
+}
+
+.se-feast-input {
+  width: 90px;
+  flex-shrink: 0;
+}
+
+.se-notes-input {
+  flex: 1;
+  min-width: 80px;
+}
