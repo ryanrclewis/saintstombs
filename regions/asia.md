@@ -1075,7 +1075,7 @@ Mawlai, East Khasi Hills district, Meghalaya state
 
 - Shrine of Sacred Heart of Jesus at Sacred Heart Theological College
 
-  - Servant of God Constantine Vendrame, SDB, priest, d. 1/30/1957
+  - Ven. Constantine Vendrame, SDB, priest, d. 1/30/1957
 
 Melapudur, Sangillyandapuram, Tiruchirappalli (aka, Trichy),
 Tiruchirappalli District, Tamil Nadu
@@ -3246,7 +3246,7 @@ Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Gov
 
 - 
 •الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
-  - Ven. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
+  - Bl. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
 
 
 Beirut
