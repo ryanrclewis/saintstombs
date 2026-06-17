@@ -186,9 +186,11 @@ Ma'an, Vallée-du-Ntem department, South region
 
   - Servant of God Mario Bortoletto, priest, d. 3/9/2009
 
-- ???
+Nkolbisson, Yaoundé
 
-  - Servant of God Jean-Thierry of the Child Jesus and of the Passion Ebogo, OCD, priest, d. 1/5/2006
+- Maison Edith Stein Carmelite scholasticate (Carmes Déchaux B.P. 185 – C 47)
+
+  - Ven. Jean-Thierry of the Child Jesus and of the Passion Ebogo, OCD, priest, d. 1/5/2006
 
 # Central African Republic
 
