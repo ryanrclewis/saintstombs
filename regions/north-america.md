@@ -481,6 +481,10 @@ Dickinson, Galveston County, Texas
 
 - Shrine of the True Cross (300 Fm 517 Rd E)
 
+Doral, Miami-Dade County, Florida
+- Our Lady of Guadalupe Catholic Church (11691 NW 25th Street)
+  - Servant of God John Rick Miller, layman, d. 5/30/2015
+
 Doylestown, Bucks County, Pennsylvania
 
 - National Shrine of Our Lady of Czestochowa
@@ -655,11 +659,15 @@ Gower, Buchanan and Clinton Counties, Missouri
 - Benedictines of Mary Queen of Apostles, Abbey of Our Lady of Ephesus
   - Mother Mary Wilhelmina Lancaster, OSB, religion, d. 5/29/2019 (non-causa but incorrupt)
 
+Grand Blanc, Genesee County, Michigan
+- Church of the Holy Family
+  - Relics of St. Jude, St. Gerard Magellan, St. Francis of Assisi, St. Anthony of Padua, St. Peregrine Laziosi
+
 Grand Coteau, St. Landry Parish, Louisiana
 
 - Academy of the Sacred Heart (1821 Academy Road)
   - Shrine of St. John Berchmans
-    - Site of a miracle attributed to the saint's intercessionff
+    - Site of a miracle attributed to the saint's intercession
 
 Grand Rapids, Kent County, Michigan
 
@@ -962,11 +970,18 @@ Los Angeles
   - Shrine to Our Lady of Talpa
 - Santuario de Nuestra Señora de Guadalupe (4100 E. 2<sup>nd</sup> Street)
 
+Los Angeles, Mission Hills neighborhood, Los Angeles County, California
+
+- San Fernando Mission Cemetery (11160 Stranwood Ave.)
+  - Servant of God Ida Peterfy, SDSH, foundress, d. 2/8/2000
+  - Shrine to the Unborn
+  - Graves of several Hollywood celebrities
+
 Louisville, Kentucky
 
 - St. Louis Bertrand Church (1104 S. 6<sup>th</sup> Street)
   - Shrine of Our Lady of Lourdes (aka, Lourdes Rosary Shrine)
-- St. Martin of Tours Church, 639 S. Shelby St.
+- Shrine of St. Martin of Tours (639 S. Shelby St.)
   - St. Bonosa, martyr, 7/15
   - St. Magnus, martyr, 8/19
 
@@ -982,7 +997,7 @@ Lowell, Middlesex County, Massachusetts
 Lyons, Rice County, Kansas
 
 - The Padilla Cross (4 miles west of Lyons on US56)
-  - Reputed burial place of Fr. Juan Padilla, first martyr on US soil
+  - Reputed burial place of Fr. Juan Padilla, first martyr on US soil, d. 11/30/1542
 
 Madison, Wisconsin
 
@@ -1076,18 +1091,11 @@ Milwaukee, Milwaukee County, Wisconsin
 
 - Holy Cross Cemetery (7301 W. Nash St., block 2, section B, parcel 126; 43°4′35″ N  88°0′2″ W)
 
-  - Ven. Maria Theresia of the Blessed Trinity (Hendrika) Ijsseldijk, religious, d. 3/10/1926
+  - Ven. Maria Teresia of the Blessed Trinity (née Teresia) Ijsseldijk, religious, d. 3/10/1926
 
 Mio, Oscoda County, Michigan
 
 - Our Lady of the Woods Shrine (a composite of every Marian shrine)(100 Deyarmond Street)
-
-Mission Hills neighborhood, Los Angeles, Los Angeles County, California
-
-- San Fernando Mission Cemetery (11160 Stranwood Ave.)
-  - Servant of God Ida Peterfy, SDSH, foundress, d. 2/8/2000
-  - Shrine to the Unborn
-  - Graves of several Hollywood celebrities
 
 Mogadore, Portage and Summit Counties, Ohio
 
@@ -1107,7 +1115,7 @@ Monroe, Ouachita Parish
 Monroe, Orange County, New York
 
 - Parish Visitors of Mary Immaculate Motherhouse/Marycrest (164 Quaker Hill Road)
-  - Servant of God Mother Mary Teresa Tallon, religious/foundress, d. 3/10/1954
+  - Ven. Mother Mary Teresa Tallon, religious/foundress, d. 3/10/1954
 
 Morton County, North Dakota
 
