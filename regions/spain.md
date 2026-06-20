@@ -1809,6 +1809,10 @@ Cádiz (Cadiz), Province of Cádiz, Andalusia
 
   - Servant of God Francisco González Metola, priest, d. 2/24/1967
 
+- Casa Madre de la Congregación de las Franciscanas del Rebaño de María (calle Costa Rica, número 5)
+
+	- Ven. María de la Encarnación de San Francisco de Asís (née  Catalina de la Encarnación) Carrasco Tenorio, HTFRM, foundress, d. 11/24/1917
+
 - ???
 
   - Ven. Vicente Lopez de Uralde Lazcano, SM, priest/teacher, d. 9/15/1990
@@ -2860,10 +2864,9 @@ community
 Elda, Vinalopó Mitjà comarca, Province of Alicante, Valencia autonomous
 community
 
-Santa Ana de Elda
+- Iglesia Santa Ana (Calle Los Giles, s/n) 
 
-  - Servant of God Carme (Arcángela) Badosa Cuartrecasas, religious, O.
-    Carm., d. 12/18/1999
+	- Ven. Arcàngela (née Carme) Badosa Cuatrecasas, religious, d. 11/27/1918
 
 Elorrio, Durangaldea comarca, Province of Biscay, Basque Country
 autonomous community
@@ -3266,6 +3269,10 @@ Granada, Province of Granada, Andalusia
 - Catedral de Granada/Basílica Catedral Metropolitana de la
   Encarnación/Cathedral
 
+	- Servant of God Queen Isabella I of Spain, d. 11/26/1504 (cause halted out of “political prudence”) (in the Capilla Real de Granada/Royal Chapel of Granada)
+
+	- Relics of St. John the Baptist, Ss. Peter and Paul, St. Michael, St. James, and St. Philip.
+
 - Iglesia de San Gregorio Magno/Church of San Gregorio Magno
 
   - Ven. José Gras y Granollers, founder, d. 7/7/1918
@@ -3283,7 +3290,7 @@ Granada, Province of Granada, Andalusia
 
   - Servant of God Manuel Hurtado García, archbishop, d. 1/12/1966
 
-Abadía del Sacromonte
+- Abadía del Sacromonte
 
   - St. Caecilius/Cecilio of Elvira, bishop/martyr, 5/1
 
@@ -4349,8 +4356,7 @@ Madrid
 
   - Bl. José Xavier Gorosterratzu y Jaunarena, CSsR, priest/martyr, 8/10
 
-- Parroquia/Iglesia de los Sagrados Corazones/Sacred Hearts (P.º de La
-  Habana, 31 or Paseo de la Castellana, 82)
+- Parroquia/Iglesia de los Sagrados Corazones/Sacred Hearts (P.º de La Habana, 31 or Paseo de la Castellana, 82)
 
   - Bl. Andrés Avelino Gutiérrez Moral, CM, priest/martyr, 8/3 & 11/6
 
@@ -4361,8 +4367,7 @@ Madrid
   - Bl. Isidro (née Juan) Iñiguez de Ciriano Abechuco, SS.CC.,
     priest/martyr, 10/2
 
-Basílica de los Sagrados Corazones (Paseo del General Martínez Campos,
-16)
+- Basílica de los Sagrados Corazones (Paseo del General Martínez Campos, 16)
 
   - Bl. Benjamín Fernández de Legaria Goñi, priest/martyr, 8/11
 
@@ -4373,14 +4378,12 @@ Basílica de los Sagrados Corazones (Paseo del General Martínez Campos,
 
   - Ven. Isidoro Zorzano Ledesma, engineer, d. 7/15/1943
 
-Santa Cruz
+- Santa Cruz
 
   - St. Simón de Rojas, OSsT, priest, 9/28 (remains destroyed by the
     communists)
 
-- Iglesia de San Francisco de Borja/Church of Saint Francis Borgia at the
-  "Cuarta Casa Profesa de Madrid" (Calle de la Flor Baja, 3 ; 40°26′04″N
-  3°41′10″W)
+- Iglesia de San Francisco de Borja/Church of Saint Francis Borgia at the "Cuarta Casa Profesa de Madrid" (Calle de la Flor Baja, 3 ; 40°26′04″N 3°41′10″W)
 
   - Servant of God Fernando de Huidobro Polanco, SJ, priest, d. 4/11/1937
 
@@ -4392,7 +4395,7 @@ Santa Cruz
   - Ven. María del Pilar "Pilina" Cimadevilla López-Dóriga, child, d.
     3/6/1962 (Capilla de la Virgen del Castillo/Chapel of the Virgin)
 
-Colegiata de San Isidro
+- Colegiata de San Isidro
 
   - St. Isidore the Farmer, 5/10 or 5/14
 
@@ -4421,7 +4424,7 @@ Colegiata de San Isidro
 
   - Bl. Victor Gaitero González, OSA, priest/martyr, 8/5 & 11/6
 
-San Martín de Tours (on Calle del Desengaño)
+- San Martín de Tours (on Calle del Desengaño)
 
   - Ven. Alexia González-Barros González, teen laywoman, d. 12/5/1985
 
@@ -4435,10 +4438,9 @@ San Martín de Tours (on Calle del Desengaño)
 
   - Bl. Victor García Ceballos, OP, priest/martyr, 8/5
 
-Real basílica de Nuestra Señora de Atocha
+- Real basílica de Nuestra Señora de Atocha
 
-  - Servant of God Bartolomé de las Casas, OP,
-    priest/writer/activist/historian/champion of human rights, d. 7/18/1566
+  - Servant of God Bartolomé de las Casas, OP, priest/writer/activist/historian/champion of human rights, d. 7/18/1566
     (remains lost)
 
 - Iglesia de Nuestra Señora de la Paz (Our Lady of Peace) (Calle de Rafael
@@ -4446,11 +4448,9 @@ Real basílica de Nuestra Señora de Atocha
 
   - St. Pedro Poveda y Castroverde, priest/martyr, 7/28
 
-- Iglesia de Nuestra Señora de Montserrat/Our Lady of Montserrat (calle de
-  San Bernardo 79)
+- Iglesia de Nuestra Señora de Montserrat/Our Lady of Montserrat (calle de San Bernardo 79)
 
-- Bl. Antolín Pablos Villanueva, OSB (Sacristía de los Mártires/sacristy
-  of the martyrs)
+	- Bl. Antolín Pablos Villanueva, OSB (Sacristía de los Mártires/sacristy of the martyrs)
 
   - Bl. José Antón Gómez, OSB, prior/martyr, 9/25 (Sacristía de los
     Mártires/sacristy of the martyrs)
@@ -4458,10 +4458,9 @@ Real basílica de Nuestra Señora de Atocha
   - Bl. Luis Vidaurrázaga González, OSB, priest/martyr, 12/31 (Sacristía de
     los Mártires/sacristy of the martyrs)
 
-- Bl. Rafael Alcocer Martínez, OSB (Sacristía de los Mártires/sacristy of
-  the martyrs)
+	- Bl. Rafael Alcocer Martínez, OSB (Sacristía de los Mártires/sacristy of   the martyrs)
 
-Palacio Real del Escorial
+- Palacio Real del Escorial
 
   - St. Pezenne, virgin/confessor, 6/26 (buried in one of the chapels)
 
@@ -4477,7 +4476,7 @@ Palacio Real del Escorial
   - Bl. Maria Cecilia (née Felícitas) Cendoya Araquistain, VSM,
     religious/martyr, 11/18
 
-Colegio del Pilar (Calle de Castelló, 56)
+- Colegio del Pilar (Calle de Castelló, 56)
 
   - Ven. Domingo Lázaro y Castro, SM, priest, d. 2/22/1935 (la capilla
     Gótica/Gothic chapel)
@@ -4486,32 +4485,27 @@ La capilla del Colegio de Villaverde Alto
 
   - Ven. Isabel Larrañaga Ramírez, HCSCJ, foundress, d. 1/17/1899
 
-Capilla del Fundador del Instituto Secular de las Siervas Seculares de
-Jesucristo Sacerdote in San Juan de Avila, Madrid (???Bravo Murillo, 198
-5° -- H 28020 -- Madrid)
+- Capilla del Fundador del Instituto Secular de las Siervas Seculares de Jesucristo Sacerdote in San Juan de Avila, Madrid (???Bravo Murillo, 198 5° -- H 28020 -- Madrid)
 
   - Ven. Juan Sánchez Hernández, founder, d. 7/18/1975
 
-Convento Hermanas Celadoras del Culto Eucarístico (calle de Blanca de
-Navarra, 9)
+- Convento Hermanas Celadoras del Culto Eucarístico (calle de Blanca de Navarra, 9)
 
   - Bl. María de los Ángeles (née Angela Benita Sebastiana Margarita Ginard
     Martí), religious/martyr, 8/26 (in the Capilla del Corpus Christi)
 
-Convento de las Hermanas Pasionistas (Avenida Arturo Soria, 257???;
-pasionistas.madrid@gmail.com; Tel. \[34\] (91) 302.0618)
+- Convento de las Hermanas Pasionistas (Avenida Arturo Soria, 257; pasionistas.madrid@gmail.com; Tel. \[34\] (91) 302.0618)
 
   - Ven. María Magdalena de Jesús en el Santísimo Sacramento/Maria Maddalena
     di Gesù Sacramentato (née Giuseppina Marcucci), CP, religious/visionary,
     d. 2/10/1962
 
-Convento de los Capuchinos de Vallehermoso (Calle Vallehermoso, 79)
+- Convento de los Capuchinos de Vallehermoso (Calle Vallehermoso, 79)
 
   - Bl. Fernando of Santiago (née Fernando Olmedo Reguera), OFM Cap.,
     priest/martyr, 8/2
 
-Cementerio de Convento de las Franciscanas Misioneras de la Madre del
-Divino Pastor (Calle de Ferraz, 26)
+- Cementerio de Convento de las Franciscanas Misioneras de la Madre del Divino Pastor (Calle de Ferraz, 26)
 
   - Bl. Isabel (née María del Consuelo) Remiñán Carracedo, FMMDP,
     religious/martyr, 8/7
@@ -4520,8 +4514,7 @@ Divino Pastor (Calle de Ferraz, 26)
 
   - Bl. Mariana de Jesús Navarro, Mercedarian, 4/17 (incorrupt)
 
-Convento de Santa Ana y San José (C. del Gral. Aranaz, 58, San
-Blas-Canillejas)
+- Convento de Santa Ana y San José (C. del Gral. Aranaz, 58, San Blas-Canillejas)
 
   - Bl. María Sagrario de San Luis Gonzaga (née Elvira Moragas Cantarero),
     OCD, 8/15
@@ -4530,26 +4523,24 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Alonso de Orozco Mena, OSA, priest, 9/19
 
-Monasterio de Santa María de la Almudena (Oblatas de Cristo Sacerdote)
+- Monasterio de Santa María de la Almudena (Oblatas de Cristo Sacerdote)
 
   - Servant of God María del Carmen Hidalgo de Caviedes y Gomez,
     cofoundress, d. 2/1/2001 (buried in the lower choir)
 
-Convento de Santo Tomás de Ávila
+- Convento de Santo Tomás de Ávila
 
   - Bl. Buenaventura García-Paredes Pallasá, OP, priest/martyr, 8/12
 
   - Bl. José María López Carrillo, OP, priest/martyr, 8/27
 
-Hermanos de las Escuelas Cristianas de La Salle/La Salle Brothers\'
-Community (Calle Marqués de Mondéjar, 32)
+- Hermanos de las Escuelas Cristianas de La Salle/La Salle Brothers\' Community (Calle Marqués de Mondéjar, 32)
 
   - Bl. Alejo Andrés (née Patricio) Beobide Cendoya, FSC, 8/3
 
-Monasterio de la Purisima Concepción, "La Latina" (C. Toledo 52)
+- Monasterio de la Purisima Concepción, "La Latina" (C. Toledo 52)
 
-  - Servant of God María Ana Alberdi (Mª de la Concepción Cruz Alberdi
-    Echezarreta), religious, d. 11/27/1998
+  - Ven. María Ana  (née María de la Conceptión Cruz) Alberdi Echezarreta, religious, d. 11/27/1998
 
 - Monasterio de las Monjas Visitandinas/Visitandine Nuns Monastery (Calle Santa Engracia)
 
@@ -4909,9 +4900,6 @@ Monasterio de la Purisima Concepción, "La Latina" (C. Toledo 52)
 
   - Bl. Maria del Consuelo Remiñán Carracedo, FMMDP, religious/martyr, 7/7 (grave lost)
 
-  - Bl. María Desposorios (née María Caterina) Irigoyen Echegaray,
-    religious, 10/10
-
   - Bl. Martín de Salvatierra, O de M, monk, 3/30
 
   - Bl. Mateu Garrolera Masferrer, SDB, religious/martyr, 10/2
@@ -5054,6 +5042,12 @@ Madrid, Carabanchel Alto area, Madrid autonomous community
   - Bl. Pablo Gracia Sánchez, SDB, priest/martyr, 12/15 (remains lost)
 
   - Bl. Tomás Gil de la Cal, SDB, aspirant/martyr, 9/25 (remains lost)
+
+Madrid, Chamberí district
+
+- Casa Madre of the Siervas de María (Plaza de Chamberí, 7)
+
+	- Bl. María Desposorios (née María Caterina) Irigoyen Echegaray, religious, 10/10
 
 Madrid, El Pardo barrio, Madrid autonomous community
 
