@@ -1408,9 +1408,11 @@ Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
   - Bl. Queen Matilda Canmore of Scotland, 4/30
 
+  - Mary Queen of Scots, d. Feb. 8, 1587 (non-causa but ended how she did because she was a Catholic)
+
 - Westminster Cathedral, Chapel of the Martyrs
 
-John Lockwood
+  - Bl. John Lockwood, priest/martyr, 4/13
 
   - St. John Southworth, priest/martyr, 6/28
 
@@ -1857,6 +1859,7 @@ Valley
 - Benedictine abbey
 
   - Carmelite martyrs of Compiègne, second class relics only, 7/17
+  - St. Fulgentia
 
 Stanton Harcourt, Oxfordshire
 
