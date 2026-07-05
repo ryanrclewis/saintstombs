@@ -1791,6 +1791,12 @@ Raħal Ġdi/Paola, Malta
 
 Valletta
 
+- il-Knisja tal-Ġiswiti/Church of the Circumcision of Our Lord/Church of the Jesuits/Church of the University (VGX8+93G, Merchants St.)
+
+  - St. Justin Martyr (relics only; altar dedicated to St. Anne and St. Joachim)
+  
+  - Other early martyrs (altar dedicated to Ss. Anne and Joachim
+
 - St. Mary of Jesus Friary, Chapel of the Immaculate Conception
 
   - Bl. Nazju (aka, Ignatius) Falzon, evangelist, 7/1
@@ -1878,8 +1884,6 @@ Place of death only
   - St. Edith Stein, OCD, religious/martyr, 8/9
 
   - Bl. Franciszek Harazim, SDB, priest/martyr, 6/27/1941
-
-  - Bl. Franciszek Miska, SDB, priest/martyr, 5/30/1942
 
   - Bl. Ignacy Antonowicz, SDB, priest/martyr, 7/21/1941
 
@@ -2249,6 +2253,10 @@ Kęty, Oświęcim county, Lesser Poland voivodeship
 
   - Bl. Celina Chludzińska-Borzęcka, CR, wife/mother/widow/foundress, 10/26
 
+- Klasztor Sióstr Klarysek od Wieczystej Adoracji /Sanktuarium Wieczystej Adoracji Najświętszego Serca/Sanctuary of Perpetual Adoration of the Sacred Heart (Tadeusza Kościuszki 6) 
+
+  - Servant of God Maria od Najświętszego Serca Jezusa/Maria of the Sacred Heart of Jesus (née  Walentyna) Łempicka, OCPA, religious, d. 1/24/1918
+
 Kielce, Świętokrzyskie voivodeship
 
 - Starym Cmentarzu/Old Cemetery (Księdza Piotra Ściegiennego 12)
@@ -2593,12 +2601,11 @@ Masovian voivodeship
 
 Nowe Miasto nad Pilicą, Grójec county, Masovian voivodeship
 
-Kościół Klasztorny Kapucynów
+- Kościół Klasztorny Kapucynów
 
   - Bl. Honorat (née Florentyn) Koźmiński, OFM Cap., priest/founder, 12/16
 
-Nowogrodziec (German: Naumburg am Queis), Bolesławiec County, Lower
-Silesia Voivodeship
+Nowogrodziec (German: Naumburg am Queis), Bolesławiec County, Lower Silesia Voivodeship
 
 - Church of the Transfiguration
 
@@ -3715,11 +3722,17 @@ Uchcie, Siberia
 
   - Servant of God Stanisław Szulminski, SAC, martyr, d. 11/27/1941
 
-Ufa, Republic of Bashkortostan, Russia
+Ufa, Republic of Bashkortostan
 
 - ???
 
-  - Servant of God Fr. Frantiszek Budrys, martyr
+  - Servant of God Fr. Frantiszek Budrys, martyr, 12/16/1937 ( He was shot in the Ufa prison on December 16, 1937, alongside nearly 190 other Catholics.)
+
+Ulyanovsk/Simbirsk, Ulyanovsk Oblast
+
+- A local cemetery is all that is known; he was buried on the right side, near the entrance; the grave is now lost
+
+  - Servant of God Єремія Іван Ломницький/Eremia/Jeremiah (née John) Lomnytskyj, OSBM, priest/missionary/founder, d. 7/3/1916
 
 Veliky Novgorod, Novgorod Oblast
 
@@ -5170,11 +5183,11 @@ Zarvanytsia, Ternopil oblast, Terebovlia region, Ukraine
 
 Site of Marian apparition
 
-Zhuzheljany
+Zhuzheljany/Zhuzheliany/Жужеляни, Sokal district, Lviv region
 
-- ???
+- сільський цвинтар/кладовище/Village cemetery (in the chapel)
 
-  - SoG Kyrylo Seletskyj, priest
+  - Servant of God Селецький Кирило/Kyrylo Selets’kyi, husband/widower/priest/founder, d. 4/28/1918
 
 # Undetermined
 
