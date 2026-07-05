@@ -1419,6 +1419,12 @@ Estaing, Aveyron department, Occitanie region
 - Église Saint-Fleuret d'Estaing
   - St. Flour/Fleuret/Florus of Lodève, bishop, 6/1 & 11/3 (relics only)
 
+Étinehem-Méricourt, Péronne arrondissement, Somme department, Hauts-de-France region
+
+- La nécropole nationale d’Étinehem
+
+  - Servant of God Philippe Thibaut, military chaplain, d. 9/27/1916
+
 Eu, Dieppe arrondissement, Seine-Maritime department, Normandy region
 
 - Notre-Dame et Saint-Laurent/Our Lady and St. Lawrence
