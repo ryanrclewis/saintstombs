@@ -155,14 +155,24 @@ Boomer, Fayette County, West Virginia
 - St. Anthony Church
   - St. Anthony's Shrine (2764 Midland Trail , Rte. 60)
 
+Boonton, Morris County, New Jersey 
+
+- St. Therese of Lisieux Shrine (54 Rock Lane)
+
 Boston, Massachusetts
 
 - Basilica of Our Lady of Perpetual Help (1545 Tremont St.)
+
   - St. Nazarius, martyr, 6/28
+
 - Our Lady of Victories Shrine
+
   - Memorial of Ann Glover, martyr
+
 - Shrine of Our Lady of Good Voyage (51 Seaport Blvd.)
+
 - St. Anthony Shrine (100 Arch Street)
+
 - St. Clement's Archdiocesan Eucharistic Shrine (1105 Boylston St.)
 
 Boston, Brighton neighborhood, Massachusetts
@@ -377,14 +387,19 @@ Clifton, Passaic County, New Jersey
 Clyde, Nodaway County, Missouri
 
 - Benedictine Sisters Convent of Perpetual Adoration (31970 State Highway P)
+
   - Relics chapel in the church (Over 400 relics)
+
 - Dom Lukas Etlin Gravesite (31970 State Highway P)
-  - Servant of God Lukas Alfred Etlin, OSB, priest, d. 12/16/1927
+
+  - Fr. Lukas Alfred Etlin, OSB, priest, d. 12/16/1927 (non-causa, but his cause may soon be started)
 
 Cold Spring, Stearns County, Minnesota
 
 - Assumption Chapel (aka, Grasshopper Chapel)(22912 Chapel Hill Road)
+
   - Marian Shrine
+
   - Calvary Hill
 
 Collegeville, St. Wendel Township, Stearns County, Minnesota
@@ -710,10 +725,14 @@ Hanover (Conewago), York County, Pennsylvania
 Harrisburg, Pennsylvania
 
 - St. Catherine Laboure Church (4000 Derry Street)
+
   - Shrine of the Miraculous Medal
 
-Harrisville, Providence County, Rhode Island
+Havertown, Delaware County, Pennsylvania
 
+- St. Denis Church (2401 St. Denis Lane)
+
+  - Adoration Chapel/Shrine of the Sacre Coeur (Sacred Heart) (behind the rectory)
 
 Hawthorne, Westchester County, New York
 
@@ -1379,6 +1398,10 @@ Philadelphia, Pennsylvania
   - Bl. Margaret of Castello Shrine
 - St. Dominic Church (8504 Frankford Ave.)
   - Many relics
+- St. John the Evangelist Church (21 S. 13th Street)
+  - Lourdes Grotto (behind the altar of the lower church)
+  - The archdiocese's second pro-cathedral
+  - Historic graveyard (contains Empress Ana María Huarte de Iturbide and William Penn-Gaskill [William Penn's great grandson])
 - St. Richard of Chichester Church (3010 S. 18th Street)
   - Shrine of Our Lady of Knock
 - St. Rita of Cascia Church (1166 S. Broad Street)
@@ -1578,7 +1601,7 @@ St. John, Lake County, Indiana
 St. Joseph, Stearns County, Minnesota
 
 - St. Benedict Convent churchyard
-  - Servant of God Mary Annella Zervas, OSB, (non-cause) religious/miracle worker, d. 8/14/1926
+  - Servant of God Mary Annella Zervas, OSB, religious/miracle worker, d. 8/14/1926
 
 St. Louis, Missouri
 
@@ -1933,7 +1956,14 @@ Vincennes, Knox County, Indiana
 Wahpeton, Richland County, North Dakota
 
 - Carmel of Mary Monastery (17765 78<sup>th</sup> St. SE)
+
   - Shrine of Our Lady of the Prairies
+
+Warminster, Bucks County
+
+- Nativity of Our Lord Catholic Parish (605 W. Street Road)
+
+  - The Shrine of St. Gianna Beretta Molla
 
 Washington, DC
 
@@ -2289,3 +2319,11 @@ Winnipeg, Manitoba
   - Bl. Basil/Vasyl Velychkovsky, CSsR, bishop/martyr, 6/27
 
 - Sr. Theresia was born 13 Nov. 1897 in Apeldoorn, Holland, died 10 March 1926 in St. Louis. She is buried at a convent graveyard in Wauwatosa. [↑](#endnote-ref-1)
+
+# Bahamas
+
+Mount Alvernia, Cat Island
+
+- Mount Alvernia Hermitage on Como Hill (24.29443° N, -75.40863° W; there is no street address as such)
+
+  - Servant of God John Cyril Hawes, priest/architect, d. 6/26/1956
