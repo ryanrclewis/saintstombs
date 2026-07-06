@@ -530,8 +530,7 @@ Dachau Concentration Camp
 
   - Dom Arnošt (Ernst) Vykoukal, OSB, abbot, d. 9/10/1942
 
-  - Servant of God Augustin (nee František) Schubert, OSA, priest/martyr, d.
-    6/28/1942
+  - Servant of God Augustin (nee František) Schubert, OSA, priest/martyr, d. 6/28/1942
 
   - Fr. Bolesław Prabutzki, martyred, date unknown
 
@@ -565,8 +564,7 @@ Dachau Concentration Camp
 
   - Bl. Gerhard Hirschfelder, ISch, priest/martyr, 8/1
 
-  - Servant of God Giovanni Palatucci, police officer/martyr, d. 2/10/1945
-    (buried in a mass grave)
+  - Servant of God Giovanni Palatucci, police officer/martyr, d. 2/10/1945 (buried in a mass grave)
 
   - Bl. Giuseppe Girotti, OP, priest/martyr/biblical scholar, 4/1
 
@@ -616,8 +614,7 @@ Dachau Concentration Camp
 
   - Fr. Richard Schneider, priest/martyr, date unknown
 
-  - Fr. Robert Regout, SJ, Dutch priest/martyr, d. 12/28/1942 (cause under
-    consideration)
+  - Fr. Robert Regout, SJ, Dutch priest/martyr, d. 12/28/1942 (cause under consideration)
 
   - Fr. Stanisław Bednarski, priest/martyr, d. 7/16/1942
 
