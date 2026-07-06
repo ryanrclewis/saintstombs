@@ -1242,8 +1242,7 @@ Bibbiena, Province of Arezzo, Toscana
 - Monastero domenicano di Bibbiena di Santa Maria del Sasso (Via Santa
   Maria del Sasso, 6)
 
-  - Servant of God Maria Petra (née Nicoletta) Giordano, OP, religious, d.
-    6/21/2006 (in the chapel)
+  - Ven. Maria Petra (née Nicoletta) Giordano, OP, religious, d. 6/21/2006 (in the chapel)
 
 Biccari, Province of Foggia, Puglia region
 
@@ -3489,17 +3488,19 @@ Como, Province of Como, Lombardy region
 
   - St. Adalberto (Adelbert) of Como, bishop, 6/3 (relics)
 
-- Benedictine Convent of Santa Margherita
-
 - Church of San Provino
 
   - St. Provinus/Provino of Como, bishop, 3/8
 
-Pontificio Collegio Gallio (under the altar)
+- Monastero della Visitazione/Monastery of the Order of the Visitation (Via Briantea, 14)
+
+  - Servant of God Benigna Consolata (née Maria Consolata Rosalia Theresa Philomena Gaetano) Ferrero, VSM, religious/mystic, d. 9/1/1916 (buried in the church)
+
+- Pontificio Collegio Gallio (under the altar)
 
   - St. Giovanni Oldrati of Meda (and of Como), Ord.Hum., abbot, 9/26
 
-Tomba dei Servi della Carità
+- Tomba dei Servi della Carità
 
   - Servant of God Giovanni Vaccari, SdC, religious, d. 10/9/1971
 
@@ -3515,7 +3516,7 @@ Tomba dei Servi della Carità
 
 Comonte di Seriate, Province of Bergamo, Lombardia region
 
-Casa madre delle Suore della Sacra Famiglia (Via L. Corti)
+- Casa madre delle Suore della Sacra Famiglia (Via L. Corti)
 
   - St. Paola Elisabetta Cerioli/Costanza Cerioli Buzecchi-Tasis
 
@@ -3928,7 +3929,7 @@ Este, Province of Padua, Veneto Region
 
 - Basilica di Santa Maria delle Grazie
 
-  - Byzantine-style icon of the Madonna and Child
+  - Madonna delle Grazie (Byzantine-style icon of the Madonna and Child)
 
 Fabriano, Province of Ancona, Le Marche region
 
@@ -3936,13 +3937,13 @@ Fabriano, Province of Ancona, Le Marche region
 
   - Bl. Costanzo Servoli da Fabriano, Dominican, 2/24 (head only)
 
-Sant'Agostino
+- Sant'Agostino
 
   - Bl. Giovanni Becchetti da Fabriano, OSA, priest, 7/2
 
   - Bl. Pietro Becchetti da Fabriano, OSA, priest, 7/2
 
-- Monastery of Ss. Biagio e Romualdo
+- Monastery of Santi Biagio e Romualdo
 
   - St. Romuald, 2/7 and 6/19
 
@@ -4276,7 +4277,7 @@ Florence (Firenze), Toscana region
 
 - Museo dell'Opera del Duomo
 
-- St. Justus of Lyon, bishop, 9/2 (reliquary silver hand with relic only)
+  - St. Justus of Lyon, bishop, 9/2 (reliquary silver hand with relic only)
 
 - Monte Acuto Carthusian monastery, the Chartreuse or Certosa
 
@@ -4287,7 +4288,7 @@ Florence (Firenze), Toscana region
 
   - St. Teresa Margherita (Anna Maria) Redi, religious, 3/7
 
-Santa Annunziata
+- Santa Annunziata
 
   - Bl. Giovanna Soderini, OSM, religious, 9/1
 
@@ -4303,19 +4304,18 @@ Santa Annunziata
 
   - St. Athanasius
 
-  - Bl. Umiliana (aka, Humiliana), cloistered Franciscan tertiary, 5/19
-    (transept chapel)
+  - Bl. Umiliana (aka, Humiliana), cloistered Franciscan tertiary, 5/19 (transept chapel)
 
 - Monastero delle Scalze/Discalced Carmelite Monastery of St. Teresa (via de' Bruni, 12)
 
   - St. Teresa Margaret Redi of the Sacred Heart, O. Carm., 3/7
 
-- Ex-Convent of San Giovanni Evangelista di Boldrone (Via di Boldrone,
-  6-44 - 50141 -- Firenze)
+- Ex-Convent of San Giovanni Evangelista di Boldrone (Via di Boldrone, 6-44)
 
   - Bl. Elisabetta/Elizabeth Salviati, abbess, 2/11
 
 - Chiesa di San Giuliano (via Faenza, 104R)
+
   - Bl. Celestina della Madre di Dio (née Maria Anna) Donati, FPSGC, cofoundress, 3/18
   - Servant of God Celestino (née Raffaele) Zini, SchP, priest/cofounder, d. 4/19/1892
 
@@ -4346,7 +4346,7 @@ Santa Annunziata
 
   - Bl. Giustina Bezzoli Francucci, OSB, religious, 3/12
 
-Santa Maria Novella
+- Santa Maria Novella
 
   - Blessed John of Salerno, OP, prior, 8/9
 
@@ -4354,47 +4354,38 @@ Santa Maria Novella
 
   - Bl. Villana de'Botti, OP, widow, 1/29 & 2/28
 
-- Chiesa di San Martino a Mensola (northeast part of the city, near the
-  border with Fiesole)
+- Chiesa di San Martino a Mensola (northeast part of the city, near the   border with Fiesole)
 
   - St. Andrea da Fiesole (Andrea Scoto/Andrew of Scotland), confessor, 8/22
     & 9/11
 
-San Miniato al Monte
+- San Miniato al Monte
 
   - St. Miniato of Florence, hermit/martyr, 10/25
 
-San Pier Maggiore
+- San Pier Maggiore
 
   - Bl. Giovanni da Vespignano, religious, 7/4
 
-Motherhouse, Congregazione delle Suore "Serve di Maria SS. Addolorata di
-Firenze" (Servite nuns)
+- Motherhouse, Congregazione delle Suore "Serve di Maria SS. Addolorata di Firenze" (Servite nuns)
 
   - Servant of God Maria Eleonora Angela Giorgi, superior, 11/6/1945
 
-- Chiesa del Monastero delle Suore Domenicane dello Spirito
-  Santo/Monastery, Dominican Sisters of the Holy Spirit (Via Bolognese
-  111)
+- Chiesa del Monastero delle Suore Domenicane dello Spirito Santo/Monastery, Dominican Sisters of the Holy Spirit (Via Bolognese 111)
 
   - Bl. Pio Alberto del Corona, bishop/founder, 8/15
 
-Istituto delle Minime del Sacro Cuore di Gesù del Terz'Ordine
-Francescano
+- Istituto delle Minime del Sacro Cuore di Gesù del Terz'Ordine Francescano
 
   - Bl. Maria Margherita Caiani, religious, 8/8
 
-Casa Betania Casa per Ferie nella cappella/House of Betania in the
-chapel (via de \'Serragli, 127)
+- Casa Betania Casa per Ferie nella cappella/House of Betania in the chapel (via de \'Serragli, 127)
 
-  - Servant of God Maria Agnese Tribbioli, foundress, d. 2/27/1965
+  - Ven. Maria Agnese Tribbioli, foundress, d. 2/27/1965
 
-Casa Generalizia della Suore serve di Maria Santissima
-Addolorata/Sisters Servants of the Most Holy Mary of Sorrows (Via
-Faentina, 195)
+- Casa Generalizia della Suore serve di Maria Santissima Addolorata/Sisters Servants of the Most Holy Mary of Sorrows (Via Faentina, 195)
 
-  - Ven. Maria Eleonora (née Maria Angela) Giorgi, religious, d. 11/6/1945
-    (nella cappella/in the chapel)
+  - Ven. Maria Eleonora (née Maria Angela) Giorgi, religious, d. 11/6/1945 (nella cappella/in the chapel)
 
 - Cimitero di Rifredi (tra via Panciatichi e via delle Tre Pietre/between
   via Panciatichi and via delle Tre Pietre)
@@ -4411,19 +4402,15 @@ Faentina, 195)
 
   - Bl. Celestine of the Mother of God, foundress, 3/18 (seb-nothing)
 
-- Blessed Claritus/Clavitus Voglia, 5/25 -- Augustinian convent near Porta
-  di San Gallo, which is in Piazza della Libertà, Our Lady, the Queen of
-  Heaven, Il Chiarito (seb-nothing)
+  - Blessed Claritus/Clavitus Voglia, 5/25 -- Augustinian convent near Porta di San Gallo, which is in Piazza della Libertà, Our Lady, the Queen of Heaven, Il Chiarito (seb-nothing)
 
-- Bl. Ippolito Galantini, master catechist (possibly at Chiesa di Santa Lucia sul Prato)
+  - Bl. Ippolito Galantini, master catechist (possibly at Chiesa di Santa Lucia sul Prato)
 
-  - St. Juliana, widow, 2/7/435, patroness of single mothers (seb-nothing)
-
-, 8/26
+  - St. Juliana, widow, 2/7/435, patroness of single mothers (seb-nothing), 8/26
 
 Fobello, Province of Vercelli (VC), Piedmont region
 
-Oratorio della Visitazione
+- Oratorio della Visitazione
 
   - St. Benedict, martyr (no feast day given)
 
@@ -4453,11 +4440,11 @@ Foligno, Province of Perugia, Umbria
 
   - St. ܡܪܘܢ/مَارُون/Maron/Maro, hermit/monk, 2/9
 
-- St. Messalina, martyr, 1/23 (in the Chapel of Our Lady of Loreto)
+  - St. Messalina, martyr, 1/23 (in the Chapel of Our Lady of Loreto)
 
   - Bl. Pietro Peter Crisci, hermit, 7/19 (in the Cappella Jacobilli)
 
-Sant'Agostino
+- Sant'Agostino
 
   - Bl. Angelo of Foligno, OSA, priest, 8/27
 
@@ -4958,10 +4945,15 @@ Genoa, Sestri Ponente district
 
 Genoa/Genova, Voltri quartiere
 
-- Chiesa di Santa Limbania (in the small square of the same name in Borgo
-  Cerusa)
+- Chiesa di Santa Limbania (in the small square of the same name in Borgo Cerusa)
 
   - St. Limbania of Cyprus, hermitess, 6/16
+
+Genoni, Metropolitan City of Cagliari, Sardinia
+
+- Congregazione delle Figlie di San Giuseppe di Genoni/Congregation of the Daughters of St. Joseph (Via Eugenia Montixi, 2)
+
+  - Ven. Felice Prinetti, OMV, priest/founder, d. 5/5/1916
 
 Gerace, Metropolitan City of Reggio Calabria, Calabria region
 
@@ -7267,6 +7259,12 @@ Mugnano del Cardinale, Province of Avellino, Campania region
 
   - St. Philomena, martyr, 8/11
 
+Mugnano di Napoli, Metropolitan City of Naples, Campania region
+
+- Santuario del Sacro Cuore di Gesù (Via Roma, 53)
+
+  - Servant of God Maria Pia (née Maria Concetta) Brando, foundress, d. 8/27/1916
+
 Murano, Venezia province, Veneto region
 
 - La basilica dei Santi Maria e Donato/Duomo
@@ -8962,10 +8960,15 @@ Casa Madre dei Vocazionisti di Pianura/Mother House of the Vocationists
 
 Piazza Armerina, Province of Enna, Sicily
 
-- Cattedrale di Maria Santissima delle Vittorie/Duomo di Piazza
-  Armerina/Cathedral
+- Cattedrale di Maria Santissima delle Vittorie/Duomo di Piazza Armerina/Cathedral
 
   - Servant of God Mario Sturzo, bishop, d. 11/12/1941
+
+Pietradefusi, Province of Avellino, Campania region
+
+- Cappella delle Suore Francescane Immacolatine/Chapel of the Immaculate Franciscan Sisters (Via Grottone, 28)
+
+  - Servant of God Lodovico da Pietradefusi (née Antonio) Acernese, OFM Cap., priest/founder, d. 2/16/1916
 
 Pietrasanta, Province of Lucca, Tuscany region
 
@@ -8975,13 +8978,11 @@ Pietrasanta, Province of Lucca, Tuscany region
 
 Pietrelcina, Province of Benevento, Campania region
 
-Convento dei Frati Cappuccini
+- Convento dei Frati Cappuccini
 
-> Servant of God Modestino da Pietrelcina (née Damiano Fucci), OFM Cap.,
-> religious, d. 8/14/2011
+  - Servant of God Modestino da Pietrelcina (née Damiano Fucci), OFM Cap., religious, d. 8/14/2011
 
-- Pieve de' Saddi, comune di Pietralunga, Province of Perugia, Umbria
-  region
+Pieve de' Saddi, comune di Pietralunga, Province of Perugia, Umbria   region
 
 - ???
 
@@ -8991,16 +8992,15 @@ Convento dei Frati Cappuccini
   - St. Florido (Fiorenzo) di Città di Castello e Amanzio, bishop, 11/13
     (might only be relics; he's allegedly buried in Città di Castello)
 
-- Pieve di Soligo, Province of Treviso, Veneto region
+Pieve di Soligo, Province of Treviso, Veneto region
 
 - Cattedrale di Santa Maria Assunta/Duomo/Cathedral
 
   - Bl. Giuseppe Toniolo, layman, 10/7
 
-- Pieve Vergante, Province of Verbano-Cusio-Ossola, Piemonte region (very
-  near the border of Switzerland)
+Pieve Vergante, Province of Verbano-Cusio-Ossola, Piemonte region (very near the border of Switzerland)
 
-Santi Vincenzo ed Anastasio
+- Santi Vincenzo ed Anastasio
 
   - St. Orsa, virgin/martyr, 10/26
 
@@ -9013,7 +9013,7 @@ Pievepelago, Province of Modena, Emilia-Romagna region
 
 Piglio, Province of Frosinone, Lazio region
 
-Cappella del convento di San Lorenzo
+- Cappella del convento di San Lorenzo
 
   - Ven. Quirico Pignalberi, OFM Conv., priest, d. 7/18/1982
 
@@ -9024,7 +9024,7 @@ Cappella del convento di San Lorenzo
 
 Pinerolo, Metropolitan City of Turin, Piemonte region
 
-Convento di San Francesco
+- Convento di San Francesco
 
   - Bl. Francesco of Pinerolo, OFM Conv, spiritual director, 6/19
 
@@ -9990,13 +9990,11 @@ San Donato
 
 Roccella Ionica, Metropolitan City of Reggio Calabria, Calabria region
 
-Roccella Ionica, Metropolitan City of Reggio Calabria, Calabria region
+- Cimitero
 
-- ???
-
-  - Servant of God Annarosa Macrì, the “mystic of the Holy Spirit,” laywoman, d. 10/20/1918 (possibly at Chiesa Matrice in the center of town)
+  - Servant of God Annarosa Macrì, the “mystic of the Holy Spirit,” laywoman, d. 10/20/1918 (cappella della famiglia Toscano)
   
-  - Servant of God Antonio Toscano, priest, d. 6/4/1946 (possibly at Chiesa Matrice in the center of town)
+  - Servant of God Antonio Toscano, priest, d. 6/4/1946 (cappella della famiglia Toscano)
 
 Rocchetta a Volturno, Province of Isernia, Molise region
 
