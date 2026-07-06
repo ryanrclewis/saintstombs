@@ -1,4 +1,4 @@
-* Portugal
+# Portugal
 
 Alcobaça, Leiria district, Oeste, Centro region
 
@@ -94,12 +94,6 @@ Cabeceiras de Basto, District of Braga, Ave Sub-região, Minho province
 
   - St. Senhorinha of Basto, OSB, abbess, 4/22
 
-Câmara de Lobos, Madeira Island
-
-- ???
-
-  - Ven. Mary Jane (Sr. Maria of Saint Francis/Irmã Maria de São Francisco) Wilson, foundress, d. 10/18/1916 (died at Convento de São Bernardino)
-
 Canary Islands
 
 - ???
@@ -181,6 +175,10 @@ Funchal, Madeira
 
   - Bl. Emperor Karl of Austria, 10/21 (his wedding anniversary)
 
+- Capela da Quinta das Rosas/Chapel of the Quinta das Rosas (Rua do Carmo 59)
+
+  - Ven. Maria de São Francisco/Maria of Saint Francis (née Mary Jane) Wilson, DamTE, foundress, d. 10/18/1916 
+
 Guarda, Beiras e Serra da Estrela intermunicipal community, Centro region
 
 - Igreja São Miguel
@@ -239,9 +237,13 @@ prayers at his tomb)
 
   - St. Euphemia (reliquary bust)
 
-- Jesuit church
+- Igreja de São Roque/Jesuit church (Largo Trindade Coelho)
 
   - St. Brigid of Ireland (head only), 2/1
+
+- Cemitério de Benfica/Benfica Cemetery (Estr. dos Arneiros)
+
+  - Ven. Teresa Rosa Fernanda de Saldanha Oliveira, DSCS, foundress, d. 1/8/1916
 
 - Cemitério de Rio de Mouro
 
