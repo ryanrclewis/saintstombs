@@ -910,8 +910,10 @@ Cambrai, Nord département
   - St. Liebert/Leutbert of Cambrai, bishop, 9/28
 - Church of St. Medardus
   - St. Gaugericus (Géry) of Cambrai, bishop, 8/11
-- Église du Saint-Sépulcre/Abbey of the Holy Sepulcher (is renamed Cathédrale Notre-Dame de Grâce)
-- Stanbrook Abbey
+- Notre-Dame de Consolation/Stanbrook Abbey/Our Lady of Consolation (ruined)
+  - Ven. Dame Gertrude (née Helen) More, OSB, writer/religious/gg granddaughter of St. Thomas More, d. 8/17/1633 (tomb lost during the Revolution)
+- Unknown grave as he died on a battlefield
+  - Servant of God Josef Engling, soldier/layman, d. 10/4/1918
 - ???
   - Bl. Jeanne Gerard, religious/martyr, 6/26
   - Bl. Marie-Françoise Lanel, religious/martyr, 6/26
@@ -1417,6 +1419,12 @@ Estaing, Aveyron department, Occitanie region
 - Église Saint-Fleuret d'Estaing
   - St. Flour/Fleuret/Florus of Lodève, bishop, 6/1 & 11/3 (relics only)
 
+Étinehem-Méricourt, Péronne arrondissement, Somme department, Hauts-de-France region
+
+- La nécropole nationale d’Étinehem
+
+  - Servant of God Philippe Thibaut, military chaplain, d. 9/27/1916
+
 Eu, Dieppe arrondissement, Seine-Maritime department, Normandy region
 
 - Notre-Dame et Saint-Laurent/Our Lady and St. Lawrence
@@ -1658,7 +1666,70 @@ Huy
 - ???
   - St. Domitian of Huy, bishop, 5/7
 
-Île d'Aix, Charente-Maritime Département, Nouvelle-Aquitaine region
+Île d’Aix, Rochefort arrondissement, Charente-Maritime department, Nouvelle-Aquitaine region
+
+- Église Saint-Martin/St. Martin Church, Place d’Austerlitz
+  - Martyrs of the prison ships/Martyrs of the Hulks of Rochefort, 6/10
+  - Bl. Antoine Auriel, priest/martyr, 6/16 (one source says he was guillotined in Paris)
+  - Bl. Antoine Bannassat, priest/martyr, 8/18
+  - Bl. Barthélemy Jarrige de La Morelie de Biars, priest/martyr, 7/13
+  - Bl. Charles-Antoine-Nicolas Ancel, CIM, priest/martyr, 7/29
+  - Bl. Charles-Arnould Hanus, priest/martyr, 8/28
+  - Bl. Claude-Joseph Jouffret de Bonnefont, PSS, priest/martyr, 8/10
+  - Bl. Charles-René Collas du Bignon, priest/martyr, 6/3
+  - Bl. Claude Beguignot, O.Cart., priest/martyr, 7/16
+  - Bl. Claude Dumonet, priest/martyr, 9/13
+  - Bl. Claude Laplace, priest/martyr, 9/14
+  - Bl. Claude Richard, OSB, priest/martyr, 8/9
+  - Bl. Claude-Barnabé Laurent de Mascloux, priest/martyr, 9/7
+  - Bl. Élie Leymarie de Laroche, priest/martyr, 8/22
+  - Bl. Florent Dumontet de Cardaillac, priest/martyr, 9/5
+  - Bl. François d'Oudinot de la Boissière, priest/martyr, 9/7
+  - Bl. François Hunot, priest/martyr, 10/6
+  - Bl. François Mayaudon, priest/martyr, 9/11
+  - Bl. Gabriel Pergaud, priest, 7/21
+  - Bl. Georges-Edme René, priest/martyr, 10/2
+  - Bl. Gervais-Protais Brunel, monk/martyr, 8/20
+  - Bl. Jacques Gagnot, OCD, priest/martyr, 9/10
+  - Bl. Jacques Lombardie, priest/martyr, 7/22
+  - Bl. Jacques Retouret, O. Carm., priest/martyr, 8/26
+  - Bl. Jacques-Morelle Dupas, priest/martyr, 6/21
+  - Bl. Jean Bourdon, OFM Cap, priest/martyr, 8/23
+  - Bl. Jean Hunot, priest/martyr, 10/7
+  - Bl. Jean Mopinot, CFC, martyr, 5/21
+  - Bl. Jean-Baptiste de Bruxelles, priest/martyr, 7/18
+  - Bl. Jean-Baptiste Duverneuil, O. Carm, priest/martyr, 7/1
+  - Bl. Jean-Baptiste Laborie du Vivier, priest, 9/27
+  - Bl. Jean-Baptiste Menestrel, priest/martyr, 8/16
+  - Bl. Jean-Baptiste Souzy, priest/martyr, 8/27
+  - Bl. Jean-Baptiste-Ignace-Pierre Vernoy de Montjournal, priest/martyr, 6/1 & 6/10
+  - Bl. Jean-Baptiste-Xavier Loir, priest/martyr/ 5/19
+  - Bl. Jean-François Jarrige de la Morelie de Breuil, priest/martyr, 7/31
+  - Bl. Jean-Georges Rehm, OP, priest/martyr, 9/11
+  - Bl. Jean-Nicolas Cordier, SJ, priest/martyr, 9/30
+  - Bl. Joseph Imbert, SJ, priest/martyr, 6/9
+  - Bl. Joseph Marchandon, priest/martyr, 9/22
+  - Bl. Louis-Armand-Joseph Adam, OFM Cap., priest/martyr, 7/13
+  - Bl. Louis-François Lebrun, priest/martyr, 8/20
+  - Bl. Louis-Wulphy Huppy, priest/martyr, 8/29
+  - Bl. Marcel-Gaucher Labiche de Reignefort, priest/martyr, 7/26
+  - Bl. Michel-Bernard Marchand, priest/martyr, 7/15
+  - Bl. Michel-Louis Brulard, OCD, priest/martyr, 7/25
+  - Bl. Nicolas Savouret, OFMConv, priest, 7/16
+  - Bl. Noël-Hilaire Le Conte, priest/martyr, 8/17
+  - Bl. Paul-Jean Charles, OCSO, religious/martyr, 8/25
+  - Bl. Philippe Papon, priest/martyr, 6/17
+  - Bl. Pierre Gabilhaud, priest/martyr, 8/13
+  - Bl. Pierre Jarrige de la Morelie de Puyredon, priest/martyr, 8/12
+  - Bl. Pierre-Joseph le Groing de la Romagère, priest/martyr, 7/26
+  - Bl. Pierre-Michel Noël, priest/martyr, 8/5
+  - Bl. Pierre-Sulpice-Christophe Faverge, FSC, religious/martyr, 9/12
+  - Bl. Pierre-Yrieix Labrouhe de Laborderie, priest/martyr, 7/1
+  - Bl. Raymond Petiniaud de Jourgnac, priest/martyr, 6/26
+  - Bl. Scipion-Jérôme Brigeat Lambert, priest/martyr, 9/4
+  - Bl. Sébastien of Nancy (née François François), OFM Cap., priest/martyr, 8/10
+  - Bl. Sébastien-Loup Hunot, priest/martyr, 11/17
+  - Bl. Uldaric (née Jean Baptiste) Guillaume, FSC, religious/martyr, 8/27
 
 - Cimetière de l'Île d'Aix/Cemetery of the Île d'Aix
   - Bl. Lazare Tiersot, O. Cart., martyr, 8/10 (buried in a common grave)
@@ -3466,70 +3537,6 @@ Rocamadour, Lot department, Languedoc-Rousillon-Midi-Pyrénées region
 
 - Shrine of Our Lady of Rocamadour
   - St. Amadour du Quercy, hermit, 8/20
-
-Rochefort, Charente-Maritime
-
-- Martyrs of the prison ships
-  - Bl. Antoine Auriel, priest/martyr, 6/16 (one source says he was guillotined in Paris)
-  - Bl. Antoine Bannassat, priest/martyr, 8/18
-  - Bl. Barthélemy Jarrige de La Morelie de Biars, priest/martyr, 7/13
-  - Bl. Charles-Antoine-Nicolas Ancel, CIM, priest/martyr, 7/29
-  - Bl. Charles-Arnould Hanus, priest/martyr, 8/28
-  - Bl. Claude-Joseph Jouffret de Bonnefont, PSS, priest/martyr, 8/10
-  - Bl. Charles-René Collas du Bignon, priest/martyr, 6/3
-  - Bl. Claude Beguignot, O.Cart., priest/martyr, 7/16
-  - Bl. Claude Dumonet, priest/martyr, 9/13
-  - Bl. Claude Laplace, priest/martyr, 9/14
-  - Bl. Claude Richard, OSB, priest/martyr, 8/9
-  - Bl. Claude-Barnabé Laurent de Mascloux, priest/martyr, 9/7
-  - Bl. Élie Leymarie de Laroche, priest/martyr, 8/22
-  - Bl. Florent Dumontet de Cardaillac, priest/martyr, 9/5
-  - Bl. François d'Oudinot de la Boissière, priest/martyr, 9/7
-  - Bl. François Hunot, priest/martyr, 10/6
-  - Bl. François Mayaudon, priest/martyr, 9/11
-  - Bl. Gabriel Pergaud, priest, 7/21
-  - Bl. Georges-Edme René, priest/martyr, 10/2
-  - Bl. Gervais-Protais Brunel, monk/martyr, 8/20
-  - Bl. Jacques Gagnot, OCD, priest/martyr, 9/10
-  - Bl. Jacques Lombardie, priest/martyr, 7/22
-  - Bl. Jacques Retouret, O. Carm., priest/martyr, 8/26
-  - Bl. Jacques-Morelle Dupas, priest/martyr, 6/21
-  - Bl. Jean Bourdon, OFM Cap, priest/martyr, 8/23
-  - Bl. Jean Hunot, priest/martyr, 10/7
-  - Bl. Jean Mopinot, CFC, martyr, 5/21
-  - Bl. Jean-Baptiste de Bruxelles, priest/martyr, 7/18
-  - Bl. Jean-Baptiste Duverneuil, O. Carm, priest/martyr, 7/1
-  - Bl. Jean-Baptiste Laborie du Vivier, priest, 9/27
-  - Bl. Jean-Baptiste Menestrel, priest/martyr, 8/16
-  - Bl. Jean-Baptiste Souzy, priest/martyr, 8/27
-  - Bl. Jean-Baptiste-Ignace-Pierre Vernoy de Montjournal, priest/martyr, 6/1 & 6/10
-  - Bl. Jean-Baptiste-Xavier Loir, priest/martyr/ 5/19
-  - Bl. Jean-François Jarrige de la Morelie de Breuil, priest/martyr, 7/31
-  - Bl. Jean-Georges Rehm, OP, priest/martyr, 9/11
-  - Bl. Jean-Nicolas Cordier, SJ, priest/martyr, 9/30
-  - Bl. Joseph Imbert, SJ, priest/martyr, 6/9
-  - Bl. Joseph Marchandon, priest/martyr, 9/22
-  - Bl. Louis-Armand-Joseph Adam, OFM Cap., priest/martyr, 7/13
-  - Bl. Louis-François Lebrun, priest/martyr, 8/20
-  - Bl. Louis-Wulphy Huppy, priest/martyr, 8/29
-  - Bl. Marcel-Gaucher Labiche de Reignefort, priest/martyr, 7/26
-  - Bl. Michel-Bernard Marchand, priest/martyr, 7/15
-  - Bl. Michel-Louis Brulard, OCD, priest/martyr, 7/25
-  - Bl. Nicolas Savouret, OFMConv, priest, 7/16
-  - Bl. Noël-Hilaire Le Conte, priest/martyr, 8/17
-  - Bl. Paul-Jean Charles, OCSO, religious/martyr, 8/25
-  - Bl. Philippe Papon, priest/martyr, 6/17
-  - Bl. Pierre Gabilhaud, priest/martyr, 8/13
-  - Bl. Pierre Jarrige de la Morelie de Puyredon, priest/martyr, 8/12
-  - Bl. Pierre-Joseph le Groing de la Romagère, priest/martyr, 7/26
-  - Bl. Pierre-Michel Noël, priest/martyr, 8/5
-  - Bl. Pierre-Sulpice-Christophe Faverge, FSC, religious/martyr, 9/12
-  - Bl. Pierre-Yrieix Labrouhe de Laborderie, priest/martyr, 7/1
-  - Bl. Raymond Petiniaud de Jourgnac, priest/martyr, 6/26
-  - Bl. Scipion-Jérôme Brigeat Lambert, priest/martyr, 9/4
-  - Bl. Sébastien of Nancy (née François François), OFM Cap., priest/martyr, 8/10
-  - Bl. Sébastien-Loup Hunot, priest/martyr, 11/17
-  - Bl. Uldaric (née Jean Baptiste) Guillaume, FSC, religious/martyr, 8/27
 
 Rodez
 

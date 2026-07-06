@@ -1075,7 +1075,7 @@ Mawlai, East Khasi Hills district, Meghalaya state
 
 - Shrine of Sacred Heart of Jesus at Sacred Heart Theological College
 
-  - Servant of God Constantine Vendrame, SDB, priest, d. 1/30/1957
+  - Ven. Constantine Vendrame, SDB, priest, d. 1/30/1957
 
 Melapudur, Sangillyandapuram, Tiruchirappalli (aka, Trichy),
 Tiruchirappalli District, Tamil Nadu
@@ -1470,41 +1470,41 @@ Province of Hamadan
 
 All of these are martyrs commemorated on 4/22
 
-• Abdiesus the Deacon
-
-• Abrosimus (Aborsam)
-
-• Aceptismas of Hnaita
-
-• Aithilahas
-
-• Azadanes the Deacon
-
-• Azades the Eunuch
-
-• Bicor
-
-• Chrysotelus
-
-• Helimenas
-
-• James
-
-• Joseph
-
-• Lucas
-
-• Mareas
-
-• Milles (Miles)
-
-• Mucius
-
-• Parmenius
-
-• Sinai
-
-• Tarbula
+  • Abdiesus the Deacon
+  
+  • Abrosimus (Aborsam)
+  
+  • Aceptismas of Hnaita
+  
+  • Aithilahas
+  
+  • Azadanes the Deacon
+  
+  • Azades the Eunuch
+  
+  • Bicor
+  
+  • Chrysotelus
+  
+  • Helimenas
+  
+  • James
+  
+  • Joseph
+  
+  • Lucas
+  
+  • Mareas
+  
+  • Milles (Miles)
+  
+  • Mucius
+  
+  • Parmenius
+  
+  • Sinai
+  
+  • Tarbula
 
 # Iraq
 
@@ -1524,6 +1524,14 @@ Alqosh/ألقوش, Tel Kaif District, Nineveh governorate
 
   - هرمزد الراهب/Rabban Mar Hormizd, monk/founder, 2nd
     Sunday after Easter
+
+Bakhdida/Qaraqosh, Nineveh Governorate
+
+- Al-Tahira Grand Cathedral/Church of the Immaculate Conception/كنيسة الطاهرة الكبرى (36°16'13.74″N, 43°22'37.62″E)
+
+  - Bl. Behnam Mikho, priest/martyr, 6/28
+  
+  - Bl. Yousif Zakaria, priest/martyr, 6/28
 
 Der Serkis, west of Edessa
 
@@ -3246,7 +3254,7 @@ Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Gov
 
 - 
 •الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
-  - Ven. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
+  - Bl. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
 
 
 Beirut
@@ -3469,6 +3477,10 @@ Carcar City (Barangay Valladolid), Cebu province
 - Domus Teofilo (House of Teofilo), Daughters of St. Teresa
 
   - Ven. Teofilo Camomot, archbishop, d. 9/27/1988
+
+Dona Remedios Trinidad, Bulacan Province
+
+- Our Lady of Piat Shrine, 7/2 (X39J+G36)
 
 Iloilo City, Jaro district, Iloilo Province, Panay Island, Western Visayas
 

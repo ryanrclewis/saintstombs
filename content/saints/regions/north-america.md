@@ -155,14 +155,24 @@ Boomer, Fayette County, West Virginia
 - St. Anthony Church
   - St. Anthony's Shrine (2764 Midland Trail , Rte. 60)
 
+Boonton, Morris County, New Jersey 
+
+- St. Therese of Lisieux Shrine (54 Rock Lane)
+
 Boston, Massachusetts
 
 - Basilica of Our Lady of Perpetual Help (1545 Tremont St.)
+
   - St. Nazarius, martyr, 6/28
+
 - Our Lady of Victories Shrine
+
   - Memorial of Ann Glover, martyr
+
 - Shrine of Our Lady of Good Voyage (51 Seaport Blvd.)
+
 - St. Anthony Shrine (100 Arch Street)
+
 - St. Clement's Archdiocesan Eucharistic Shrine (1105 Boylston St.)
 
 Boston, Brighton neighborhood, Massachusetts
@@ -377,14 +387,19 @@ Clifton, Passaic County, New Jersey
 Clyde, Nodaway County, Missouri
 
 - Benedictine Sisters Convent of Perpetual Adoration (31970 State Highway P)
+
   - Relics chapel in the church (Over 400 relics)
+
 - Dom Lukas Etlin Gravesite (31970 State Highway P)
-  - Servant of God Lukas Alfred Etlin, OSB, priest, d. 12/16/1927
+
+  - Fr. Lukas Alfred Etlin, OSB, priest, d. 12/16/1927 (non-causa, but his cause may soon be started)
 
 Cold Spring, Stearns County, Minnesota
 
 - Assumption Chapel (aka, Grasshopper Chapel)(22912 Chapel Hill Road)
+
   - Marian Shrine
+
   - Calvary Hill
 
 Collegeville, St. Wendel Township, Stearns County, Minnesota
@@ -480,6 +495,10 @@ Dickeyville, Grant County, Wisconsin
 Dickinson, Galveston County, Texas
 
 - Shrine of the True Cross (300 Fm 517 Rd E)
+
+Doral, Miami-Dade County, Florida
+- Our Lady of Guadalupe Catholic Church (11691 NW 25th Street)
+  - Servant of God John Rick Miller, layman, d. 5/30/2015
 
 Doylestown, Bucks County, Pennsylvania
 
@@ -655,11 +674,15 @@ Gower, Buchanan and Clinton Counties, Missouri
 - Benedictines of Mary Queen of Apostles, Abbey of Our Lady of Ephesus
   - Mother Mary Wilhelmina Lancaster, OSB, religion, d. 5/29/2019 (non-causa but incorrupt)
 
+Grand Blanc, Genesee County, Michigan
+- Church of the Holy Family
+  - Relics of St. Jude, St. Gerard Magellan, St. Francis of Assisi, St. Anthony of Padua, St. Peregrine Laziosi
+
 Grand Coteau, St. Landry Parish, Louisiana
 
 - Academy of the Sacred Heart (1821 Academy Road)
   - Shrine of St. John Berchmans
-    - Site of a miracle attributed to the saint's intercessionff
+    - Site of a miracle attributed to the saint's intercession
 
 Grand Rapids, Kent County, Michigan
 
@@ -702,10 +725,14 @@ Hanover (Conewago), York County, Pennsylvania
 Harrisburg, Pennsylvania
 
 - St. Catherine Laboure Church (4000 Derry Street)
+
   - Shrine of the Miraculous Medal
 
-Harrisville, Providence County, Rhode Island
+Havertown, Delaware County, Pennsylvania
 
+- St. Denis Church (2401 St. Denis Lane)
+
+  - Adoration Chapel/Shrine of the Sacre Coeur (Sacred Heart) (behind the rectory)
 
 Hawthorne, Westchester County, New York
 
@@ -962,11 +989,18 @@ Los Angeles
   - Shrine to Our Lady of Talpa
 - Santuario de Nuestra Señora de Guadalupe (4100 E. 2<sup>nd</sup> Street)
 
+Los Angeles, Mission Hills neighborhood, Los Angeles County, California
+
+- San Fernando Mission Cemetery (11160 Stranwood Ave.)
+  - Servant of God Ida Peterfy, SDSH, foundress, d. 2/8/2000
+  - Shrine to the Unborn
+  - Graves of several Hollywood celebrities
+
 Louisville, Kentucky
 
 - St. Louis Bertrand Church (1104 S. 6<sup>th</sup> Street)
   - Shrine of Our Lady of Lourdes (aka, Lourdes Rosary Shrine)
-- St. Martin of Tours Church, 639 S. Shelby St.
+- Shrine of St. Martin of Tours (639 S. Shelby St.)
   - St. Bonosa, martyr, 7/15
   - St. Magnus, martyr, 8/19
 
@@ -982,7 +1016,7 @@ Lowell, Middlesex County, Massachusetts
 Lyons, Rice County, Kansas
 
 - The Padilla Cross (4 miles west of Lyons on US56)
-  - Reputed burial place of Fr. Juan Padilla, first martyr on US soil
+  - Reputed burial place of Fr. Juan Padilla, first martyr on US soil, d. 11/30/1542
 
 Madison, Wisconsin
 
@@ -1076,18 +1110,11 @@ Milwaukee, Milwaukee County, Wisconsin
 
 - Holy Cross Cemetery (7301 W. Nash St., block 2, section B, parcel 126; 43°4′35″ N  88°0′2″ W)
 
-  - Ven. Maria Theresia of the Blessed Trinity (Hendrika) Ijsseldijk, religious, d. 3/10/1926
+  - Ven. Maria Teresia of the Blessed Trinity (née Teresia) Ijsseldijk, religious, d. 3/10/1926
 
 Mio, Oscoda County, Michigan
 
 - Our Lady of the Woods Shrine (a composite of every Marian shrine)(100 Deyarmond Street)
-
-Mission Hills neighborhood, Los Angeles, Los Angeles County, California
-
-- San Fernando Mission Cemetery (11160 Stranwood Ave.)
-  - Servant of God Ida Peterfy, SDSH, foundress, d. 2/8/2000
-  - Shrine to the Unborn
-  - Graves of several Hollywood celebrities
 
 Mogadore, Portage and Summit Counties, Ohio
 
@@ -1107,7 +1134,7 @@ Monroe, Ouachita Parish
 Monroe, Orange County, New York
 
 - Parish Visitors of Mary Immaculate Motherhouse/Marycrest (164 Quaker Hill Road)
-  - Servant of God Mother Mary Teresa Tallon, religious/foundress, d. 3/10/1954
+  - Ven. Mother Mary Teresa Tallon, religious/foundress, d. 3/10/1954
 
 Morton County, North Dakota
 
@@ -1371,6 +1398,10 @@ Philadelphia, Pennsylvania
   - Bl. Margaret of Castello Shrine
 - St. Dominic Church (8504 Frankford Ave.)
   - Many relics
+- St. John the Evangelist Church (21 S. 13th Street)
+  - Lourdes Grotto (behind the altar of the lower church)
+  - The archdiocese's second pro-cathedral
+  - Historic graveyard (contains Empress Ana María Huarte de Iturbide and William Penn-Gaskill [William Penn's great grandson])
 - St. Richard of Chichester Church (3010 S. 18th Street)
   - Shrine of Our Lady of Knock
 - St. Rita of Cascia Church (1166 S. Broad Street)
@@ -1570,7 +1601,7 @@ St. John, Lake County, Indiana
 St. Joseph, Stearns County, Minnesota
 
 - St. Benedict Convent churchyard
-  - Servant of God Mary Annella Zervas, OSB, (non-cause) religious/miracle worker, d. 8/14/1926
+  - Servant of God Mary Annella Zervas, OSB, religious/miracle worker, d. 8/14/1926
 
 St. Louis, Missouri
 
@@ -1925,7 +1956,14 @@ Vincennes, Knox County, Indiana
 Wahpeton, Richland County, North Dakota
 
 - Carmel of Mary Monastery (17765 78<sup>th</sup> St. SE)
+
   - Shrine of Our Lady of the Prairies
+
+Warminster, Bucks County
+
+- Nativity of Our Lord Catholic Parish (605 W. Street Road)
+
+  - The Shrine of St. Gianna Beretta Molla
 
 Washington, DC
 
@@ -2281,3 +2319,11 @@ Winnipeg, Manitoba
   - Bl. Basil/Vasyl Velychkovsky, CSsR, bishop/martyr, 6/27
 
 - Sr. Theresia was born 13 Nov. 1897 in Apeldoorn, Holland, died 10 March 1926 in St. Louis. She is buried at a convent graveyard in Wauwatosa. [↑](#endnote-ref-1)
+
+# Bahamas
+
+Mount Alvernia, Cat Island
+
+- Mount Alvernia Hermitage on Como Hill (24.29443° N, -75.40863° W; there is no street address as such)
+
+  - Servant of God John Cyril Hawes, priest/architect, d. 6/26/1956

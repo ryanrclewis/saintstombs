@@ -253,9 +253,15 @@ Susteren, Echt-Susteren municipality, Province of Limburg
 
   - Bl. Zwentibold of Lotharingia, king/martyr, 8/13
 
+Tilburg, Province of North Brabant
+
+- Zorgcentrum Joannes Zwijsen (Burgemeester Brokxlaan 1407)
+
+  - Ven. Andreas (née  Jan) van den Boer, CMM, religious, d. 8/3/1917
+
 Utrecht
 
-- Cathedral of St. Martin
+- Cathedral of St. Martin/Dom van Utrecht (Achter de Dom 1)
 
   - St. Ansfried of Utrecht, bishop, 5/3
 

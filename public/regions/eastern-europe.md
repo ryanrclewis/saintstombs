@@ -282,6 +282,10 @@ region
   - Bl. Bernadetta (Terezija) Banja, DC, religious/martyr, 12/15 (thrown
     into the Drina River)
 
+Sarajevo
+- Katedrala Srca Isusova/Катедрала Срца Исусова/Sacred Heart Cathedral (Trg Fra Grge Martića 2)
+  - Servant of God Josip Stadler, bishop/founder, d. 12/8/1918
+
 # Bulgaria
 
 Sofia/София
@@ -1599,8 +1603,7 @@ Ginkūnai, Šiauliai District Municipality, Šiauliai County,
 Joniškis, Joniškis District Municipality, Šiauliai County, Aukštaitija
 region
 
-Joniškio Švč. M. Marijos Ėmimo/Holy Assumption of the Blessed Virgin
-Mary churchyard
+- Joniškio Švč. M. Marijos Ėmimo/Holy Assumption of the Blessed Virgin Mary churchyard
 
   - Servant of God Paulius Racevičius, priest/martyr, d. 6/27/1941 (buried
     in the same grave)
@@ -1655,6 +1658,12 @@ Panevėžys/Panevėžio, Panevėžys County
   - Servant of God Adelė Dirsytė, laywoman/martyr, d. 9/26/1955 (there is
     also a monument to her in the churchyard of Šėta church)
 
+Šiluva, Raseiniai district municipality, Samogitia ethnographic region
+
+- Šiluva Chapel of the Apparition of the Blessed Virgin Mary (Jono Pauliaus II g. 2)
+
+  - Site of apparition responsible for converting the region back to Catholicism from Calvinism, 9/8
+
 Telšiai, Telšiai County, Samogitia region
 
 - Telšių Šv. Antano Paduviečio katedra/Cathedral of St. Anthony of Padua
@@ -1663,16 +1672,17 @@ Telšiai, Telšiai County, Samogitia region
 
 Vilna/Vilnius
 
-Vilniaus šv. Stanislovo ir šv. Vladislovo arkikatedra bazilika/St.
-Stanislaus and St. Vladislav Archcathedral Basilica
+- Vilniaus šv. Stanislovo ir šv. Vladislovo arkikatedra bazilika/St. Stanislaus and St. Vladislav Archcathedral Basilica
 
-Duke St. Casimir of Poland, 3/4
+  - Duke St. Casimir of Poland, 3/4
 
   - St. Eustace of Vilna (head only), martyr, 4/14
 
   - Servant of God Jan Cieplak, archbishop, d. 2/17/1926
 
   - Servant of God Julijonas Steponavicius, archbishop, d. 6/18/1991
+
+  - Servant of God Wincenty Kluczyński, archbishop, d. 2/10/1917
 
 - Holy Trinity Russian-Greek Church
 
@@ -1781,6 +1791,12 @@ Raħal Ġdi/Paola, Malta
 
 Valletta
 
+- il-Knisja tal-Ġiswiti/Church of the Circumcision of Our Lord/Church of the Jesuits/Church of the University (VGX8+93G, Merchants St.)
+
+  - St. Justin Martyr (relics only; altar dedicated to St. Anne and St. Joachim)
+  
+  - Other early martyrs (altar dedicated to Ss. Anne and Joachim
+
 - St. Mary of Jesus Friary, Chapel of the Immaculate Conception
 
   - Bl. Nazju (aka, Ignatius) Falzon, evangelist, 7/1
@@ -1868,8 +1884,6 @@ Place of death only
   - St. Edith Stein, OCD, religious/martyr, 8/9
 
   - Bl. Franciszek Harazim, SDB, priest/martyr, 6/27/1941
-
-  - Bl. Franciszek Miska, SDB, priest/martyr, 5/30/1942
 
   - Bl. Ignacy Antonowicz, SDB, priest/martyr, 7/21/1941
 
@@ -2239,6 +2253,10 @@ Kęty, Oświęcim county, Lesser Poland voivodeship
 
   - Bl. Celina Chludzińska-Borzęcka, CR, wife/mother/widow/foundress, 10/26
 
+- Klasztor Sióstr Klarysek od Wieczystej Adoracji /Sanktuarium Wieczystej Adoracji Najświętszego Serca/Sanctuary of Perpetual Adoration of the Sacred Heart (Tadeusza Kościuszki 6) 
+
+  - Servant of God Maria od Najświętszego Serca Jezusa/Maria of the Sacred Heart of Jesus (née  Walentyna) Łempicka, OCPA, religious, d. 1/24/1918
+
 Kielce, Świętokrzyskie voivodeship
 
 - Starym Cmentarzu/Old Cemetery (Księdza Piotra Ściegiennego 12)
@@ -2583,12 +2601,11 @@ Masovian voivodeship
 
 Nowe Miasto nad Pilicą, Grójec county, Masovian voivodeship
 
-Kościół Klasztorny Kapucynów
+- Kościół Klasztorny Kapucynów
 
   - Bl. Honorat (née Florentyn) Koźmiński, OFM Cap., priest/founder, 12/16
 
-Nowogrodziec (German: Naumburg am Queis), Bolesławiec County, Lower
-Silesia Voivodeship
+Nowogrodziec (German: Naumburg am Queis), Bolesławiec County, Lower Silesia Voivodeship
 
 - Church of the Transfiguration
 
@@ -3705,11 +3722,17 @@ Uchcie, Siberia
 
   - Servant of God Stanisław Szulminski, SAC, martyr, d. 11/27/1941
 
-Ufa, Republic of Bashkortostan, Russia
+Ufa, Republic of Bashkortostan
 
 - ???
 
-  - Servant of God Fr. Frantiszek Budrys, martyr
+  - Servant of God Fr. Frantiszek Budrys, martyr, 12/16/1937 ( He was shot in the Ufa prison on December 16, 1937, alongside nearly 190 other Catholics.)
+
+Ulyanovsk/Simbirsk, Ulyanovsk Oblast
+
+- A local cemetery is all that is known; he was buried on the right side, near the entrance; the grave is now lost
+
+  - Servant of God Єремія Іван Ломницький/Eremia/Jeremiah (née John) Lomnytskyj, OSBM, priest/missionary/founder, d. 7/3/1916
 
 Veliky Novgorod, Novgorod Oblast
 
@@ -4192,54 +4215,48 @@ Afyonkarahisar
 
 Bursa, Bursa Province, Marmara region
 
-Bursa Museum (maybe the archaeological one)
+- Bursa Museum (maybe the archaeological one)
 
-- St. Trophimus's reliquary and bones
+  - St. Trophimus's reliquary and bones
 
 Büyükada Island, Adalar İlçesi (Princes islands), Istanbul
 
-Ayios Nikolaos/Άγιος Νικόλαος/Agios Nicholaos/Saint Nicholas
+- Ayios Nikolaos/Άγιος Νικόλαος/Agios Nicholaos/Saint Nicholas
 
-Empress St. Irene Piroska of Hungary/Macaristan İmparatoriçesi St. Irene
-Piroska/Αυτοκράτειρα Αγία Ειρήνη Πιρόσκα της Ουγγαρίας, 8/13
+  - Empress St. Irene Piroska of Hungary/Macaristan İmparatoriçesi St. Irene Piroska/Αυτοκράτειρα Αγία Ειρήνη Πιρόσκα της Ουγγαρίας, 8/13
 
 Constantinople
 
-Aziz George Kutsal Patrik Katedrali/Ιερός Πατριαρχικός Καθεδρικός Ναός
-Αγίου Γεωργίου του Τροπαιοφόρου/Sacred Patriarchal Cathedral of St.
+- Aziz George Kutsal Patrik Katedrali/Ιερός Πατριαρχικός Καθεδρικός Ναός Αγίου Γεωργίου του Τροπαιοφόρου/Sacred Patriarchal Cathedral of St.
 George the Trophy-Bearer
 
-- St. Basil the Great, Church Father, 1/2
+  - St. Basil the Great, Church Father, 1/2
 
   - St. Euphemia, martyr, 9/16
 
-- St. Gregory Nazianzen the Elder, theologian/Church Father, 1/1 or 1/2
+  - St. Gregory Nazianzen the Elder, theologian/Church Father, 1/1 or 1/2
 
   - St. Solomone
 
-- St. Theodore Sykeota, archbishop, 4/22 & 5/5 (buried in the "monastery"
-  of St. George, which may not be the same place)
+  - St. Theodore Sykeota, archbishop, 4/22 & 5/5 (buried in the "monastery" f St. George, which may not be the same place)
 
   - St. Theophano, first consort of the Emperor Leo VI the Wise
 
-- Ss. John Chrysostom, 9/13 and Gregory Nanzianzus, Church Fathers
+  - Ss. John Chrysostom, 9/13 and Gregory Nanzianzus, Church Fathers
 
 - Chapel of the Three Hierarchs
 
-- Balıklı Meryem Ana Rum Manastiri/Church of St. Mary of the Spring/Church
-  of the Life-Giving Spring
+  - Balıklı Meryem Ana Rum Manastiri/Church of St. Mary of the Spring/Church of the Life-Giving Spring
 
   - St. Auxentius of Constantinople, martyr, 1/25 (Orthodox saint; his
     relics may have been lost to desecration by the Muslims in 1955)
 
-Burial place of the Ecumenical Patriarchs (relics scattered by the
-Muslims)
+  - Burial place of the Ecumenical Patriarchs (relics scattered by the Muslims)
 
-- Fatih Camii/Fatih Mosque/Havariyyun Kilisesi/Church of the Great
-  Apostles/Holy Apostles (Greek: [Ἅ]{dir="rtl"}γιοι
+- Fatih Camii/Fatih Mosque/Havariyyun Kilisesi/Church of the Great Apostles/Holy Apostles (Greek: [Ἅ]{dir="rtl"}γιοι
   [Ἀ]{dir="rtl"}πόστολοι, Agioi Apostoloi)
 
-Burial place of the Emperors
+  - Burial place of the Emperors
 
   - St. Methodios I of Constantinople, patriarch, 6/14
 
@@ -4267,8 +4284,7 @@ Burial place of the Emperors
     
   - St. John Chrysostum, Church Father, 9/13
 
-- Kariye Camii/Μονή της Χώρας/Kariye Mosque/Chora Monastery (in the
-  Edirnekapı neighborhood of the Fatih district)
+- Kariye Camii/Μονή της Χώρας/Kariye Mosque/Chora Monastery (in the Edirnekapı neighborhood of the Fatih district)
 
   - St. Theodore of Chora, general/hermit/abbot, 1/8 (grave likely lost)
 
@@ -4486,13 +4502,13 @@ Izmir/Smyrna
 
   - St. Philoterus, businessman/martyr, 5/19
 
-Kahramanmaraş (formerly Marash), Province of Kahramanmaraş,
-Mediterranean region
+Kahramanmaraş (formerly Marash), Province of Kahramanmaraş, Mediterranean region
 
 - ???
 
   - Bl. Thomas of Baabdat (nee Géries Saleh), OFM Cap., missionary/martyr,
     1/18 (body probably thrown to the dogs)
+  - Bl. Thūmā from B'abdāt (nee Jirays H̱anā S̱āleẖ), OFM Cap., priest/martyr, 2/28 (his captors hacked his body to pieces and threw the remains into wells and down caves)
 
 Karamürsel (i.e., Helenopolis), near Nicomedia
 
@@ -5167,11 +5183,11 @@ Zarvanytsia, Ternopil oblast, Terebovlia region, Ukraine
 
 Site of Marian apparition
 
-Zhuzheljany
+Zhuzheljany/Zhuzheliany/Жужеляни, Sokal district, Lviv region
 
-- ???
+- сільський цвинтар/кладовище/Village cemetery (in the chapel)
 
-  - SoG Kyrylo Seletskyj, priest
+  - Servant of God Селецький Кирило/Kyrylo Selets’kyi, husband/widower/priest/founder, d. 4/28/1918
 
 # Undetermined
 

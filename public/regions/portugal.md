@@ -1,3 +1,5 @@
+# Portugal
+
 Alcobaça, Leiria district, Oeste, Centro region
 
 - Mosteiro de Alcobaça
@@ -9,6 +11,12 @@ Alenquer, Lisbon district, Oeste, Centro region
 - Mosteiro de Santa Catarina de Alenquer
 
   - Bl. Zacarias, OFM, preacher, 5/3
+
+Almada, Setúbal District, Lisbon Metropolitan Area, Lisbon region
+
+- Santuário de Cristo Rei/Shrine of Christ the King (Av. do Cristo Rei, 38°40′43″N 9°10′17″W)
+
+  - Relics of Ss. Margaret Mary Alacoque, John Eudes, and Faustina Kowalska and Bl. Maria do Divino Coração
 
 Amarante, Porto district, Tâmega e Sousa intermunicipal community, Norte region
 
@@ -86,12 +94,6 @@ Cabeceiras de Basto, District of Braga, Ave Sub-região, Minho province
 
   - St. Senhorinha of Basto, OSB, abbess, 4/22
 
-Câmara de Lobos, Madeira Island
-
-- ???
-
-  - Ven. Mary Jane (Sr. Maria of Saint Francis/Irmã Maria de São Francisco) Wilson, foundress, d. 10/18/1916 (died at Convento de São Bernardino)
-
 Canary Islands
 
 - ???
@@ -131,7 +133,7 @@ Ermesinde, Valongo, Porto District, Porto metropolitan area, Norte region
 
 - Igreja do Sagrado Coração de Jesus (Church of the Sacred Heart of Jesus)
 
-  - Bl. Maria Droste zu Vischering, visionary/religious, 6/8
+  - Bl. Maria do Divino Coração/Mary of the Divine Heart (née Maria Droste zu Vischering), visionary/religious, 6/8
 
 Este (São Pedro e São Mamede), Braga municipality, Cávado intermunicipal district, Norte region
 
@@ -172,6 +174,10 @@ Funchal, Madeira
 - Igreja de Nossa Senhora do Monte/Church of Our Lady of the Monte
 
   - Bl. Emperor Karl of Austria, 10/21 (his wedding anniversary)
+
+- Capela da Quinta das Rosas/Chapel of the Quinta das Rosas (Rua do Carmo 59)
+
+  - Ven. Maria de São Francisco/Maria of Saint Francis (née Mary Jane) Wilson, DamTE, foundress, d. 10/18/1916 
 
 Guarda, Beiras e Serra da Estrela intermunicipal community, Centro region
 
@@ -231,9 +237,13 @@ prayers at his tomb)
 
   - St. Euphemia (reliquary bust)
 
-- Jesuit church
+- Igreja de São Roque/Jesuit church (Largo Trindade Coelho)
 
   - St. Brigid of Ireland (head only), 2/1
+
+- Cemitério de Benfica/Benfica Cemetery (Estr. dos Arneiros)
+
+  - Ven. Teresa Rosa Fernanda de Saldanha Oliveira, DSCS, foundress, d. 1/8/1916
 
 - Cemitério de Rio de Mouro
 
@@ -316,6 +326,12 @@ Quinta do Anjo, Palmela, Portugal
 - ???
 
   - Servant of God Cármen Antunes de Matos Fortuna (aka, Carmita), laywoman, d. 5/14/1980
+
+Remelhe, Barcelos municipality, Braga District, Cávado comunidades intermunicipais, Norte region
+
+- Igreja Paroquial de Santa Marinha de Remelhe/Church of St. Marina (Travessa de Santa Marinha, 1)
+
+  - Ven. António José de Sousa Barroso, bishop, d. 8/31/1918
 
 Santarém, Santarém district, Lezíria do Tejo intermunicipality community, Oeste e Vale do Tejo region
 

@@ -736,7 +736,7 @@ Manhumirim, Minas Gerais state
 
 Santuário do Senhor Bom Jesus de Manhumirim/Shrine of the Good Lord Jesus
 
-  - Servant of God Júlio Maria (Julius Aemilius) de Lombaerde, MSF, priest/founder, 12/24/1944
+  - Ven. Júlio Maria (Jules Emiel) de Lombaerde, MSF, priest/founder, 12/24/1944
 
 Maríana, Minas Gerais state, Southeast region
 
@@ -3052,6 +3052,10 @@ Montevideo
 - Nuestra Señora del Carmen, Aguada
 
   - Servant of God Walter Elías Chango Rondeau, layman, d. 11/18/1939
+
+- Iglesia de Nuestra Señora del Perpetuo Socorro y San Alfonso (Tapes 956 [esq. San Fructuoso])
+
+  - Servant of God Victor Loyódice, CSSR, d. 1/10/1916
 
 - Capilla Santuario de la Beata Francisca Rubatto
 

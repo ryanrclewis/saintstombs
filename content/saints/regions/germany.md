@@ -1,3 +1,5 @@
+# Germany
+
 Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
 state
 
@@ -506,8 +508,7 @@ Dachau, Oberbayern, Bayern state
 
 - Kath. Pfarramt St. Jakob/Church of St. James
 
-Statue Unserer Lieben Frau von Dachau/Statue of Our Lady of Dachau
-statue (kept by the inmates of Dachau during the War)
+  - Statue Unserer Lieben Frau von Dachau/Statue of Our Lady of Dachau statue (kept by the inmates of Dachau during the War)
 
 Dachau Concentration Camp
 
@@ -515,7 +516,7 @@ Dachau Concentration Camp
 
   - Bl. Alojzy Liguda, SVD, priest/martyr, 12/8
 
-Fr. Agnello van der Bosch, OFM, d. 3/9/1945
+  - Fr. Agnello van der Bosch, OFM, d. 3/9/1945
 
   - Fr. Albert Eise, SAC, martyr, d. 9/3/1942
 
@@ -527,7 +528,7 @@ Fr. Agnello van der Bosch, OFM, d. 3/9/1945
 
   - Bl. Antoni Zawistowski, priest/martyr, 6/4
 
-- Dom Arnošt (Ernst) Vykoukal, OSB, abbot, d. 9/10/1942
+  - Dom Arnošt (Ernst) Vykoukal, OSB, abbot, d. 9/10/1942
 
   - Servant of God Augustin (nee František) Schubert, OSA, priest/martyr, d.
     6/28/1942
@@ -552,6 +553,8 @@ Fr. Agnello van der Bosch, OFM, d. 3/9/1945
 
   - Bl. Franciszek Dachtera, priest/martyr, 8/23
 
+  - Bl. Franciszek Miska, SDB, priest/martyr, 5/30/1942
+  
   - Bl. Franciszek Roslaniec, priest/martyr, 10/14 & 6/12
 
   - Bl. Florian (née Józef) Stepniak, OFM Cap., priest/martyr, 8/12
