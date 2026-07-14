@@ -852,7 +852,7 @@ Edacat, Kottayam, Kottayam district, Kerala state
 
 - St. George Knanaya Catholic Forane Church
 
-  - Ven. Mathew Makil, bishop/founder, d. 1/26/1914
+  - Ven. മാത്യു മാക്കീൽ/Mathew Makil, bishop/founder, d. 1/26/1914
 
 Edakochi, Ernakulam, Kerala state
 
@@ -1046,13 +1046,11 @@ Manjummel, Ernakulam district, Kerala state
 
 - Immaculate Conception Church
 
-  - Bl. Eliswa Vakayil (Eliswa of the Blessed Virgin Mary), OCD, d.
-    7/18/1913
+  - Bl. Eliswa of the Blessed Virgin Mary (née Eliswa/ഏലീശ്വ വാകയിൽ) Vakayil, OCD, d. 7/18/1913
 
-  - Ven. Aureliano of the Blessed Sacrament (nee Pedro Landetta
-    Azcueta), OCD, priest, d. 11/16/1963
+  - Ven. Aureliano of the Blessed Sacrament (née Pedro Landetta Azcueta), OCD, priest, d. 11/16/1963
 
-  - Ven. Zacarias of Saint Teresa (nee Zacarias Salterain Bizkarra),
+  - Ven. Zacarias of Saint Teresa (née Zacarias Salterain Bizkarra),
     OCD, priest, 5/23/1957
 
 Mannanam, Kerala state
@@ -3250,7 +3248,7 @@ Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Gov
 
 - St. Joseph Monastery Al Dahr, Jrabara
 
-  - St. Rafqa, nun, 3/23
+  - St. Rafqa (née Buţrosyah Shabaq Ar-Rayes/[(بطرسيّة شبق ألريّس[رفقا]]), nun, 3/23
 
 - 
 •الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
