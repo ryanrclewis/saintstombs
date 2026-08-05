@@ -1244,10 +1244,16 @@ Ranchi, Jharkhand state
 
   - Servant of God Constant Lievens, SJ, priest, d. 11/7/1893
 
-Daughters of St. Anne of Ranchi Motherhouse (DSA, Namkum, Ranchi)
+- Daughters of St. Anne of Ranchi Motherhouse (DSA, Namkum, Ranchi)
 
   - Servant of God Mary Bernadette Prasad Kispotta, DSA, foundress, d.
     4/16/1961
+
+Rangapuram, Sathuvachari parish (Vellore Diocese), Vellore District, Tamil Nadu state
+
+- Sacred Heart Novitiate and Generalate (Narkarunai Nagar, Phase-1, 33rd Cross Street, Sathuvachari Post)
+
+  - Servant of God Scholastica of Kanyakumari (née  Jesuvadiyal Savarimuthu), SSHJ, foundress, d. 10/12/1993
 
 Sarugani, Nedodai, Sivaganga District, Tamil Nadu state
 
@@ -1387,18 +1393,24 @@ Banda Aceh, Aceh Province, Sumatra region
 
 Langgur, Kei Kecil Island, Southeast Maluku Province
 
-Kei Martyrs Pilgrimage Park
+- Kei Martyrs Pilgrimage Park
 
-  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12
-    Missionaries of the Sacred Heart (MSC) Companions
+  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12 Missionaries of the Sacred Heart (MSC) Companions
 
-Larantuka, East Flores Regency, Flores Island, East Nusa Tenggara
-province
+Larantuka, East Flores Regency, Flores Island, East Nusa Tenggara province
 
 - Princess Reinha Rosari Central Convent Park,
 
   - Servant of God Gabriel Wilhelmus (Lay Tjong Sie) Manek, SVD,
     bishop, d. 11/30/1989
+
+Tanjung Lewouran, East Nusa Tenggara Province
+
+- Gereja Stasi Santo Petrus Rasul/St. Peter the Apostle Mission Station Church
+
+  - Soil from the tomb of St. Peter
+  
+  - A stone from the Holy Door at the Basilica of San Pietro in Vaticano/St. Peter's Basilica
 
 # Iran
 
@@ -3254,8 +3266,7 @@ Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Gov
 
 - 
 •الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
-  - Bl. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
-
+  - Bl. Elias Peter Hoayek/Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
 
 Beirut
 
@@ -3477,6 +3488,10 @@ Carcar City (Barangay Valladolid), Cebu province
 - Domus Teofilo (House of Teofilo), Daughters of St. Teresa
 
   - Ven. Teofilo Camomot, archbishop, d. 9/27/1988
+
+Cavite City/Lungsod ng Kabite, Province of Cavite, Calabarzon region
+
+- Diocesan Shrine of Our Lady of Solitude of Porta Vaga/San Roque Church (P. Burgos Avenue)
 
 Dona Remedios Trinidad, Bulacan Province
 
