@@ -422,11 +422,15 @@ Bethleem
 
   - St. Veerle/Pharaïlde/Pharaildis of Ghent, virgin, 1/4 (relics
 
-Ghent, Tronchiennes/Dongen village, Province of East Flanders
+Ghent, Tronchiennes/Drongen village, Oost-Vlaanderen Province, Vlaanderen
 
 Sint-Gerolfkerk
 
   - St. Gerulfus/Gerolf, martyr, 9/21 (skull only)
+
+- Sint-Jozefskapel/kapel Pater Petit/Chapel of Father Petit (Oude-Abdijstraat 1; it's part of the Abdij van Drongen/Tronchiennes Abbey complex)
+
+  - Ven. Adolphe Petit, SJ, priest, d. 5/20/1914
 
 Ghistelles/Gistel, Ostend Arrondissement, West Flanders, Flemish Region
 
