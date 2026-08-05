@@ -1569,12 +1569,11 @@ Peć, Peć/Peja district, Rugova region
   - St. Данило II/Danilo II of Serbia, archbishop, 12/20 & 1/2 (Serbian
     Orthodox saint)
 
-Peć/Peja, District of Peć/Peja, Rugova region **[or]{.underline}**
-Janosh, Gjakova, Komuna e Gjakoves region
+Zym, Prizren Municipality, Prizren District, southwestern part of the country
 
-- ???
+- varrezat Katolike të Zymit/Catholic cemetery of Zym
 
-  - Bl. Luigj Paliq (born: Mati Palić), OFM, priest/martyr, d. 3/7/1913
+  - Bl. Luigj Paliq (née Mati Palić), OFM, priest/martyr, d. 3/7/1913
 
 # Latvia
 
@@ -1736,6 +1735,12 @@ Floriana/Borgo Vilhena, Port Region area
 - Casa della Madonna di Manresa (archdiocesan curia)
 
   - St. Calcedonio, martyr, 9/7
+
+Għarb, Gozo and Comino District, Gozo Island
+
+- Kappella ta' San Dimitri/Chapel of St. Demetrius (Triq tal-Blajjar in a rural area on the outskirts of Għar)
+
+  - Eleimonitria/Icon of Our Lady of Mercy
 
 Għaxaq, Southern Region of Malta
 
