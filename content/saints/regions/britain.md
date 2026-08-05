@@ -1331,11 +1331,11 @@ priest martyrs, 3/7
 
   - Bl. William Way, priest/martyr, 9/23
 
-- Church of St. Ethedreda (Ely Place, Holborn, London-- oldest continually
-  active Catholic church in England)
+- Church of St. Etheldreda (Ely Place, Holborn, London – oldest continually active Catholic church in England)
 
-- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation
-  chapel
+  - St. Etheldreda’s relics are reputedly here.
+
+- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation chapel
 
 - St. Patrick Church, London
 
@@ -1559,6 +1559,12 @@ Norham, Northumberland, North East region
     church in Norham, but the location of his resting place is unknown,
     because today's church is in a different place."
 
+Nottingham, Nottinghamshire, England
+
+- Cathedral Church of St. Barnabas/Nottingham Catholic Cathedral
+
+  - Ven. Mary Potter, LCM, foundress, foundress, d. 4/9/1913
+
 Oxford, England
 
 - Oxford Cathedral
@@ -1700,11 +1706,15 @@ Rochester, Kent
 
   - Bl. Miles Gerard, priest/martyr, 4/13 or 4/20
 
-Roehampton
+Roehampton, London Borough of Wandsworth, Greater London, England
+
+- Sacred Heart Chapel/Old Lodge and Chapel of the Sacred Heart, Digby Stuart College (Roehampton Lane)
+
+  -Servant of God Janet Erskine Stuart, RSCJ, religious, d. 10/21/1914
 
 - ???
 
-  - St. Edmund Campion, martyr, 12/1
+  - St. Edmund Campion, martyr, 12/1 (likely only a relic)
 
 Romsey, Test Valley district, Hampshire
 
