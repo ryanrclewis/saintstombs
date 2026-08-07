@@ -1140,7 +1140,7 @@ Orur, Tiruvadanai taluk, Ramanathapuram district, Tamil Nadu state
 
 Panjampatti, Dindigul, Tamil Nādu state
 
-Congregation of the Immaculate Conception
+- Congregation of the Immaculate Conception
 
   - Servant of God Augustine Pereira, priest/founder, d. 10/21/1911 ("in
     1986 during the Platinum jubilee of the congregation, the mortal remains
@@ -1193,13 +1193,13 @@ Peda Avutapalli (Pedavutapally), Krishna district, Andhra Pradesh
 
 Pilar village, Goa state (roughly 10 km from the state capital Panaji)
 
-Pilar Saibinnichi Igorz (Our Lady of Pilar)
+- Pilar Saibinnichi Igorz (Our Lady of Pilar)
 
   - Ven. Agnelo de Souza, SFX, preacher, d. 11/20/1927
 
 Pondicherry, Puducherry district, Puducherry union territory
 
-Immaculate Heart of Mary Generalate (No.19, St. Therese Street)
+- Immaculate Heart of Mary Generalate (No.19, St. Therese Street)
 
   - Servant of God Fr. Louis Savinien Dupuis, MEP, priest/founder, d.
     6/4/1874
@@ -1218,8 +1218,7 @@ Poondi, Thiruvallur taluk of Tiruvallur district, Tamil Nadu state
 
 Prayagraj, Prayagraj district, Prayagraj division, Uttar Pradesh
 
-सेंट जोसेफ़्स कैथेड्रल,
-इलाहाबाद/St. Joseph Cathedral
+- सेंट जोसेफ़्स कैथेड्रल, इलाहाबाद/St. Joseph Cathedral
 
   - Ven. Anastasius of Altwis (nee Joseph Alois Hartmann), OFM. Cap.,
     bishop, d. 4/24/1886
@@ -1348,8 +1347,7 @@ Velankanni, Nagapattinam district, Tamil Nadu state
 
 - Basilica of Our Lady of Good Health
 
-ஆரோக்கிய அன்னை/Our Lady of Health of Velankanni,
-9/8
+  - ஆரோக்கிய அன்னை/Our Lady of Health of Velankanni, 9/8
 
 Varapuzha/Varappuzha, Ernakulam district, Kerala state
 
@@ -1378,6 +1376,12 @@ Vedalai, Ramanathapuram district, Tamil Nadu state
     foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of
     Bangalore/Bengaluru, Karnataka state, where the generalate of the order
     she founded is located)
+
+Vilakkannur, Kannur District, Kerala State
+
+- Christ the King Church
+
+  - Vatican approved eucharistic miracle of 11/15/2013
 
 # Indonesia
 
