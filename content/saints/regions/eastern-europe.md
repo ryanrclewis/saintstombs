@@ -1762,6 +1762,12 @@ Gozo
 
   - Servant of God Maria Teresa Nuzzo, UQĠ, foundress, d. 4/17/1923
 
+Lija/Ħal Lija, Western District, Eastern Region
+
+- Kappella tal-Mirakli/Shrine of Our Lady of Miracles (Triq Annibale Preca)
+
+  - Miraculous icon of Madonna and Child
+
 Il-Mellieħa/Mellieħa, Northern Region
 
 - Il-Prijorat ta' San Duminku/Priory of St. Dominic (1km south from Rabat)
@@ -1769,6 +1775,10 @@ Il-Mellieħa/Mellieħa, Northern Region
   - Madonna tal-Grotta/Our Lady of the Grotto
 
 Mdina
+
+- Mdina Metropolitan Cathedral of St. Paul
+
+  - Icon reportedly painted by St. Luke
 
 - Church and Monastery of St Peter (Maltese: Il-knisja u Monasteru ta\'
   San Pietru)
@@ -1778,6 +1788,10 @@ Mdina
 - Mdina Priory (VCP3+P5H Carmelite Priory, Triq IL Villegaignon, L-Imdina)
 
   - Servant of God Avertan (nee Lwiġi) Fenech, O.Carm., d. 11/1/1943
+
+Mellieħa, Northern District, Northern Region
+
+- Mellieħa National Shrine (Triq l-Erwieħ)
 
 Paola, Southern Harbour
 
@@ -1794,7 +1808,31 @@ Raħal Ġdi/Paola, Malta
 
   - Servant of God Ġużeppi/Giuseppe De Piro, MSSP, priest/founder, d. 9/17/1933
 
+Senglea/L-Isla, Southern Harbour District, Port Region
+
+- Il-Bażilika Vittorjuża tat-Twelid tal-Verġni Marija/Il-Knisja Parrokjali Marija Bambina/Il-Bambina/Il-Vitorja/Basilica of the Nativity of Mary/Basilica of Our Lady of Victories (Triq il-Vitorja [Victory Street])
+
+  - Statue of Maria Bambina/Child Mary/Little Girl
+
 Valletta
+
+- Kon-Katidral ta' San Ġwann/St. John’s Co-Cathedral (Triq San Gwann)
+
+  - Madonna ta’ Carafa/Caraffa Madonna icon (Chapel of the Blessed Sacrament)
+
+  - Madonna ta’ Filermu/Madonna of Philermos icon (Chapel of the Madonna of Philermos)
+
+- Id-Damaxxena/Church of Our Lady of Damascus (132 A Archbishop Street)
+
+  - Icon of Our Lady of Damascus
+
+- Santwarju Bażilika tal-Madonna tal-Karmnu/Basilica of Our Lady of Mount Carmel (Triq it-Teatru l-Antik [at the corner with Old Mint Street and near Archbishop Street])
+
+  - Icon of Our Lady of Mount Carmel
+
+- Knisja tal-Madonna tal-Vittorja/Knisja tal-Vittorja/Our Lady of Victory Church (VGW6+97X, South Street)
+
+  - Our Lady of Victory icon
 
 - il-Knisja tal-Ġiswiti/Church of the Circumcision of Our Lord/Church of the Jesuits/Church of the University (VGX8+93G, Merchants St.)
 
@@ -1805,10 +1843,6 @@ Valletta
 - St. Mary of Jesus Friary, Chapel of the Immaculate Conception
 
   - Bl. Nazju (aka, Ignatius) Falzon, evangelist, 7/1
-
-- Id-Damaxxena/Church of Our Lady of Damascus (132 A Archbishop Street)
-
-  - Icon of Our Lady of Damascus
 
 - Santa Maria Addolorata Cemetery
 
