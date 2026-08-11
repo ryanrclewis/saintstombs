@@ -145,6 +145,12 @@ Ankang (安康), Hanbin District (汉滨区), Shaanxi Province (陕西)
 
   - Since there is no grave for the above Servant of God, you can pray for his intercession here.
 
+Beijing
+
+- 救世主堂/北堂/Church of the Savior/Xishiku Church/Beitang Cathedral (3 Xishiku Ave, 西安门 Xicheng District)
+
+  - Shrine of Our Lady of Deliverance, Empress of China (destroyed during the Cultural Revolution)
+
 Beiwangtou, Shenzhou City, Hebei Province
 
 - ???
