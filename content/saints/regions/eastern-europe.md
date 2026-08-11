@@ -4245,8 +4245,7 @@ Beyözü (Euchaita)
 
   - St. Theodorus of Heraclea, martyr, 2/7 (only a part, if anything)
 
-Bolvadin (at the former Polybotus, 3 miles/4.8 km away), Province of
-Afyonkarahisar
+Bolvadin (at the former Polybotus, 3 miles/4.8 km away), Province of Afyonkarahisar
 
 - ???
 
@@ -4263,6 +4262,12 @@ Büyükada Island, Adalar İlçesi (Princes islands), Istanbul
 - Ayios Nikolaos/Άγιος Νικόλαος/Agios Nicholaos/Saint Nicholas
 
   - Empress St. Irene Piroska of Hungary/Macaristan İmparatoriçesi St. Irene Piroska/Αυτοκράτειρα Αγία Ειρήνη Πιρόσκα της Ουγγαρίας, 8/13
+
+Cizre, Cizre District, Şırnak Province
+
+- ???
+
+  - Bl. Ya’qūb Melkī/Flaby’anūs Mykh’ayl/Flavien-Michel Melki, bishop/martyr, 8/29 (body thrown away by the Ottomans)
 
 Constantinople
 
@@ -4509,7 +4514,7 @@ Hierapolis/Pamukkale (near Denizli, Province of Denizli, Phrygia region)
 
 - Tomb of Philip the Apostle (empty)
 
-Izmir/Smyrna
+Izmir/İzmir/Smyrna
 
 - Christian Cemetery/Hıristiyan Mezarlığı
 
@@ -4520,6 +4525,10 @@ Izmir/Smyrna
 
   - St. Attalialı Athanasius/Αθανάσιος της Αττάλειας/Athanasius of Attalia,
     layman/martyr, 1/7 (Greek Orthodox saint)
+
+- Paşaköprü Hristiyan Mezarlığı/Paşaköprü Christian Cemetery (Yeşillik Caddesi, 523)
+
+  - Servant of God Marie (née Adèle-Louise-Marie) de Mandat-Grancey, DC, religious/visionary, d. 5/31/1915
 
 - ???
 
