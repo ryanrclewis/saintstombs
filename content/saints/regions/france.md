@@ -539,6 +539,14 @@ Avrillé, Angers arrondissement, Maine-et-Loire department, Pays de la Loire reg
         • Suzanne Androuin, martyr, 2/1  
         • Victoire Bauduceau epouse Réveillère, martyr, 2/1
 
+Bagneux, Hauts-de-Seine Department, Île-de-France region
+
+- Cimetière Parisien de Bagneux (43–45, Avenue Marx-Dormoy)
+
+  - Servant of God Élisabeth (née Arrighi) Leseur, laywoman/writer, d. 5/3/1914
+
+  - Servant of God Georges Guerin, priest/founder, d. 3/15/1972
+
 Bais, Mayenne arrondissement, Mayenne department, Pays de la Loire region
 
 - Église paroissiale/Parish church
@@ -932,7 +940,9 @@ Candé, Segré-en-Anjou Bleu canton, Segré arrondissement, Maine-et-Loire depar
   - St. Reginald of Mélinais, OSA, hermit, 9/17
 
 Cannes
+
 - Notre Dame du Bon Voyage
+
   - Where travelers go to pay for a safe journey
 
 Carcassonne, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
@@ -941,6 +951,12 @@ Carcassonne, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone a
   - St. Albin of Embrun, bishop, 3/1
 - ???
   - St. Guimérra of Carcassone, bishop, 2/13
+
+Casteil/Castell de Vernet, Le Canigou canton, Prades arrondissement, Pyrénées-Orientales department,  Occitanie region
+
+- Abbaye Saint-Martin du Canigou/Sant Martí del Canigó (only reachable on foot via a 35-to-60-minute uphill walking trail from the village)
+
+  - St. Galderic/Gauderic/Galdric, peasant farmer, 10/16
 
 Carpentras, Vaucluse department, Provence-Alpes-Côte d'Azur region
 
@@ -1374,6 +1390,12 @@ Durieu (no such town exists anymore)
 - ???
   - St. Martin of Vertou (possibly Saint Jouin-de-Marne abbey), 10/24
 
+Ébreuil (formerly Saint-Léger-d’Ébreuil), Gannat canton, Allier department, Auvergne-Rhône-Alpes region
+
+- L’abbaye Saint-Léger d'Ébreuil
+
+  - St. Leger (Leodegar), bishop, martyr, 10/2
+
 Escolives-Sainte-Camille (Ecoulives), Auxerre district, Yonne department, Burgundy-Franche-Comté
 
 - ??? (A church was built on his tomb which became the crypt. Like her sisters, she was quickly considered a saint by popular enthusiasm (vox populi, vox dei))
@@ -1445,6 +1467,12 @@ Eu, Dieppe arrondissement, Seine-Maritime department, Normandy region
   - St. Aquilin d'Évreux/Aquilinus of Évreux, bishop, 10/19 (grave lost)
   - St. Eternus of Evreux, bishop/martyr, 6/21 (probably at the cathedral)
   - St. Waldo/Gaud of Evreux, bishop, 1/31
+
+Fanjeaux/Fanjaus, Communauté de communes Piège-Lauragais-Malepère, Carcassonne arrondissement, Aude department, Occitanie region
+
+- Église Paroissiale Notre-Dame de l’Assomption
+
+  - St. Galderic/Gauderic/Galdric, peasant farmer, 10/16 (finger relic only)
 
 Faremoutiers, Meaux arrondissement, Seine-et-Marne department, Île-de-France region
 
@@ -2047,7 +2075,6 @@ Laval, Mayenne department, Pays de la Loire
   - Bl. René-Louis Ambroise, priest/martyr, 1/21
 - ???
   - Bl. Françoise Mézière, laywoman/martyr, 1/21 & 2/5
-  - Bl. Jean Baptiste Turpin du Cormier, 10/17
   - Bl. Monique (née Marie) Lhuilier, OSA, religious/martyr, 1/21, 6/22, & 6/25
 
 Lavaur, Lavaur Cocagne canton, Castres arrondissement, Tarn department, Occitanie region
@@ -3080,8 +3107,6 @@ Paris
 - Cimetière d'Auteuil
   - Servant of God Madeleine (née Boudou) Follereau, philanthropist, d. 3/3/1991
   - Servant of God Raoul Follereau, author, d. 12/6/1977
-- Cimetière de Bagneux
-  - Servant of God Georges Guerin, priest/founder, d. 3/15/1972
 - Cimetière de Gentilly/Gentilly Cemetery (5 Rue de Ste Hélène)
   - Servant of God Paulin Enfert, layman, d. 9/1/1922
 - Cimetière Montparnasse
@@ -3227,6 +3252,7 @@ Péronne, Somme department, Hauts-de-France region
 Perpignan, Pyrénées-Orientales department, Languedoc-Roussillon region
 
 - Cathédrale de Saint-Jean
+  - St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (sources differ on whether there are only relics or his mortal remains are here)
   - Bl. Queen Esclaramunda de Foix, 10/22
 - Mercedarian Convent of Saint-Martin
   - Bl. Bernardo de Apiano, O. de M., monk, 11/6
@@ -3533,6 +3559,12 @@ Rives-en-Seine, Port-Jérôme-sur-Seine canton, Rouen arrondissement, Seine-Mari
 - ???
   - St. Erinhard, prior, 9/24
 
+Rivesaltes/Ribesaltes, Perpignan Méditerranée Métropole intercommunality, Perpignan arrondissement, Pyrénées-Orientales department, Occitanie region
+
+- Église Paroissiale Saint-André/Parish Church of St. Andrew (2 Place du Clocher)
+
+  - St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (relic only; in a rectangular pillar)
+
 Rocamadour, Lot department, Languedoc-Rousillon-Midi-Pyrénées region
 
 - Shrine of Our Lady of Rocamadour
@@ -3805,6 +3837,12 @@ Saint-Etienne-le-Laus, Hautes-Alpes Provence-Alpes-Cote d'Azur
   - Visions of Notre-Dame-du-Laus, 6/1
   - Ven. Benoîte Rencurel, visionary, d. 12/25/1718
 
+Saint-Féliu-d’Amont, Communauté de communes de Roussillon Conflent, Prades arrondissement, Pyrénées-Orientales department, Occitanie region
+
+- Église Sainte-Marie/Église Notre-Dame, Notre-Dame de la Salvetat (2 Rue Pasteur (also referred to as Rue de l’Église or 14 Village)
+
+  - St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (relic only; in a reliquary depicting a golden thicket of relics in images, shrubs, and fat-leafed shrubs)
+
 Saint-Florent-le-Vieil, Maine-et-Loire department
 
 - Abbaye de Saint-Florent-le-Vieux
@@ -3899,16 +3937,21 @@ Saint-Josse-sur-Mer, Étaples canton, Montreuil arrondissement, Pas-de-Calais de
 - Saint-Josse/Parish church
   - St. Josse/Jodocus/Judoc, nobleman, d. 12/13 & 1/9 (he was buried at the abbey; the church is all that's left; his grave may be lost)
 
+Saint-Laurent-de-la-Salanque, Perpignan Méditerranée Métropole Intercommunalité, Perpignan arrondissement, Pyrénées-Orientales department, 	Occitanie region
+
+- L’église paroissiale Saint-Laurent/Parish church of St. Laurence
+
+  - St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (relic only; in a reliquary statue)
+
 Saint-Laurent-sur-Sèvre, Vendée department
 
 - Basilica of St. Louis Marie de Montfort
   - St. Louis-Marie Grignion de Montfort, founder, 4/28
   - Bl. Marie-Louise de Jésus Trichet, foundress, 4/28
 
-Saint-Léger
-
-- ???
-  - St. Leger (Leodegar), bishop, martyr, 10/2
+Ébreuil (formerly Saint-Léger-d’Ébreuil), Gannat canton, Allier department, Auvergne-Rhône-Alpes region
+L’abbaye Saint-Léger d'Ébreuil
+St. Leger (Leodegar), bishop, martyr, 10/2
 
 Saint-Léonard-de-Noblat, Haute-Vienne department, Limousin region
 
@@ -4138,7 +4181,8 @@ Saint-Quentin, Aisne department, Hauts-de-France region
   - St. Hunegund of France, nun, 8/25 & 11/1
 - Abbey of St. Prix
   - St. Projectus, bishop, 1/25 (relics, not tomb)
-- Église Saint-Martin
+- Église Saint-Martin (21 Rue du Parvis Saint-Martin)
+  - Servant of God André Prévot, SCJ, priest, d. 11/26/1913
   - Ven. Jean du Sacré Coeur (née Léon-Gustave) Dehon, SCJ, priest/founder, d. 8/12/1925 (beatification cause suspended)
 - ???
   - St. Quentin, martyr, evangelist, 10/31
