@@ -1,7 +1,6 @@
 # Germany
 
-Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
-state
+Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia state
 
 - Cathedral
 
@@ -1130,18 +1129,15 @@ Saxony/Niedersachsen
 
 - Friedhof neben der St. Peterskirche/Cemetery next to St. Peter\'s Church
 
-Apparitions of Our Lady of Heede, Queen of the Poor Souls in Purgatory,
-11/1 (not officially recognized)
+  - Apparitions of Our Lady of Heede, Queen of the Poor Souls in Purgatory, 11/1 (not officially recognized)
 
-Hegne
+Hegne, Allensbach municipality, Konstanz district, Freiburg administrative region, Baden-Württemberg
 
-Die Barmherzigen Schwestern vom Heiligen Kreuz von Ingenbohl/The Sisters
-of Mercy of the Holy Cross of Ingenbohl
+- Die Barmherzigen Schwestern vom Heiligen Kreuz von Ingenbohl/The Sisters of Mercy of the Holy Cross of Ingenbohl
 
-- Bl. Ulrika Nisch, visionary/religious, 5/8 (church crypt)
+  - Bl. Ulrika (née Franziska) Nisch, visionary/religious, 5/8 (church crypt)
 
-Heidenfeld, Röthlein municipality, Schweinfurt district, Lower Franconia
-administrative district, Bayern/Bavaria state
+Heidenfeld, Röthlein municipality, Schweinfurt district, Lower Franconia administrative district, Bayern/Bavaria state
 
 - Pfarrkirche St. Laurentius/Church of St. Lawrence
 
