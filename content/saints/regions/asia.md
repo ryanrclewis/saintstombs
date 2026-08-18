@@ -1562,6 +1562,16 @@ Der Serkis, west of Edessa
   - St. Ephrem (aka, Ephraem; Ephraim the Syrian; Ephraim; Harp of the
     Holy Spirit; Sun of the Syrians), Church Father/Doctor, 6/9
 
+Erbil, Ankawa/Ainkawa/Ain Kawa neighborhood, Kurdistan Region
+
+- مزار القديس إيليا/Shrine of St. Elijah/Elias/Ilyas, patriarch of Baghdad (6XMV+QCX)
+
+  - The Elijah referenced refers to the Old Testament prophet, and a 6th century Assyrian monk
+
+  - Elijah Abdoka (Mirakor), local lay martyr, d. ca. 1831 (non-causa)
+
+- Maryamana Shrine/Shrine of Our Lady/مزار مريميانا (Near Mar Gewargis [St. George's] Church)
+
 Kirkuk
 
 - كنيسة القديس يوسف/Church of Saint Joseph
