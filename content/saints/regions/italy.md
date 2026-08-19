@@ -14957,7 +14957,9 @@ Visciano, Metropolitan City of Naples, Campania region
 
   - Servant of God Arturo D'Onofrio, priest/founder, d. 11/3/2006
 
-Visso, Province of Macerata, Le Marche region
+Visso, Province of Macerata, Marche region
+
+- Santuario di Macereto/Santa Maria di Macereto/Shrine of Our Lady of Macereto (Località Cupi, 2)
 
 Viterbo, Province of Viterbo, Lazio Region
 
@@ -14967,7 +14969,7 @@ Viterbo, Province of Viterbo, Lazio Region
   
   - Pope John XXI (not canonized)
 
-San Francesco
+- San Francesco
 
   - Pope Clement IV (not canonized)
   
