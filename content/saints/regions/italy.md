@@ -10513,11 +10513,15 @@ Nazareth, 400)
   - Bl. Maria Franciszka Siedliska (Maria del Buon Pastore/Maria of the
     Good Shepherd), foundress, 11/22
 
-- Casa Generalizia dell'Istituto delle Francescane Missionarie di Maria/General House of the Institute of the Franciscan Missionaries of
+- Casa Generalizia dell’Istituto delle Francescane Missionarie di Maria/General House of the Institute of the Franciscan Missionaries of
 Mary (Via Giusti, 12)
 
   - Bl. Marie de la Passion (née Hélène -Marie Philippine de Chappotin de
     Neuville), foundress, 11/15
+
+- Casa generalizia delle Figlie di Maria Missionarie/General House of the Missionary Daughters of Mary (Via Giovanni Battista Canobi, 18) (NOTE: The Casa generalizia doubles as a pensione.)
+
+  - Ven. Giacinto Bianchi, priest/founder, d. 2/11/1914
 
 - Casa Generalizia delle Figlie di S. Maria di Leuca (Via Tiberina, 191)
 
@@ -10550,6 +10554,10 @@ the Child Jesus
 
   - Bl. Anna Rosa Maria Benedetta Gattorno Custo, widow/foundress, 5/6
 
+- Convento di San Sisto Vecchio (Piazzale Numa Pompilio, 8)
+
+  - Ven. Maria Antonia del Sacro Cuore di Gesù (née Rachele) Lalìa, OP, foundress, d. 4/9/1914
+
 - Convento Ancelle Sacro Cuore Di Gesù (Via Venti Settembre, 65/B)
 
   - St. Raffaela Maria of the Sacred Heart
@@ -10572,13 +10580,12 @@ the Child Jesus
 
   - Pope St. Caius, 4/22
 
-English College
+- English College
 
   - St. Alexander Briant, priest/martyr, 12/1 (second class relic: the
     wooden cross he made and held in prison)
 
-- On the Via Portuense in a tomb located between the basilicas of S.
-  Candida and Ss. Abdon and Sennen
+- On the Via Portuense in a tomb located between the basilicas of S. Candida and Ss. Abdon and Sennen
 
   - Pope St. Anastasius I, 12/19 (another source says he's at the
     Catacomba di Ponziano/Catacomb of Pontian on the Via Portuensis)
@@ -11048,13 +11055,15 @@ San Lorenzo in Lucina
 
   - Pope St. Marcello/Marcellus I, 1/16
 
-- San Marco
+- Basilica di San Marco/Basilica of St. Mark (Piazza di San Marco, 48)
 
   - Ss. Abdon and Sennen, Persian martyrs, in the confessio
 
   - St. Hermes, martyr, 8/28
 
-  - Pope St. Mark, martyr, 10/7
+  - Servant of God Luigi Oreste Borgia, priest, d. 1/14/1914
+
+   - Pope St. Mark, martyr, 10/7
 
 - Santa Maria ad Martyres (Pantheon)
   - Many martyrs buried here
