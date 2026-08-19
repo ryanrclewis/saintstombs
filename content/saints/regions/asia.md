@@ -1534,13 +1534,13 @@ Al Kifl, Al-Hillah district, Babylon province
 
 - Tomb of Dhu al-Kifl
 
-Prophet Ezekiel, 7/23
+  - Prophet Ezekiel, 7/23
 
 Alqosh/ألقوش, Tel Kaif District, Nineveh governorate
 
-الكنيس/The synagogue
+الكنيس/The synagogue- 
 
-ناحوم/The Prophet Nahum, 12/1
+ناحوم/  - The Prophet Nahum, 12/1
 
 - دير الربان هرمزد/Rabban Hormizd Monastery
 
