@@ -14125,19 +14125,23 @@ Valganna, Ganna *frazione*, Province of Varese, Lombardia region
 
   - St. Gemolo, soldier/martyr, 2/4
 
-Valle Sant'Anastasio, Sassofeltrio Province of Rimini
+Valle Sant’Anastasio, Sassofeltrio Province of Rimini
 
 - Abbazia di Valle Sant\'Anastasio/Benedictine Abbey of Sant'Anastasio
 
   - St. Alberic of Ocri/Alberico of Bagno de Romagna, hermit, 8/29
 
+Vallepietra, Metropolitan City of Rome, Lazio region
+
+- Santuario della Santissima Trinità/Sanctuary of the Santissima Trinità (only open from May 1-October 31)
+
+  - Fresco of la Santissima/the Holy One
+
 Vallo Torinese, Metropolitan City of Turin, Piemonte region
 
-- Chiesa parrocchiale di San Secondo Martire/Church of St. Secundus the
-  Martyr (Via San Rocco, 10)
+- Chiesa parrocchiale di San Secondo Martire/Church of St. Secundus the Martyr (Via San Rocco, 10)
 
-  - Ven. Maria Orsola Bussone, young laywoman of the Focolare Movement, d.
-    7/10/1970
+  - Ven. Maria Orsola Bussone, young laywoman of the Focolare Movement, d. 7/10/1970
 
 Vallombrosa, Town of Reggello, Province of Florence, Tuscany
 
@@ -14238,14 +14242,19 @@ Santa Maria Assunta
 
 Vasto, Province of Chieti, Abruzzo region
 
-- Cimitero di Vasto
+- Cimitero di Vasto (Viale del Cimitero, 1)
 
-  - Servant of God Felice Piccirilli, priest, d. 5/26/1968 (he may have been
-    moved)
+  - Servant of God Felice Piccirilli, priest, d. 5/26/1968
 
 - ???
 
   - Servant of God Giuseppe Cinquina, priest, d. 3/14/1945
+
+Vedrana, Metropolitan City of Bologna, Emilia-Romagna region
+
+- Chiesa di San Luigi/Church of St. Louis
+
+  - Ven. Giuseppe Codicè, priest/founder, d. 1/21/1915
 
 Velletri, Città metropolitana di Roma Capitale, Lazio region
 
@@ -14823,6 +14832,12 @@ Vico Equense, Metropolitan City of Naples, Campania region
   - St. Ciro/Cyrus, martyr, 1/31
 
   - St. Giovanni/John, martyr, 1/31
+
+Vico nel Lazio, Province of Frosinone, Lazio region
+
+- Collegiata di San Michele Arcangelo/Collegiate Church of St. Michael (Via Vittorio Emanuele, 32)
+
+  - Servant of God Francesco Pitocchi, priest, d. 6/13/1922 (Cappella dello Spirito Santo/Chapel of the Holy Spirit)
 
 Vicoforte, Province of Cuneo, Piemonte Region
 
