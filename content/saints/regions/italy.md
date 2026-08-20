@@ -14940,6 +14940,13 @@ Vipiteno (aka, Sterzing), South Tyrol (BZ) province, Trentino-Alto Adige/Südtir
 
   - St. Adeodatus (Adeodato), martyr
 
+
+Vische, Metropolitan City of Turin, Piemonte region
+
+- Santuario del Sacro Cuore/Shrine of the Sacred Heart (Via Alfonso Lamarmora, 31)
+
+  - Ven. Louise Marguerite (née Marguerite-Céline) Claret de La Touche, BSC, religious/mystic/foundress, d. 5/14/1915
+
 Visciano, Metropolitan City of Naples, Campania region
 
 - Santuario della Madonna del Carpinello
@@ -14977,7 +14984,11 @@ Viterbo, Province of Viterbo, Lazio Region
   - St. Giacinta (née Clarise) Marescotti, TOSF, reluctantSanti Luca e
     Martina religious, 1/30
 
-  - St. Rose of Viterbo, 3/6 & 9/4
+  - Santa Rosa di Viterbo/St. Rose of Viterbo, 3/6 & 9/4
+
+- Monastero della Visitazione/Monastery of the Visitation (Via S. Pietro, 30 in the San Pellegrino district)
+
+  - Ven. Maria Benedetta (née Ersilia Penelope) Frey, d. 5/10/1913
 
 - Cimitero San Lazzaro/San Lazzaro Cemetery (Str. S. Lazzaro)
 
