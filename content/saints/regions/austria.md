@@ -64,6 +64,12 @@ Eben am Achensee, Tyrol
 
   - St. Notburga, servant girl, miracle worker, 9/14
 
+Feldkirch, Vorarlberg state
+
+- Kirche Mariä Opferung/Church of the Immolation of the Virgin Mary/Kapuzinerkirche/Capuchin church (Bahnhofstraße 4)
+
+  - St. Fidelis of Sigmaringen, OFM Cap, martyr, 4/24
+
 Garsten, Steyr-Land district, Oberösterreich
 
 - Kath. Pfarrkirche Mariä Himmelfahrt/Catholic parish church of St. Mary
@@ -346,29 +352,23 @@ Traunkirchen, Gmunden district, Oberösterreich/Upper Austria state
 
   - Bl. Gertrud of Traunkirchen, OSB, abbess, 1/6 (her grave is likely lost)
 
-Vienna
+Vienna/Wien
 
 - Stephansdom/St. Stephen Cathedral (Stephansplatz 3)
 
   - Ss. Felix and Adauctus of Rome, martyrs, 8/30
 
-Emperor Frederick III (not a saint)
+  - Emperor Frederick III (not a saint)
 
-Maria Pötsch icon
+  - Maria Pötsch icon
 
-- Chapel of St. Valentine (hundreds of relics)
+  - Chapel of St. Valentine (hundreds of relics)
 
 - Barmherzigenkirche/Kirche der Barmherzigen Brüder/Church of the Brothers
   of Mercy (Taborstraße 14)
 
   - Bl. Gabriel von Ferrara/Gabriele (nee Camillo) of Ferrara, OH,
     religious/surgeon, 1/15
-
-- Kloster St. Elisabeth/Elisabethenkirche/Convent of St. Elizabeth
-  (Landstraßer Hauptstraße 4a)
-
-  - Queen St. Elizabeth of Hungary, 11/17 (skull, some relics, and her
-    crown)
 
 - Franziskanerkirche/Franciscan Church in Vienna\'s 1^st^ district
   (Franziskanerpl. 4)
@@ -377,18 +377,25 @@ Maria Pötsch icon
 
   - Servant of God Otto (Petrus) Pavlicek, OFM, priest, d. 12/14/1982
 
-Hofburg Schatzkammer/Hofburg Imperial Treasure House (Schweizerhof,
-Hofburg)
+- Hofburg Schatzkammer/Hofburg Imperial Treasure House (Schweizerhof, Hofburg)
 
-Lance of St. Longinus
+  - Lance of St. Longinus
 
 - Kapuzinerkirche/Capuchin Church (Tegetthoffstraße 2)
 
-  - Bl. Marco d'Aviano/Mark of Aviano (née Carlo Domenico Cristofori), OFM
-    Cap, 8/13
+  - Bl. Marco d’Aviano/Mark of Aviano (née Carlo Domenico Cristofori), OFM Cap, 8/13
 
-  - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the
-    crypt)
+  - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the crypt)
+
+- Karmelitinnenkloster Wien (13th district [Hietzing])
+
+  - Kapelle Kloster St. Josef/Chapel of St. Joseph (Hanschweg 1)
+
+    - Ss. Beinius, Fabius, Emanuel and Fermus, martyrs, 5/21
+
+- Kloster St. Elisabeth/Elisabethenkirche/Convent of St. Elizabeth (Landstraßer Hauptstraße 4a)
+
+  - Queen St. Elizabeth of Hungary, 11/17 (skull, some relics, and her crown)
 
 - St. Maria am Gestade (Salvatorgasse 12)
 
@@ -410,8 +417,7 @@ Lance of St. Longinus
 
   - Bl. Anton Maria Schwartz, founder, 9/15 (in front of the high altar)
 
-- Wiener Zentralfriedhofs/Vienna Central Cemetery (Simmeringer Hauptstraße
-  234)
+- Wiener Zentralfriedhofs/Vienna Central Cemetery (Simmeringer Hauptstraße 234)
 
   - Servant of God Leopold Figl, politician, d. 5/9/1965
 
@@ -420,12 +426,6 @@ Lance of St. Longinus
     in it)
 
 - ???
-
-Weltkirchen, Feldkirch, Vorarlberg state
-
-- Capuchin church
-
-  - St. Fidelis of Sigmaringen, OFM Cap, martyr, 4/24
 
 Wenigzell, Hartberg-Fürstenfeld district, Styria state
 
