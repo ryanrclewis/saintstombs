@@ -435,7 +435,7 @@ Viseu, Viseu Dão Lafões intermunicipal community, Centro region
 
 - Instituto de Jesus, Maria e José/Institute of Jesus, Mary and Joseph
 
-  - Bl. Rita Amada de Jesus (Rita López de Almeida), JMS, religious/foundress, 1/6 (she is buried in the chapel)
+  - Bl. Rita Amada de Jesus (née Rita López de Almeida), JMJ, religious/foundress, 1/6 (she is buried in the chapel)
 
 Vouzela, Viseu district, Viseu Dão Lafões intermunicipal community, Centro region
 
