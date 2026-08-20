@@ -18,7 +18,7 @@ Apóstoles, Province of Misiones
 
   - Servant of God Софронія/Sofronia/ (née Серафіна/Serafina) Ерделі/Erdely, OSBM, religious, d. 10/14/1961
 
-Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal,
+Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal
 
 - El templo de Jesús Sacramentado or Santuario Jesús Sacramentado
 
@@ -48,9 +48,13 @@ Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal,
 
   - Nuestra Señora Desatadora de Nudos/Our Lady, Undoer of Knots, 9/28
 
-- Cementerio de Chacarita, Panteón Social de la Federación de Círculos Católicos de Obreros
+- Cementerio de Chacarita, Panteón Social de la Federación de Círculos Católicos de Obreros (Av. Guzmán 680, C1427)
 
   - Servant of God Federico (Friedrich) Grote, C.Ss.R., priest, 4/30/1940
+
+    - Ven. Maria Eufrasia (née Maria Giuseppa Amalia Sofia) Iaconis, FIC, foundress, d. 8/2/1916
+  
+    - Servant of God María de Lujan (née Serapia) Sierra, HNSL, foundress, d. 7/18/1916
 
 - Cementerio de la Recoleta, Recoleta, Comuna 2 (Junín 1760)
 
@@ -222,9 +226,9 @@ Muñiz, San Miguel Partido of Buenos Aires Province
 
 - Capilla de Casa Madre de Hermanas Pobres Bonaerenses de San José
 
-  - Ven. Camila Rolón, foundress, d. 2/16/1913
+  - Ven. Camila de San José (née Camila) Rolón, HPB, foundress, d. 2/16/1913
 
-O'Higgins, Province of Buenos Aires
+O’Higgins, Province of Buenos Aires
 
 - Cementerio de Mariápolis Lía
 
@@ -592,13 +596,13 @@ Fortaleza, Ceará state, Northeast region
 
   - Ven. Antônio de Almeida Lustosa, SDB, archbishop, d. 8/14/1974
 
-Capela da primeira casa do Instituto Josefino, chamada Casa Mãe/Chapel of the first house of her Institute, Casa Mãe (Rua J. da Penha, 55???; there are several places with the words "Casa Mãe" in them in this large city)
+- Capela da primeira casa do Instituto Josefino, chamada Casa Mãe/Chapel of the first house of her Institute, Casa Mãe (Rua J. da Penha, 55???; there are several places with the words "Casa Mãe" in them in this large city)
 
   - Servant of God Rosita Paiva, religious/cofoundress, d. 8/19/1991
 
 - ???
 
-  - Ven. Giovanni Pietro da Sesto San Giovanni (née Clemente Recalcati), OFM Cap, priest, d. 12/5/1913
+  - Ven. Jôao Pedro/Giampietro da Sesto San Giovanni (née Clemente) Recalcati, OFM Cap., priest/founder, d. 12/5/1913
 
 Frutal, Triângulo Mineiro region, Minas Gerais state, Southeast region
 
@@ -2804,6 +2808,12 @@ Chachapoyas, Chachapoyas district, Chachapoyas Province, Amazonas region
 - Catedral de San Juan Bautista/Cathedral of St. John the Baptist
 
   - Ven. Octavio Ortiz Arrieta, SDB, bishop, d. 3/1/1958
+
+Chiclayo, Lambayeque region, Chiclayo Province
+
+- Parroquia San Juan María Vianney (64JQ+2RR, Juan Tomis Stack)
+
+  - Servant of God Juan Tomis Stack, missionary priest, d. 6/29/1986
 
 Chincha Alta, Province of Chincha, Ica region
 
