@@ -12332,7 +12332,7 @@ Santa Maria Capua Vetere, Province of Caserta, Campania region
 
 Sant’Olcese, Metropolitan City of Genova, Liguria region
 
-- Chiesa parrocchiale di Sant'Olcese/Parish church (Piazza Don Oxilia, 2)
+- Chiesa parrocchiale di Sant’Olcese/Parish church (Piazza Don Oxilia, 2)
 
   - St. Olcese/Ursicino, bishop, 1/22
 
@@ -12368,13 +12368,13 @@ Santuzzi/Carlentini Nord, Carlentini comune, Siracusa libero consorzio comunale,
 
 Sanza, Salerno, Campania
 
-- San Francesco d'Assisi
+- San Francesco d’Assisi
 
-  - Servant of God Angelo da Maiori (Gaetano Riccio), Franciscan, 11/12/1738
+  - Servant of God Angelo da Maiori (née Gaetano Riccio), OFM, 11/12/1738
 
 Sanzeno, Province of Trentino, Trentino-Alto Adige/Südtirol
 
-- Basilica dei Ss. Martiri dell'Anaunia
+- Basilica dei Ss. Martiri dell’Anaunia
 
   - Ss. Sisinnius, Martyrius, and Alexander, martyrs (relics only)
 
@@ -12390,11 +12390,11 @@ Sarsina, Province of Forlì-Cesena, Emilia-Romagna region
 
 Saronno, Province of Varese, Lombardia Region
 
-- Casa Madre della Congregazione dei Figli dell'Immacolata Concezione (aka, Istituto Padre Monti) (Via Legnani, 4)
+- Casa Madre della Congregazione dei Figli dell’Immacolata Concezione (aka, Istituto Padre Monti) (Via Legnani, 4)
 
   - St. Felix, martyr (as near as I can tell, his remains are here)
 
-  - Bl. Luigi Maria Monti, 10/1 (in the motherhouse's Santuario dell'Immacolata Concezione/Sanctuary of the Immaculate Conception)
+  - Bl. Luigi Maria Monti, 10/1 (in the motherhouse’s Santuario dell’Immacolata Concezione/Sanctuary of the Immaculate Conception)
 
 - Cimitero di Saronno/Cemetery of Saronno
 
@@ -12418,8 +12418,7 @@ Sassari, Province of Sassari, Sardinia
 
 - Chiesa del Santissimo Sacramento/Church of the Most Blessed Sacrament (Via Giacomo Matteotti)
 
-  - Servant of God Giovanni Battista Manzella, CM, priest/founder, d.
-    10/23/1937
+  - Servant of God Giovanni Battista Manzella, CM, priest/founder, d. 10/23/1937
 
 - Casa Generalizia delle Figlie di Mater Purissima/General House of the Daughters of Mater Purisima (Via Angelo Roth, 12)
 
@@ -12435,7 +12434,7 @@ Sassello, Province of Savona, Liguria region
 
   - Bl. Chiara Badano, laywoman, 10/7 or 10/29
 
-Sassoferrato, Province of Ancona, Le Marche region
+Sassoferrato, Province of Ancona, Marche region
 
 - Santa Maria delle Moje
 
@@ -12482,12 +12481,6 @@ Savona, Zinola neighborhood, Province of Savona, Liguria region
 - Cimitero Monumentale di Zinola
 
   - Servant of God Vera Grita, laywoman/mystic, d. 12/22/1969
-
-Scalze di Vienna
-
-- Chiesa di San Giuseppe
-
-  - Ss. Beinius, Fabius, Emanuel and Fermus, martyrs, 5/21
 
 Scanno, Province of L'Aquila, Abruzzo Region
 
