@@ -316,6 +316,8 @@ Chestnut Hill, Middlesex, Norfolk, and Suffolk Counties, Massachusetts
 
 Chicago, Illinois
 
+- Holy Trinity Polish Mission (1118 N. Noble Street)
+  - Bl. Karolina Kózka/Karolina Kózkówna/Karoliny Kózkówny, martyr for chastity, 11/18 (relic only)
 - Our Lady of Guadalupe Church
   - Shrine of St. Jude (relics only) (3200 E. 91st St.)
 - Our Lady of Sorrows Basilica (3121 W. Jackson Blvd.)
@@ -459,13 +461,20 @@ Dallas, Texas
 Darien, DuPage County, Illinois
 
 - Carmelite Spirit Center (Cass Avenue at I-55)
+
   - National Shrine of the Little Flower
+
   - St. Thérèse of Lisieux Shrine Chapel
+
+- Nativity of Our Lady Mission Church (1000 North Way)
+
+  - Shrine of the Georgia Martyrs
 
 Daytona Beach, Volusia County, Florida
 
 - St. Paul Church
-  - St. Teresa of Avila, religious/foundress, 10/15 (relics only)
+
+  - St. Teresa of Avila, religious/foundress, 10/15 (relic only)
 
 De Pere, Brown County, Wisconsin
 
@@ -480,13 +489,28 @@ Denver, Colorado
 Detroit, Michigan
 
 - Assumption Grotto Church (13770 Gratiot Avenue)
+
   - St. Augustin Schoeffler, MEP, priest/martyr, 5/1 (relic only)
+
   - Many miraculous cures have happened here.
+
 - Basilica de St. Anne de Detroit Church (1000 St. Anne Street; second-oldest continuously operating Catholic parish in the United States)
+
   - Fr. Gabriel Richard, PSS, missionary priest, d. 9/13/1832 (_non-causa_, investigation open toward opening his cause)
+
 - St. Bonaventure Friary (1740 Mt. Elliott St.)
+
   - Bl. Solanus Casey, OFM Cap, 7/30
+
 - St. Joseph Shrine (1828 Jay Street)
+
+- Old St. Mary’s (646 Monroe Street)
+
+  - Lourdes Grotto
+
+  - Agony in the Garden Grotto/Gethsemane Grotto
+
+  - Baptismal Grotto
 
 Dickeyville, Grant County, Wisconsin
 
@@ -1079,12 +1103,22 @@ Merrillville, Ross Township, Lake County, Indiana
 Miami, Miami-Dade County, Florida
 
 - Ermita de la Caridad
+
   - Our Lady of Charity Shrine (3609 S. Miami Ave.)
+
 - Our Lady of Mercy Cemetery
+
   - Servant of God John Joseph McKniff, OSA, missionary, d. 3/24/1994
+
 - Tolomato Cemetery
 
   - Varella Chapel (former tomb of Ven. Félix Varela, priest/missionary, d. 2/18/1853)
+
+Michigan City, LaPorte County, Indiana (about 60 miles east of Chicago)
+
+- St. Stanislaus Kostka Church (1506 Washington Street)
+
+  - A huge collection of relics
 
 Middletown, New York
 
@@ -1396,6 +1430,15 @@ Philadelphia, Pennsylvania
   - Holy Martyrs of Treves (i.e., Trier), 10/6 (lower church in a side altar shrine)
 - Holy Name of Jesus Church (701 E. Gaul St.)
   - Bl. Margaret of Castello Shrine
+- Our Lady of Lourdes Church (6301 Woodbine Avenue)
+  - St. Anne, mother of the Blessed Virgin, 7/26 (relic only)
+  - St. Bernadette Soubirous, 4/16 (relic only)
+  - Bl. Francis Xavier Seelos, 10/5 (relic only)
+  - St. Giovanni Bosco, priest/founder, 1/31 (relic only)
+  - St. Jean Marie Vianney, priest, 8/4 (relic only)
+  - St. John Neuman, bishop, 1/5 (relic only)
+  - St. Peter Armengol, O de M, 4/27 (relic only)
+  - St. Peter Paschal/Paschasius, O de M, bishop/martyr, 12/6 (relic only)
 - St. Dominic Church (8504 Frankford Ave.)
   - Many relics
 - St. John the Evangelist Church (21 S. 13th Street)
