@@ -1678,7 +1678,7 @@ Quito
 
 Metropolitan Cathedral
 
-  - President Gabriel Garcia Moren, martyr, 8/6/1875 (non-causa, but considered by many to be a martyr; his last words were "God does not die.")
+  - Servant of God Gabriel García Moreno, President/martyr, d. 8/6/1875 (his last words were “God does not die.”)
 
   - Servant of God José Ignacio Checa y Barba, archbishop/martyr, d. 3/30/1877
 
