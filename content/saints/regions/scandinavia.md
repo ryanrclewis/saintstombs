@@ -143,6 +143,12 @@ Skálholt, southern Iceland
 
 # Norway
 
+Mesnali, Ringsaker Municipality, Innlandet County, Eastern Norway region
+
+- Mesnali kirkegård/Mesnali Churchyard (Nordmessenvegen 10)
+
+  - Servant of God Sigrid Undset, convert/author, d. 6/10/1949
+
 Middelalderparken, Sørenga, Oslo
 
 - The ruins of Mariakirken (St. Mary\'s church)
