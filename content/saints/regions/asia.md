@@ -1146,7 +1146,7 @@ Orur, Tiruvadanai taluk, Ramanathapuram district, Tamil Nadu state
 
 Panjampatti, Dindigul, Tamil Nādu state
 
-- Congregation of the Immaculate Conception
+- Congregation of the Immaculate Conception (I.C. Convent, N)
 
   - Servant of God Augustine Pereira, priest/founder, d. 10/21/1911 ("in
     1986 during the Platinum jubilee of the congregation, the mortal remains
@@ -1157,11 +1157,9 @@ Pala, Kottayam district, Kerala state
 
 - Provincial House Chapel of the Sacred Heart Sisters (Ph: 0482 2212225)
 
-  - Ven. Mathew Kadalikattil (Kadalikkattil Mathai Kathanar),
-    priest/founder, d. 5/23/1985
+  - Ven. Mathew Kadalikattil (Kadalikkattil Mathai Kathanar), priest/founder, d. 5/23/1985
 
-Palayamkottai neighborhood, Tirunelveli City, Pandya Nadu region, Tamil
-Nadu state
+Palayamkottai neighborhood, Tirunelveli City, Pandya Nadu region, Tamil Nadu state
 
 - ???
 
@@ -3346,6 +3344,12 @@ Kfifan, Batrūn, Ash Shamāl
 Maghdouché, Sidon District, South Governorate
 
 - Shrine of Our Lady of Mantara/Our Lady of Awaiting, 6/11
+
+Qaa/القاع, Bekaa/Beqaa Valley, Baalbek-Hermel Governorate
+
+- Jabal al-Salib/Mount of the Cross/جبل الصليب
+
+  - Monumental statue of Christ
 
 Qannoubine (قنوبين), North
 
