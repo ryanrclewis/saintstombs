@@ -650,11 +650,33 @@ No idea where or whether they exist.
 
 # Eritrea
 
+Ham, Province of Akkälä Guzay, Debub region
+
+- ደብረ ሊባኖስ ካልኣይ ቁዱስ ቦታ ብድሕሪ ደብረ ሲና/Debre Libanos of Ham
+
+  - St. Abunä Libanos (also called Mäṭṭaˁ/Matewos/Meta, sometimes rendered Yəsrin), 1/11
+
 Hebo, Segheneyti
 
 - መቕደስ ቅዱስ ጀስቲን ደ ያቆቢስ/The Sanctuary of St. Justin de Jacobis
 
   - St. Giustino Sebastiano Pasquale de Jacobis, CM, bishop, 7/31
+
+Keren, Anseba Region
+
+- ማዶና ናይ ባኦባብ/Mariam Dearit Shrine/Madonna of the Baobab/Madonna del baobab (QFV9+Q9)
+
+  - The major festival is May 29.
+
+- ደብረ ሲና/Debre Sina Orthodox Monastery/Mount Sinai Monastery
+
+  - Site of first Divine Liturgy in Eritrea
+
+Senafe, Debub region in the south
+
+- ገዳም ባሬክናሃ/Bareknaha Monastery (about 7 to 8 kilometers off the road from Senafe to Serha)
+
+  - The Tsadqanat (or Tsad Qanat), mummified remains of the earliest Christian missionaries from over 1,500 years ago.
 
 # Ethiopia
 
