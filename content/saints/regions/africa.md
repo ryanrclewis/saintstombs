@@ -682,20 +682,25 @@ Senafe, Debub region in the south
 
 Aksum/Axum/ኣኽሱም, Central Zone, Tigray region (far north of the country)
 
-- ደብረ ዳሞ/Debre Damo
+- ደብረ ዳሞ/Däbrä Dammo/Debre Damo (accessible only by rope up a sheer cliff 15 m [49 ft] high; only men can visit the monastery)(14.372386°N 39.288818°E)
+
+  - St. Abba Za-Mika’el/Abuna Aragawi, monk, one of the Nine Saints of Ethiopia, 10/25 (Orthodox saint)(Legend says he was assumed into heaven like Elijah or Enoch)
 
   - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at Abba Pantelewon Monastery)
 
-- ገዳም ኣባ ፓንተለዎን/Monastery of Abba Pantelewon
+- Abba Liqanos Monastery/Church (northeast of Aksum, about a 30 minute walk, roughly 2–3 km)(approximately around 14.13–14.14°N, 38.75–38.76°E)(4PRM+369)(Pentalewon Monastery is southeast from here)
 
-  - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at
-    Debre Damo)
+  - St. ኣባ ሊቃኖስ/Abba Liqanos, monk, one of the Nine Saints of Ethiopia, 12/7 (Orthodox saint) 
 
-  - St. Pantelewon, abbot,
+- ገዳም ኣባ ፓንተለዎን/Monastery of Abba Pantelewon (Mai Qoho Hill)(4PMV+J93)
+
+  - St. አባ ጰንጠሌዎን/Abba Pantalewon, monastery founder, one of the Nine Saints of Ethiopia, 10/2 (Orthodox saint)
+
+  - St. Kaleb/Elesbaan of Ethiopia/ንጉስ ቅዱስ ካሌብ, king/monk, 10/27 (Or at     Debre Damo)
 
 - ማርያም ጽዮን ቤተ ክርስቲያን/Maryam Sion church
 
-  - The Ten Commandments (according to the Ethiopians, and it's not open for viewing)
+  - The Ten Commandments (according to the Ethiopians; it’s not open for viewing)
 
 Endibir/እምድብር, Gurage zone, Southern Nations, Nationalities and Peoples' region
 
@@ -721,6 +726,32 @@ Gondar
 
   - St. Ada of Ethiopia, martyr, 6/2
 
+Madara, desert of Bäräka, highlands of the Tigray Region, northern part of the country
+
+- Abba Guba Monastery (may no longer exist)
+
+  - Abba Guba, monk, monk, one of the Nine Saints of Ethiopia, 6/5 (Orthodox saint) (exact burial site unknown)
+
+Yeha, Tigray, Ethiopia
+
+- Church of Abba Afse (14°17′10″N, 39°1′8″E)
+
+  - Abba Afse/Abba Aftse, monk, one of the Nine Saints of Ethiopia, 6/5  (Orthodox saint)
+
+Yeha/ይሐ, Ahseya area (14.351° N, 38.967° E), Central Zone, Tigray region
+
+- Bi’isa/Beheza (It’s near Yeha, it’s not in Yeha)(positioned on the south bank of the Mareb River)
+
+  - St. Abba Alef, monk, one of the Nine Saints of Ethiopia, 3/20  (Orthodox saint)
+
+??? 
+
+- (No source gives a detailed account of his death, tomb, relics, or a continuously attested major pilgrimage center dedicated to him. All that is known is that a monastery named for him is said to exist on a small mountain named Dimbela, near Adwa)
+
+  - St. Abba Sehma/Abba Tsahma/Sähma, monk, one of the Nine Saints of Ethiopia, 1/24 (Orthodox saint)
+
+
+???
 Alfredo de Lai (Ethiopia)
 Andeberhan Ghebreamlak (Ethiopia)
 Camillo Scarpa (Ethiopia)
@@ -1010,7 +1041,7 @@ Mariannhill, Pinetown, Province of KwaZulu-Natal
 
 - Mariannhill Abbey Cemetery (1 Abbot Francis Road)
 
-  - Servant of God Franz Pfanner, OCSO/CMM, abbot, 5/24/1909
+  - Servant of God Franz (née Wendelin) Pfanner, OCSO/CMM, abbot, d. 5/24/1909
 
 Nweli, Limpopo Province
 
