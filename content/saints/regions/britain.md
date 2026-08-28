@@ -144,6 +144,12 @@ Beverley, East Riding of Yorkshire
 
   - St. John of Beverly, bishop, 5/7 & 10/12
 
+Binsey, Oxfordshire
+
+- Church of St. Margaret of Antioch (Binsey Lane)
+
+  - St. Frideswide’s Well
+
 Birmingham
 
 - Cathedral of St. Chad
