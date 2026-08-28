@@ -724,13 +724,11 @@ Torturing rack of St. Jan Sarkander
 
 - ???
 
-  - Ss. Benedict, John, Matthew, Isaac, and Christian, protomartyrs of
-    Poland, 11/12
+  - Ss. Benedict, John, Matthew, Isaac, and Christian, protomartyrs of Poland, 11/12
 
 Ostrožská Lhota, Uherské Hradiště district, Zlín region
 
-- hřbitov Ludgeřovice/Ludgeřovice cemetery (Opava District,
-  Moravian-Silesian region)
+- hřbitov Ludgeřovice/Ludgeřovice cemetery (Opava District, Moravian-Silesian region)
 
   - Servant of God Antonín Šuránek, priest, d. 11/3/1982 (several sources
     say he was buried in his birthplace of Ostrožská Lhota, but one source
@@ -1909,7 +1907,7 @@ Ohrid, Ohrid Municipality, Southwestern region
 
 Auschwitz/Oświęcim
 
-Place of death only
+- Place of death only
 
   - Bl. Adalbert (née Anicet) Koplinski, OFM Cap., priest/martyr, 10/16
 
@@ -1963,16 +1961,13 @@ Place of death only
 
   - St. Maximilian Kolbe, priest/martyr,
 
-Bagno, Oborniki Śląskie Gmina, Trzebnica County, Lower Silesian
-voivodeship
+Bagno, Oborniki Śląskie Gmina, Trzebnica County, Lower Silesian voivodeship
 
 - Cmentarz Bagno/Cemetery of Bagno
 
-  - Servant of God Czesław Chryzostom (née Józef Małysiak), SDS,
-    priest/founder, d. 11/10/1966 (tomb of the Salvatorians)
+  - Servant of God Czesław Chryzostom (née Józef Małysiak), SDS, priest/founder, d. 11/10/1966 (tomb of the Salvatorians)
 
-Biała, Gmina Tarnów admin. district, Tarnów County, Lesser Poland
-Voivodeship
+Biała, Gmina Tarnów admin. district, Tarnów County, Lesser Poland Voivodeship
 
 - Basilian monastery
 
@@ -1988,8 +1983,7 @@ Białystok (Bialystok), Podlaskie voivodeship
 
 Bielsk Podlaski, Bielsk County, Podlaskie Voivodeship
 
-- Bazylika Narodzenia Najświętszej Maryi Panny i św. Mikołaja/Basilica of
-  the Nativity of the Blessed Virgin Mary and St. Nicholas
+- Bazylika Narodzenia Najświętszej Maryi Panny i św. Mikołaja/Basilica of the Nativity of the Blessed Virgin Mary and St. Nicholas
 
   - Bl. Antoni Beszta-Borowski, priest/martyr, 7/15 & 6/12
 
@@ -2018,8 +2012,7 @@ Cmentarz Klasztorny w Braniewie
 
   - Servant of God Maria Generosa (nee Maria) Bolz, religious, d. 5/9/1945
 
-Brzezie (German: Hohenbirken) village, dzielnica (district) of Racibórz,
-Silesian Voivodeship
+Brzezie (German: Hohenbirken) village, dzielnica (district) of Racibórz, Silesian Voivodeship
 
 kościele Św. Apostołów Mateusza i Macieja
 
@@ -2059,8 +2052,7 @@ Cmentarzu parafialnym
 
   - Ven. Janina Woynarowska, nurse, d. 11/24/1979
 
-Czerna village, Gmina Krzeszowice, Kraków County, Małopolskie/Lesser
-Poland Voivodeship
+Czerna village, Gmina Krzeszowice, Kraków County, Małopolskie/Lesser Poland Voivodeship
 
 - Czerna Convent, Chapel of Saint John of the Cross
 
@@ -2068,29 +2060,26 @@ Poland Voivodeship
 
 - Klasztorze Karmelitów w Czernej/Czerna Convent graveyard
 
-  - Bl. Alfons Maria Mazurek od Ducha Świętego/Alfons Maria Mazurek of the
-    Holy Spirit, O. Carm., priest/martyr, 8/28
+  - Bl. Alfons Maria Mazurek od Ducha Świętego/Alfons Maria Mazurek of the Holy Spirit, O. Carm., priest/martyr, 8/28
 
-Częstochowa, Silesian voivodeship, southern Poland
+Czestochowa, Silesian voivodeship, southern Poland
 
 - Jasna Góra Monastery
 
-Our Lady of Częstochowa, 8/26
+  - Our Lady of Częstochowa, 8/26
 
 - Kościoła Podwyższenia Krzyża Świętego/Church of the Exaltation of the
   Holy Cross
 
-  - Ven. Maria Róża od Niepokalanego Poczęcia NMP (nee Aniela Róża) Godecka,
-    SCM, cofoundress, d. 10/13/1937
+  - Ven. Maria Róża od Niepokalanego Poczęcia NMP (nee Aniela Róża) Godecka, SCM, cofoundress, d. 10/13/1937
 
 Cmentarz św. Rocha w Częstochowie
 
-  - Servant of God Feliks (Franciszek Marian) Taranek, FSC, priest, d.
-    12/15/1982
+  - Servant of God Feliks (Franciszek Marian) Taranek, FSC, priest, d. 12/15/1982
 
 Działdowo, Działdowo county, Warmian-Masurian voivodeship
 
-Soldau Concentration Camp
+- Soldau Concentration Camp
 
   - Bl. Leon Wetmański, bishop/martyr, 10/10
 
@@ -2107,10 +2096,9 @@ Dzikowiec, Kolbuszowski Powiat, Województwo voivodeship
 
   - Servant of God Stanisław Sudoł, priest, d. 3/19/1981
 
-Elbląg (German: Elbing), Elbląg county, Warmian-Masurian voivodeship,
-Żuławy region
+Elbląg (German: Elbing), Elbląg county, Warmian-Masurian voivodeship, Żuławy region
 
-Cmentarz Komunalny w Elblągu - Dębica
+- Cmentarz Komunalny w Elblągu - Dębica
 
   - Servant of God Aleksandra Gabrysiak, laywoman, d. 2/6/1993
 
@@ -2118,14 +2106,13 @@ Gdansk
 
 - Cmentarzu na Zaspie/Zaspa Cemetery
 
-- Bl. Bronisław Komorowski, priest/martyr, 3/22 (mass grave)
+  - Bl. Bronisław Komorowski, priest/martyr, 3/22 (mass grave)
 
-- Bl. Marian Górecki, priest/martyr, 3/22 (mass grave)
+  - Bl. Marian Górecki, priest/martyr, 3/22 (mass grave)
 
 - Cmentarz św. Jadwigi w Nowym Porcie/Parish cemetery in Gdańsk-Nowy Port
 
-  - Servant of God Urszula (Judyta od Miłości Bożej) Napierska, FMI,
-    religious, d. 11/3/2001
+  - Servant of God Urszula (Judyta od Miłości Bożej) Napierska, FMI, religious, d. 11/3/2001
 
 - ???
 
@@ -2141,9 +2128,9 @@ Gdeszyn, Gmina Miączyn, Zamość County, Lublin Voivodeship
 
 Gietrzwałd, Olsztyn County/Powiat, Warmian-Masurian Voivodeship
 
-Sanktuarium Matki Bożej Gietrzwałdzkiej
+- Sanktuarium Matki Bożej Gietrzwałdzkiej
 
-Mother of God of Gietrzwałd, 6/27
+  - Mother of God of Gietrzwałd, 6/27
 
 Gniezno, Gniezno County, Greater Poland voivodeship
 
@@ -2153,14 +2140,13 @@ Gniezno, Gniezno County, Greater Poland voivodeship
 
 Godziesze Wielkie, Kalisz County, Greater Poland voivodeship
 
-Cmentarz parafialny w Godzieszach
+- Cmentarz parafialny w Godzieszach
 
   - Bl. Franciszek Stryjas, layman/martyr, 7/31
 
-Godzieszów, Gmina Nowogrodziec, Bolesławiec County, Lower Silesian
-Voivodeship
+Godzieszów, Gmina Nowogrodziec, Bolesławiec County, Lower Silesian Voivodeship
 
-A bomb crater
+- A bomb crater
 
   - Bl. Klara (Maria Adela) Schramm, CSSE, martyr for chastity, 2/25
 
@@ -2173,27 +2159,23 @@ Góra Kalwaria, Piaseczno County, Masovian voivodeship
 
 Gorka Duchowna
 
-Sanctuary of Our Lady of Consolation (Sanktuarium Matki Bożej
-Pocieszenia)
+- Sanctuary of Our Lady of Consolation (Sanktuarium Matki Bożej Pocieszenia)
 
   - Bl. Edmund Bojanowski, layman, founder, 8/7 (relics only)
 
 Gorzów Wielkopolski, Lubusz Voivodeship
 
-- Katedra Wniebowzięcia Najświętszej Maryi Panny/Cathedral of the
-  Assumption of the Blessed Virgin Mary
+- Katedra Wniebowzięcia Najświętszej Maryi Panny/Cathedral of the Assumption of the Blessed Virgin Mary
 
   - Servant of God Wilhelm Pluta, bishop, 1/22/1986
 
-Gręboszów, Gręboszów Gmina, Dąbrowa county, Lesser Poland voivodeship
-(southern Poland)
+Gręboszów, Gręboszów Gmina, Dąbrowa county, Lesser Poland voivodeship (southern Poland)
 
 - Cmentarz rzym.-kat. z okoł/Roman Catholic parish cemetery
 
   - Servant of God Stefania Łącka, laywoman, d. 11/7/1946
 
-Iława (German: Eylau), Iława County, Warmian-Masurian Voivodeship
-[or]{.underline}** Lidzbark Warmiński (German: Heilsberg), Lidzbark
+Iława (German: Eylau), Iława County, Warmian-Masurian Voivodeship [or]{.underline}** Lidzbark Warmiński (German: Heilsberg), Lidzbark
 County, Warmian-Masurian Voivodeship
 
 - ???
@@ -2204,11 +2186,9 @@ County, Warmian-Masurian Voivodeship
 
   - Bl. Maria Sabinella (Rosalia) Angrick, CSC, martyr, d. 2/2/1945
 
-Jablonné v Podještědí, Liberec district, Liberec region (middle far
-north of the country)
+Jablonné v Podještědí, Liberec district, Liberec region (middle far north of the country)
 
-- Bazilika svatého Vavřince a svaté Zdislavy/Basilica of St. Lawrence and
-  Saint Zdislava
+- Bazilika svatého Vavřince a svaté Zdislavy/Basilica of St. Lawrence and St. Zdislava
 
   - St. Zdislava Berka of Lemberk, TOSD, laywoman, 1/1
 
@@ -2218,22 +2198,18 @@ Jarosław, Yaroslavl County, Subcarpathia voivodeship
 
   - Servant of God Anna Jenke, teacher, d. 2/15/1976
 
-Jędrzejów/Jedrzejow, Jędrzejowski oblast/county, Świętokrzyskie
-Voivodeship
+Jędrzejów/Jedrzejow, Jędrzejowski oblast/county, Świętokrzyskie Voivodeship
 
 - Cistercian abbey church
 
-  - Bl. Wincenty Kadłubek/Vincent Kadlubek, bishop, monk, 3/8 (under the
-    high altar)
+  - Bl. Wincenty Kadłubek/Vincent Kadlubek, bishop, monk, 3/8 (under the high altar)
 
 Jabłonowo Pomorskie, Brodnica Powiat, Kuyavian-Pomeranian Voivodeship
 
-Kaplica domu generalnego Zgromadzenia Sióstr Pasterek od Opatrzności
-Boże (Chapel of the General Assembly of the Sisters of the Sisters of
+- Kaplica domu generalnego Zgromadzenia Sióstr Pasterek od Opatrzności Boże (Chapel of the General Assembly of the Sisters of the Sisters of
 Divine Providence)
 
-  - Bl. Maria od Jezusa Ukrzyżowanego (nee Maria) Karłowska, CSDP,
-    religious/foundress, 3/24
+  - Bl. Maria od Jezusa Ukrzyżowanego (nee Maria) Karłowska, CSDP,     religious/foundress, 3/24
 
 Kalisz, Greater Poland voivodeship
 
@@ -2251,38 +2227,37 @@ Kalisz, Greater Poland voivodeship
 
   - St. Padre Pio (relic only)
 
-  - Keeper of the log of all the miracles attributed to St. Joseph's
-intercession
+  - Keeper of the log of all the miracles attributed to St. Joseph's intercession
 
 - Miraculous painting of St. Joseph
 
 Kalwaria Pacławska, Fredropol, Przemyśl
+
 - Bazylika Znalezienia Krzyża Świętego i klasztor Franciszkanów Konwentualnych/Basilica of the Discovery of the Holy Cross (Kalwaria Pacławska 40)
+
   - Obraz Matki Bożej Kalwaryjskiej (Cierpliwie Słuchającej)/The painting of Our Lady of Kalwaria (Listening Patiently)
+
   - Relics of the Holy Cross, St. Faustina Kowalska, St. John Paul II, St. Florian, St. Thecla, St. Francis of Assisi, St. Anthony of Padua, St. Joseph of Cupertino, Bl. Strzemię, St. Josaphat Kuncewicz, Blessed Zbigniew Strzałkowski, Bl. Michał Tomaszek, St. Valentine, St. Stanislaus Kostka
+
   - Ven. Wenanty (née Józef) Katarzyniec, OFM Conv., priest, d. 3/31/1921
 
-Kalwaria Zebrzydowska, Gmina Kalwaria Zebrzydowska, Wadowice County,
-Lesser Poland Voivodeship
+Kalwaria Zebrzydowska, Gmina Kalwaria Zebrzydowska, Wadowice County, Lesser Poland Voivodeship
 
 - Shrine of Kalwaria Zebrzydowska
 
-Our Lady of Calvary, 7/1
+  - Our Lady of Calvary, 7/1
 
 Katowice, Silesian voivodeship
 
 - ???
 
-  - Bl. Jan Franciszek Macha, priest/martyr, 12/3 (his remains have never
-    been found)
+  - Bl. Jan Franciszek Macha, priest/martyr, 12/3 (his remains have never been found)
 
-Kętrzyn (German: Rastenburg), Kętrzyn County, Warmian--Masurian
-Voivodeship
+Kętrzyn (German: Rastenburg), Kętrzyn County, Warmian--Masurian Voivodeship
 
 - ???
 
-  - Bl. Maria Adelgard (nee Agathe Euphemia) Bönigk, CSC, martyr, d.
-    1/27/1945
+  - Bl. Maria Adelgard (nee Agathe Euphemia) Bönigk, CSC, martyr, d. 1/27/1945
 
   - Bl. Maria Sekundina (nee Barbara) Rautenberg, CSC, martyr, d. 1/27/1945
 
@@ -2307,6 +2282,10 @@ Koniemłoty, Staszów County, Świętokrzyskie Voivodeship
 - Cmentarzu parafialnym/Parish cemetery
 
   - Servant of God Roman Kotlarz, priest/martyr, d. 8/18/1976
+
+Konotopie, Gmina Kikół administrative district, Lipno County, Kuyavian-Pomeranian Voivodeship
+
+- Monument Matki Bożej Miłosiernej/Tallest statue of Our Lady in Europe
 
 Kórnik, Poznań Powiat, Greater Poland Voivodeship/wielkopolskie Województwo
 
