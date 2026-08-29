@@ -736,6 +736,11 @@ Assisi, Province of Perugia, Umbria region
 
   - St. Venustian, his wife, and two sons, martyrs
 
+Assisi, Santa Maria degli Angeli *frazione*, Province of Perugia, Umbria region 
+- Casa Madre Motherhouse of the Suore Francescane Missionarie di Gesù Bambino/Franciscan Missionary Sisters of the Child Jesus (Via Suor Maria Giuseppa Micarelli, 6)(43.0593° N 12.5811° E)
+
+  - Servant of God Maria Giuseppa di Gesù Bambino (née Barbara) Micarelli, FMGB, foundress, d. 4/19/1909
+
 Assisi, Viole *frazione*, Province of Perugia, Umbria region
 
 - Chiesa di San Vitale eremita
@@ -1513,13 +1518,17 @@ Bonita, Province of Avellino, Campania region
 
 - Church of Santa Maria Assunta
 
-  - St. Crescentius (Crescenzo), martyr
+  - St. Crescentius/Crescenzo, martyr
 
 Bordighera, Province of Imperia, Liguria region
 
-- Santa Maria Maddalena on Cape Sant'Ampelio
+- Santa Maria Maddalena on Cape Sant’Ampelio
 
   - St. Ampelio, blacksmith/hermit, 5/14
+
+- ???
+
+  - Ven. Giacomo (née Carlo Antonio Serafino) Viale, OFM, priest, d. 4/16/1912
 
 Borgetto, Metropolitan City of Palermo, Sicily
 
@@ -1539,7 +1548,7 @@ Borgo San Lorenzo, Firenze, Toscana region
 
   - Bl. Giovanni da Vespignano, layman, 7/4
 
-Borgo San Pietro, *frazione* of Petrella Salto, Province of Rieti, Lazio region
+Borgo San Pietro, Petrella Salto *frazione*, Province of Rieti, Lazio region
 
 - Chiesa di S. Pietro de Molito/Il Santuario di Santa Filippa
 
@@ -1557,7 +1566,7 @@ Borgo San Sepolcro (aka, Sansepolcro), Province of Arezzo, Toscana region
 
   - Bl. Pietro da Perugia, OFM Conv., religious, 2/5
 
-- Bl. Ranieri Rasini, OFM, religious, 11/1 (in the crypt)
+  - Bl. Ranieri Rasini, OFM, religious, 11/1 (in the crypt)
 
 - Convento S. Maria dei Servi
 
@@ -1609,8 +1618,7 @@ Borgosesia, Aranco frazione, Province of Vercelli, Piemonte region
 
   - St. Victoria (Vittoria), martyr
 
-- La Collegiata dei Santi Pietro e Paolo/Collegiate Church of Ss. Peter &
-  Paul (Piazza Parrocchiale, 12)
+- La Collegiata dei Santi Pietro e Paolo/Collegiate Church of Ss. Peter & Paul (Piazza Parrocchiale, 12)
 
   - St. Paolina, virgin/martyr, 12/31
 
@@ -1622,7 +1630,7 @@ Bosaro, Province of Rovigo, Veneto region
 
 Botticino Sera, Province of Brescia (BS), Lombardy region
 
-- Parish church
+- Parrocchia di Santa Maria Assunta (Piazza IV Novembre, 13)
 
   - St. Arcangelo Tadini, priest, 5/20
 
@@ -1642,7 +1650,7 @@ Boves, Province of Cuneo, Piemonte region
 
 Bovino, Province of Foggia, Apulia region
 
-Concattedrale di Santa Maria Assunta
+- Concattedrale di Santa Maria Assunta
 
   - Bl. Antonio Lucci, OFM, bishop, 7/25
 
@@ -1650,7 +1658,7 @@ Concattedrale di Santa Maria Assunta
 
 Bozzolo, Province of Mantua, Lombardia region
 
-- Chiesa di San Pietro/St. Peter\'s church,
+- Chiesa di San Pietro/St. Peter’s church,
 
   - Servant of God Primo Mazzolari, priest, d. 4/12/1959
 
@@ -1708,8 +1716,7 @@ Brescia, Province of Brescia, Lombardy region
 
   - St. Philastrius (Filastrius, Filastrio), bishop/stigmatist, 7/18
 
-- Duomo Vecchio -- Concattedrale invernale di Santa Maria Assunta (aka, La
-  Rotonda)
+- Duomo Vecchio -- Concattedrale invernale di Santa Maria Assunta (aka, La   Rotonda)
 
   - St. Anastasio di Brescia, bishop, 5/20
 
@@ -1721,7 +1728,7 @@ Brescia, Province of Brescia, Lombardy region
 
   - Three fragments of the True Cross (Chapel of the Holy Cross)
 
-- Sant'Afra in Sant'Eufemia (on Corso Magenta near Piazzale Arnaldo)
+- Sant’fra in Sant'Eufemia (on Corso Magenta near Piazzale Arnaldo)
 
   - St. Afra of Brescia, martyr, 5/4
 
@@ -1730,19 +1737,18 @@ Brescia, Province of Brescia, Lombardy region
   - St. Oliva of Brescia, Roman martyr, 3/5
 
   - St. Paterio/Paterius, bishop, 2/21
-
-- Sant'Agata
+’'Agata
 
   - St. Deusdedit di Brescia, bishop, 12/10 (in the dark room by the high
     altar)
 
   - St. Paulinus/Paolino/Paolo of Brescia, bishop, 3/4
 
-- Sant'Alessandro
+- Sant’Alessandro
 
   - St. Gaudosio/Gaudosius of Brescia, bishop, 3/7
 
-- Santuario di Sant'Angela Merici (via Crispi 19)
+- Santuario di Sant’Angela Merici (via Crispi 19)
 
   - St. Afra, martyr
 
@@ -1758,9 +1764,9 @@ Brescia, Province of Brescia, Lombardy region
 
   - St. Oliva, martyr, 3/5
 
-  - St. Paterius (Paterio), bishop
+  - St. Paterius/Paterio, bishop
 
-- Chiesa del Monastero delle Clarisse Cappuccine/Capuchin Poor Clares   (via Arimanno, 17)
+- Chiesa del Monastero delle Clarisse Cappuccine/Capuchin Poor Clares (via Arimanno, 17)
 
   - Bl. Maria Maddalena Martinengo, religious, 7/27
 
@@ -1770,8 +1776,7 @@ Brescia, Province of Brescia, Lombardy region
 
 - Santi Faustino e Giovita
 
-  - St. Antigio/Antigius, bishop, 11/14 (Altar of the Nativity, 3^rd^ on
-    right)
+  - St. Antigio/Antigius, bishop, 11/14 (Altar of the Nativity, 3^rd^ on right)
 
   - Ss. Faustinus & Jovita, martyrs, (possibly fictitious), 2/15 (relics only, under the high altar and in the Cappella del Crocifisso)
 
@@ -1779,8 +1784,7 @@ Brescia, Province of Brescia, Lombardy region
 
   - Bl. Ramperto, bishop
 
-  - St. Placido, OSB, patron of novice monks, 10/5 (jawbone, Altare di San
-    Benedetto)
+  - St. Placido, OSB, patron of novice monks, 10/5 (jawbone, Altare di San Benedetto)
 
   - Relics of various Benedictine saints (Altare di San Benedetto)
 
@@ -1796,8 +1800,7 @@ Brescia, Province of Brescia, Lombardy region
 
   - Ven. Giacomo Bulgaro, OFM Conv., religious, d. 1/27/1967
 
-- Chiesa di San Giovanni Evangelista (built atop the *Concilium
-  Sanctorum*)
+- Chiesa di San Giovanni Evangelista (built atop the *Concilium Sanctorum*)
 
   - 40 Martyrs of Sebaste (relics only), 3/9
 
@@ -1882,6 +1885,8 @@ Brescia, Province of Brescia, Lombardy region
   - St. Obizio/Obitius, knight/monk, 2/4
 
   - St. Vigilio/Vigilius of Brescia, bishop, 9/26
+
+  - Servant of God Vittoria Razzetti, laywoman, d. 2/22/1912
 
 Brescia, Villaggio Prealpino *frazione*, Province of Brescia, Lombardy (northern outskirts of Brescia; not to be confused with the Prealpino metro stop in Brescia)
 
@@ -2706,15 +2711,9 @@ Sanctuary of Maria Santissima ad Rupes
 
 - ???
 
-  - Servant of God Maria Francesca della Croce (née Amalia Streitel),
-    foundress, d. 3/6/1911 (most likely in the cimitero di Castel
-    Sant\'Elia) (spent many years in the US)
+  - Ven. Maria Francesca della Croce (née Amalia) Streitel, foundress, d. 3/6/1911 (most likely in the Cimitero di Castel Sant\'Elia) (spent many years in the US)
 
-Castel Sant'Elmo
-
-- ???
-
-Castelfiorentino, Metropolitcan City of Florence, Toscania region
+Castelfiorentino, Metropolitan City of Florence, Toscania region
 
 - Santuario di Santa Verdiana
 
@@ -2922,13 +2921,13 @@ Cefalù, Province of Palermo, Sicily
 
 Celano, Province of L'Aquila, Abruzzo region
 
-San Vittorino
+- San Vittorino
 
   - Ss. Simplicio, Costanzo, and Vittoriano, martyrs, 8/26
 
 Cellio, Province of Vercelli, Piedmont region
 
-San Lorenzo
+- San Lorenzo
 
   - St. Cyril, martyr, 10/28 (observed the last Sunday in October)
 
@@ -4004,11 +4003,11 @@ Faicchio, Province of Benevento, Campania region
 
 - Chiesa di Maria Santissima del Carmelo/Chiesa di Suore degli Angeli
 
-  - Bl. Maria Serafina del Sacro Cuore (Clotilde) Micheli, foundress, 3/24
+  - Bl. Maria Serafina del Sacro Cuore (née Clotilde) Micheli, foundress, 3/24
 
 Faleria, Province of Viterbo, Lazio region
 
-??? (seb-nothing)
+- ??? (seb-nothing)
 
   - St. Felicissima, blind martyr, 8/12
 
@@ -4381,15 +4380,15 @@ Florence (Firenze), Toscana region
 
   - Bl. Giovanni da Vespignano, religious, 7/4
 
-- Motherhouse, Congregazione delle Suore "Serve di Maria SS. Addolorata di Firenze" (Servite nuns)
+- Motherhouse, Congregazione delle Suore “Serve di Maria SS. Addolorata di Firenze” (Servite nuns)
 
   - Servant of God Maria Eleonora Angela Giorgi, superior, 11/6/1945
 
 - Chiesa del Monastero delle Suore Domenicane dello Spirito Santo/Monastery, Dominican Sisters of the Holy Spirit (Via Bolognese 111)
 
-  - Bl. Pio Alberto del Corona, bishop/founder, 8/15
+  - Bl. Pio (née Alberto) del Corona, OP, bishop/founder, 8/15
 
-- Istituto delle Minime del Sacro Cuore di Gesù del Terz'Ordine Francescano
+- Istituto delle Minime del Sacro Cuore di Gesù del Terz’Ordine Francescano
 
   - Bl. Maria Margherita Caiani, religious, 8/8
 
