@@ -1048,9 +1048,12 @@ Chamalières, Clermont-Ferrand arrondissement, Puy-de-Dôme department, Auvergne
 
 Chambéry, Chambéry arrondissement, Savoie department, Auvergne-Rhône-Alpes region
 
-- Orphelinat du Bocage (Bocage Orphanage), 339 Rue Costa de Beauregard
+- Orphelinat du Bocage (Bocage Orphanage) (339 Rue Costa de Beauregard)
+
   - Bl. Camille Costa de Beauregard, priest/founder, 3/25
+
 - ???
+
   - St. Cornelius of Armagh, archbishop, 6/4 (his remains are in a shrine)
 
 Chartres
@@ -3184,6 +3187,7 @@ Paris
   - St. Pierre Rose Ursule Dumoulin-Borie (or Borle), martyr in Vietnam, relics transferred to Paris in 1843), 11/24
   - St. Salomone/Solomon (née Guillaume-Nicolas-Louis) Leclercq, FSC, religious/martyr/proto-martyr of his order, 9/2
   - Three Mercedarian Martyrs of Paris, 4/24 (killed by the Huguenots)
+  - Servant of God Vincent de Paul Bailly, AA, priest/journalist, d. 12/2/1912 (possibly at Cimetière du Montparnasse in Paris)
 
 Paris, Auteuil quarter/arrondissement
 
