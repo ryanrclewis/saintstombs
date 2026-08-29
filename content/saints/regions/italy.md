@@ -9675,31 +9675,33 @@ Re, Province of Verbano-Cusio-Ossola, Piemonte region
 
 Madonna del Sangue, 4/29
 
-Recanati, Province of Macerata, La Marche
+Recanati, Province of Macerata, Marche region
 
 - Duomo
 
   - Pope Gregory XII (not canonized)
 
-Sant'Agostino
+- Sant’Agostino
 
   - Bl. Girolamo Gherarducci da Recanati, priest, 3/12
 
-San Francesco
+- San Francesco
 
   - Bl. Benvenuto Mareni, OFM Conv., monk, 5/5
 
   - Bl. Compagno of Recanati, OFM, religious, 2/6
 
+- Cimitero Civico di Recanati/Recanati cemetery (Via Cupa Madonna Di Varano, 25)
+
+  - Ven. Norberto di Nostra Signora dell’Orto/Norbert of Our Lady of the Garden (née Domenico) Cassinelli, CP, d. 6/29/1911
+
 Recco, Metropolitan City of Genoa, Liguria region
 
-- Santuario di Nostra Signora del Suffragio/Sanctuary of Our Lady of
-  Suffrage
+- Santuario di Nostra Signora del Suffragio/Sanctuary of Our Lady of Suffrage
 
-- Santuario di San Michele e del Santissimo Crocifisso/Sanctuary of Saint
-  Michael and the Holy Crucifix
+- Santuario di San Michele e del Santissimo Crocifisso/Sanctuary of St. Michael and the Holy Crucifix
 
-The Holy Cross of Christ\'s grace
+  - The Holy Cross of Christ’s grace
 
 - Chiesa di Nostra Signora delle Grazie/Our Lady of Grace
 
@@ -9860,21 +9862,23 @@ San Girolamo
   - Bl. Sandra Maria Assunta Sabattini, laywoman, 5/2 (empty sarcophagus
     because her remains have totally deteriorated)
 
+- Casa Generalizia Francescane Missionarie di Cristo (Via Francesco Bonsi 18)
+
+  - Servant of God Teresa di Gesù Crocifisso (née Faustina) Zavagli, FMdC, foundress, d. 11/6/1910
+
+- Tempio Malatestiano
+
+  - St. Gaudenzio/Gaudentius of Rimini, bishop, 10/14 (his skull and sarcophagus only)
+
 - Cimitero Monumentale di Rimini
 
   - Servant of God Oreste Benzi, priest/founder, d. 11/2/2007
-
-Tempio Malatestiano
-
-  - St. Gaudenzio/Gaudentius of Rimini, bishop, 10/14 (his skull and
-    sarcophagus only)
 
 - ???
 
   - St. Clare/Chiara Agolanti, 2/10
 
-Rimini, Miramare di Rimini *frazione*, Province of Rimini,
-Emilia-Romagna region
+Rimini, Miramare di Rimini *frazione*, Province of Rimini, Emilia-Romagna region
 
 - ???
 
@@ -13811,18 +13815,9 @@ Turin (Torino)
 
   - Bl. Philippine of Chalon
 
-- Casa di Carità Arti e Mestieri (Corso Benedetto Brin, 26)
+- Santuario della Consolata/Casa madre dei Missionari della Consolata (Corso Ferrucci, 18)
 
-  - Ven. Teodoreto (née Giovanni) Garberoglio, FSC, religious, d. 5/13/1954
-
-- Casa Madre Congregazione dei Suore Sant'Anna (Via della Consolata, 20)
-
-  - Bl. Maria Enrichetta (Caterina) Dominici, religious, 2/21
-
-- Santuario della Consolata/Casa madre dei Missionari della Consolata
-  (Corso Ferrucci, 18)
-
-- Our Lady of Consolation, 6/20
+  - Our Lady of Consolation, 6/20
 
   - St. Giuseppe Allamano, IMC, founder, 2/16
 
@@ -13863,22 +13858,21 @@ Turin (Torino)
 
   - Bl. Pietro Cambiani da Ruffia, priest, 2/2
 
-- Chiesa di San Filippo Neri/Church of San Filippo Neri
+- Chiesa di San Filippo Neri/Oratorio di San Filippo Neri/Oratory Church of Turin (Via Maria Vittoria, 5)
 
-  - St. Sebastian Valfrè, CO, priest/prior, 1/30
+  - Bl. Sebastian Valfre, CO, “the apostle of Turin,” priest/prior, 1/30
 
 - Chiesa di Santa Giulia (in the Vanchiglia neighborhood)
 
   - Ven. Baroness Giulia Colbert Falletti di Barolo, philanthropist
 
-- Chiesa di San Giuseppe Benedetto Cottolengo
+- Chiesa di San Giuseppe Benedetto Cottolengo (Via Messedaglia, 21, in the Lucento/Madonna di Campagna district)
 
-  - St. Eliana, martyr (this may be inaccurate)
+  - St. Eliana, martyr, la Santa della Provvidenza/the saint of Providence, 8/18 (this may be inaccurate; if it is, she is in the Cappella della Santa Reliquia)
 
 - Chiesa grande della Piccola Casa della Divina Provvidenza
 
-  - Bl. Luigi della Consolata (née Andrea Bordino), religious, 8/25 (altar
-    of the Sacred Heart)
+  - Bl. Luigi della Consolata (née Andrea Bordino), religious, 8/25 (altar     of the Sacred Heart)
 
 - Basilica di Santa Maria Ausiliatrice/Basilica of Santa Maria, Help of Christians
 
@@ -13890,14 +13884,14 @@ Turin (Torino)
 
   - Bl. Filippo/Philip Rinaldi, priest, 12/5
 
-- Convento della Madonna degli Angeli/Chiesa della Madonna degli Angeli/Our Lady of the Angels (at the corner of Via Cavour and Via Carlo
-  Alberto)
-
-  - Bl. Bonaventura Relli di Palazzolo, OFM Conv., evangelist, 10/2
-
 - Chiesa di Santi Martiri
 
   - St. Giuliana, laywoman, 2/13
+
+- Monastero Clarisse Cappuccine (Via Cardinal Maurizio, 5)
+
+  - Servant of God Amedea (Caterina) Vercellone, religious, d. April 13,
+    1670 (incorrupt)
 
 - Chiesa del Monte dei Cappuccini/Santa Maria al Monte dei Cappuccini
 
@@ -13909,6 +13903,10 @@ Turin (Torino)
 - Nostra Signora del Suffragio
 
   - Bl. Francesco Faà di Bruno, priest/world-class mathematician, 3/27
+
+- Piccola Casa
+
+  - St. Giuseppe Benedetto/Joseph Benedict Cottolengo, 4/30
 
 - San Secondo/St. Secundus
 
@@ -13930,6 +13928,23 @@ Turin (Torino)
 
   - Servant of God Leopoldo Maria (née Luigi) Musso, OFM, religious, d. 1/26/1922)
 
+- Casa di Carità Arti e Mestieri (Corso Benedetto Brin, 26)
+
+  - Ven. Teodoreto (née Giovanni) Garberoglio, FSC, religious, d. 5/13/1954
+
+- Casa Madre Congregazione dei Suore Sant'Anna (Via della Consolata, 20)
+
+  - Bl. Maria Enrichetta (Caterina) Dominici, religious, 2/21
+
+- Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel. 39 011 89 80 429 )
+
+  - Ven. Adolfo Barberis, priest/founder, d. 9/24/1967
+
+- Convento della Madonna degli Angeli/Chiesa della Madonna degli Angeli/Our Lady of the Angels (at the corner of Via Cavour and Via Carlo
+  Alberto)
+
+  - Bl. Bonaventura Relli di Palazzolo, OFM Conv., evangelist, 10/2
+
 - Istituto Alfieri-Carrù di Torino (chapel) (Via Accademia Albertina 14)
 
   - St. Calpurnia, martyr (no feast date)
@@ -13942,23 +13957,6 @@ Turin (Torino)
 
   - St. Marina, martyr
 
-- Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel. 39 011 89 80 429 )
-
-  - Ven. Adolfo Barberis, priest/founder, d. 9/24/1967
-
-- L'Istituto Teologico Internazionale Salesiano, Chapel
-
-  - Ven. Giuseppe Quadrio, SDB, priest/scholar, d. 10/23/1963
-
-- Monastero Clarisse Cappuccine (Via Cardinal Maurizio, 5)
-
-  - Servant of God Amedea (Caterina) Vercellone, religious, d. April 13,
-    1670 (incorrupt)
-
-- Piccola Casa
-
-  - St. Giuseppe Benedetto/Joseph Benedict Cottolengo, 4/30
-
 - Santuario della Madonna della Salute in Borgo Vittoria
 
   - Ven. Eugenio Reffo, CSI, priest/cofounder, d. 5/9/1925
@@ -13969,9 +13967,13 @@ Turin (Torino)
 
   - Servant of God Maria Giuseppina di Gesù (née Luisa Cepollini d’Alto e Caprauna), ASC, religious, d. 6/21/1917
 
-- Valsalice mother house of the Salesian sisters L'Istituto delle Piccole Suore del Sacro Cuore di Gesù
+- L’Istituto delle Piccole Suore del Sacro Cuore di Gesù/Valsalice mother house of the Salesian sisters
 
   - Bl. Anna (née Giovanna Francesca) Michelotti, foundress, 2/1
+
+- L’Istituto Teologico Internazionale Salesiano, Chapel
+
+  - Ven. Giuseppe Quadrio, SDB, priest/scholar, d. 10/23/1963
 
 - ???
 
@@ -13983,9 +13985,7 @@ Turin (Torino)
 
   - St. Fortunola, martyr, 5/10
 
-  - Bl. Francesco Paleari, priest, 5/7 ("his body was moved from the Turin
-    cemetery to the Church of Cottolengo on 6 May 1946 and buried not far
-    from the founder San Giuseppe Benedetto Cottolengo")
+  - Bl. Francesco Paleari, priest, 5/7 (“his body was moved from the Turin cemetery to the Church of Cottolengo on 6 May 1946 and buried not far from the founder San Giuseppe Benedetto Cottolengo”)
 
   - Ven. Giovanni Barra, priest, d. 1/28/1975
 
@@ -13993,10 +13993,7 @@ Turin (Torino)
 
   - Bl. Marco Antonio (aka, Marcantonio) Durando, priest, founder, 12/10
 
-  - St. Martiniano of Pecco, Roman soldier/martyr, 12/5 (buried in a "parish
-    church")
-
-  - Bl. Sebastian Valfre
+  - St. Martiniano of Pecco, Roman soldier/martyr, 12/5 (buried in a “parish church”)
 
 Toscana, Province of Viterbo, Lazio Region
 
