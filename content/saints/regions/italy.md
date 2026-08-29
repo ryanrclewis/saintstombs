@@ -2284,29 +2284,29 @@ Camogli, Metropolitan City of Genoa, Liguria region
 
   - Nostra Signora del Boschetto/Our Lady of the Grove apparition, 8/12
 
-Campi Bisenzio, San Piero a Ponti, Metropolitan City of Florence, Toscana region
-
-- Chiesa del Convento delle Suore Francescane dell'Immacolata (via del Santo, 9)
-
-  - Ven. Olinto Fedi, priest/founder, d. 1/23/1923
-
-Campli, Province of Teramo, Abruzzo region
-
-- ???
-
-  - Bl. Battista (Baptist) of Florence, OFM, monk, 3/9
-
 Campi Bisenzio, Metropolitan City of Florence, Toscana region
 
-- La Casa Madre dell'Ordine Carmelitano di Santa Teresa at San Martino di Campi Bisenzio
+- La Casa Madre dell’Ordine Carmelitano di Santa Teresa at San Martino di Campi Bisenzio
 
-  - Bl. Teresa Maria della Croce Manetti, SCST, foundress, 4/23
+  - Bl. Teresa Maria della Croce (née Teresa) Manetti, SCST, foundress, 4/23
+
+Campi Bisenzio, San Piero a Ponti *frazione*, Metropolitan City of Florence, Toscana region
+
+- Chiesa del Convento delle Suore Francescane dell’Immacolata (via del Santo, 9)
+
+  - Ven. Olinto Fedi, priest/founder, d. 1/23/1923
 
 Campi Salentina, Lecce, Apulia (aka, Puglia)
 
 - Spirito Santo (aka, Santuario San Pompilio Maria Pirrotti)
 
   - St. Pompilio Maria di San Nicola Pirrotti, SP, priest, 7/15
+
+Campli, Province of Teramo, Abruzzo region
+
+- ???
+
+  - Bl. Battista (Baptist) of Florence, OFM, monk, 3/9
 
 Campobasso, Province of Campobasso, Molise region
 
@@ -4101,7 +4101,7 @@ Santa Maria Maggiore
 
   - St. Boniface of Ferentino, bishop, 5/14
 
-Fermo, Province of Fermo, Le Marche region
+Fermo, Province of Fermo, Marche region
 
 - Duomo
 
@@ -4119,10 +4119,17 @@ Fermo, Province of Fermo, Le Marche region
 
   - Ven. Paola Renata Carboni, laywoman, 9/11/1927
 
+- Santuario della Madonna del Pianto/Our Lady of Weeping (via Garibaldi, 23/27). 
+
+  - There is a *settenario*, an observance of devotion to the Madonna in which is given a plenary indulgence for each of the seven days preceding the feast of St. Anthony the Abbot, which is January 17. Every year on June 20, the liberation from the occupying troops in 1944 is commemorated here.
+
+- Convento dei Frati Cappuccini (Via San Francesco, 43)(43.15370, 13.70467)
+
+  - Ven. Marcellino da Capradosso (née Giovanni) Maoloni, OFM Cap., religious, d. 2/26/1909
+
 - ???
 
-  - Bl. Pietro Corradini da Mogliano, OFM, priest, 7/25 (he died here, but
-    where is he buried?)
+  - Bl. Pietro Corradini da Mogliano, OFM, priest, 7/25 (he died here, but where is he buried?)
 
   - St. Sophia of Fermo, martyr, 4/30
 
@@ -4150,17 +4157,15 @@ Ferrara, Province of Ferrara, Emilia-Romagna region
 
 - Chiesa di Santa Chiara/Church of St. Clare (Corso della Giovecca, 179)
 
-  - Servant of God Veronica del Santissimo Sacramento (née Maria Cesira
-    Pazzafini), Capuchin religious, d. 7/8/1964
+  - Servant of God Veronica del Santissimo Sacramento (née Maria Cesira Pazzafini), Capuchin religious, d. 7/8/1964
 
-- Basilica di San Giorgio fuori le mura, Monasterio di San Giorgio degli
-  Olivetani
+- Basilica di San Giorgio fuori le mura, Monasterio di San Giorgio degli Olivetani
 
   - Bl. Alberto Pandoni, bishop, 7/27
 
   - St. Maurelius of Voghenza, bishop, 5/7
 
-San Girolamo
+- San Girolamo
 
   - Bl. Giovanni Tavalli, bishop, 7/24
 
@@ -4213,22 +4218,21 @@ Fiesole, Province of Firenze, Toscana Region
 
 - Chiesa San Dominico
 
-  - Servant of God Tilde Manzotti, young laywoman, d. 10/3/1939 (in a side
-    chapel)
+  - Servant of God Tilde Manzotti, young laywoman, d. 10/3/1939 (in a side chapel)
 
-San Francesco (Via San Francesco, 13)
+- San Francesco (Via San Francesco, 13)
 
   - Bl. Alberto Berdini da Sarteano, OFM, friar, 8/15
 
-San Girolamo (Via Vecchia Fiesolana/Viazzo d'Angeli)
+- San Girolamo (Via Vecchia Fiesolana/Viazzo d'Angeli)
 
   - Bl. Carlo da Montegranelli, founder/hermit, 9/15 (skull only)
 
-Santa Maria del Fiore
+- Santa Maria del Fiore
 
   - Bl. Clemente Capponi, Franciscan monk, 2/25
 
-San Martino
+- San Martino
 
   - St. Andrew the Scot/Andrea di Fiesole, 8/22
 
@@ -4242,8 +4246,7 @@ San Martino
 
   - St. Marchiziano, martyr, 7/6
 
-Figline e Incisa Valdarno, Incisa in Val d'Arno frazione, Municipal City
-of Florence, Toscana region
+Figline e Incisa Valdarno, Incisa in Val d'Arno *frazione*, Municipal City of Florence, Toscana region
 
 - Camposanto della cittadella di Loppiano (Focolare movement)
 
@@ -4260,8 +4263,7 @@ Fiorenzuola d'Arda, Province of Piacenza, Emilia-Romagna
 
   - St. Florentius of Orange, bishop, 10/17 (relics)
 
-Fivizzano, San Terenzo Monti frazione, Province of Massa-Carrara,
-Toscana region
+Fivizzano, San Terenzo Monti *frazione*, Province of Massa-Carrara, Toscana region
 
 - Chiesa di San Terenzio
 
@@ -4296,10 +4298,9 @@ Florence (Firenze), Toscana region
 
   - Blessed Nicholas Albergati, theologian, 5/10
 
-- Ex-Monastero delle Carmelitane Scalze, via della Mattonaia 6, corner of
-  Borgo la Croce
+- Ex-Monastero delle Carmelitane Scalze (via della Mattonaia 6, corner of Borgo la Croce)
 
-  - St. Teresa Margherita (Anna Maria) Redi, religious, 3/7
+  - St. Teresa Margherita (née Anna Maria) Redi, religious, 3/7
 
 - Santa Annunziata
 
@@ -4400,8 +4401,7 @@ Florence (Firenze), Toscana region
 
   - Ven. Maria Eleonora (née Maria Angela) Giorgi, religious, d. 11/6/1945 (nella cappella/in the chapel)
 
-- Cimitero di Rifredi (tra via Panciatichi e via delle Tre Pietre/between
-  via Panciatichi and via delle Tre Pietre)
+- Cimitero di Rifredi (tra via Panciatichi e via delle Tre Pietre/between via Panciatichi and via delle Tre Pietre)
 
   - Ven. Giulio Facibeni, priest, d. 6/2/1958
 
@@ -4429,13 +4429,11 @@ Fobello, Province of Vercelli (VC), Piedmont region
 
 Foggia, Province of Foggia, Apulia region
 
-- Cattedrale di Foggia, Cattedrale della Santa Maria Assunta in
-  Coelo/Cathedral
+- Cattedrale di Foggia, Cattedrale della Santa Maria Assunta in Coelo/Cathedral
 
   - Ven. Fortunato Maria Farina, bishop, d. 2/20/1954
 
-- Chiesa Beata Maria Vergine Immacolata/Church of the Blessed Virgin Mary
-  Immaculate
+- Chiesa Beata Maria Vergine Immacolata/Church of the Blessed Virgin Mary Immaculate
 
   - Ven. Genoveffa De Troia, TOSF, laywoman, d. 12/11/1949
 
@@ -4463,12 +4461,11 @@ Foligno, Province of Perugia, Umbria
 
   - Bl. Tommasuccio of Foligno, OFM, 9/15
 
-San Francesco, piazza San Francesco (www.beataangeladafoligno.it)
+- San Francesco (Piazza San Francesco)
 
   - St. Angela of Foligno, mystic/foundress, 1/4
 
-  - Bl. Angelina da Marsciano, Franciscan tertiary (might be at Casa de
-    Beata Angelina, Via Nicolò Alunno, 29), 7/14
+  - Bl. Angelina da Marsciano, Franciscan tertiary (might be at Casa de Beata Angelina, Via Nicolò Alunno, 29), 7/14
 
 - ???
 
@@ -4500,15 +4497,13 @@ Fontavina, Province of Padova, Veneto region
 
 Fonzaso, Province of Belluno, Veneto region
 
-Seminario canossiano/Canossian seminary (Piazza Angeli, 1)
+- Seminario canossiano/Canossian seminary (Piazza Angeli, 1)
 
-  - Servant of God Angelo (née Giovanni Maria) Pasa, FdCC, priest, d.
-    7/6/1958 (in the cappella/chapel)
+  - Servant of God Angelo (née Giovanni Maria) Pasa, FdCC, priest, d. 7/6/1958 (in the cappella/chapel)
 
 Force, Province of Ascoli Piceno, Le Marche region
 
-- Cimitero ("nella cappella dell'Istituto" "in the chapel of the
-  Institute")
+- Cimitero (“nella cappella dell'Istituto” “in the chapel of the Institute”)
 
   - Servant of God Flora (née Maria Santa) Pallotta, foundress, d. 1/9/2001
 
@@ -4516,8 +4511,7 @@ Forli, Province of Forlì-Cesena, Emilia-Romagna region
 
 - Santa Croce/Cathedral
 
-- Madonna del Fuoco/Our Lady of the Fire, image, 2/4 (in the Chapel of
-  Madonna del Fuoco, patroness of the city)
+  - Madonna del Fuoco/Our Lady of the Fire, image, 2/4 (in the Chapel of Madonna del Fuoco, patroness of the city)
 
   - St. Feliciano/Felician of Foligno, bishop, 1/24 (relics only)
 
@@ -4527,10 +4521,9 @@ Forli, Province of Forlì-Cesena, Emilia-Romagna region
 
 - Church of San Giacomo Apostolo
 
-  - Bl. Giacomo/James (aka, Father of the Poor) Salomoni the Venetian, OP,
-    priest, 5/31 (relics only)
+  - Bl. Giacomo/James (aka, Father of the Poor) Salomoni the Venetian, OP, priest, 5/31 (relics only)
 
-- Bl. Marcolino Amanni da Forli, OP, 1/24 (or at the cathedral)
+  - Bl. Marcolino Amanni da Forli, OP, 1/24 (or at the cathedral)
 
 - Chiesa della Santissima Trinità
 
@@ -4562,7 +4555,7 @@ Forlimpopoli, Province of Forlì-Cesena, Emilia-Romagna region
 
 Formia (Mola di Gaeta), Lazio
 
-Convento di Santo Sepolcro
+- Convento di Santo Sepolcro
 
   - St. Albina, virgin/martyr, 12/16 (she could be in Gaeta)
 
@@ -4610,16 +4603,15 @@ Francavilla Fontana, Province of Brindisi, Apulia
 
 Francavilla al Mare, Province of Chieti, Abruzzo region
 
-Santa Maria Maggiore
+- Santa Maria Maggiore
 
-  - Bl. Franco/Francus of Francavilla, monk, 8/18 (relics only after the
-    Turks burned his body)
+  - Bl. Franco/Francus of Francavilla, monk, 8/18 (relics only after the     Turks burned his body)
 
 Frascati, Province of Rome, Lazio region
 
 - Duomo
 
-Praecordia of Bonnie Prince Charlie (Charles Edward Stuart, not a saint)
+  - Praecordia of Bonnie Prince Charlie (Charles Edward Stuart, not a saint)
 
 - Capuchin church of San Francesco da Assisi
 
@@ -4635,13 +4627,11 @@ Istituto Figlie di Maria Immacolata
   - Ven. Brigida Maria Postorino, founder, d. 3/30/1960 (in the
     capella/chapel)
 
-Frascati (Vermicino frazione), Province of Rome, Lazio region
+Frascati, Vermicino *frazione*, Province of Rome, Lazio region
 
-Cappella di Casa madre Suore Missionarie dell'Incarnazione (Via Giuseppe
-Luzi, 35)
+- Cappella di Casa madre Suore Missionarie dell'Incarnazione (Via Giuseppe Luzi, 35)
 
-  - Servant of God Carla (née Annunziata Nada "Cleo") Borgheri, foundress,
-    d. 9/20/2006
+  - Servant of God Carla (née Annunziata Nada "Cleo") Borgheri, foundress, d. 9/20/2006
 
 Frattamaggiore, Metropolitan City of Naples, Campania region
 
@@ -5103,19 +5093,19 @@ Grottaferrata, Province of Rome, Lazio Region
 - Abbey of Santa Maria di Grottaferrata/Monastery and Church of the
   Madonna
 
-  - St. Bartolomeo il Giovane di Rossano/Bartholomew the Younger of Rossano,
-    monk, 11/11 (grave lost to time)
+  - St. Bartolomeo il Giovane di Rossano/Bartholomew the Younger of Rossano, monk, 11/11 (grave lost to time)
 
   - St. Nilus the Younger, abbot and monk, 9/26
 
-Casa Generalizia degli Oblati del Sacro Cuore
+  - Pope Benedict IX (not canonized; one of the worst popes ever)
 
-  - Bl. Maria Serafina del Cuore di Gesù Trafitto (née Teresa) Casini,
-    foundress, 4/3
+- Casa Generalizia degli Oblati del Sacro Cuore (Via Giuseppe Garibaldi, 25)
 
-- ???
+  - Bl. Maria Serafina del Cuore di Gesù Trafitto (née Teresa) Casini, foundress, 4/3
 
-  - Pope Benedict IX (not canonized)
+- Figlie di San Camillo/Daughters of St. Camilus (Via Anagnina, 18)
+
+  - St. Giuseppina (née Giuditta Adelaide Agata) Vannini, FSC, foundress, 2/23
 
 Grottaglie, Province of Taranto, Apulia region
 
@@ -5791,14 +5781,17 @@ Lugo, Province of Ravenna, Emilia-Romagna region
 
   - St. Bonavita, religious, 3/1
 
+- Istituto Ancelle del Sacro Cuore di Gesù Agonizzante/Institute of the Handmaids of the Sacred Heart of Jesus in Agony (Corso Giuseppe Garibaldi, 65)
+
+  - Ven. Marco Morelli, priest/founder, 6/27/1912
+
+  - Ven. Margherita (née Costanza) Ricci Curbastro, ASCGA, foundress, d. 1/7/1923
+
 - ???
 
   - Bl. Alexander Baldrati of Lugo, MOP, martyr, 2/10 (relics only)
 
-  - Ven. Margherita (née Costanza) Ricci Curbastro, ASCGA, foundress, d. 1/7/1923
-
-Lugo, San Potito di Lugo *frazione*, Province of Ravenna, Emilia-Romagna
-region
+Lugo, San Potito di Lugo *frazione*, Province of Ravenna, Emilia-Romagna region
 
 - Cimitero locale/Local cemetery
 
@@ -6721,15 +6714,19 @@ Mogliano, Province of Macerata, Le Marche region
 
 - ???
 
-  - Bl. Giacomo Brunforte da Falerone, OFM, priest, 7/25 (he died here, but
-    where is he buried?)
+  - Bl. Giacomo Brunforte da Falerone, OFM, priest, 7/25 (he died here, but where is he buried?)
+
+Molare, Province of Alessandria, Piemonte region
+
+- Casa madre di Figlie di Maria Immacolata sotto il patrocinio di San Giuseppe/Daughters of Mary Immaculate under the patronage of Saint Joseph (Via Casacce, 3)
+
+  - Servant of God Sebastiano Zerbino, priest/founder, d. 8/10/1910
 
 Molfetta, Metropolitan City of Bari, Puglia region
 
-Istituto Oblate a Molfetta
+- Istituto Oblate a Molfetta
 
-  - Ven. Ambrogio Grittani, priest/founder, d. 4/30/1951 (Atrio della
-    Cappella/Atrium of the Chapel)
+  - Ven. Ambrogio Grittani, priest/founder, d. 4/30/1951 (Atrio della Cappella/Atrium of the Chapel)
 
 Molise, Province of Campobasso, Molise region
 
@@ -6803,8 +6800,7 @@ Monselice, Province of Padua, Veneto Region
 
 Monsummano Terme, Province of Pistoia, Toscana region
 
-- Santuario di Santa Maria della Fontenuova a Monsummano (Via Giacomo
-  Matteotti, 13)
+- Santuario di Santa Maria della Fontenuova a Monsummano (Via Giacomo Matteotti, 13)
 
   - Madonna della Fontenuova/Our Lady of the Plain, 6/9
 
@@ -7540,8 +7536,7 @@ Naples (Napoli)
   - Bl. Maria Crocifissa del Divino Amore (née Maria Gargani),
     foundress, 5/23
 
-- Chiesa della Casa madre delle Povere Figlie della Visitazione di Maria
-  (Corso Bruno Buozzi 174)
+- Chiesa della Casa madre delle Povere Figlie della Visitazione di Maria (Corso Bruno Buozzi 174)
 
   - Ven. Claudia Russo, foundress, d. 3/11/1964
 
@@ -7551,13 +7546,18 @@ Naples (Napoli)
 
   - Great relic chapel
 
+- Casa Madre di Suore riparatrici del Sacro Cuore/Motherhouse of the Reparatory Sisters of the Sacred Heart (Corso Vittorio Emanuele 494/A)
+
+  - Ven. Isabela de Rosis, RSC, foundress, d. 8/11/1911
+
 - Cimitero alla Chiesa del S. Cuore dell’Istituto Francescane Missionarie di S. Chiara/Cemetery of the Church of the Sacred Heart of the Franciscan Missionary Institute of St. Clare (Corso Secondigliano, 549)
-  - Servant of God Maria Crocifissa dell’Immacolata (née  Concetta) Pontillo, foundress, FMC, d. 11/28/1917
+
+  - Servant of God Maria Crocifissa dell’Immacolata (née Concetta) Pontillo, foundress, FMC, d. 11/28/1917
 
 - Cimitero di Ponticelli (Via Argine 605)
 
-  - Ven. Agostino Cozzolino, priest, d. 11/2/1988 (in the hypogeum\[underground tomb\] of the Congregation of Sant'Anna/nell'ipogeo
-    della Congrega di Sant'Anna)
+  - Ven. Agostino Cozzolino, priest, d. 11/2/1988 (in the hypogeum [\underground tomb\] of the Congregation of Sant’Anna nell’ipogeo
+    della Congrega di Sant’Anna)
 
 - Catacombe di San Gaudioso
 
