@@ -204,7 +204,7 @@ Luján, Luján Division, Argentina
 
 - Basílica Menor de Nuestra Señora de Luján
 
-- Our Lady of Luján
+  - Our Lady of Luján
 
   - Bl. Eduardo Francisco Pironio, cardinal, 2/5
 
@@ -221,6 +221,12 @@ Mendoza, Capital department, Province of Mendoza
 - ???
 
   - Servant of God José Jorge Bunade, TOSF, layman, d. 9/11/1952
+
+Mercedes, Province of Buenos Aires, 
+
+- Hermanas Pobres Bonaerenses de San José (Calle 32 Nº 562)
+
+  - Servant of God Maria Antonia (née Antonia Luisa) Cerini, foundress, d. 11/2/1911
 
 Muñiz, San Miguel Partido of Buenos Aires Province
 
@@ -295,6 +301,10 @@ Cementario del Colegio Máximo
   - Servant of God Mauricio Jiménez Arteaga, SJ, priest, d. 12/8/1954
 
 San Miguel de Tucumán (aka, Tucumán), Province of Tucumán, Capital department
+
+- Capilla del Dulce Nombre de Jesús/Chapel of the Sweet Name of Jesus (Av. Sarmiento 253–299, at the corner of Avenida Sarmiento and Rivadavia)
+
+  - Servant of God María Dominga del Santísimo Sacramento (née Nicolasa Elmina) Paz de Gallo, widow/foundress, HDSNJ, d. 11/11/1911
 
 - Cementerio Parque San Agustín/St. Augustine Park Cemetery
 
