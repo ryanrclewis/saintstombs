@@ -13872,26 +13872,23 @@ Turin (Torino)
 
 - Chiesa grande della Piccola Casa della Divina Provvidenza
 
-  - Bl. Luigi della Consolata (née Andrea Bordino), religious, 8/25 (altar     of the Sacred Heart)
+  - Bl. Luigi della Consolata (née Andrea Bordino), religious, 8/25 (altar of the Sacred Heart)
 
-- Basilica di Santa Maria Ausiliatrice/Basilica of Santa Maria, Help of Christians
+- Basilica di Maria Aiuto dei Cristiani/Basilica di Santa Maria Ausiliatrice/Basilica of Santa Maria, Help of Christians
 
   - St. Dominic Savio, child, altar boy, 3/9 and 5/6
+
+  - Bl. Filippo/Philip Rinaldi, priest, 12/5
 
   - St. John Bosco, founder,
 
   - St. Maria Domenica Mazzarello, FMA, foundress (incorrupt), 5/14
 
-  - Bl. Filippo/Philip Rinaldi, priest, 12/5
+  - Bl. Michele Rua, SDB, priest, 4/6/1910
 
 - Chiesa di Santi Martiri
 
   - St. Giuliana, laywoman, 2/13
-
-- Monastero Clarisse Cappuccine (Via Cardinal Maurizio, 5)
-
-  - Servant of God Amedea (Caterina) Vercellone, religious, d. April 13,
-    1670 (incorrupt)
 
 - Chiesa del Monte dei Cappuccini/Santa Maria al Monte dei Cappuccini
 
@@ -13924,9 +13921,15 @@ Turin (Torino)
   - Servant of God Maria Vittoria Dal Pozzo della Cisterna, queen/wife, d.
     11/8/1876
 
-- San Tommaso Apostolo (Via Pietro Micca)
+- San Tommaso Apostolo/St. Thomas the Apostle (Via Monte di Pietà, 11 at Via Pietro Micca)
 
   - Servant of God Leopoldo Maria (née Luigi) Musso, OFM, religious, d. 1/26/1922)
+
+  - Ven. Paolo Pio Perazzo, TOSF, railwayman/extraordinary layman, d. 11/22/1911
+
+- Monastero Clarisse Cappuccine (Via Cardinal Maurizio, 5)
+
+  - Servant of God Amedea (Caterina) Vercellone, religious, d. April 13, 1670 (incorrupt)
 
 - Casa di Carità Arti e Mestieri (Corso Benedetto Brin, 26)
 
