@@ -1653,9 +1653,9 @@ Bilbao
   - Ven. Gerardo de San Francisco (née Francisco Sagarduy de Lasgoitia), CP,
     religious, d. 5/29/1962
 
-- Motherhouse of the Instituto de las Siervas de Jesús
+- Motherhouse of the Instituto de las Siervas de Jesús (Calle La Naja, 1)
 
-  - St. María Josefa del Corazón de Jesús, foundress, 3/20
+  - St. María Josefa del Corazón de Jesús (née María Josefa) Sancho de Guerra, foundress, 3/20
 
 - Passionist Monastery of Begoña
 
