@@ -2499,7 +2499,9 @@ Lędziny, Bieruń-Lędziny County, Silesian voivodeship
 
 Legnica, Lower Silesian Voivodeship
 
-Sanktuarium św. Jacka w Legnicy/Sanctuary of St. Jacek in Legnica
+- Sanktuarium św. Jacka w Legnicy/Sanctuary of St. Jacek/Hyacinth in Legnica (Nadbrzeżna 3)
+
+  - Eucharistic miracle
 
   - Bl. Bronisława/Bronislava of Poland, abbess, 8/29 (relics only)
 
