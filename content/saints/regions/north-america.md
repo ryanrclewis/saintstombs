@@ -80,6 +80,12 @@ Baltimore, Maryland
 
   - Servant of God Mother Mary Elizabeth Lange, foundress, d. 2/3/1882
 
+- National Shrine of St. Alphonsus Liguori (114 W. Saratoga Street)
+
+  - Relic room with 30 relics
+  
+  - A room in the attached rectory where St. John Neumann lived is preserved
+
 - St. Jude Shrine (512 W. Saratoga Street/308 N. Paca Street)
 
 Bay St. Louis, Hancock County, Mississippi
@@ -1978,17 +1984,20 @@ Vail, Pima County, Arizona
 
 Victoria, Herzog Township, Ellis County, Kansas
 
-- Basilica of St. Fidelis "the Cathedral of the Plains"
+- Basilica of St. Fidelis “the Cathedral of the Plains” (900 Cathedral Avenue)
 
 Villa Maria, Lawrence County, Pennsylvania
 
 - Villa Maria Community Center (Villa Maria Road)
+
   - Shrine of Our Lady of Lourdes
+
   - Shrine of Our Lady of the Villa
 
 Villanova, Pennsylvania
 
 - St. Thomas of Villanova Church (800 E. Lancaster Ave.)
+
   - Servant of God William (Bill) Atkinson, OSA, priest/teacher, d. 9/15/2006
 
 Vincennes, Knox County, Indiana
@@ -2001,6 +2010,12 @@ Wahpeton, Richland County, North Dakota
 - Carmel of Mary Monastery (17765 78<sup>th</sup> St. SE)
 
   - Shrine of Our Lady of the Prairies
+
+Waltham, Middlesex County, Massachusetts
+
+- Espousal Conference Center, Shrine, and Retreat House (554 Lexington St.)
+
+  - Shrine to the Holy Espousals of the Blessed Virgin Mary and St. Joseph
 
 Warminster, Bucks County
 
@@ -2020,6 +2035,11 @@ Washington, DC
 Washington (and Asbury), Warren County, New Jersey
 
 - National Blue Army Shrine of the Immaculate Heart of Mary (674 Mountain View Road East)
+
+Waterbury, New Haven County, Connecticut
+
+- Church of the Immaculate Conception (74 W. Main St.)
+  - Site of the baptism of Bl. Michael McGivney and where he said his first Mass
 
 Waukesha, Kenosha County, Wisconsin
 
@@ -2050,16 +2070,6 @@ West Paterson, Passaic County, New Jersey
 - St. Anne Melkite Church (802 Rifle Camp Road)
   - Shrine Church of the Holy Icon of Our Lady of America
 
-Waltham, Middlesex County, Massachusetts
-
-- Espousal Conference Center, Shrine, and Retreat House (554 Lexington St.)
-  - Shrine to the Holy Espousals of the Blessed Virgin Mary and St. Joseph
-
-Waterbury, New Haven County, Connecticut
-
-- Church of the Immaculate Conception (74 W. Main St.)
-  - Site of the baptism of Bl. Michael McGivney and where he said his first Mass
-
 West Burlington, Des Moines County, Iowa
 
 - St. Mary Church (500 W. Mt Pleasant Street)
@@ -2078,6 +2088,12 @@ Wichita, Kansas
 
 - Cathedral of the Immaculate Conception
   - Ven. Emil Kapaun, priest/military chaplain/martyr, d. 5/23/1951
+
+Williamsburg, Virginia
+
+- St. Bede Church (520 Richmond Road)
+
+  - National Shrine of Our Lady of Walsingham
 
 Winslow, Washington County, Arkansas
 
