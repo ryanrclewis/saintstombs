@@ -658,7 +658,7 @@ Igreja do Patrocínio
 
 Igreja do Senhor do Horto e São Lázaro (Church of the Lord of the Garden and St. Lazarus)
 
-  - Servant of God Bento Dias Pacheco, priest, d. 3/6/1964
+  - Servant of God Bento Dias Pacheco, priest, d. 3/6/1911
 
 Jacobina, Centro Norte Baiano mesoregion, Bahia state
 
@@ -906,7 +906,9 @@ Rio de Janeiro, Botafogo neighborhood, Rio de Janeiro state, South Zone
 
 Rio de Janeiro, South Zone, Gávea bairro/neighborhood
 
-- Igreja Nossa Senhora da Conceição
+- Paróquia Igreja Nossa Senhora da Conceição/Church of Our Lady of the Conception (Rua Marquês de São Vicente, 19)
+
+  - Servant of God Jerônimo de Castro Abreu Magalhães, layman/husband, 
 
   - Servant of God Maria do Santíssimo Sacramento (née Elisa “Zélia”) Pedreira Abreu Magalhães, widow/religious, d. 9/8/1919
 
@@ -1718,7 +1720,7 @@ Painting of the Miracle of the Virgin of Sorrows
 
 - Santuario Hermano Miguel
 
-  - St. Miguel Febres Cordero Muñoz, FSC, religious, 2/9
+  - St. Miguel (née Francisco) Febres-Cordero Muñoz, FSC, religious, 2/9
 
 - ???
 
@@ -2082,7 +2084,7 @@ Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuane
 
 Ecuandureo, Michoacan
 
-- ???
+- Parroquia del Señor de la Paz/Our Lord of Peace (Calle Leonardo Castellanos #14, Frente a la Plaza Municipal, Colonia Centro)
 
   - Ven. Leonardo Castellanos y Castellanos, bishop, d. 12/21/1912
 
@@ -2370,6 +2372,12 @@ Mexico City/Ciudad de Mexico
 
   - Servant of God Juana Inés de Asbaje y Ramírez de Santillana (Sor Juana Inés de la Cruz), OSH, religious/writer/philosopher, d. 4/17/1695
 
+Mexico City, Cuauhtémoc borough
+
+- Templo de la Sagrada Familia (Santa María la Ribera No. 69)
+
+  - Servant of God Josep Maria Vilaseca i Aguilera/José María Vilaseca Aguilera, MJ, priest/founder, d. 4/3/1910
+
 Mexico City, Villa Guadalupe
 
 - Basílica de Nuestra Señora de Guadalupe (Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero)
@@ -2396,9 +2404,13 @@ Monterrey, Nuevo León
 
 Panteón del Carmen (María Luisa, Centro)
 
-  - Ven. Gloría María of Jesus (née Gloria Esperanza Elizondo García), religious, d. 12/8/1966
+  - Ven. Gloría María of Jesus (née Gloría Esperanza) Elizondo García, religious, d. 12/8/1966
 
 Morelia, Michoacán state
+
+- Catedral de Morelia/Cathedral of the Transfiguration (Av. Francisco I. Madero Poniente S/N)
+
+  - Servant of God Atenógenes Timoteo Silva y Álvarez Tostado, archbishop, d. 2/26/1911
 
 - Cementerio de San Agustín
 
