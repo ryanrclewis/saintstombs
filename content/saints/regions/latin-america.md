@@ -2689,6 +2689,14 @@ Zacatecas, Guadalupe suburb
 
 Zamora, Michoacán
 
+- La Catedral de la Inmaculada Concepción de Zamora de Hidalgo/Immaculate Conception Cathedral (Vicente Guerrero Oriente 92, Centro)(19°59′1″N 102°17′6″W)
+
+  - Servant of God José María Cázares y Martínez, bishop/founder, d. 3/30/1909 (in the south transept)
+
+- Santuario Guadalupano/Diocesan Sanctuary of Our Lady of Guadalupe (Av. 5 de Mayo s/n, Centro)(19°59′01.13″N 102°16′50.95″W)
+
+  - During the Revolution, soldiers shot many here because of their faith by firing squad.
+
 - ???
 
   - Servant of God Jose María Cazares Martinez, bishop/founder, d. 3/30/1909
@@ -3007,9 +3015,9 @@ San Francisco de la Victoria de Vilcabamba (city overtaken by the forest)
 
   - Servant of God Diego Ruiz Ortiz, OSA, protomartyr of Peru, d. between May and July 1571 (relics lost)
 
-Santa Rosa de Ocopa district, Province of Concepción, Department of Junin
+Santa Rosa, Santa Rosa de Ocopa district, Province of Concepción, Department of Junin
 
-- Convent of Santa Rosa de Ocopa (laicized)
+- Convent of Santa Rosa de Ocopa (laicized)(Avenida Carlos Lafuente S/N)
 
   - Br. Francisco de San José, OFM, founder of the convent
 
