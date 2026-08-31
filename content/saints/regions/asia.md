@@ -3650,11 +3650,16 @@ Taguig City, National Capital Region
 
 Tayabas, Province of Quezon, Calabarzon region
 
-Compound of the Missionary Catechists of St. Therese of the Infant
-Jesus (MCST Generalate, Bishop Alfredo Ma. Obviar St.)
+- Compound of the Missionary Catechists of St. Therese of the Infant Jesus (MCST Generalate, Bishop Alfredo Ma. Obviar St.)
 
   - Ven. Alfredo María Obviar y Aranda, bishop/missionary/founder, d.
     10/1/1978
+
+Tacloban, Province of Leyte, Eastern Visayas region
+
+- Archdiocesan Shrine of Santo Niño Parish Church (Juan Luna Street [located between P. Zamora St. and Real St.])(11°14′29″N 125°00′21″E)
+
+  - The revered colonial-period image of Señor Santo Niño de Tacloban, affectionately known as El Capitan
 
 Verde Island, Batangas
 
