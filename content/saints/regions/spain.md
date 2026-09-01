@@ -3501,15 +3501,17 @@ Hinojosa del Duque, Los Pedroches comarca, Province of Cordoba, Andalucia autono
 
   - Bl. Antonio María Martín Povea, O. Carm., religious/martyr, 8/14
 
+- Monasterio de las Madres Concepcionistas 
+
+	- Servant of God Teresa de Jesús (née Jacinta María) Romero Balmaseda, OIC, religious, d. 5/12/1910
+
 - Cementerio de Hinojosa del Duque
 
   - Bl. Carmelo María (née Crispulo) Moyano Linares, O. Carm., priest/martyr, 9/23 (common grave)
 
 - ???
 
-  - Bl. José María Ruiz Cardeñosa, O. Carm, religious/martyr, 8/18 (possibly
-    in the cemetery; he's buried in a mass grave according to the
-    postulator)
+  - Bl. José María Ruiz Cardeñosa, O. Carm, religious/martyr, 8/18 (possibly in the cemetery; he's buried in a mass grave according to the postulator)
 
   - Servant of God Santos Franco Sánchez, 11-year-old, d. 2/6/1954
 
@@ -3752,7 +3754,7 @@ La Llosa de Ranes, Costera comarca, Province of Valencia, Valencian autonomous c
 
 - ???
 
-  - Bl. María del Calvario (née Josefa Romero Clariana, DC, religious/martyr, 9/26 & 11/20
+  - Bl. María del Calvario (née Josefa Romero Clariana, DC), religious/martyr, 9/26 & 11/20
 
 La Muela, Valdejalón comarca, Province of Zaragoza, Aragon autonomous community
 
@@ -4619,6 +4621,10 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Rufino (née Crescencio) Lasheras Aizcorbe, OH, religious/martyr, 9/1
 
+- Colegio de las Concepcionistas de la Enseñanza (Calle Princesa, 19–21)
+
+	- St. María del Carmen (née Carmen de Jesús) Sallés y Barangueras, RCM, foundress, 7/25
+
 - Colegio Divina Pastora Capilla (chapel)
 
   - St. Faustino Míguez, secular name Manuel Míguez González (in religion
@@ -4840,7 +4846,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Junián Alberto (née Alberto José) Larrazábal Michelena), FSC, religious/martyr, 8/30
 
-	- Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
+  - Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
 
   - Bl. León María de Alaquàs/Alacuás (née Manuel) Legua Martí, TC, priest/martyr, 9/26
 
@@ -4860,7 +4866,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Manuel Borrajo Míguez, SDB, seminarian/martyr, 10/2
 
-  - St. María del Carmen Sallés y Barangueras, RCM, foundress, 7/25 (possibly at the mother house for the Religiosas Concepcionistas Misioneras de la Enseñanza, Calle Sánchez Guerrero, 16 y 18)
+  - St. María del Carmen (née Carmen de Jesús) Sallés y Barangueras, RCM, foundress, 7/25 
 
   - Bl. Maria del Consuelo Remiñán Carracedo, FMMDP, religious/martyr, 7/7 (grave lost)
 
@@ -5217,7 +5223,7 @@ Cementerio San Roque
 
 Marcilla, Province of Navarre, Navarre autonomous community
 
-- Convento de los Agustinos Recoletos (Calle del Monasterio)
+- Santuario de Nuestra Señora la Blanca/Convento de los Agustinos Recoletos (Calle del Monasterio)
 
   - Ven. Mariano Gazpio Ezcurra, OAR, priest, d. 9/22/1989 (his remains have been translated, but from where to where?)
 
@@ -6144,12 +6150,15 @@ Palma de Mallorca, Mallorca Island, Islas Baleares
 
 - Church of San Francisco
 
-  - Bl. Raymond Lull, married, Franciscan tertiary, converter of Muslims,
-    6/30
+  - Bl. Raymond Lull, married, Franciscan tertiary, converter of Muslims, 6/30
 
 - Iglesia de los Padres Capuchinos
 
   - Servant of God Eduardo Bonnín Aguiló, layman/founder of Cursillo, d. 2/6/2008
+
+- Iglesia de los Sagrados Corazones/Església del Sagrat Cor/Church of the Sacred Hearts (Carrer de Sant Gaietà, 9)
+
+	- Ven. Joaquim Rosselló i Ferrà, priest/founder, d. 12/20/1909
 
 - Centro Eucarístico/Capilla de las Zeladoras del Culte Eucarístic (Calle Calatrava 10 in the Calatrava quarter)
 
@@ -7682,20 +7691,6 @@ Convento de las Hermanas de la Caridad
 
 Seville/Sevilla
 
-- ???
-
-  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns,
-    10/7
-
-  - Ss. Germanus and Servandus of Cadiz, soldiers, 10/23
-
-  - Bl. Juan de Jesus, O. de M., monk, 6/21
-
-  - St. Laureano, bishop/martyr, 7/4
-
-  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious,
-    10/31
-
 - Cathedral
 
   - Bl. Beatrice of Swabia, Queen
@@ -7715,6 +7710,10 @@ Seville/Sevilla
 - Parroquia de San Antonio M. Claret (Av. Padre García Tejero, 8)
 
   - Bl. José María Ruiz Cano, CMF, priest/martyr, 7/27
+
+- Iglesia del Sagrado Corazón de Jesús/Church of the Sacred Heart of Jesus (Calle Jesús del Gran Poder, 40/37°23′45″N 5°59′43″W)
+
+	- Ven. Francisco de Paula Tarín y Arnau, SJ, priest, d. 12/12/1910
 
 - Iglesia de Santo Tomás de Aquino
 
@@ -7754,11 +7753,9 @@ Seville/Sevilla
   Capilla de Santa Ángela de la Cruz/126​ Casa Madre de las Hermanas de la
   Cruz (calle Santa Ángela de la Cruz)
 
-  - St. Angela de la Cruz Guerrero (aka, María de los Ángeles Guerrero
-    González), HCC, religious, 3/2
+  - St. Angela de la Cruz Guerrero (aka, María de los Ángeles Guerrero González), HCC, religious, 3/2
 
-  - St. María de la Purísima de la Cruz (née María Isabel) Salvat Romero,
-    HCC, religious, 9/18 or 10/31
+  - St. María de la Purísima de la Cruz (née María Isabel) Salvat Romero, HCC, religious, 9/18 or 10/31
 
 Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
 
@@ -7781,13 +7778,25 @@ Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
   - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious,
     5/28
 
-> La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la
-> calle Cervantes)
+> La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la calle Cervantes)
 
   - Bl. José Torres Padilla, priest/theologian, d. 4/23/1878
 
-Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha
-autonomous community
+- ???
+
+  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns,
+    10/7
+
+  - Ss. Germanus and Servandus of Cadiz, soldiers, 10/23
+
+  - Bl. Juan de Jesus, O. de M., monk, 6/21
+
+  - St. Laureano, bishop/martyr, 7/4
+
+  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious,
+    10/31
+
+Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha autonomous community
 
 - Catedral de Santa María de Sigüenza
 
@@ -8782,14 +8791,11 @@ Valladolid
 
 - Convento de los dominicos de San Pablo/Dominican Convent of St. Paul
 
-  - St. Francisco Fernández de Capillas, OP, priest/protomartyr of China,
-    1/15 (head only; his body is lost)
+  - St. Francisco Fernández de Capillas, OP, priest/protomartyr of China, 1/15 (head only; his body is lost)
 
 - Convento de San Agustín de Valladolid/Augustinian Convent of Valladolid
 
-  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\“Sus
-    restos mortales se encuentran en el convento agustiniano de
-    Valladolid.\”)
+  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\“Sus restos mortales se encuentran en el convento agustiniano de Valladolid.\”)
 
 - Oratorio de la Casa General de las Discípulas de Jesús/Casa General Discípulas de Jesús (Cno. del Cementerio, 17)
 
@@ -8797,16 +8803,15 @@ Valladolid
 
 Cementerio de El Carmen
 
-  - Servant of God Encarnación (Encarnita) Ortega Pardo, laywoman, d.
-    12/1/1995
+  - Servant of God Encarnación (Encarnita) Ortega Pardo, laywoman, d. 12/1/1995
 
-  - Servant of God José Luis Gago de Val, OP, radio priest, d. 12/22/2012
-    (grave of the Dominican Fathers)
+  - Servant of God José Luis Gago de Val, OP, radio priest, d. 12/22/2012 (grave of the Dominican Fathers)
 
 - ???
 
-  - Bl. Bernardo Francisco de Hoyos Seña, SJ, priest, 11/28 (whereabouts of
-    his remains are unknown)
+	- Servant of God Agustina de la Consolación (née Victoriana) Sáez Martínez, religious, d. 9/27/1910 (possibly at Monasterio del Espíritu Santo (Calle Bretón, 1, La Farola)
+
+  - Bl. Bernardo Francisco de Hoyos Seña, SJ, priest, 11/28 (whereabouts of his remains are unknown)
 
   - Bl. Luis de la Piedad, O. de M., friar, 5/16
 
