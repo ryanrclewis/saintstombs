@@ -1,8 +1,15 @@
 # United States of America
 
+Albuquerque
+
+- San Felipe Neri Church (2005 North Plaza Street NW)
+
+  - Cottonwood Madonna (site of fervent devotion and prayer)
+
 Alexandria, Hanson County, South Dakota
 
 - St. Mary of Mercy Church (220-240 Fifth St.)
+
   - Fatima Family Shrine
 
 Allenspark, Boulder County, Colorado
@@ -355,7 +362,10 @@ Childs, Cecil County, Maryland
 Chimayo/Chimayó, Rio Arriba and Santa Fe Counties, New Mexico
 
 - The Shrine of Our Lord of Esquipulas/El Santuario de Chimayo (The Lourdes of the West)(15 Santuario Dr.; 35°59′23″N 105°55′38″W)
+
   - Miraculous crucifix; grave of a martyred priest
+
+  - The room of El Pocito with the Tierra Bendita
 
 Cincinnati, Hamilton County, Ohio
 
@@ -527,7 +537,9 @@ Dickinson, Galveston County, Texas
 - Shrine of the True Cross (300 Fm 517 Rd E)
 
 Doral, Miami-Dade County, Florida
+
 - Our Lady of Guadalupe Catholic Church (11691 NW 25th Street)
+
   - Servant of God John Rick Miller, layman, d. 5/30/2015
 
 Doylestown, Bucks County, Pennsylvania
@@ -538,12 +550,15 @@ Doylestown, Bucks County, Pennsylvania
 Dubuque, Iowa
 
 - St. Raphael Cathedral
+
   - Servant of God Mathias Loras, first bishop of Dubuque (mortuary chapel), d. 2/19/1858
-  - St. Cessianus, martyr, feast day unknown
+
+   - St. Cessianus, martyr, feast day unknown
 
 Duluth, St. Louis County, Minnesota
 
 - Cathedral of Our Lady of the Rosary (2801 East 4th Street)
+
   - Servant of God Monsignor Joseph Buh, missionary priest, d. 2/2/1922
 
 Duralde, Evangeline Parish, Louisiana
@@ -557,6 +572,7 @@ East Boston, Suffolk County, Massachusetts
 Easton, Bristol County, Massachusetts
 
 - Holy Cross Fathers and Brothers Cemetery, Section 2, Lot 27, Grave 1
+
   - Ven. Patrick Peyton, priest, d. 6/3/1992
 
 Eastport, Washington County, Maine
@@ -575,13 +591,17 @@ Eastport, Suffolk County, New York
 El Cajon, California
 
 - The Seminary of Mar Abba the Great
+
   - St. Aba I of Seleucia-Ctesiphon, patriarch, 2/28
+
 - Greek Orthodox Church of Gregory of Nyssa, 1454 Jamacha Rd.
+
   - St. Gregory of Nyssa, bishop/theologian, 3/9
 
 El Paso, Texas
 
 - Concordia Cemetery
+
   - Servant of God Richard M. Thomas, SJ, priest, 5/8/2006
 
 Elizabeth, Union County, New Jersey
@@ -592,34 +612,43 @@ Elizabeth, Union County, New Jersey
 Ellicott City, Howard County, Maryland
 
 - Our Lady's Center (3301 S. Rogers Avenu)
+
   - Shrine of Our Lady of Fatima
+
 - Shrine of St. Anthony (12290 Folly Quarter Road)
+
   - St. Anthony of Padua (major relic)
 
 Emmitsburg, Frederick County, Maryland
 
 - Basilica, Seton Shrine Chapel
+
   - St. Elizabeth Ann Seton, foundress, 1/4
+
 - National Shrine Grotto of ​Our Lady of Lourdes
 
 Enfield, Grafton County, New Hampshire
 
 - Shrine of Our Lady of La Salette (NH Route 4-A)
+
   - Scala Sancta
 
 Englewood, Bergen County, New Jersey
 
 - St. Cecilia Church and Priory (55 Demerest Ave.)
+
   - The Eastern Shrine of the Little Flower
 
 Erie, Erie County, Pennsylvania
 
 - Calvary Cemetery
+
   - Servant of God Dr. Gertrude Barber, lay educator, d. 4/29/2000
 
 Escanaba, Delta County, Michigan
 
 - Holy Cross Cemetery
+
   - Servant of God Irving "Francis" Houle layman, d. 1/3/2009 (Lady of Grace section)
 
 Euclid, Cuyahoga County, Ohio (near Cleveland)
@@ -633,6 +662,7 @@ Eureka/Pacific, St. Louis County, Missouri (30 minutes from St. Louis)
 Evansville, Vanderburgh County, Indiana
 
 - St. Joseph Catholic Cemetery
+
   - Ven. Mary Magdalena (née Anna) Bentivoglio, foundress, d. 8/18/1905
 
 Fall River, Bristol County, Massachusetts
@@ -646,16 +676,19 @@ Fiskdale, Sturbridge, Worcester County, Massachusetts
 Fonda, Montgomery County, New York
 
 - National Kateri Tekakwitha Shrine (3636 NY-5)
+
   - Place where St. Kateri Tekakwitha was baptized
 
 Footedale, Fayette County, Pennsylvania
 
 - St. Thomas Church
+
   - St. Maximilian Kolbe Shrine
 
 Fort Meyers, Florida
 
 - St. Nicholas Russian Orthodox Monastery
+
   - St. Mary of Egypt, 4/1 (first class relic)
 
 Franklin, Hampton Roads, Virginia
@@ -683,16 +716,19 @@ Garrison, Putnam County, New York
 Genoa, Ottawa County, Ohio
 
 - Our Lady of Lourdes Church (204 Main Street)
+
   - Our Lady of Lourdes Grotto
 
 Germantown, Columbia County, New York
 
-- Queen of Carmel Cemetery
+- Queen of Carmel Cemetery (600 Woods Road)
+
   - Ven. Bridget Teresa McCrory (Mother Mary Angeline Teresa), foundress, d. 1/21/1984
 
 Gloucester, Essex County, Massachusetts
 
 - Our Lady of the Voyage Church (142 Prospect St.)
+
   - Shrine of the Fishermen
 
 Golden, Jefferson County, Colorado
@@ -702,21 +738,27 @@ Golden, Jefferson County, Colorado
 Gower, Buchanan and Clinton Counties, Missouri
 
 - Benedictines of Mary Queen of Apostles, Abbey of Our Lady of Ephesus
+
   - Mother Mary Wilhelmina Lancaster, OSB, religion, d. 5/29/2019 (non-causa but incorrupt)
 
 Grand Blanc, Genesee County, Michigan
+
 - Church of the Holy Family
+
   - Relics of St. Jude, St. Gerard Magellan, St. Francis of Assisi, St. Anthony of Padua, St. Peregrine Laziosi
 
 Grand Coteau, St. Landry Parish, Louisiana
 
 - Academy of the Sacred Heart (1821 Academy Road)
+
   - Shrine of St. John Berchmans
+
     - Site of a miracle attributed to the saint's intercession
 
 Grand Rapids, Kent County, Michigan
 
 - St. Jude Church (3455 Assumption Dr., NE)
+
   - St. Jude Shrine
 
 Grant, Park County, Colorado
@@ -730,26 +772,37 @@ Grass Lake, Jackson County, Michigan
 Greensburg, Pennsylvania
 
 - St. Emma Monastery and Retreat House (1001 Harvey Street)
+
   - Shrine of St. Walburga (just inside the parking lot)
 
 Gretna, Sarpy County, Nebraska
 
 - Holy Family Shrine (23132 Pflug Rd.)
 
+Hamtramck, Wayne County, Michigan
+
+- St. Florian Church (2626 Poland Street)
+
+  - Reliquary holding many relics (the parish doesn't have a list to know which ones are in the case)
+
 Hanceville, Cullman County, Alabama
 
 - The Shrine of the Most Blessed Sacrament
-  - Mother Angelica (non-causa)
+
+  - Mother Angelica (née Rita Antoinette Rizzo), d. 3/27/2016 (non-causa)
 
 Hanover, Plymouth County, Massachusetts
 
 - Cardinal Cushing School and Training Center (405 Washington St.)
+
   - Portiuncula Chapel (replica) (final resting place of Richard Cardinal Cushing)
 
 Hanover (Conewago), York County, Pennsylvania
 
 - Basilica of the Sacred Heart (30 Basilica Drive)
+
   - Oldest Catholic church built of stone in the US
+
   - First church dedicated to the Sacred Heart in the US
 
 Harrisburg, Pennsylvania
@@ -829,12 +882,20 @@ Ironton, Lawrence County, Ohio
 Isanti, Isanti County, Minnesota
 
 - St. Elizabeth Ann Seton Church (207 Whiskey Road NW)(church may be closing as of 2026)
+
   - Rosary Shrine
 
 Isle La Motte, Grand Isle County, Vermont
 
 - The Mission of Saint Anne's Shrine (92 St Annes Road)
+
   - St. Anne's Shrine
+
+Isleta Pueblo, New Mexico
+
+- St. Augustine Church (71 Tribal Road 35)
+
+  - Shrine of St. Kateri Tekakwitha
 
 Jasper, Dubois County, Indiana
 
@@ -911,27 +972,33 @@ Kirkwood, Missouri
 Kodiak, Alaska
 
 - Holy Resurrection Russian Orthodox Cathedral,
+
   - St. Herman, missionary, 8/9
 
-L'Anse, Baraga County, Michigan
+L’Anse, Baraga County, Michigan
 
-- Shrine of the Snowshoe Priest (17570 US Highway 41)
+- Shrine of the Snowshoe Priest/Bishop Baraga Shrine (17570 US Highway 41)
 
 La Crosse, Wisconsin
 
 - St. James the Lesser Church (1032 Caledonia St.)
+
   - Many relics
 
 Lakeport, Clair County, Michigan
 
 - St. Edward on the Lake Church (6945 Lakeshore Road)
+
   - Shrine of Our Lady of Fatima
 
 Lackawanna, New York (near Buffalo)
 
 - Our Lady of Bistrica Croatian Church (1619 Abbot Road)
+
   - Shrine of Our Lady of Bistrica
+
 - The Shrine of Our Lady of Victory (South Park Avenue and Ridge Road)
+
   - Ven. Msgr. Nelson Baker, priest, d. 7/29/1936
 
 Lafayette, Tippecanoe County, Indiana
@@ -1621,20 +1688,27 @@ St. Anne, Kankakee County, Illinois
 St. Augustine, Florida
 
 - St. Augustine Church
+
   - Somewhere here are buried two early martyred priests of the United States
+
 - Mission Nombre de Dios (89 A1A Scenic and Historic Coastal Byway)
-  - National Shrine of Our Lady of La Leche (first shrine to Our Lady in the US)
+
+   - National Shrine of Our Lady of La Leche (oldest shrine to Our Lady in the US)
+
   - Site of the first Christmas Mass celebrated in what is now the US.
+
 - Site of the first Mass said in the United States (near Castillo de San Marcos)
 
 St. Charles, St. Charles County, Missouri
 
 - Shrine of St. Rose Philippine Duchesne
+
   - St. Rose Philippine Duschene, foundress, 11/18
 
 St. Cloud, Stearns County, Minnesota
 
 - St. Mary Cathedral (25 8<sup>th</sup> Avenue S)
+
   - Shrine of St. Cloud (relics only)
   - The True Cross (fragment only)
 
@@ -1766,21 +1840,39 @@ Santa Cruz, New Mexico
 
 Santa Fe, New Mexico
 
-- Cathedral of St. Francis
+- Cathedral Basilica of St. Francis of Assisi (131 Cathedral Place)
+
   - Bro. Juan de Jesus, OFM, martyr, d. 8/11/1680
-  - La Conquistadora Statue
-- Loretto Chapel
+
+  - La Conquistadora/Our Lady of Peace Statue
+
+  - Reliquary in the Chapel of La Conquistadora
+
+  - Tomb of Archbishop Jean-Baptiste Lamy (non-causa; inspiration for the prelate in Willa Cather’s Death Comes for the Archbishop)
+
+- Nuestra Señora de Guadalupe (100 South Guadalupe Street)
+
+  - Oldest shrine to Our Lady of Guadalupe in the US
+
+- San Miguel Chapel (401 Old Santa Fe Trail)
+
+  - Historic San José bell (visitors often leave small silver *milagros*, i.e., votive offerings, on its support beams)
+
+- Loretto Chapel (207 Old Santa Fe Trail)
+
   - Miraculous St. Joseph staircase
 
 Santa Monica, Los Angeles, California
 
 - St. Anne Church (2011 Colorado Avenue)
+
   - St. Anne Shrine
 
 Saragosa, Reeves County, Texas
 
 - Our Lady of Guadalupe Church (Highway 17 S.)
-  - Shrine of Our Lady of Guadalupe Church
+
+  - Shrine of Our Lady of Guadalupe
 
 Sauk Centre, Stearns County, Minnesota
 
