@@ -1862,7 +1862,14 @@ La Chaise-Dieu, Département du Haute-Loire, Auvergne-Rhône-Alpes Region
 LaChambre, Département de la Moselle, Lorraine Region
 
 - ???
+
   - St. Aper, 12/5
+
+La Chapelle-Montligeon, Mortagne-au-Perche arrondissement, Orne department, Normandie region
+
+- Sanctuaire Notre-Dame de Montligeon/Shrine of Our Lady of Montligeon (26 rue Principale)
+
+  - Center for prayers for the dead. It is the world center of prayer for the deceased.
 
 La Chapelle-Saint-Mesmin, Saint-Jean-de-la-Ruelle canton, Orléans arrondissement, Loiret department, Centre-Val de Loire region
 
@@ -2006,21 +2013,27 @@ La Roche-sur-Foron, Haute-Savoie
 La Roche-Jaudy (formerly Pouldouran), Côtes-d'Armor department, Bretagne region
 
 - ???
+
   - St. Ruelin/Rivelin de Tréguier, bishop, 2/28
 
 La Salette-Fallavaux, Grenoble arrondissement, Isère department, Auvergne-Rhône-Alpes region
 
 - Sanctuaire Notre-Dame de la Salette/Shrine of La Sallette
+
   - Our Lady of La Sallette apparition, 9/24
+
+  - Ven. Jean-Baptiste Berthier, MS, priest/founder, d. 10/16/1908
 
 La Séauve-sur-Semène, Yssingeaux arrondissement, Haute-Loire department, Auvergne-Rhône-Alpes region
 
 - Abbaye de la Sauve-Bénite
+
   - St. Margaret (aka, Margarita, Margherita, Marguerite the Englishwoman) of England, nun, 2/3
 
 La Seyne-sur-Mer, Toulon arrondissement, Var department, Provence-Alpes-Côte d'Azur region
 
 - Cimetière de La Seyne-sur-Mer (1 Boulevard Maréchal Juin)
+
   - Servant of God Anne-Gabrielle Caron, child, d. 7/23/2010
 
 Larchant, Nemours canton, Fontainebleau arrondissement, Seine-et-Marne department, Île-de-France region
@@ -2032,6 +2045,17 @@ La-Roche-sur-Yon, Vendée department, Pays de la Loire region
 
 - ???
   - St. Léone/Leonius of Poitiers, priest, 2/3 (relics scattered by Protestants)
+
+La Salette-Fallavaux, Grenoble arrondissement, Isère department, Auvergne-Rhône-Alpes region
+
+- Sanctuaire Notre-Dame de la Salette (11459 Route du Sanctuaire)
+
+  - Ven. Jean-Baptiste Berthier, MS, priest/founder, d. 10/16/1908
+
+La Séauve-sur-Semène, Yssingeaux arrondissement, Haute-Loire department, Auvergne-Rhône-Alpes region
+
+- Abbaye de la Sauve-Bénite/Abbey of Sauvebénite
+  - St. Margaret of England, O.Cist., nun, 2/3
 
 Lassay-les-Châteaux, Mayenne department, Pays de la Loire region
 
@@ -2229,11 +2253,6 @@ Les Arcs, Var department, Provence-Alpes-Côte d'Azur region
 - Abbaye de la Celle-Roubaud/Chartreuse de la Celle-Roubaud/Abbey of Celle-Roubaud/Charterhouse of la Celle-Roubaud
   - Bl. Rosaline de Villeneuve, O.Cart., prioress, 1/17 (Chapelle Sainte Roseline)
 
-La Séauve-sur-Semène, Yssingeaux arrondissement, Haute-Loire department, Auvergne-Rhône-Alpes region
-
-- Abbaye de la Sauve-Bénite/Abbey of Sauvebénite
-  - St. Margaret of England, O.Cist., nun, 2/3
-
 Lescar, Gave et Terres du Pont-Long canton, Pau arrondissement, Pyrénées-Atlantiques department, Nouvelle-Aquitaine region
 
 - Cathédrale Notre-Dame-de-l'Assomption
@@ -2245,7 +2264,7 @@ Lesquielles-Saint-Germain, Vervins arrondissement, Aisne department, Hauts-de-Fr
   - St. Grimonia/Grimonie of Picardy/de La Capelle, anchoress, martyr, 9/7 & 4/20
   - St. Preuve de Laon, young girl martyr, 4/28 & 4/20
 
-Lévignac, Haute Garonne
+Lévignac, Toulouse arrondissement, Haute Garonne department, Occitanie region
 
 - Abbaye Sainte-Marie-du-Désert
   - Bl. Marie-Joseph (aka, Pierre-Joseph) Cassant, priest, 6/17
@@ -2264,7 +2283,12 @@ Liessies, Fourmies canton, Avesnes-sur-Helpe arrondissement, Nord department, Ha
 
 Lille, Nord department, Hauts-de-France region
 
-- Basilica of Notre-Dame de la Treille
+- Notre-Dame de la Treille Cathedral (Place Gilleson)
+
+ - Servant of God Camille Féron-Vrau, physician/university founder, d. 3/30/1908
+  
+  - Servant of God Philibert Vrau, industrialist, d. 5/16/1905
+
   - Notre-Dame de la Treille / Our Lady of the Trellis, miraculous statue, 6/14
 
 Limeuil, Périgord Central canton, Sarlat-la-Canéda arrondissement, Dordogne department, Nouvelle-Aquitaine region
@@ -2275,8 +2299,11 @@ Limeuil, Périgord Central canton, Sarlat-la-Canéda arrondissement, Dordogne de
 Limoges, Haute-Vienne department, Nouvelle-Aquitaine region
 
 - Église Saint-Michel-des-Lions
+
   - St. Martial of Limoges, missionary bishop, 6/30
+
   - St. Valerie of Limoges, martyr, 12/9
+
 - ???
   - St. Alpinian of Limoges, priest, 6/30
   - St. Asclepius of Limoges, bishop, 1/2 (possibly at the church of Saint-Bonnet)
@@ -3021,6 +3048,8 @@ Paris
   - Servant of God François-Marie-Benjamin Richard de la Vergne, cardinal/archbishop, d. 1/27/1908
   - St. Justus of Beauvais, boy martyr, 10/18
   - St. Lucanus, martyr, 10/30
+- Basilique du Sacré-Cœur/Basilica of the Sacred Heart (35 Rue du Chevalier de la Barre in the 18th arrondissement [Montmartre])
+  - Servant of God François-Marie-Benjamin Richard de la Vergne, cardinal, d. 1/28/1909
 - Sainte Chapelle (on the Ile de la Cité, near Notre Dame)
   - Pilgrimage site
 - Basilica of Saint-Denis/Basilique Saint-Denys d'Argenteuil
