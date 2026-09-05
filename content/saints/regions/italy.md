@@ -311,7 +311,7 @@ Alghero, Island of Sardinia
 
 Alì Terme, Metropolitan City of Messina, Sicily
 
-- Chiesa dell'Istituto Maria Ausiliatrice
+- Chiesa dell’Istituto Maria Ausiliatrice (Via Francesco Crispi, 171/173)
 
   - Bl. Maddalena Caterina Morano, FMA, religious, 3/26
 
@@ -1854,6 +1854,10 @@ Brescia, Province of Brescia, Lombardy region
 - Motherhouse, Ancelle della carità (via Moretto, 33)
 
   - Bl. Lucia dell'Immacolata (née Maria) Ripamonti, religious, 7/4
+
+- Casa Madre di Suore delle Poverelle (Via San Bernardino, 56)
+
+  - Ven. Maria Teresa Gabrieli, SdPIP, foundress, d. 2/6/1908
 
 - Cimitero Vantiniano (Via Moretto, 33)
 
@@ -4800,19 +4804,16 @@ Genoa (Genova)
 
 - Cattedrale di San Lorenzo/Cathedral of St. Lawrence
 
-  - Ss. Felix, Valentine, and Romulus (10/13), bishops, 11/6 (relics
-    only)
+  - Ss. Felix, Valentine, and Romulus (10/13), bishops, 11/6 (relics only)
 
   - St. Siro, bishop, July 7
 
 - La basilica e abbazia di Santa Maria Immacolata/Chiesa della SS. Concezione e del Padre Santo/Chiesa dell\'Immacolata 
   Concezione/Immaculate Conception church (Via Assarotti, 24)
 
-  - St. Francesco Maria da Camporosso (née Giovanni Croese), OFM Cap.,
-    religious, 9/17
+  - St. Francesco Maria da Camporosso (née Giovanni Croese), OFM Cap., religious, 9/17
 
-  - Ven. Umile da Genoa (née Giovanni Giuseppe Bonzi), OFM Cap.,
-    priest/founder, d. 2/9/1969
+  - Ven. Umile da Genoa (née Giovanni Giuseppe Bonzi), OFM Cap., priest/founder, d. 2/9/1969
 
 - Basilica dei Dodici Apostoli/San Siro
 
@@ -4889,7 +4890,7 @@ Genoa (Genova)
 
   - Bl. Maria Repetto, religious1/5
 
-- Cimitero monumentale di Staglieno
+- Cimitero monumentale di Staglieno/Staglieno Cemetery (Piazzale Giovanni Battista Resasco, 2)
 
   - Servant of God Aldo "Bisagno" Gastaldi, layman/partisan, 5/21/1945
 
