@@ -81,6 +81,8 @@ Auriesville, Montgomery County, New York (41 miles west of Albany)
 
   - St. Isaac Jogues, priest/martyr
 
+  - St. René Goupil, Jesuit volunteer/martyr, 9/26 (The precise spot of his remains has never been rediscovered, so the entire ravine is treated as his resting place and a natural reliquary.)
+
 Baltimore, Maryland
 
 - Our Lady of Mount Providence Convent Chapel (701 Gun Road)
@@ -2313,6 +2315,9 @@ Midland, Simcoe County, Ontario
   - St. Charles Garnier, martyr, 9/26 & 10/19
   - St. Gabriel Lalemant, martyr, 9/26 & 10/19
   - St. Jean de Brébeuf, martyr, 9/26 & 10/19
+  - St. René Goupil, Jesuit volunteer/martyr, 9/26 (relic only)
+- St. Marie Among the Hurons
+  - Site of the of Jesuits original mission center in 1639
 
 Montreal
 
@@ -2462,6 +2467,12 @@ Varennes, Monteregie Region, Quebec
 - Sainte-Anne de Varennes Basilica
 
   - St. Marie-Marguerite d'Youville, SGM, foundress, 10/16 & 12/23
+
+Waubaushene/Tay Township, Ontario
+
+- Mission of St. Ignace II National Historic Site (1645 Rosemount Road)(44.71935° N; -79.71793° W)
+
+  - Site of the martyrdoms of Ss. Jean de Brébeuf and Gabriel Lalemant
 
 Winnipeg, Manitoba
 
