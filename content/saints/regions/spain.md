@@ -635,13 +635,15 @@ Avila/Ávila,
 
 - Catedral de Cristo Salvador/Cathedral
 
-  - Bl. Damián Gómez Jiménez, priest/martyr, 8/19 (capilla de los
-    mártires/chapel of the martyrs) (relics only)
+  - Bl. Damián Gómez Jiménez, priest/martyr, 8/19 (capilla de los mártires/chapel of the martyrs) (relics only)
 
   - Bl. José García Librán, priest/martyr, 8/14
 
-  - Bl. Juan Mesonero Huerta, priest/martyr, 8/15 (capilla de los
-    mártires/chapel of the martyrs)
+  - Bl. Juan Mesonero Huerta, priest/martyr, 8/15 (capilla de los mártires/chapel of the martyrs)
+
+- Santuario de Nuestra Señora de Sonsoles/Our Lady of Sonsoles (Carretera de Toledo [N-403])
+
+	- Statue of Our Lady of Sonsoles (It is traditional to enter the shrine barefoot.)
 
 - Basilica de los Santos Hermanos Mártires, Vicente, Sabina y Cristeta (aka, Basilica de San Vicente)
 
@@ -667,10 +669,9 @@ Avila/Ávila,
 
   - Bl. Diego de Saldana, bishop, 5/11
 
-Ayegui -- Aiegi, Eastern Estella region, Estella Merindad, Navarre
-Province, Navarre autonomous community
+Ayegui -- Aiegi, Eastern Estella region, Estella Merindad, Navarre Province, Navarre autonomous community
 
-Monasterio de Santa María la Real de Irache
+- Monasterio de Santa María la Real de Irache
 
   - St. Veremundo/Bermudo, abbot, 3/8
 
@@ -3906,32 +3907,29 @@ Las Palmas de Gran Canaria, Canary Islands
   - Servant of God Buenaventura Codina y Augerolas, bishop, d. 11/18/1857
     (incorrupt)
 
+- Capilla de la Comunidad de San José/Chapel of the Community of San José (Paseo de San José, 107A)
+
+	- Servant of God José Cueto y Díez de la Maza, OP, bishop/founder, d. 8/17/1908
+
 - ???
 
   - Ven. Antonio Vicente González Suárez, priest, d. 6/22/1851
 
-  - Servant of God Catalina de San Mateo de La Concepción (Catalina de
-    Balboa y Ugarte), religious, d. 5/26/1695
+  - Servant of God Catalina de San Mateo de La Concepción (Catalina de Balboa y Ugarte), religious, d. 5/26/1695
 
-  - Servant of God José María Cueto y Díez de la Maza, OP, bishop/foundress,
-    d. 8/17/1908 (maybe at the cathedral)
+  - Servant of God José María Cueto y Díez de la Maza, OP, bishop/foundress, d. 8/17/1908 (maybe at the cathedral)
 
-  - Servant of God Petronila de San Esteban Montgruí y Covos, religious, d.
-    9/7/1759
+  - Servant of God Petronila de San Esteban Montgruí y Covos, religious, d. 9/7/1759
 
 Las Rozas de Madrid, Madrid autonomous community
 
-- Capilla de la Curia de Las Rozas de Madrid/Chapel of the Curia of Las
-  Rozas de Madrid (Misioneras de Cristo Sacerdote, C/ María Dolores
-  Segarra, 1, 28231 Las Rozas de Madrid)
+- Capilla de la Curia de Las Rozas de Madrid/Chapel of the Curia of Las Rozas de Madrid (Misioneras de Cristo Sacerdote, C/ María Dolores Segarra, 1, 28231 Las Rozas de Madrid)
 
-  - Ven. María Dolores Segarra Gestoso, religious/founder, d. 3/1/1959 (in
-    the crypt)
+  - Ven. María Dolores Segarra Gestoso, religious/founder, d. 3/1/1959 (in the crypt)
 
 - Cementerio de Las Rozas
 
-  - Servant of God Ignacio Echeverría Miralles de Imperial, murdered
-    layman/"the skateboard hero", d. 6/3/2017
+  - Servant of God Ignacio Echeverría Miralles de Imperial, murdered layman/"the skateboard hero", d. 6/3/2017
 
 La Vid, Province of Burgos, Castilla y León region
 
@@ -7778,14 +7776,17 @@ Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
   - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious,
     5/28
 
-> La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la calle Cervantes)
+- La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la calle Cervantes)
 
   - Bl. José Torres Padilla, priest/theologian, d. 4/23/1878
 
+- Colegio Sagrado Corazón/Sacred Heart School (C. Virgen de los Buenos Libros, 2, Casco Antiguo)
+
+	- Ven. María Teresa del Corazón de Jesús (née Celia) Méndez Delgado, ADC, cofoundress, d. 6/2/1908 (in the Capilla de la Inmaculada/Chapel of the Immaculate Conception)
+
 - ???
 
-  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns,
-    10/7
+  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns, 10/7
 
   - Ss. Germanus and Servandus of Cadiz, soldiers, 10/23
 
@@ -7793,8 +7794,7 @@ Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
 
   - St. Laureano, bishop/martyr, 7/4
 
-  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious,
-    10/31
+  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious, 10/31
 
 Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha autonomous community
 
