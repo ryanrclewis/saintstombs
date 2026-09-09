@@ -1,8 +1,10 @@
+# Belgium
+
 Aalst, East Flanders Province, Flemish region
 
 - Abdij van Sint-Cornelius en Sint-Cyprianus/Ninove Abbey
 
-- Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
+  - Bl. Arnulf of Velseca, O.Praem., monk, 6/9 (tomb likely lost)
 
 Affligem, Hekelgem section, Province of Flemish Brabant
 
@@ -119,8 +121,7 @@ Borgloon, Tongeren arrondissement, Province of Limburg
   - St. Lutgardis, religious, 6/16 (her praying chair only; oldest piece of
     furniture in Belgium)
 
-Brogne (aka, Saint-Gérard village), municipality of Mettet, Namur
-province
+Brogne (aka, Saint-Gérard village), municipality of Mettet, Namur province
 
 - Abbaye Saint-Gérard de Brogne
 
@@ -281,12 +282,11 @@ Dinant, Namur province, Région wallonne
 
   - St. Siard of Friesland, O.Praem, abbot, 11/14 (relics only)
 
-kollegiatskirken Sainte-Marie
+- Kollegiatskirken Sainte-Marie
 
   - St. Perpetuus of Tongeren, bishop, 11/4
 
-- Chapelle des Sœurs de la Sainte Famille du Sacré-Cœur/Chapel of the
-  Sisters of the Holy Family of the Sacred Heart
+- Chapelle des Sœurs de la Sainte Famille du Sacré-Cœur/Chapel of the Sisters of the Holy Family of the Sacred Heart
 
   - Bl. Eugénie Joubert, religious, 7/2
 
@@ -538,8 +538,7 @@ Walloon-Brabant, Walloon region
   - Bl. Ida of Nivelles, O.Cist., religious/mystic, 12/12 (grave likely
     lost)
 
-Koksijde-Bains, Koksijde, Veurne arrondissement, Province of West
-Flanders
+Koksijde-Bains, Koksijde, Veurne arrondissement, Province of West Flanders
 
 Notre-Dame des Dunes
 
@@ -682,14 +681,13 @@ Louvain/Leuven, Province of Flemish Brabant
 
 - Sint-Pieterskerk/Collegiate Church of St. Peter
 
-Our Lady of Louvain/Sedes Sapientiae, 2/6
+  - Our Lady of Louvain/Sedes Sapientiae, 2/6
 
   - Bl. Margaret of Louvain, teenage murder victim, 9/2
 
-Large reliquaries of Ss. Peter, Paul, Anthony, and Lawrence among other
-saints
+  - Large reliquaries of Ss. Peter, Paul, Anthony, and Lawrence among other saints
 
-De Sint-antoniuskapel op het Pater Damiaanplein
+- De Sint-antoniuskapel op het Pater Damiaanplein
 
   - St. Damian de Veuster of Molokai, SS CC, priest, 5/10
 
@@ -700,12 +698,11 @@ De Sint-antoniuskapel op het Pater Damiaanplein
 
 Maaseik, Province of Limburg
 
-De schatkamer van de Sint-Catharinakerk/The treasury of St. Catherine's
-church
+- De schatkamer van de Sint-Catharinakerk/The treasury of St. Catherine's church
 
-- St. Harlindis/Herlindis, abbess, 10/12 (vestments and reliquary only)
-
-- St. Relindis of Maaseik, abbess, 2/6 (vestments and reliquary only)
+  - St. Harlindis/Herlindis, abbess, 10/12 (vestments and reliquary only)
+  
+  - St. Relindis of Maaseik, abbess, 2/6 (vestments and reliquary only)
 
 Malonne, Namur arrondissement, Province of Namur, Wallonia region
 
@@ -792,13 +789,25 @@ Mortsel, Province of Antwerp, Flemish region
 
   - St. Hatebrand, OSB, abbot, 7/30
 
+Mouscron/Moeskroen, Tournai-Mouscron arrondissement, Province of Hainault, Wallonia region
+
+- Église du Sacré-Cœur/Church of the Sacred Heart (Rue de la Station, 108)
+
+  - Ven. Karl Maria (née Karl Halfdan) Schilling, CRSP, priest, d 1/2/1907
+
 Moustier-sur-Sambre, Nivelles
 
 - Saint-Frédégand Church
 
   - St. Fredegand, abbot, 7/21
 
-Munsterbilzen
+Munsterbilzen deelgemeente, Bilzen-Hoeselt, Tongeren arrondissement, Province of Limburg
+
+- Parochiekerk Onze-Lieve-Vrouw-Tenhemelopneming/Church of Our Lady's Assumption (Scapulierstraat/Abdijstraat, 3740)
+
+  - St. Landrada, OSB, abbess, 7/8
+  
+  - St. Amor of Aquitaine, abbot, 10/8
 
 Namur, Province of Namur, Wallonia region
 
