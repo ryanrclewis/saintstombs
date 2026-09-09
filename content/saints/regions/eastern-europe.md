@@ -10,8 +10,7 @@ Dajç, Shkodër County
 
 - ???
 
-  - Bl. Marin Shkurti, priest/martyr, 4/1 (he was shot here, but is he
-    buried here?)
+  - Bl. Marin Shkurti, priest/martyr, 4/1 (He was shot here, but is he buried here? It's very possible that no known, marked grave exists for him.)
 
 Durrës/Durazzo, Northern Albania
 
@@ -2065,7 +2064,7 @@ Czerna village, Gmina Krzeszowice, Kraków County, Małopolskie/Lesser Poland Vo
 
 - Czerna Convent, Chapel of Saint John of the Cross
 
-  - St. Raphael Kalinowski of St. Joseph, OCD, friar, 11/15
+  - St. Rafał od św. Józefa (née Józef) Kalinowski, OCD, friar, 11/15
 
 - Klasztorze Karmelitów w Czernej/Czerna Convent graveyard
 
@@ -2272,9 +2271,13 @@ Kętrzyn (German: Rastenburg), Kętrzyn County, Warmian--Masurian Voivodeship
 
 Kęty, Oświęcim county, Lesser Poland voivodeship
 
-- Saints Małgorzata and Katarzyna (Margaret and Katherine) Church
+- Kościół Świętych Małgorzaty i Katarzyny/Church of Saints Margaret and Catherine (ul. Adama Mickiewicza 4/4 Adam Mickiewicz Street)
 
-  - Bl. Celina Chludzińska-Borzęcka, CR, wife/mother/widow/foundress, 10/26
+  - Icon of Matki Bożej Pocieszenia/Our Lady of Consolation
+
+  - Bl. Celina Chludzińska-Borzęcka, CR, wife/mother/widow/cofoundress, 10/26
+
+  - Ven. Jadwiga Borzęcka, CR, cofoundress, d. 9/26/1906
 
 - Klasztor Sióstr Klarysek od Wieczystej Adoracji /Sanktuarium Wieczystej Adoracji Najświętszego Serca/Sanctuary of Perpetual Adoration of the Sacred Heart (Tadeusza Kościuszki 6) 
 
@@ -5083,6 +5086,10 @@ Lviv/Lwow
 - Kościół św. Andrzeja i klasztor Bernardynów/Catholic Church of St. Andrew and the Bernardine Monastery
 
   - St. Jan z Dukli/Jan of Dukla, OFM, priest, 10/3
+
+- Храм Святого Іоана Золотоустого/Kościół Serca Pana Jezusa i klasztor Franciszkanek/Church of the Sacred Heart of Jesus and the Franciscan monastery (Лисенка М., 43/M. Łysenki 43/43 M. Lysenka Street)
+
+  - Servant of God Марія від Хреста (уроджена Людвіка) Наленч-Моравська/Maria od Krzyża (née Ludwika) Nałęcz-Morawska, OCPA, religious, d. 1/26/1906
 
 - Янівський цвинтар/Janów/Janowski Cemetery
 
