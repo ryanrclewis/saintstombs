@@ -100,20 +100,6 @@ Collégiale Saint-Ursmer de Binche
 
   - St. Amalberga (Amélie) of Maubeuge, abbess/noblewoman, 6/10 and 7/10
 
-Bilzen, Tongeren arrondissement, Province of Limburg, Flemish region
-
-- Abdij van Munsterbilzen/Munsterbilzen Abbey (mostly gone because of the
-  French Revolution)
-
-- St. Amor of Aquitaine, hermit/founder of this abbey, 10/8 (grave likely
-  lost)
-
-Blandijnberg
-
-- Abbey of Saint-Pierre
-
-  - St. Amelberga, abbess, 7/8
-
 Borgloon, Tongeren arrondissement, Province of Limburg
 
 - St. Odulfus Church
@@ -374,28 +360,23 @@ Ghent, Ghent Arrondissement, East Flanders
 
   - St. Bavo, nobleman/hermit, 10/1 (he was buried here; is he still?)
 
-- St. Columban of Ghent, hermit, 2/2 or 2/15 (in the Blessed Mary chapel,
-  St. Andrew altar)
+  - St. Columban of Ghent, hermit, 2/2 or 2/15 (in the Blessed Mary chapel, St. Andrew altar)
 
-  - St. Landrada, abbess, 7/8
-
-  - St. Macarius of Antioch/Macaire d'Antioche, ex-patriarch/abbot, 4/10 &
-    5/8
+   - St. Macarius of Antioch/Macaire d'Antioche, ex-patriarch/abbot, 4/10 &     5/8
 
   - St. Pharaildes, 1/4
 
-The Ghent Altarpiece
+  - The Ghent Altarpiece
 
 Sainte Collette/Sint-Coleta
 
   - Bl. Edward Joannes Maria Poppe, priest, 6/10 (a relic only, if anything)
 
-- Abbey Church of St. Peter
+- Onze-Lieve-Vrouw-Sint-Pieterskerk/Abbey Church of St. Peter (Sint-Pietersplein, on Blandijnberg hill)
 
-  - St. Amalberga of Temse, noblewoman/nun, 7/10
+  - St. Amalberga of Temse, noblewoman/nun, 7/10 and 10/27
 
-  - St. Bertulph of Renty, convert/priest/abbot, 2/5 (relics destroyed by
-    the Huguenots)
+  - St. Bertulph of Renty, convert/priest/abbot, 2/5 (relics destroyed by the Huguenots)
 
   - St. Christiana of Termonde, confessor, 7/26 (relics only)
 
