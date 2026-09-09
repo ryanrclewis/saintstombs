@@ -1340,12 +1340,13 @@ Dijon
   - St. Hilaire de Dijon, senator, husband, and father
   - St. Quieta de Dijon, wife and mother
   - St. Tranquillus, abbot, 3/15
+- Église Saint-Michel (5 place Saint-Michel)
+  - St. Élisabeth de la Trinité/Elizabeth of the Trinity (née Élisabeth) Catez, OCD, religious, 11/8
 - St. Philibert, three levels of churches dating to the 10<sup>th</sup> century.
 - Musée d'Art Sacré de Dijon
   - St. Benignus (aka, Bénigne) of Dijon, bishop, martyr, 11/1 (relics)
 - ???
   - St. Bertile of Langres, abbot/martyr, 3/26
-  - rBl. Elisabeth de la Trinité/Elizabeth of the Trinity Catez, (discalced Carmelite), 11/8
   - St. Eustade/Eustadius, abbot, 1/3
   - St. Jacques de Toul, bishop, 6/23 (he died here, but where is he buried?)
   - St. Paschasie/Paschasia of Dijon, consecrated woman/martyr, 1/9
@@ -1507,7 +1508,13 @@ Ferrières-en-Gâtinais, Montargis arrondissement, Loiret department, Centre-Val
 - Abbaye de Ferrières/Ferrières Abbey
   - St. Alderic/Aldric/Aldericus of Sens, archbishop, 10/10 (the Huguenots scattered most of his relics; some may still remain)
 
-Flavigny-sur-Ozeraine, Côte d'Or
+Flavignerot, Dijon arrondissement, Côte-d’Or department, Bourgogne-Franche-Comté region
+
+- Carmel de Dijon à Flavignerot (3 chemin de la Rente Neuve)
+
+  - St. Élisabeth de la Trinité/Elizabeth of the Trinity (née Élisabeth) Catez, OCD, religious, 11/8 (relic only)
+
+Flavigny-sur-Ozeraine, Côte d'Or department, Bourgogne-Franche-Comté region
 
 - Church
   - St. Fermin of Verdun, bishop, 5/4
@@ -3239,7 +3246,7 @@ Parthenay, Deux-Sèvres department, Nouvelle-Aquitaine region
 Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine
 
 - Le cimetière communal de Pau
-  - Ven. Veronica of the Passion (nee Sophia Leeves), OCD, religious/foundress, d. 11/16/1906
+  - Ven. Véronique de la Passion (née Sophia) Leeves, OCD, religious/foundress, d. 11/16/1906
 
 Pavilly, Seine-Maritime department, Haute-Normandie region
 
