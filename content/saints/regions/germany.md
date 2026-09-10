@@ -2513,7 +2513,7 @@ Waldbreitbach, Neuwied, Rheinland-Palatinate state
 
 - Kirche des Mutterhauses der Franziskanerinnen der Seligen Jungfrau Maria vom Engel/Church of the Motherhouse of the Franciscan Sisters of the Blessed Virgin Mary of the Angels
 
-  - Bl. Margaretha Flesche, foundress, 3/25
+  - Bl. Maria Rosa (née Margaretha) Flesch, FBMVA, foundress, 3/25
 
 Walldürn, Neckar-Odenwald-Kreis district, Karlsruhe region, Baden-Württemberg state
 
