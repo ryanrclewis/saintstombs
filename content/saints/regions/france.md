@@ -1400,11 +1400,6 @@ Durieu (no such town exists anymore)
 
   - St. Leger (Leodegar), bishop, martyr, 10/2
 
-Escolives-Sainte-Camille (Ecoulives), Auxerre district, Yonne department, Burgundy-Franche-Comté
-
-- ??? (A church was built on his tomb which became the crypt. Like her sisters, she was quickly considered a saint by popular enthusiasm (vox populi, vox dei))
-  - St. Camilla, Hermit, 3/3 (relics burned by the Calvinists_
-
 Elan, Champagne-Ardenne
 
 - ???
@@ -1435,6 +1430,11 @@ Eschau, Strasbourg arrondissement, Bas-Rhin department, Grand Est region
   - Bl. Remi of Strasbourg, bishop, 3/20
   - St. Sophie of Rome, martyr, 5/15 & 9/17
 
+Escolives-Sainte-Camille (Ecoulives), Auxerre district, Yonne department, Burgundy-Franche-Comté
+
+- ??? (A church was built on her tomb which became the crypt. Like her sisters, she was quickly considered a saint by popular enthusiasm (vox populi, vox dei))
+  - St. Camilla, Hermit, 3/3 (relics burned by the Calvinists_
+
 Espalion (formerly Perse?), Lot et Truyère, Rodez arrondissement, Aveyron department, Occitanie region
 
 - ??? (possibly at Église Saint-Hilarian-Sainte-Foy de Perse; they were here but were possibly translated in 1524)
@@ -1450,6 +1450,12 @@ Estaing, Aveyron department, Occitanie region
 - La nécropole nationale d’Étinehem
 
   - Servant of God Philippe Thibaut, military chaplain, d. 9/27/1916
+
+Étrépagny, Eure, Normandie region
+
+- Couvent des Dominicaines de Sainte-Catherine-de-Sienne/Convent of the Dominican Sisters of Saint Catherine of Siena (3, Maison Vatimesnil)
+
+  - Servant of God Saint Dominique de la Croix (née Marie Thérèse Josephine) Gand, OP, d. 2/2/1907
 
 Eu, Dieppe arrondissement, Seine-Maritime department, Normandy region
 
@@ -4598,13 +4604,21 @@ Thiron-Gardais, Nogent-le-Rotrou arrondissement, Eure-et-Loir department, Centre
 - Abbaye de la Sainte-Trinité de Tiron/Abbey of the Holy Trinity of Tiron
   - St. Bernard de Tiron, founder/abbot, 4/14 (grave lost)
 
+Thonon-les-Bains, Marclaz neighborhood, Haute-Savoie department, Auvergne-Rhône-Alpes region
+
+- Monastère de la Visitation/Visitation Nuns Monastery (32 Route de la Visitation)
+
+  - Servant of God Marie-Marthe (née Françoise) Chambon, VSM, religious, d. 3/21/1907
+
 Thuret, Aigueperse canton, Riom arrondissement, Puy-de-Dôme department, Auvergne-Rhône-Alpes region
 
 - Église Saint-Martin (formerly St.-Limin)
-  - Vierge noire/The Black Virgin
-  - St. Limin/Liminius of Auvergne, missionary/martyr, 2/6 (reliquary bust if it's even still here)
 
-Toul
+  - Vierge noire/The Black Virgin
+
+  - St. Limin/Liminius of Auvergne, missionary/martyr, 2/6 (reliquary bust, if it's even still here)
+
+Toul, Meurthe-et-Moselle department, Grand Est region
 
 - Cathédrale Saint-Étienne de Toul
   - St. Apronia/Aprône of Toul (Evronie of Troyes), religious, 7/15 (there was a silver casket containing her remains; is it still there?)
@@ -4638,8 +4652,6 @@ Toulouse
 - Saint-Étienne Cathedral
   - Bl. Jeanne de Toulouse, O. Carm., religious/recluse/foundress of the Carmelite Third Order, 3/31
   - Bl. William of Toulouse/de Naurose, OSA, religious, 5/18 (grave likely lost)
-- Couvent des Jacobins/Church of the Jacobins (deconsecrated; now a museum)
-  - St. Thomas Aquinas, doctor of the Church, 1/28
 - Basilique Saint-Sernin/Dominican church of St. Sernin/Basilica of Saint Sernin
   - St. Aciscle/Acisclus of Córdoba, layman/martyr, 11/17 (reliquary bust and a reliquary chest)
   - St. Exuperius of Toulouse, bishop, 9/28 (relics)
@@ -4652,6 +4664,10 @@ Toulouse
   - St. Sylvius (Selve/Sylve) of Toulouse, bishop, 5/31
   - St. Victoire de Cordoue/Victoria of Cordoba, laywoman/martyr, 11/17 (reliquary bust and reliquary chest)
   - Holy Thorn
+- Couvent des Carmes (33 Avenue Jean Rieux)
+  - Ven. Marie-Antoine de Lavaur (née François Léon) Clergue, OFM Cap., priest, d. 2/8/1907
+- Couvent des Jacobins/Church of the Jacobins (deconsecrated; now a museum)
+  - St. Thomas Aquinas, doctor of the Church, 1/28
 - Musée Paul Dupuy (yes, a museum)
   - St. Exuperius of Toulouse, bishop, 9/28
 - Toulouse Archeology Museum/Musée Saint-Raymond in the chapelle Saint-Raymond
