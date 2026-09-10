@@ -2608,25 +2608,23 @@ Cascina, Province of Pisa, Toscana region
 
   - Bl. Gherardesca of Pisa, consecrated woman, 5/29 & 6/9
 
-Casoria, Province of Naples, Campania region
+Casoria, Metropolitan City of Naples, Campania region
 
-Suore Catechesi del Sacro Cuore di Gesù, Piazza Giovanni Pisa 20
+- Suore Catechesi del Sacro Cuore di Gesù (Piazza Giovanni Pisa 20)
 
   - St. Giulia Salzano, foundress, 5/17
 
-Casa Madre di Suore Francescane Adoratrici della Santa Croce/Franciscan
-Sisters Adorers of the Holy Cross motherhouse (Via Nuova Padre Ludovico
-28)
+- Casa Madre di Suore Francescane Adoratrici della Santa Croce/Franciscan Sisters Adorers of the Holy Cross motherhouse (Via Nuova Padre Ludovico 28)
 
-  - Bl. Maria Luigia del Santissimo Sacramento (née Maria Velotti),
-    foundress, 9/5
+  - Bl. Maria Luigia del Santissimo Sacramento (née Maria Velotti), foundress, 9/5
+
+- La Chiesa delle Suore Vittime Espiatrici di Gesù Sacramentato/Chiesa delle Suore Sacramentine (Via Gioacchino D'Anna, 7)
+
+  - St. Maria Cristina (née Adelaide) dell’Immacolata Concezione Brando, SVEGS, foundress, 1/20
 
 - ???
 
   - St. Guido (aka, Guy) of Casoria, abbot, 11/23 (seb-nothing)
-
-  - St. Maria Cristina dell\'Immacolata Concezione (née Adelaide Brando),
-    SVEGS, religious/foundress, 1/20
 
 Cassano all'Ionio, Province of Cosenza, Calabria autonomous community
 
@@ -12219,8 +12217,7 @@ San Severino Marche, Province of Macerata, Marche region
 
   - Bl. Bentivoglio de Bonis da San Severino Marche, OFM Min., priest, 12/25
 
-- San Mariano in Valle Fabiana/aka, Santa Caterina (“At the foot of the
-hill of the village of Colleluce, along the road which connects San
+- San Mariano in Valle Fabiana/aka, Santa Caterina (“At the foot of the hill of the village of Colleluce, along the road which connects San
 Severino Marche and Serrapetrona”)
 
   - St. Illuminatus of San Severino, confessor, 5/11
@@ -12236,6 +12233,12 @@ Severino Marche and Serrapetrona”)
   - Bl. Bentivoglio de Bonis, 1/2
 
   - Bl. Pellegrino da Falerone, religious, 3/27 (presso il convento di San Severino Marche; buried near the convent of San Severino Marche)
+
+San Pietro di Feletto, Province of Treviso, Veneto region
+
+- Casa Generalizia dell’Istituto Ancelle di Gesù Bambino 
+
+  - Ven. Elena Silvestri, foundress, AdGB, d. 3/12/1907
 
 San Severo, Province of Foggia, Apulia region
 
@@ -12271,8 +12274,7 @@ San Vincenzo Valle Roveto, Province of L'Aquila, Abruzzo region
 
   - Servant of God Filomena Carnevale, laywoman/stigmatist, d. 3/17/1960
 
-San Vincenzo Valle Roveto, San Giovanni Valle Roveto *frazione*,
-Province L’Aquila, Abruzzo region
+San Vincenzo Valle Roveto, San Giovanni Valle Roveto *frazione*, Province L’Aquila, Abruzzo region
 
 - Chiesa dei SS. Giovanni Battista ed Evangelista/Santuario di San Diodato
 
@@ -12284,8 +12286,7 @@ Sannicandro di Bari, Province of Bari, Apulia region
 
   - Servant of God Isabella Chimienti, laywoman, March 14, 1903
 
-Sant’Agata Bolognese, Metropolitan City of Bologna, Emilia-Romagna
-region
+Sant’Agata Bolognese, Metropolitan City of Bologna, Emilia-Romagna region
 
 - ???
 
@@ -12454,9 +12455,9 @@ Sassuolo, Province of Modena, Emilia-Romagna region
 
   - Bl. Maria Rosa di Gesù (née Bruna) Pellesi, religious, 12/1
 
-Savigliano (aka, Savijan), Province of Cuneo, Piedmont
+Savigliano (aka, Savijan), Province of Cuneo, Piemonte
 
-- Casa Madre di Suore di Santa Famiglia di Nazareth
+- Congregazione della Sacra Famiglia di Savigliano (Via San Pietro, 9)
 
   - Bl. Giuseppina Gabriella Bonino, foundress, 2/8
 
@@ -14439,8 +14440,6 @@ San Giorgio Maggiore (Isola di San Giorgio Maggiore/Island of San Giorgio Maggio
 - ???
 
   - Bl. Anna Michiel Giustiniani, OSB, religious, 11/22 (grave unknown)
-
-  - Ven. Elena Silvestri, foundress
 
   - St. Isidore (probably of Chios -- his head)
 
