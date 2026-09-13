@@ -1,3 +1,5 @@
+# Netherlands
+
 Adwerth, Frisia
 
 - ???
@@ -91,12 +93,17 @@ Haske, Bakkeveen, Friesland
 
   - Bl. Dodo of Haske, stigmatist, 3/30
 
+Heerlen, Limburg province
+
+- Gedachteniskapel/Memorial Chapel (Gasthuisstraat 4)
+
+  - Ven. Petrus Joseph Savelberg, priest/founder, d. 2/11/1907
+
 Houtham village, Valkenburg aan de Geul municipality, Province of Limburg
 
 - Sint-Gerlachuskerk
 
-  - St. Gerlach van Houthem/Gerlac of Valkenburg, brigand/convert/hermit,
-    1/5 (in the church, the treasury, and the museum)
+  - St. Gerlach van Houthem/Gerlac of Valkenburg, brigand/convert/hermit, 1/5 (his relics are in the church, the treasury, and the museum)
 
 Maarssen, Stichtse Vecht municipality, Province of Utrecht
 
