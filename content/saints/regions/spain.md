@@ -3440,7 +3440,7 @@ Guadix, Province of Granada, Andalusia autonomous community
 
   - Bl. Manuel Medina Olmos, bishop/martyr, 8/30 & 11/16
 
-	- Servant of God Maximiano Fernández del Rincón Soto y Dávilak, bishop/founder, d. 7/24/1907
+  - Servant of God Maximiano Fernández del Rincón Soto y Dávilak, bishop/founder, d. 7/24/1907
 
 Guardia dels Prats, Tarragona
 
