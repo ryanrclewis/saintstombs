@@ -240,21 +240,19 @@ Alicante, Valencian autonomous community
 
 Alcuéscar, Province of Cáceres, Extremadura autonomous region
 
-La capilla de la Casa de la Misericordia
+- La capilla de la Casa de la Misericordia
 
   - Servant of God Leocadio Galán Barrena, priest/founder, d. 1/27/1990
 
 Algar, Province of Cádiz, Andalusia autonomous community
 
-Nuestra Señora Santa María de Guadalupe
+- Nuestra Señora Santa María de Guadalupe
 
   - Servant of God Leonardo Castillo Díaz, priest, d. 3/25/2005
 
-Algemesi/ Algemesí, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Algemesi/Algemesí, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
-- Parish church of Santiago/Basílica de San Jaime (Plaça Major, 1) (St.
-  James)
+- Parish church of Santiago/Basílica de San Jaime (Plaça Major, 1) (St. James)
 
   - Bl. José Ferrer Esteve, SchP, religious/martyr, 9/26
 
