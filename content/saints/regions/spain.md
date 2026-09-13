@@ -136,24 +136,20 @@ Sagrado Corazón de Jesús)
 
   - Bl. Andrés Hibernón Real, Franciscan friar, 4/18 (some relics)
 
-Alcarràs, Segrià comarca, Province of Lleida, Catalonia autonomous
-community
+Alcarràs, Segrià comarca, Province of Lleida, Catalonia autonomous community
 
-- Cementerio Municipal de Alcarràs/Municipal cemetery (Carretera de
-  Vallmanya, s/n)
+- Cementerio Municipal de Alcarràs/Municipal cemetery (Carretera de Vallmanya, s/n)
 
   - Bl. José Camí y Camí, OCSO, postulant/martyr, 7/28
 
-Alcázar de San Juan, Province of Ciudad Real, Castile-La Mancha
-autonomous community
+Alcázar de San Juan, Province of Ciudad Real, Castile-La Mancha autonomous community
 
-Monasterio de la Inmaculada y de Santa Beatriz de Silva
+- Monasterio de la Inmaculada y de Santa Beatriz de Silva
 
   - Servant of God Mercedes de Jesús (née María del Rosario) Egido y
     Izquierdo, OIC, religious, d. 8/3/2004
 
-- Iglesia de la Santísima Trinidad de Alcázar de San Juan/Church of the
-  Holy Trinity
+- Iglesia de la Santísima Trinidad de Alcázar de San Juan/Church of the Holy Trinity
 
   - Bl. Álvaro Santos Cejudo Moreno Chocano, layman/martyr, 9/17
 
@@ -179,15 +175,14 @@ Monasterio de la Inmaculada y de Santa Beatriz de Silva
 
 Alcobendas/Madrid Alcobendas, Madrid autonomous community
 
-Seminario Redemptoris Mater (Carretera del Goloso, km 3, 300)
+- Seminario Redemptoris Mater (Carretera del Goloso, km 3, 300)
 
   - Servant of God Carmen Hernández Barrera, laywoman/cofoundress of the
     Neocatechumenal Way, d. 7/19/2016
 
-Alcorisa, Bajo Aragón comarca, Province or Teruel, Aragon autonomous
-community
+Alcorisa, Bajo Aragón comarca, Province or Teruel, Aragon autonomous community
 
-Cementerio Municipal de Alcorisa (Calle Castillo, s/n)
+- Cementerio Municipal de Alcorisa (Calle Castillo, s/n)
 
   - Bl. Leoncio Pérez Nebreda, CM, priest/martyr, 8/2 (Panteón
     Vicentino/Vincentian pantheon)
@@ -217,8 +212,7 @@ center)
   - Bl. Santiago de Jesús (née Santiago Arriaga Arrien), OSsT,
     priest/martyr, 9/24
 
-Alcoy/Alcoi, Alcoy judicial district, Alcoià comarca, Province of
-Alicante, Valencian autonomous community
+Alcoy/Alcoi, Alcoy judicial district, Alcoià comarca, Province of Alicante, Valencian autonomous community
 
 - Iglesia de San Jorge de Alcoy
 
@@ -299,7 +293,7 @@ Algemesi/Algemesí, Ribera Alta comarca, Province of Valencia, Valencian autonom
 
 Algorta, municipality of Getxo, Province of Biscay, Basque Country
 
-Santo Redentor
+- Santo Redentor
 
   - Bl. Domingo Iturrate y Zubero del Santísimo Sacramento, priest, 11/16
 
@@ -310,13 +304,13 @@ Santo Redentor
 
 Alhama de Granada, Province of Grenada, Andalusia autonomous community
 
-Cementerio Municipal de Alhama de Granada (C. Fuera de la Puerta)
+- Cementerio Municipal de Alhama de Granada (C. Fuera de la Puerta)
 
   - Bl. José Frías Ruiz, priest/martyr, 7/30
 
 Alicante, Province of Alicante, Valencian community
 
-Cementerio de Alicante (Nuestra Señora del Remedio)
+- Cementerio de Alicante (Nuestra Señora del Remedio)
 
   - Ven. Pedro Herrero Rubio, pediatrician, d. 11/5/1978
 
@@ -330,7 +324,7 @@ Cementerio de Alicante (Nuestra Señora del Remedio)
 Allariz, Allariz-Maceda comarca, Province of Ourense, Galicia autonomous
 community
 
-Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
+- Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
 
   - Bl. Garcia Blandez, OFM, 7/20
 
@@ -341,7 +335,7 @@ Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
 Almacelles, Segrià comarca, Province of Lleida, Catalonia autonomous
 region
 
-Cementerio de Almacelles (Carrer de la Tossa, s/n)
+- Cementerio de Almacelles (Carrer de la Tossa, s/n)
 
   - Bl. Jesús Massanet Flaquer, O. de M., priest/martyr, 7/25
 
@@ -359,12 +353,9 @@ Mancha autonomous region
 
 - ???
 
-- Bl. Eduardo Sáinz Lantarón, OP, priest/martyr, 8/14 (either at Iglesia
-  de San Pedro Apóstol \[two sources\], Iglesia de Santo Domingo,
-  Cementerio Municipal de Almagro)
+  - Bl. Eduardo Sáinz Lantarón, OP, priest/martyr, 8/14 (either at Iglesia de San Pedro Apóstol \[two sources\], Iglesia de Santo Domingo, Cementerio Municipal de Almagro)
 
-Almansa, Altiplanicie de Almansa comarca, Province of Albacete,
-Castilla--La Mancha
+Almansa, Altiplanicie de Almansa comarca, Province of Albacete, Castilla--La Mancha
 
 - ???
 
@@ -411,20 +402,17 @@ Andalusia region
   - Bl. Valerio Bernardo (née Marciano) Herrero Martínez, FSC,
     religious/martyr, 8/31 & 11/16 (according to AI)
 
-La capilla del Noviciado de las Siervas de los Pobres en la Avenida
-Madre María Aznar 113/Chapel of the Novitiate of the Servants of the
-Poor on Avenida Madre María Aznar 113
+- La capilla del Noviciado de las Siervas de los Pobres en la Avenida Madre María Aznar 113/Chapel of the Novitiate of the Servants of the Poor on Avenida Madre María Aznar 113
 
   - Servant of God Joaquín Reina Castrillón, priest/founder, d. 9/1/1975
 
-The Dominican parish or the pantheon the Dominican Order has in the city
-cemetery.
+- The Dominican parish or the pantheon the Dominican Order has in the city cemetery.
 
   - Bl. Fernando de Pablos Fernández, OP, religious/martyr, 9/10
 
   - Bl. Tomás Morales Morales, OP, priest/martyr, 8/31
 
-Cementerio de Almería (Calle del Cementerio, s/n)
+- Cementerio de Almería (Calle del Cementerio, s/n)
 
   - Bl. Aquilino Rivera Tamargo, priest/martyr, 11/22 (in the mausoleo de
     los mártires/Mausoleum of the martyrs)
@@ -475,7 +463,7 @@ Cementerio de Almería (Calle del Cementerio, s/n)
 
 Almuñécar, Costa Granadina comarca, Province of Granada
 
-Cementerio de Almuñécar (Calle Francisco Prieto Moreno, 1)
+- Cementerio de Almuñécar (Calle Francisco Prieto Moreno, 1)
 
   - Bl. Francisco Manzano Cruz, priest/martyr, 8/2
 
@@ -484,8 +472,7 @@ Cementerio de Almuñécar (Calle Francisco Prieto Moreno, 1)
 Álora, Valle del Guadalhorce comarca, Province of Málaga, Andalucia
 autonomous community
 
-La Capilla de la residencia de Ancianos "Virgen de Flores" (nº, Av.
-Pablo Ruiz Picasso, 20)
+- La Capilla de la residencia de Ancianos "Virgen de Flores" (nº, Av. Pablo Ruiz Picasso, 20)
 
   - Servant of God Laura (Señorita Laura) Aguirre Hilla, laywoman, d.
     12/31/1986
@@ -497,7 +484,7 @@ autonomous community
 
   - Ss. Bernardo (Hamed), Maria (Zaida), & Grazia (Zoraide), martyrs, 8/21
 
-Cementerio de Alzira
+- Cementerio de Alzira
 
   - Bl. María de la Purificación Vidal Pastor, laywoman/martyr, 9/22
 
@@ -513,7 +500,7 @@ Cementerio de Alzira
 
 Andújar, Province of Jaén, Andalusia autonomous community
 
-Casa de la Trinidad
+- Casa de la Trinidad
 
   - Servants of God Bernardo de Monroy, OSsT, priest/martyr, d. 7/31/1622
 
@@ -529,7 +516,7 @@ Antas, Levante Almeriense comarca, Province of Almeria, Spain
 
 - Ermita de la Virgen de la Cabeza/Hermitage of the Virgen of the Head
 
-Where the pilgrimage of the Virgen de la Cabeza takes place
+  - Where the pilgrimage of the Virgen de la Cabeza takes place
 
 - ???
 
@@ -537,16 +524,11 @@ Where the pilgrimage of the Virgen de la Cabeza takes place
 
 Antequera, Province of Málaga, Andalusia autonomous community
 
-Casa Madre de Hermanas Franciscanas de los Sagrados
-Corazones/Motherhouse Franciscan Sisters of the Sacred Heart (Carrera de
-Madre Carmen, 4; Tel. +34 952 84 12 57)
+- Casa Madre de Hermanas Franciscanas de los Sagrados Corazones/Motherhouse Franciscan Sisters of the Sacred Heart (Carrera de Madre Carmen, 4)
 
-  - Bl. María del Carmen del Niño Jesús (née María del Carmen)
-    González-Ramos García-Prieto de Muñoz (inside the Iglesia de Nuestra
-    Señora de la Victoria/Church of Our Lady of Victory)
+  - Bl. María del Carmen del Niño Jesús (née María del Carmen) González-Ramos García-Prieto de Muñoz (inside the Iglesia de Nuestra Señora de la Victoria/Church of Our Lady of Victory)
 
-Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70
-81 06)
+- Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70 81 06)
 
   - Bl. Ángel de Cañete la Real (née José González Ramos Campos), OFM Cap,
     priest/martyr, 8/6
@@ -566,24 +548,23 @@ Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70
   - Bl. Pacifico de Ronda (née Rafaél Severiano Rodríguez Navarro), OFM
     Cap., religious/martyr, 8/7
 
-Arbeca, Les Garrigues comarca, Province of Lleida, Catalonia autonomous
-community
+Arbeca, Les Garrigues comarca, Province of Lleida, Catalonia autonomous community
 
-Església Sant Jaume (Plaça de l\'Església, 24)
+- Església Sant Jaume (Plaça de l\'Església, 24)
 
   - Bl. Antoni Pedró Minguella, priest/martyr, 8/19
 
 Archena, Vega Media del Segura comarca, Province of Murcia, Murcia
 autonomous community
 
-San Juan Bautista de Archena
+- San Juan Bautista de Archena
 
   - Bl. José Sánchez Medina, priest/martyr, 10/17
 
 Arenas del Rey, Alhama comarca, Province of Granada, Andalusia
 autonomous community
 
-Cementerio de Arenas del Rey
+- Cementerio de Arenas del Rey
 
   - Bl. José María Polo Rejón, priest/martyr, 8/6
 
@@ -621,8 +602,7 @@ Atella, Province of Potenza, Basilicata region
 
   - Bl. Antonio da Bitonto, OFM, preacher/theologian, 9/25
 
-Atzeneta d'Albaida/Adzaneta de Albaida, Vall d\'Albaida comarca,
-Province of Valencia, Valencian autonomous community
+Atzeneta d'Albaida/Adzaneta de Albaida, Vall d\'Albaida comarca, Province of Valencia, Valencian autonomous community
 
 - Parroquia de San Juan Bautista
 
