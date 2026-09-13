@@ -71,8 +71,7 @@ community
   - Bl. Salvador Estrugo Salves, priest/martyr, 8/10 (this is the best
     guess; there's only one other church in town)
 
-Alboquers village, Sant Bartomeu del Grau municipality, Osona comarca,
-Province of Barcelona, Catalonia autonomous community
+Alboquers village, Sant Bartomeu del Grau municipality, Osona comarca, Province of Barcelona, Catalonia autonomous community
 
 - Cementiri/Cimiterio/Cemetery
 
@@ -913,14 +912,11 @@ Sagrada Familia
   - Bl. Martí Tarrés i Puigpelat (aka, Federico de Berga), 2/17 (possible:
     he was superior here when he was martyred)
 
-Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer,
-1571, Sarrià-Sant Gervasi)
+- Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer, 1571, Sarrià-Sant Gervasi)
 
-  - Bl. Remigi del Papiol (née Esteve) Santacana Armengol, OFM Cap.,
-    priest/martyr, 1/22 (his relics are in an urn with 24 other martyrs)
+  - Bl. Remigi del Papiol (née Esteve) Santacana Armengol, OFM Cap., priest/martyr, 1/22 (his relics are in an urn with 24 other martyrs)
 
-- Iglesia del Inmaculado Corazón de María/Església de l'Immaculat Cor de
-  Maria/Immaculate Heart of Mary church
+- Iglesia del Inmaculado Corazón de María/Església de l'Immaculat Cor de Maria/Immaculate Heart of Mary church
 
   - Ven. Jaume Clotet Fabres, cofounder, d. 2/4/1898
 
@@ -970,30 +966,26 @@ Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer,
 
   - Bl. Juan Urgel, O. de M., Mercedarian friar, 8/26
 
-Basílica de la Mercè/Basílica de Nuestra Señora de la Merced (Plaça de
-la Mercè, 1)
+- Basílica de la Mercè/Basílica de Nuestra Señora de la Merced (Plaça de la Mercè, 1)
 
   - Bl. Guillermo of Parma, O. de M., knight, 8/14
 
-Basílica de la Mercè/Basílica de la Merced
+- Basílica de la Mercè/Basílica de la Merced
 
-  - St. María de Cervellón, O. de M., religious, 9/19 (first altar on the
-    right; incorrupt)
+  - St. María de Cervellón, O. de M., religious, 9/19 (first altar on the right; incorrupt)
 
 - Mercedarian Church
 
   - Bl. Henry of Austria, O de M, monk, 3/7
 
-Basílica de Montserrat/Monasterio de Nuestra Senora de Montserrat (08223
-Monestir de Montserrat)
+- Basílica de Montserrat/Monasterio de Nuestra Senora de Montserrat (08223 Monestir de Montserrat)
 
   - Bl. Ambrosi Maria (née Agustí) Busquets Creixell, OSB, priest/martyr,
     8/19 (Cripta de los Monjes Mártires)
 
   - Bl. Bernat (née Jaume) Vendrell Olivella, OSB, religious/martyr, 7/25
 
-- Bl. Domingo/Domènec (née Cipriano) González Millán, OSB, priest/martyr,
-  8/19 (Cripta de los Monjes Mártires)
+	- Bl. Domingo/Domènec (née Cipriano) González Millán, OSB, priest/martyr, 8/19 (Cripta de los Monjes Mártires)
 
   - Bl. Emilià Maria (née Ignasi) Guilà Ximenes, OSB, religious/martyr, 8/19
     (Cripta de los Monjes Mártires)
@@ -1018,7 +1010,7 @@ Monestir de Montserrat)
   - Bl. Placid María (Càndid) Feliu Soler, OSB, priest/martyr, 8/19 (Cripta
     de los Monjes Mártires)
 
-Nuestra Señora de la Mercè
+- Nuestra Señora de la Mercè
 
   - Bl. Maria de Cerevellon, religious, 9/19
 
@@ -1031,38 +1023,33 @@ Nuestra Señora de la Mercè
 
 	- St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (relic only; his mortal remains used to rest here)
 
-Església de Sant Pio X (Carrer de la Garrotxa, 4)
+- Església de Sant Pio X (Carrer de la Garrotxa, 4)
 
   - Bl. Narcís Sitjà Basté, SF, religious/martyr, 8/9
 
-- Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred
-Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
+- Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
-- Bl. Francisco Bandrés Sánchez, SDB, priest/martyr, 8/3 (crypt of the
-  Salesian Martyrs' Chapel)
+	- Bl. Francisco Bandrés Sánchez, SDB, priest/martyr, 8/3 (crypt of the Salesian Martyrs' Chapel)
 
 - San Vicente de Sarría
 
   - Bl. Pere Tarrés i Claret, doctor/priest, 5/30 & 8/31
 
-- Santuari de Sant Josep de la Muntanya
+- Santuari de Sant Josep de la Muntanya (Avinguda del Santuari de Sant Josep de la Muntanya, 25)
 
   - Bl. Petra de Sant Josep (née Ana Josefa) Pérez Florido, foundress, 8/16
 
-- Santuario de María Auxiliadora (Passeig de Sant Joan Bosco, 70,
-  Sarrià-Sant Gervasi)
+- Santuario de María Auxiliadora (Passeig de Sant Joan Bosco, 70, Sarrià-Sant Gervasi)
 
   - Ven. Antonia Dorotea de Chopitea de Villota, social worker, d. 4/3/1891
 
 - Discalced Carmelite Convent
 
-  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín,
-    OCD, religious, d. 1/3/1594 (an arm and a hand only)
+  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín, OCD, religious, d. 1/3/1594 (an arm and a hand only)
 
 - Monasterio Carmelita de la Encarnación, Calle de Panamá, 12
 
-  - Servant of God María Cristina de la Eucaristía Alonso y Alonso, OC, d.
-    5/3/1979
+  - Servant of God María Cristina de la Eucaristía Alonso y Alonso, OC, d. 5/3/1979
 
 - Convento de la Mercè/Convento Mercedario de Santa Eulalia/Mercedarian convent of Saint Eulalia (Plaça de la Mercè, 1)
 
@@ -1086,10 +1073,9 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
   - Bl. Patrocinio (née María) Vilanova Alsina, religious, 7/31
 
-- La cripta de Colegio Mayor Bonaigua/l'Oratori de Bonaigua de Barcelona
+- Casa General de la Congregació de les Serventes de la Passió (Carrer de Llobet i Vall-llosera, 12)
 
-  - Ven. María Montserrat Grases García, teen Opus Dei laywoman, d.
-    3/26/1959
+	- Ven. Teresa Gallifa i Palmarola, SP, foundress, d. 3/17/1907
 
 - Casa Mare de les Germanes Carmelites de Sant Josep
 
@@ -1106,25 +1092,27 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
   - Ven. Teresa Gallifa i Palmarola, foundress, d. 3/17/1907
 
-- Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
-
-  - Bl. María Mercedes del Sagrado Corazón (née María Mercè Prat i Prat),
-    STJ, religious/martyr, 7/24 (in the chapel)
-
 - Colegio Casa Nostra, casa general de las Operaria
 
   - Servant of God Magdalena Aulina Saurina, lay mystic, d. 5/15/1956
 
-- Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona
-(Calle Mallorca, 191, in the Eixample district)
+- Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona (Calle Mallorca, 191, in the Eixample district)
 
   - Bl. María del Carmen Zaragoza y Zaragoza, religious/martyr, 8/7
 
   - Bl. María Rosa Adrover Martí, religious/martyr, 8/7
 
-- Colegio (College) de Jesús, María y José
+- Colegio (High School) de Jesús, María y José
 
 	- St. Josep Manyanet y Vives, founder, 12/17 (chapel)
+
+- La cripta de Colegio Mayor Bonaigua/l’Oratori de Bonaigua de Barcelona (Carrer Jiménez i Iglesias, 3)
+
+  - Ven. María Montserrat Grases García, teen Opus Dei laywoman, d. 3/26/1959
+
+- Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
+
+  - Bl. María Mercedes del Sagrado Corazón (née María Mercè Prat i Prat), STJ, religious/martyr, 7/24 (in the chapel)
 
 - Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5, Sarrià-Sant Gervasi)
 
@@ -3448,18 +3436,19 @@ Mancha region
 
 Guadix, Province of Granada, Andalusia autonomous community
 
-- Catedral de Guadix/Cathedral
+- Catedral de la Encarnación de Guadix/Cathedral (Pl. Catedral)
 
   - Bl. Manuel Medina Olmos, bishop/martyr, 8/30 & 11/16
 
+	- Servant of God Maximiano Fernández del Rincón Soto y Dávilak, bishop/founder, d. 7/24/1907
+
 Guardia dels Prats, Tarragona
 
-Sant Jaume de la Guàrdia dels Prats
+- Sant Jaume de la Guàrdia dels Prats
 
   - Bl. Pedro Armengol, O. de M., martyr, 4/27
 
-Gumiel de Izán, Ribera del Duero, Province of Burgos, Castilla y León
-autonomous community
+Gumiel de Izán, Ribera del Duero, Province of Burgos, Castilla y León autonomous community
 
 - Monasterio de San Pedro de Gumeil de Izán/Monastery of St. Peter
 
@@ -7367,25 +7356,19 @@ Province of Barcelona, Catalonia autonomous region
 
   - Bl. Francesc Xavier Ponsa Casallach, OH, novice/martyr, 7/30 & 9/28
 
-Sant Feliu de Llobregat, Baix Llobregat comarca, Province of Barcelona,
-Catalonia region
+Sant Feliu de Llobregat, Baix Llobregat comarca, Province of Barcelona, Catalonia region
 
-Cementiri de Sant Feliu de Llobregat (Església de Sant Pere de Ribes
-section)
+- Cementiri de Sant Feliu de Llobregat (Església de Sant Pere de Ribes section)
 
   - Bl. Antoni Nogués Martí, priest/martyr, 8/12 (sources conflict)
 
-San Fernando, Bay of Cádiz comarca, Province of Cádiz, Andalusia
-autonomous community
+San Fernando, Bay of Cádiz comarca, Province of Cádiz, Andalusia autonomous community
 
 - ???
 
-  - Servant of God Maria Cristina de Jesus Sacramentado de los Reyes
-    Olivera, OCD, religious, d. 3/24/1980 (possibly at the Carmelitas
-    Delcalzas chapel)
+  - Servant of God Maria Cristina de Jesus Sacramentado de los Reyes Olivera, OCD, religious, d. 3/24/1980 (possibly at the Carmelitas Delcalzas chapel)
 
-Sant Hipòlit de Voltregà, Osona comarca, Province of Barcelona,
-Catalonia autonomous region
+Sant Hipòlit de Voltregà, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
 - Església de Sant Hipòlit/Church of St. Hippolytus (Carrer de
   l\'Església, 8)
@@ -7703,7 +7686,7 @@ Seville/Sevilla
 
   - St. Leandro/Leander, bishop, 2/27
 
-  - Bl. Marcelo Spinola y Maestre, cardinal, 1/19
+  - Bl. Marcelo Spínola y Maestre, cardinal, 1/19
 
 - Parroquia de San Antonio M. Claret (Av. Padre García Tejero, 8)
 
