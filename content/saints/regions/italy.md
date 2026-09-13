@@ -1403,8 +1403,7 @@ Bologna, Province of Bologna, Emilia-Romagna region
 
   - St. Theodore/Teodoro, bishop/vescovo 5/11
 
-- Santi Apostoli Pietro e Paolo/Chiesa di Santo Stefano/Sette Chiese
-  (Seven Churches)
+- Santi Apostoli Pietro e Paolo/Chiesa di Santo Stefano/Sette Chiese (Seven Churches)
 
   - St. Basil, bishop, ordained by Pope St. Sylvester, 3/6/335
 
@@ -1412,9 +1411,11 @@ Bologna, Province of Bologna, Emilia-Romagna region
 
   - SS. Calanico, Peter Paul, Theodore, and John, martyrs of Gaza, 12/16
 
-- Chiesa di San Petronio
+- Chiesa di San Petronio (Piazza Maggiore, 1/e)
 
-  - Bl. Bartolomeo Maria dal Monte, priest/founder, 12/24 (Chapel of Our   Lady of Peace)
+  - Bl. Bartolomeo Maria dal Monte, priest/founder, 12/24 (Chapel of Our Lady of Peace)
+
+  - Ven. Giuseppe Gualandi, priest/founder, d. 7/14/1907 (third chapel on the left)
 
   - St. Petronius/Pectronius of Bologna, bishop/confessor, 10/4
 
@@ -7057,7 +7058,7 @@ Monte Senario, Firenze
 
   - Bl. Ubaldo Adimari da Borgo San Sepolcro, Servite friar, 4/9
 
-Seven Servite founders
+  - Seven Servite founders
 
 Monte Siepe (halfway between Siena and Massa Marittima)
 
@@ -7121,6 +7122,12 @@ Monte Cerignone, Province of Pesaro e Urbino, Le Marche region
 - Santa Maria in Reclauso (Via Santa Maria, 4)
 
   - Bl. Domenico Spadafora, OP, priest, 12/21
+
+Monteverdi Marittimo, Province of Pisa, Toscana region
+
+- Oratorio del Santissimo Sacramento (Via Giosuè Carducci)
+
+  - St. Walfrid or Galfrido della Gherardesca, abbot, 2/15
 
 Montevergine, Sicily
 
@@ -7286,7 +7293,7 @@ Convento di Nostra Signora
 
   - St. Donato of Evorea, bishop, 4/30
 
-San Michele
+- San Michele
 
   - Bl. Eusebius, OSB Cam.
 
@@ -7694,6 +7701,12 @@ Nicosia, Province of Enna, Sicily
 
   - St. Luca Casali, abbot, 3/2 (relics only)
 
+Nizza Monferrato, Province of Asti, Piemonte region
+
+- Casa Nostra Signora delle Grazie (Viale Don Giovanni Bosco, 40)
+
+  - Ven. Teresa Valsè Pantellini, FMA, religious, d. 9/3/1907 (Chiesa del Sacro Cuore)
+
 Nocera
 
 - ???
@@ -7764,10 +7777,9 @@ Basilica Church of San Silvestro)
 
   - Pope St. Adrian III/Hadrian III, 7/8
 
-- St. Anselmo of Nonantola, abbey founder, former duke of Pavia, 3/3
+  - St. Anselmo of Nonantola, abbey founder, former duke of Pavia, 3/3
 
-- St. Anseride, OSB, virgin, 4/29 (under the central altar of the abbey's
-  crypt)
+  - St. Anseride, OSB, virgin, 4/29 (under the central altar of the abbey's crypt)
 
   - Bl. Gregory of Nonantula, abbot, 8/3
 
@@ -8263,15 +8275,9 @@ Miraculous icon of Madonna del Carmine (Our Lady of Mt. Carmel)
 
   - Bl. Tommaso Maria Fusco, priest/founder, 2/24
 
-Palazzuolo
-
-- Benedictine Abbey
-
-  - St. Walfrid or Galfrido della Gherardesca, abbot, 2/15
-
 Palena, Province of Chieti, Abruzzo region
 
-San Falco
+- San Falco
 
   - St. Falco, hermit, 8/9
 
@@ -8366,9 +8372,13 @@ Palermo
 
   - St. Nicodemus, bishop
 
-- Institute called \"Casa Lavoro e Preghiera\" (Via Giovanni Messina, 1 Foro Umberto I°)
+- Institute called “Casa Lavoro e Preghiera” (Via Giovanni Messina, 1 Foro Umberto I°)
 
   - Servant of God Giovanni Messina, priest, d. 5/24/1949 (Chiesa Corpus   Domini, in the presbytery)
+
+- Istituto San Giuseppe di Palermo, Casa madre delle Figlie della Croce (Corso Tuköry, 204)
+
+  - Ven. Nuncio Russo, priest/founder, d. 11/22/1906 (in the chapel)
 
 - Cimitero dei Cappuccini
 
