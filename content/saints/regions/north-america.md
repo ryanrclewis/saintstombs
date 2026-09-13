@@ -1167,12 +1167,22 @@ Massillon, Stark County, Ohio
 
 Memphis, Shelby County, Tennessee
 
-- Elmwood Cemetery, South Grove 10, Lot 604
+- St. Martin de Porres National Shrine & Institute  (190 Adams Avenue)
+
+  - St. Martin de Porres, OP, religious, 11/3 (relic only)
+
+- Calvary Cemetery (1663 Elvis Presley Boulevard)
+
+  - Samuel Henderson, layman, d. 2/13/1907 (possible cause)
+
+- Elmwood Cemetery, South Grove 10, Lot 604 (824 S. Dudley Street)
+
   - Servant of God Sr. Thea Bowman, FSPA, religious, d. 3/30/1990
 
 Merrillville, Ross Township, Lake County, Indiana
 
 - Salvatorian Fathers Monastery (5755 Pennsylvania St.)
+
   - Shrine of Our Lady of Czestochowa
 
 Miami, Miami-Dade County, Florida
@@ -1259,6 +1269,7 @@ Morton Grove, Illinois
 Mt. Angel, Marion County, Oregon
 
 - Mount Angel Abbey
+
   - St. Ambrose (Edward) Barlow, martyr, 9/10 (hand only)
 
 Mound City, Linn County, Kansas
@@ -1268,6 +1279,7 @@ Mound City, Linn County, Kansas
 Mount Calvary, Fond du Lac County, Wisconsin
 
 - Capuchin Cemetery/St. Lawrence Friary Cemetery (Coordinates: 43.82433, -88.24949, next to the Holy Cross Cemetery)
+
   - Servant of God Fr. Stephen (née John) Eckert of Dublin, OFM Cap., "Apostle to the Colored," d. 2/16/1923
 
 Munster, North Township, Lake County, Indiana
@@ -1290,6 +1302,7 @@ Nasonville, Burrillville, Providence County, Rhode Island
 Natchitoches, Louisiana
 
 - Basilica of the Immaculate Conception
+
   - Servant of God Auguste Marie Martin, bishop, d. 9/29/1875
 
 New Haven, New Haven County, Connecticut
@@ -1480,6 +1493,7 @@ Pacific,  Franklin County, Missouri
 Parma Heights, Ohio
 
 - Incarnate Word Academy (6618-6620 Pearl Road)
+
   - Queen of the Holy Rosary Shrine
 
 Peoria, Illinois
@@ -1586,15 +1600,15 @@ Port Ewen, Ulster County, New York
 
 Portage Des Sioux, St. Charles County, Missouri
 
-- Our Lady of the Rivers Shrine (1553 River View Dr.)
+- Our Lady of the Rivers Shrine (1553 River View Drive)
 
 Portland Oregon
 
-- National Sanctuary of the Sorrowful Mother, The Grotto (NE 85th Ave and NE Sandy Blvd.)
+- National Sanctuary of the Sorrowful Mother, The Grotto (NE 85th Avenue and NE Sandy Boulevard)
 
 Prague, Lincoln County, Oklahoma
 
-- National Shrine of the Infant of Prague (304 Jim Thorpe Blvd.)
+- National Shrine of the Infant of Prague (304 Jim Thorpe Boulevard)
 
 Princeton, Mercer County, New Jersey
 
@@ -1604,22 +1618,26 @@ Princeton, Mercer County, New Jersey
 Pueblo, Pueblo County, Colorado
 
 - St. Therese Church (300 Goodnight Avenue)
+
   - Shrine of St. Therese
 
 Quincy, Adams County, Illinois
 
 - St. Peter's Cemetery (in the priests' lot)
-  - Servant of God Augustine Tolton, first black priest in US, d. 7/9/1897
+
+  - Servant of God Augustine Tolton, first black priest in the US, d. 7/9/1897
 
 Redwood Valley, Mendocino County, California
 
 - Holy Transfiguration Monastery (17001 Tomki Road)
+
   - Shrine of Icon of Our Lady of Mount Tabor
 
 Reserve, St. John the Baptist Parish, Louisiana (nearly two hours from New Orleans)
 
 - St. Peter Church Cemetery (1550 Highway 44 \[River Road\])
-  - Servant of God Msgr. Jean Martin Eyraud, priest, d. 2/5/1968
+
+  - Servant of God Jean Martin Eyraud, priest, d. 2/5/1968
 
 Rhineland, Montgomery County, Missouri
 
@@ -1641,14 +1659,22 @@ Richmond Hill, Bryan County, Georgia
   - St. Faustina Kowalska (relic only)
   - St. Maximilian Kolbe (relic only)
 
+Rochester, Monroe County, New York
+
+- Sacred Heart Cathedral (296 Flower City Park)
+
+  - Bl. Fulton Sheen, bishop, 12/9 (relic only)
+
 Rockville, Montgomery County, Maryland
 
 - Shrine of St. Jude Thaddeus Church (12701 Veirs Mill Road)
+
   - Shrine of St. Jude
 
 Roseville, Placer County, California
 
 - St. Anna Greek Orthodox Church (1001 Stone Canyon Drive)
+
   - St. Anne, mother of Mary (skull fragment)
 
 Royal Oak, Oakland County, Michigan
@@ -1934,6 +1960,7 @@ Sleepy Eye, Brown County, Minnesota
 Socorro, El Paso County, Texas
 
 - La Purisima de Socorro Mission (328 S. Nevarez Road)
+
   - Miraculous statue of St. Michael
 
 Solomon, Graham County, Arizona
@@ -1944,6 +1971,7 @@ Solomon, Graham County, Arizona
 South Burlington, Chittenden County, Vermont
 
 - Resurrection Park Cemetery (200 Hinesburg Road)
+
   - Servant of God Louis de Goesbriand, bishop, d. 11/3/1899
 
 South Canaan, Pennsylvania
@@ -1958,11 +1986,13 @@ South Haven, Valparaiso, Porter County, Indiana
 Southgate, Campbell County, Kentucky
 
 - St. Therese Church (11 Temple Place)
+
   - Diocesan Shrine of the Little Flower
 
 Springfield, Illinois
 
 - Franciscan Life Center
+
   - Shrine of Our Lady of Fatima
 
 Starkenburg, Montgomery County, Missouri
@@ -1974,6 +2004,7 @@ Starkenburg, Montgomery County, Missouri
 Sterling Heights, Macomb County, Michigan
 
 - Our Lady of Czestochowa Church (3000 18 Mile Road)
+
   - Shrine of the Black Madonna of Jasna Gorna
 
 Steubenville, Jefferson County, Ohio
@@ -2032,9 +2063,9 @@ The Woodlands, Montgomery County, Texas
 
   - Relics of 27 saints
 
-Thibodaux, Louisiana
+Thibodaux, Lafourche Parish, Louisiana
 
-- St. Joseph's Co-Cathedral
+- St. Joseph’s Co-Cathedral
 
   - St. Valeria of Milan, martyr, 4/28 (relic of arm, only)
 
@@ -2044,13 +2075,19 @@ Three Rivers, Otero County, New Mexico
 
   - In addition to the Shrine, there is a Way of the Cross and a large cross on a nearby hill
 
+Toledo
+
+- St. Patrick Church (130 Avondale Avenue)
+
+  - St. Florian, martyr, 5/4 (relic only; on the altar dedicated to him)
+
 Tortugas, Doña Ana County, New Mexico
 
-- Shrine and Parish of Our Lady of Guadalupe (3600 Parroquia St.)
+- Shrine and Parish of Our Lady of Guadalupe (3600 Parroquia Street)
 
 Totowa, Passaic County, New Jersey
 
-- Holy Sepulchre Roman Catholic Cemetery
+- Holy Sepulchre Roman Catholic Cemetery (52 Totowa Road)
 
   - Servant of God Fr. Leo Heinrichs, OFM, priest (likely martyr)
 
