@@ -12,8 +12,7 @@ Alkoven, Eferding district, Upper Austria
 
 - Schloss Hartheim
 
-  - Servant of God Euzebiusz Józef Huchracki, OFM, priest/martyr, d.
-    5/6/1942 (grave likely lost)
+  - Servant of God Euzebiusz Józef Huchracki, OFM, priest/martyr, d. 5/6/1942 (grave likely lost)
 
 - NS-Tötungsanstalt Hartheim, Alkoven, Eferding
 
@@ -364,14 +363,11 @@ Vienna/Wien
 
   - Chapel of St. Valentine (hundreds of relics)
 
-- Barmherzigenkirche/Kirche der Barmherzigen Brüder/Church of the Brothers
-  of Mercy (Taborstraße 14)
+- Barmherzigenkirche/Kirche der Barmherzigen Brüder/Church of the Brothers of Mercy (Taborstraße 14)
 
-  - Bl. Gabriel von Ferrara/Gabriele (nee Camillo) of Ferrara, OH,
-    religious/surgeon, 1/15
+  - Bl. Gabriel von Ferrara/Gabriele (nee Camillo) of Ferrara, OH, religious/surgeon, 1/15
 
-- Franziskanerkirche/Franciscan Church in Vienna\'s 1^st^ district
-  (Franziskanerpl. 4)
+- Franziskanerkirche/Franciscan Church in Vienna\'s 1^st^ district (Franziskanerpl. 4)
 
   - St. Hilaria, religious, 8/12
 
@@ -405,13 +401,11 @@ Vienna/Wien
 
 - Ruprechtskirche (Ruprechtspl. 1)
 
-  - St. Vitalis of Salzburg, archbishop, 10/20 (his sarcophagus, which
-    supposedly contains the remains of a Roman martyr)
+  - St. Vitalis of Salzburg, archbishop, 10/20 (his sarcophagus, which supposedly contains the remains of a Roman martyr)
 
 - Schwesterngemeinschaft Caritas Socialis/Sisterhood of Caritas Socialis Headquarters (Pramergasse 7)
 
-  - Bl. Hildegard Burjan, wife/mother/politician/foundress, 6/12 (in the
-    Hildegard Burjan Chapel)
+  - Bl. Hildegard Burjan, wife/mother/politician/foundress, 6/12 (in the Hildegard Burjan Chapel)
 
 - Mutterhaus und Generalat von der Kalasantiner: Maria Hilfe der Christen (P. Schwartz Gasse 8)
 
@@ -421,11 +415,15 @@ Vienna/Wien
 
   - Servant of God Leopold Figl, politician, d. 5/9/1965
 
-  - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (row 30,
-    grave number 158; NOTE: it's a mass grave with some 2,700 bodies buried
-    in it)
+  - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (row 30, grave number 158; NOTE: it's a mass grave with some 2,700 bodies buried in it)
 
 - ???
+
+Vorau, Furstenfeld district, Styria state
+
+- Stiftsfriedhof Vorau (Vorau 3)
+
+  - Servant of God Barbara Sicharter, CCIM, foundress, d. 2/9/1905
 
 Wenigzell, Hartberg-Fürstenfeld district, Styria state
 
