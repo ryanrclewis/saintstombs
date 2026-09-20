@@ -305,6 +305,12 @@ Ars-sur-Formans, Villars-les-Dombes canton, Bourg-en-Bresse arrondissement, Ain 
 - Basilica of Ars
   - St. Jean-Marie Vianney, priest, 8/4 (incorrupt)
 
+Athis-Mons, Département de l’Essonne, Île-de-France region
+
+- Notre-Dame des Retraites (1 Rue Paul Vaillant Couturier)
+
+  - Ven. Exupérien (née Adrien-Félix-Jean) Mas, FSC, religious, d. 1/31/1905
+
 Attane, Limoges
 
 - ???
@@ -313,7 +319,7 @@ Attane, Limoges
 Aubazines, Brive-la-Gaillarde arrondissement, Corrèze department, Nouvelle-Aquitaine region
 
 - L'abbaye d'Aubazine parish church
-  - St. Étienne de Vielzot/Étienne d'Obazine/Stephen of Obazine, abbot, 3/8
+  - St. Étienne de Vielzot/Étienne d’Obazine/Stephen of Obazine, abbot, 3/8
 
 Aubenas, Largentière arrondissement, Ardèche department, Auvergne-Rhône-Alpes region
 
