@@ -2461,7 +2461,7 @@ Saint-Hyacinthe, Monteregie Region, Quebec
   - Ven. Mère Saint-Joseph (née Élisabeth) Bergeron, cofoundress, d. 4/29/1936 (in the Mausoleum)
   - Bl. Louis-Zéphirin Moreau, bishop, 5/24
 - Cimetière Notre-Dame-du-Rosaire
-  - Ven. Catherine Aurelia Caouette (Catherine-Aurélie of the Precious Blood/Catherine-Aurélie du Précieux-Sang), foundress, d. 7/6/1905
+  - Ven. Catherine-Aurélie of the Precious Blood/Catherine-Aurélie du Précieux-Sang (née Catherine Aurelia) Caouette, foundress, d. 7/6/1905
 - ???
   - Fr. Léon Pratte, priest, d. 12/29/1930 (_non-causa_)
 
