@@ -1507,10 +1507,9 @@ autonomous community
     the Iglesia Nuestra Señora de la Asunción in Benifaió, but the latter is
     unlikely)
 
-Benifairó de la Valldigna, Safor comarca, Province of Valencia,
-Valencian autonomous community
+Benifairó de la Valldigna, Safor comarca, Province of Valencia, Valencian autonomous community
 
-Cementeri de Benifairó de la Valldigna
+- Cementeri de Benifairó de la Valldigna
 
   - Bl. Juan Gonga Martínez, layman/martyr, 11/13 (buried in a common grave)
 
@@ -1520,28 +1519,30 @@ Benigánim, Province of Valencia
 
 - Augustinian monastery
 
-  - Bl. Josefa Maria of Sant'Agnese (née Josefa Teresa Albinàna), religious,
-    1/21 (relics taken and destroyed by the communists)
+  - Bl. Josefa Maria of Sant'Agnese (née Josefa Teresa Albinàna), religious, 1/21 (relics taken and destroyed by the communists)
 
-Benillup, Comtat comarca, Province of Alicante, Valencian autonomous
-community
+Benillup, Comtat comarca, Province of Alicante, Valencian autonomous community
 
 - ???
 
   - Bl. Amalia Abad Casasempere, wife/martyr, 9/28
 
-Benitachell, Marina Alta region, Province of Alicante, Valencian
-autonomous community
+Benissa/Benisa, Marina Alte comarca, Province of Alicante, Valenciana autonomous community
+
+- Convento de los Padres Franciscanos (Calle Pare Zacarías, 27)
+
+	- Servant of God Humilde (née Vicente) Soria Pons, OFM, religious, d. 2/26/1905
+
+Benitachell, Marina Alta region, Province of Alicante, Valencian autonomous community
 
 - Parroquia de Santa María Magdalena
 
   - Bl. Plácido García Gilabert, OFM, priest/martyr, 8/16, 9/7, & 11/20
     (buried here in 1967)
 
-Benquerencia de la Serena, La Serena comarca, Province of Badajoz,
-Extremadura autonomous community
+Benquerencia de la Serena, La Serena comarca, Province of Badajoz, Extremadura autonomous community
 
-Cementerio de Benquerencia de la Serena
+- Cementerio de Benquerencia de la Serena
 
   - Bl. Antonio Frutos Tena Amaya, priest/martyr, 9/6
 
@@ -2836,15 +2837,13 @@ community
 
 	- Ven. Arcàngela (née Carme) Badosa Cuatrecasas, religious, d. 11/27/1918
 
-Elorrio, Durangaldea comarca, Province of Biscay, Basque Country
-autonomous community
+Elorrio, Durangaldea comarca, Province of Biscay, Basque Country autonomous community
 
 - Iglesia de la Purísima Concepción/Church of the Immaculate Conception
 
   - St. Valentín Faustino Berrio Ochoa, OP, bishop/martyr in Vietnam, 11/1
 
-Elvira, city of Marbella, Costa del Sol Occidental comarca, Province of
-Málaga, Andalusia autonomous community
+Elvira, city of Marbella, Costa del Sol Occidental comarca, Province of Málaga, Andalusia autonomous community
 
 - ???
 
@@ -5111,6 +5110,10 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
   - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according
     to AI; take it with a grain of salt; could be at the cathedral, instead)
+
+- Cementerio de San Miguel/St. Michael Cemetery (Plaza del Patrocinio, 8) (36°44′02″N 4°25′05″W)
+
+	- Bl. Juan Nepomuceno Zegrí y Moreno, priest/founder, 3/17 (in the panteón de los canónigos/chapter’s pantheon)
 
 - Cementerio de San Rafael (there are five mass graves here)
 
