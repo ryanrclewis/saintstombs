@@ -780,6 +780,10 @@ Montes Claros, Norte de Minas, Minas Gerais state, Southeast
 
 Natal, Rio Grande do Norte, Northeast region
 
+- Igreja de Nossa Senhora de Lourdes/Our Lady of Lourdes (Travessa Aprígio Alves, 738, Alto do Jurua neighborhood, border of the Petrópolis/Areia Preta areas)
+
+  - Servant of God João Maria Cavalcanti de Brito, priest, d. 10/16/1905
+
 - ???
 
   - St. André de Soveral and 29 Companions (aka, the Holy Martyrs of Cunhaú and Uruaçú), martyrs, 10/3 (remains likely lost)
@@ -2675,9 +2679,11 @@ Zacatecas
 
   - St. Mateo Correa Magallanes, priest/martyr, 2/6 
 
-- ???
+- Santuario de Nuestra Señora de Guadalupe (commonly called “Guadalupito”)(Av Morelos 1218, Sierra de Alica)
 
-  - Servant of God José Anastasio Diaz Lopez, founder, d. 9/6/1905
+  - Servant of God José Anastasio “Padre Tachito” Diaz Lopez, founder, d. 9/6/1905
+
+- ???
 
   - Bl. Sebastián Montanol, OP, missionary priest/martyr, 12/10
 
