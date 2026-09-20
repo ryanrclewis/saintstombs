@@ -335,7 +335,7 @@ Sankt Florian, Linz-Land district, Oberösterreich
 
   - St. Gerold, Bludenz, Vorarlberg state
 
-Sankt Gerold
+- Sankt Gerold
 
   - St. Gerold von Großwalsertal, hermit, 4/19
 
@@ -416,8 +416,6 @@ Vienna/Wien
   - Servant of God Leopold Figl, politician, d. 5/9/1965
 
   - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (row 30, grave number 158; NOTE: it's a mass grave with some 2,700 bodies buried in it)
-
-- ???
 
 Vorau, Furstenfeld district, Styria state
 
