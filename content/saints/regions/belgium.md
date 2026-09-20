@@ -162,8 +162,7 @@ Brussels
   - Bl. Jan van Ruusbroec, religious/mystic, 12/2 (his relics were destroyed
     during the French Revolution)
 
-Église St. Nicolas---Sint Nikolaaskerk (on Boterstraat/Rue au Beurre
-near the Palais de la Bourse)
+- Église St. Nicolas---Sint Nikolaaskerk (on Boterstraat/Rue au Beurre near the Palais de la Bourse)
 
   - The 19 Martyrs of Gorcum, 7/9
 
@@ -178,19 +177,17 @@ near the Palais de la Bourse)
 
   - St. Wivine/Wivina, OSB, abbess/hermitess, 12/17
 
-Notre Dame de la Chapelle
+- Notre Dame de la Chapelle
 
   - St. Boniface of Brussels (aka, of Lausanne), bishop, 2/19
 
-Notre-Dame du Finistère
+- Notre-Dame du Finistère
 
-Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen
-(this is at best a well-educated and researched guess)
+  - Our Lady of Calevourt/Our Lady of Good Success/Our Lady of Aberdeen (this is at best a well-educated and researched guess)
 
 - Carmelite Convent
 
-  - St. Albert of Liège, bishop/martyr, 11/24 (may be at the National
-    Basilica of Sacré-Cœur)
+  - St. Albert of Liège, bishop/martyr, 11/24 (may be at the National Basilica of Sacré-Cœur)
 
 - Abbaye de La Cambre/Abdij Ter Kameren
 
@@ -217,8 +214,7 @@ Cambrai
 
   - St. Emembert, bishop, 1/15
 
-Cambron-Casteau, Brugelette commune, Ath arrondissement, Province of
-Hainaut, Wallonne region
+Cambron-Casteau, Brugelette commune, Ath arrondissement, Province of Hainaut, Wallonne region
 
 - Abbaye de Cambron/Cistercian monastery (ruined)
 
@@ -226,43 +222,37 @@ Hainaut, Wallonne region
 
   - Bl. Gérard de Bourgogne, abbot, 4/28
 
-Couture-Saint-Germain, Lasne municipality, Province of Walloon Brabant,
-Wallonia region
+Couture-Saint-Germain, Lasne municipality, Province of Walloon Brabant, Wallonia region
 
 - Ancienne abbaye d'Aywiers
 
-- Bl. Elisabeth de Vans, religious, 7/1 (monastery demolished during the
-  French Revolution; grave likely lost)
+  - Bl. Elisabeth de Vans, religious, 7/1 (monastery demolished during the French Revolution; grave likely lost)
 
-Dendermonde (French: Termonde), Province of East Flanders, Flemish
-region
+Dendermonde (French: Termonde), Province of East Flanders, Flemish region
 
-Onze-Lieve-Vrouwekerk/Our Lady
+- Onze-Lieve-Vrouwekerk/Our Lady
 
   - St. Christiana of Termonde, confessor, 7/26
 
   - St. Hildeward/Hilduardus, evangelist, 9/7
 
-Denée (Dinêye in Walloon) village, the municipality of Anhée, province
-of Namur
+Denée (Dinêye in Walloon) village, the municipality of Anhée, Province of Namur
 
 - Maredsous Abbey
 
-- Bl. Columba Marmion, abbot, 9/3 (Chapel of St. Gregory)
+  - Bl. Columba Marmion, abbot, 9/3 (Chapel of St. Gregory)
 
   - St. Gerard de Brogne, abbot, 10/3 (relics)
 
 Dilbeek, Halle-Vilvoorde arrondissement, Flemish Brabant, Flemish Region
 
-St Ambrosius/Sint-Ambrosiuskerk
+- St Ambrosius/Sint-Ambrosiuskerk
 
-  - St. Alena/Alène/Alina of Dilbeek, convert/martyr, 6/18 (collarbones
-    only)
+  - St. Alena/Alène/Alina of Dilbeek, convert/martyr, 6/18 (collarbones only)
 
 Dinant, Namur province, Région wallonne
 
-- Abbaye Notre-Dame de Leffe/Our Lady of Leffe Abbey (Place de l\'Abbaye
-  1)
+- Abbaye Notre-Dame de Leffe/Our Lady of Leffe Abbey (Place de l’Abbaye 1)
 
   - Frederick van Hallum/Bl. Friedrich von Hallum, O.Praem, abbot, 3/3
 
@@ -280,11 +270,9 @@ Floreffe, Province of Namur, Wallonia region
 
 - Abbaye de Floreffe
 
-  - Bl. Hermann of Floreffe, O.Praem, abbot, 6/18 (grave likely lost to the
-    French Revolution)
+  - Bl. Hermann of Floreffe, O.Praem, abbot, 6/18 (grave likely lost to the French Revolution)
 
-  - Bl. Richard of Floreffe, O.Praem., prior, 1/9 (grave likely lost to the
-    French Revolution)
+  - Bl. Richard of Floreffe, O.Praem., prior, 1/9 (grave likely lost to the French Revolution)
 
 Florennes, Namur province
 
@@ -300,7 +288,7 @@ Florennes, Namur province
 
 Forest/Vorst, Brussels Capital region
 
-Église Saint-Augustin/Sint-Augustinuskerk/St. Augustine
+- Église Saint-Augustin/Sint-Augustinuskerk/St. Augustine
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
@@ -310,7 +298,7 @@ Forest/Vorst, Brussels Capital region
 
 Fosses-la-Ville, Namur province
 
-Saint-Feuillen
+- Saint-Feuillen
 
   - St. Foillan, bishop, 10/31
 
@@ -330,10 +318,9 @@ Gembloux, Province of Namur
 
   - St. Guibert of Gorze, abbot, 5/23
 
-Gerpinnes, Charleroi arrondissement, Province of Hainaut, Wallonia
-region
+Gerpinnes, Charleroi arrondissement, Province of Hainaut, Wallonia region
 
-  - Saints-Michel-et-Sainte-Rolende
+- Saints-Michel-et-Sainte-Rolende
 
   - St. Rolende de Gerpinnes, laywoman, 5/13
 
@@ -355,8 +342,7 @@ Ghent, Ghent Arrondissement, East Flanders
 
   - St. Wandrille/Vandrille/Vandregisilo, abbot, 7/22 (arm only)
 
-- St. Bavo/Sint-Baaf Cathedral/Abbey (Sint-Baafsabdij/Abbaye Saint-Bavon
-  de Gand)
+- St. Bavo/Sint-Baaf Cathedral/Abbey (Sint-Baafsabdij/Abbaye Saint-Bavon de Gand)
 
   - St. Bavo, nobleman/hermit, 10/1 (he was buried here; is he still?)
 
@@ -368,7 +354,7 @@ Ghent, Ghent Arrondissement, East Flanders
 
   - The Ghent Altarpiece
 
-Sainte Collette/Sint-Coleta
+- Sainte Collette/Sint-Coleta
 
   - Bl. Edward Joannes Maria Poppe, priest, 6/10 (a relic only, if anything)
 
@@ -387,7 +373,7 @@ Sainte Collette/Sint-Coleta
 
   - St. Winwaloe (aka, Guénolé), abbot, 3/3
 
-Église Notre-Dame/Kerk van Onze Lieve Vrouw
+- Église Notre-Dame/Kerk van Onze Lieve Vrouw
 
   - St. Gérard of Brogne (Sint-Djuråd), abbot, 10/3 (relics only)
 
@@ -405,7 +391,7 @@ Bethleem
 
 Ghent, Tronchiennes/Drongen village, Oost-Vlaanderen Province, Vlaanderen
 
-Sint-Gerolfkerk
+- Sint-Gerolfkerk
 
   - St. Gerulfus/Gerolf, martyr, 9/21 (skull only)
 
@@ -419,19 +405,16 @@ Ghistelles/Gistel, Ostend Arrondissement, West Flanders, Flemish Region
 
   - St. Godelieve, martyr, 7/6 or 7/30
 
-Grammont (Geraardsbergen), Aalst arrondissement, Province of
-Oost-Vlaanderen/East Flanders, Vlaanderen/Flemish Community
+Grammont (Geraardsbergen), Aalst arrondissement, Province of Oost-Vlaanderen/East Flanders, Vlaanderen/Flemish Community
 
-Sint-Bartholomeuskerk
+- Sint-Bartholomeuskerk
 
-  - St. Adrian of Nicomedia, martyr, 3/4 (his relics can be found in the
-    Winterkapel/Winter Chapel, a mini-museum in the church dedicated to the
+  - St. Adrian of Nicomedia, martyr, 3/4 (his relics can be found in the Winterkapel/Winter Chapel, a mini-museum in the church dedicated to the
     Geraardsbergen patron saints)
 
 - Silver reliquary of St. Bartholomew, apostle (relic)
 
-Grez-Doiceau (Florival district), Province of Walloon Brabant, Walloon
-region
+Grez-Doiceau (Florival district), Province of Walloon Brabant, Walloon region
 
 - ??? (possibly at Abbaye Florival of which little remains)
 
@@ -443,14 +426,13 @@ Grimbergen, Province of Brabant
 
 - Parkabdij/Park Abbey
 
-  - Bl. Martin Gotsfrucht, O. Praem., religious, 8/31 (there is a slight
-    chance he might be at St. Nicholas Church in the same town)
+  - Bl. Martin Gotsfrucht, O. Praem., religious, 8/31 (there is a slight chance he might be at St. Nicholas Church in the same town)
 
 Halle, Halle-Vilvoorde Arrondissement, Flemish Brabant, Flemish Region
 
 - Sint-Martinusbasiliek
 
-- Shrine of Our Lady of Halle (Notre Dame de Hal)
+  - Shrine of Our Lady of Halle (Notre Dame de Hal)
 
 Hasselt, Province of Limburg, Flemish region, Flemish community
 
