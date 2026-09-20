@@ -1102,7 +1102,7 @@ Nagpur, Vidarbha region, Maharashtra state
 
 - Mary Immaculate Convent chapel (near the district court, Civil Lines)
 
-  - Servant of God Sr. Marie-Gertrude of the Precious Blood Gros (née Félicie Gros), SMMI, cofoundress, d. 3/18/1905
+  - Servant of God Marie-Gertrude of the Precious Blood (née Félicie) Gros, SMMI, cofoundress, d. 3/18/1905
 
 New Delhi
 
@@ -3911,6 +3911,35 @@ Tha Kham sub-district, Sam Phran district, Nakhon Pathom province
 
   - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (his ashes and effigy are
     here)
+
+# Uzbekistan
+
+Samarkand
+
+- Калисои Юҳаннои Таъмиддиҳанда/Avliyo Yahyo Cho’mdiruvchi cherkovi (Mahmud Qoshg’ariy ko’chasi, 86)/Church of St. John the Baptist (кӯчаи Маҳмуд Кошғарӣ, 86/Mahmud Qoshg’ariy ko’chasi, 86/Mahmud Koshgari Street, 86)
+
+  - Ёдгории салиби ҳақиқӣ/Haqiqiy xochning yodgorligi/Relic of the True Cross
+  - Санге аз кӯҳи Голгота/Go’lgota tog’idan olingan tosh/A stone from Mount Golgotha
+  - Муҷассамаи Хонуми Мо аз Луҷан/Lujan xonimimiz haykali/Shrine of Our Lady of Luján
+  - Гроттои Хонуми Мо/Bizning Xonimimiz G’ori/Grotto of Our Lady
+
+Tashkent
+
+- Калисои Муқаддаси Қалб (маънои онро “Калисои Лаҳистон” меноманд)/Muqaddas Yurak sobori (ya’ni “Polsha cherkovi”)/Sacred Heart Cathedral (aka, “the Polish Church”)(Кӯчаи Маҳтумқулӣ, 80/Mahtumquli ko’chasi, 80/Mahtumkuli Street, 80/1)
+  - The only English language Mass in the entire country
+  - The only Catholic church in the capital
+  - Unique stained glass windows
+  - Unique bronze Stations of the Cross
+  - Life-sized bronze statue of Christ
+  - Rare example of neo-Gothic architecture in Central Asia
+
+- Калисои православии Успенсияи Муқаддас/Muqaddas Assumption pravoslav sobori/Holy Assumption Orthodox Cathedral (Кӯчаи Авлиёта, 91/Avliyoota ko’chasi, 91/Avliyoota Street, 91)
+  - Relic of the True Cross
+  - Relics of the Kiev-Pechersk Lavra saints
+
+- Калисои Санкт-Сергиюси Радонеж/Radonejning Avliyo Sergius cherkovi/Church of St. Sergius of Radonzeh (Туйтепа махалла, райони Яшнобод/Makhallinsky skhod grazhdan Tuytepa/Tuytepa Mahallah, Yashnabad District)
+
+  - Сергиюси Радонеж/Radonejning Avliyo Sergius cherkovi/St. Sergius of Radonzeh, monk/reformer, 7/18 (relic only)
 
 # Vietnam
 
