@@ -36,18 +36,15 @@ Amay (Flône), Province of Liège, Wallonia region
 
 Andenne, Namur province
 
-  - St. Pierre
+- St. Pierre
 
   - St. Begge, princess, 12/2
 
 Anderlecht
 
-Collégiale
-Saints-Pierre-et-Guidon/Sint-Pieter-en-Sint-Guidokerk/Collegiate Church
-of St. Peter and St. Guido
+- Collégiale Saints-Pierre-et-Guidon/Sint-Pieter-en-Sint-Guidokerk/Collegiate Church of St. Peter and St. Guido
 
-  - St. Guy of Anderlecht, pilgrim, 9/12 (relics destroyed by Protestants in
-    the 18^th^ century)
+  - St. Guy of Anderlecht, pilgrim, 9/12 (relics destroyed by Protestants in the 18^th^ century)
 
 Antwerp
 
@@ -55,18 +52,17 @@ Antwerp
 
   - Bl. Damien of Molokai, 4/15 (relics only)
 
-Carmel at Hopeland-Antwerp
+- Carmel at Hopeland-Antwerp
 
   - Bl. Anne of St. Bartholomew, prioress, 7/7
 
-- Jezuïetenkerk in Antwerpen/Sint-Carolus Borromeuskerk/Jesuit Church
-  (worth seeing even if there weren't saints buried here)
+- Jezuïetenkerk in Antwerpen/Sint-Carolus Borromeuskerk/Jesuit Church (worth seeing even if there weren't saints buried here)
 
   - Martyrs of Antwerp, 3/1
 
   - St. Apollonia of Alexandria, martyr, 2/9 (relics)
 
-"Jesuit College"
+- "Jesuit College"
 
   - St. Cyrinus of Antwerp, martyr, 6/12
 
@@ -74,25 +70,24 @@ Carmel at Hopeland-Antwerp
 
   - St. Mary of Egypt
 
-  - Martyrs of Antwerp (Alexander, Anicetus, Cyriacus, Eulalia, Faustus,
-    Genesius, Hirena, Macarius, Mauritius, Modestus, Placidus, Rochus,
+  - Martyrs of Antwerp (Alexander, Anicetus, Cyriacus, Eulalia, Faustus, Genesius, Hirena, Macarius, Mauritius, Modestus, Placidus, Rochus,
     Symforian and Victorinus)
 
 Banneux, Sprimont municipality, Louveigné, Province of Liège
 
 - Sanctuaire de Notre-Dame de Banneux/Shrine of Our Lady of Banneux
 
-Our Lady of Banneux or Our Lady of the Poor, 1/15
+  - Our Lady of Banneux or Our Lady of the Poor, 1/15
 
 Beauraing, Namur
 
 - Sanctuaire Notre-Dame de Beauraing/Shrine of Our Lady of Beauraing
 
-Our Lady of Beauraing, 11/29
+  - Our Lady of Beauraing, 11/29
 
 Binche, Hainault
 
-Collégiale Saint-Ursmer de Binche
+- Collégiale Saint-Ursmer de Binche
 
   - St. Ursmer, abbot, 4/18
 
@@ -104,8 +99,7 @@ Borgloon, Tongeren arrondissement, Province of Limburg
 
 - St. Odulfus Church
 
-  - St. Lutgardis, religious, 6/16 (her praying chair only; oldest piece of
-    furniture in Belgium)
+  - St. Lutgardis, religious, 6/16 (her praying chair only; oldest piece of furniture in Belgium)
 
 Brogne (aka, Saint-Gérard village), municipality of Mettet, Namur province
 
@@ -121,26 +115,23 @@ Bruges
 
   - St. Donatian of Rheims, bishop, 10/14
 
-- Basilica of the Holy Blood/Blasius Chapel/Heilig-Bloedbasiliek/Basilique
-  du Saint-Sang
+- Basilica of the Holy Blood/Blasius Chapel/Heilig-Bloedbasiliek/Basilique du Saint-Sang
 
-A relic of the Holy Blood of Jesus
+  - A relic of the Holy Blood of Jesus
 
 - Church of the Holy Spirit
 
   - St. Idesbald, 4/18
 
-Notre-Dame-de-la-Poterie/Onze-Lieve-Vrouw ter Potterie/Our Lady of the
-Potteries
+- Notre-Dame-de-la-Poterie/Onze-Lieve-Vrouw ter Potterie/Our Lady of the Potteries
 
-Our Lady of the Potteries miraculous statue
+  - Our Lady of the Potteries miraculous statue
 
-  - Bl. Idesbald des Dunes (the local bishop has his left arm, and his right
-    thigh bone is at Notre Dame of the Dunes ... in Dunkerque?), 4/18
+  - Bl. Idesbald des Dunes (the local bishop has his left arm, and his right thigh bone is at Notre Dame of the Dunes ... in Dunkerque?), 4/18
 
 - Onze-Lieve-Vrouwekerk/Church of Our Lady
 
-Michelangelo's Madonna and Child
+  - Michelangelo's Madonna and Child
 
 - ???
 
@@ -150,17 +141,14 @@ Brussels
 
 - National Basilica of Sacré-Cœur
 
-  - St. Albert of Louvain/Liege, bishop/martyr, 11/24 (may be at the
-    Carmelite convent)
+  - St. Albert of Louvain/Liege, bishop/martyr, 11/24 (may be at the Carmelite convent)
 
 - St. Gudule (aka, Saint Michel, a large collegiate church)
 
-  - St. Gudule (aka, Ergoule, Goedele, Goule, Gudula), 1/8 (her relics are
-    no longer here, but once were; the Calvinists scattered them after
+  - St. Gudule (aka, Ergoule, Goedele, Goule, Gudula), 1/8 (her relics are no longer here, but once were; the Calvinists scattered them after
     destroying her shrine)
 
-  - Bl. Jan van Ruusbroec, religious/mystic, 12/2 (his relics were destroyed
-    during the French Revolution)
+  - Bl. Jan van Ruusbroec, religious/mystic, 12/2 (his relics were destroyed during the French Revolution)
 
 - Église St. Nicolas---Sint Nikolaaskerk (on Boterstraat/Rue au Beurre near the Palais de la Bourse)
 
@@ -191,8 +179,7 @@ Brussels
 
 - Abbaye de La Cambre/Abdij Ter Kameren
 
-  - St. Aleydis the Leper of Schaerbeek, Cistercian religious, 6/11 (she
-    died here, but is her tomb still extant after 800 years?)
+  - St. Aleydis the Leper of Schaerbeek, Cistercian religious, 6/11 (she died here, but is her tomb still extant after 800 years?)
 
 - ???
 
