@@ -1969,6 +1969,10 @@ Auschwitz/Oświęcim
 
   - St. Maximilian Kolbe, priest/martyr,
 
+- Kościół Matki Bożej Bolesnej/Church of Our Lady of Sorrows
+
+  - Bl. Łucja (née Małgorzata) Szewczyk, CMBB, foundress, 6/5
+
 Bagno, Oborniki Śląskie Gmina, Trzebnica County, Lower Silesian voivodeship
 
 - Cmentarz Bagno/Cemetery of Bagno
@@ -2182,6 +2186,12 @@ Gręboszów, Gręboszów Gmina, Dąbrowa county, Lesser Poland voivodeship (sout
 - Cmentarz rzym.-kat. z okoł/Roman Catholic parish cemetery
 
   - Servant of God Stefania Łącka, laywoman, d. 11/7/1946
+
+Grodzisk Mazowiecki, Grodzisk County, Masovian Voivodeship (near Warsaw to the west)
+
+- Dom Generalny Zgromadzenia Sióstr Opatrzności Bożej/General House of the Congregation of the Sisters of Divine Providence (ul. Okrężna 33)
+
+  - Servant of God Antonina (née Marcjanna) Mirska, foundress, CSDP, d. 11/23/1905
 
 Iława (German: Eylau), Iława County, Warmian-Masurian Voivodeship [or]{.underline}** Lidzbark Warmiński (German: Heilsberg), Lidzbark
 County, Warmian-Masurian Voivodeship
