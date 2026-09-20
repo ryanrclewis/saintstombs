@@ -2341,7 +2341,11 @@ Canale (Canale d'Alba), Province of Cuneo, Piemonte region
 
   - Servant of God Fabrizio Francesco Boero, young layman, d. 9/24/1993
 
-Canicattì, Province of Agrigento
+Canicattì, Province of Agrigento, Sicily
+
+- Chiesa della Madonna della Rocca (Via Padre Semeria, 1)
+
+  - Ven. Gioacchino da Canicattì (née Gioacchino) La Lomia, OFM Cap., priest, d. 7/30
 
 - Cimitero Comunale di Canicattì
 
@@ -4015,6 +4019,12 @@ Faleria, Province of Viterbo, Lazio region
   - St. Felicissima, blind martyr, 8/12
 
   - St. Gracilian, martyr, 8/12
+
+Falvaterra, Province of Frosinone, Lazio region
+
+- Santuario di San Sosio Martire/Shrine of St. Sosius (Via S. Sosio, near the Ponte della Vezzola/Ponte della Volpe area outside the main town center)
+
+  - Servant of God Paolo Fortunato Maria di San Paolo (née Paolo) De Gruttis, CP, priest, d. 12/28/1905
 
 Fano, Province of Pesaro and Urbino, Le Marche region
 
@@ -7592,8 +7602,9 @@ Naples (Napoli)
 
   - St. Gaetano (aka, Cajetan, Gaetanus), founder, 8/7
 
-  - St. Giacomo Capocci da Viterbo, archbishop, 3/14 & 12/12 (gravesite
-    unknown)
+  - Servant of God Gennaro di Rosa, priest, d. 2/28/1905 (possibly at Santa Maria degli Angeli alle Croci or at the cathedral)
+  
+  - St. Giacomo Capocci da Viterbo, archbishop, 3/14 & 12/12 (gravesite unknown)
 
   - St. Giovanni d'Acquarola IV the Peacemaker, bishop, 6/22 (possibly
     at St. Restituta)
@@ -11864,9 +11875,11 @@ San Bellino, Province of Rovigo, Veneto region
 
 San Benedetto del Tronto, Province of Ascoli Piceno, Marche Region
 
-- Church of St. Benedict
+- Chiesa di San Benedetto del Tronto/Abbazia di San Benedetto Martire/Church of St. Benedict the Martyr (Via Muto, 2)
 
   - St. Benedict, martyr, 10/13
+
+  - Ven. Giovanni dello Spirito Santo (née Giacomo) Bruni, CP, priest, d. 12/12/1905
 
 San Benedetto Po, Province of Mantua, Lombardia region
 
