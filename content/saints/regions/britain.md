@@ -1,3 +1,5 @@
+# United Kingdom
+
 Aberdeen, Scotland
 
 - ???
@@ -1353,11 +1355,11 @@ priest martyrs, 3/7
 
   - St. Eutropius of Orange, bishop, 5/27
 
-Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
+- Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
   - Bl. Anthony Turner, SJ, priest/martyr, 6/20
 
-  - B. John Fenwick, SJ, priest/martyr, 6/20
+  - Bl. John Fenwick, SJ, priest/martyr, 6/20
 
   - Bl. John Gavan, priest/martyr
 
@@ -1369,8 +1371,7 @@ Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
   - St. Alphege of Winchester, bishop, 4/19
 
-  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics
-    lost to Protestant destruction and the Great Fire of London)
+  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics lost to Protestant destruction and the Great Fire of London)
 
 - St. Paul Cathedral churchyard
 
@@ -1422,9 +1423,9 @@ Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
 
   - St. John Southworth, priest/martyr, 6/28
 
-British Museum
+- British Museum
 
-- St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
+  - St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
 
   - St. Valerie of Limoges, martyr, 12/9
 
@@ -1529,9 +1530,10 @@ Much Wenlock (aka, Wenlock), Shropshire
 
 Neston, Cheshire West and Chester, Chesire County, North West region
 
-  - St. Winefride
+  - St. Winefride Church (5 Burton Road, Little Neston)
 
-  - St. John Plessington, priest/martyr, 7/19 (his vestments)
+    - St. John Plessington, priest/martyr, 7/19 (his vestments)
+    - Servant of God Teresa Helena Higginson, laywoman, d. 2/15/1905
 
 Newcastle-on-Tyne
 
@@ -1561,9 +1563,8 @@ Norham, Northumberland, North East region
 
 - ???
 
-  - King St. Ceowulf/Ceowullf, 1/15 (He "was buried at the door of the
-    church in Norham, but the location of his resting place is unknown,
-    because today's church is in a different place."
+  - King St. Ceowulf/Ceowullf, 1/15 (He "was buried at the door of the church in Norham, but the location of his resting place is unknown,
+    because today's church is in a different place.")
 
 Nottingham, Nottinghamshire, England
 
