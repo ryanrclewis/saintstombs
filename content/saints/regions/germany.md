@@ -1664,6 +1664,12 @@ Munich (Neuhausen district)
 
   - Bl. Winthir von Neuhausen, itinerant preacher, 8/6
 
+Münnerstadt, Bad Kissingen landkreis/district, Unterfranken regierungsbezirk/administrative region, Bayern/Bavaria state
+
+- Augustinerkloster St. Michael (Klostergasse 10)
+
+  - Ven. Pius (née Johannes) Klasser, OSA, priest, d. 3/15/1904
+
 Münster, Munster administrative region, Nordhein-Westphalen
 
 - St.-Paulus-Dom/Munster Cathedral
