@@ -124,7 +124,7 @@ Córdoba, Capital department, Province of Córdoba
 
 - Basílica de Santo Domingo
 
-  - Servant of God Reginaldo Toro, OP, bishop, d. 8/21/1904
+  - Servant of God Reginaldo de San Domingo (née Ángel José) Toro, OP, bishop, d. 8/21/1904
 
 - Santa Catalina de Siena Monastery
 
@@ -2902,6 +2902,8 @@ Huánuco, Province of Huánuco, Huánuco department
   - Servant of God Matilde de Jesús (née Nicolasa) Castillo Negron, religious, d. 6/19/1965 (she died here, but where is she buried?)
 
 Humay
+
+- Iglesia/Santuario de San Pedro de Huma (74H7+2F5; Vía Los Libertadores highway [at approximately Kilometer 31])
 
   - Servant of God Luisa De La Torre Rojas, laywoman, d. 11/21/1869
 
