@@ -5147,7 +5147,7 @@ Simferopol, Crimea
 
   - St. Luke Voyno-Yasenetsky of Simferopol the Blessed Surgeon, bishop, 6/11 (Orthodox)
 
-Śniatyn, Sniatyn urban hromada, Kolomyia Raion, Ivano-Frankivsk Oblast
+Śniatyn/Снятин, Sniatyn urban hromada, Kolomyia Raion, Ivano-Frankivsk Oblast
 
 - Снятинський міський/Cmentarz miejski w Śniatynie/Cemetery (вул. Шевченка/ul. Szewczenki/Shevchenka Street)
 
