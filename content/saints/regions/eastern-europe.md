@@ -5149,7 +5149,7 @@ Simferopol, Crimea
 
 Śniatyn, Sniatyn urban hromada, Kolomyia Raion, Ivano-Frankivsk Oblast
 
-- Cemetery
+- Снятинський міський/Cmentarz miejski w Śniatynie/Cemetery (вул. Шевченка/ul. Szewczenki/Shevchenka Street)
 
   - Bl. Marta Maria Anna Wiecka, DC, religious, 5/30
 
