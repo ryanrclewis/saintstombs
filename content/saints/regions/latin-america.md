@@ -1270,9 +1270,9 @@ Templo Santo Domingo
 
   - Servant of God María del Carmen Benavides y Mujica (Beatita Benavides), laywoman, d. 6/1/1849
 
-Santiago
+Santiago 
 
-- Basílica del Corazón de María
+- Basílica del Corazón de María (Calle Zenteno 764, at the corner of Zenteno and Copiapó streets)
 
   - Ven. Maríano Avellana Lasierra, CMF, priest/missionary, d. 5/14/1904
 
