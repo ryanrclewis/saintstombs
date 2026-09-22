@@ -5171,21 +5171,18 @@ Manresa, Bages County, Province of Barcelona
   - Servant of God Àngela Margarida (Angela Serafina) Prat, foundress, d.
     12/24/1608 (remains disappeared in 1909)
 
-Cementerio de Manresa
+- Cementerio de Manresa
 
-- Bl. Benet of Santa Coloma de Gramenet (née Josep Domènech Bonet), OFM
-  Cap., priest/martyr, 8/6
+	- Bl. Benet of Santa Coloma de Gramenet (née Josep Domènech Bonet), OFM Cap., priest/martyr, 8/6
 
-- Bl. Domènec de Sant Pere de Riudebitlles (née Joan Romeu y Canadell),
-  OFM Cap, priest/martyr, 7/27 (mass grave)
+	- Bl. Domènec de Sant Pere de Riudebitlles (née Joan Romeu y Canadell), OFM Cap, priest/martyr, 7/27 (mass grave)
 
   - Bl. Josep Oriol de Barcelona (née Jaume Baríau y Martí), OFM Cap,
     priest/martyr, 7/24 (mass grave)
 
-Marchena, La Campiña comarca, Province of Seville, Andalusia autonomous
-community
+Marchena, La Campiña comarca, Province of Seville, Andalusia autonomous community
 
-Cementerio San Roque
+- Cementerio San Roque
 
   - Bl. Emanuele Luque Ramos, layman/martyr, 7/22
 
@@ -7422,17 +7419,15 @@ autonomous community
 
   - Bl. Vicente Montserrat Millán, priest/martyr, 8/1
 
-Cementerio del Monasterio de San Lorenzo de El Escorial
+- Cementerio del Monasterio de San Lorenzo de El Escorial
 
   - Servant of God Alfonso María López Sendín, O Carm, priest, d. 2/1/2002
 
-Sanlúcar de Barrameda, Costa Noroeste de Cádiz comarca, Province of
-Cádiz, Andalusia autonomous community
+Sanlúcar de Barrameda, Costa Noroeste de Cádiz comarca, Province of Cádiz, Andalusia autonomous community
 
 - Iglesia La Merced (now a deconsecrated cultural building)
 
-  - Bl. Teresa de Jesús, O. de M., child, 11/23 (grave likely lost to time
-    and anti-Catholic actions)
+  - Bl. Teresa de Jesús, O. de M., child, 11/23 (grave likely lost to time and anti-Catholic actions)
 
 Sanlúcar la Mayor, El Aljarafe comarca, Province of Seville
 
@@ -7711,34 +7706,36 @@ Seville/Sevilla
 
   - Bl. Sebastián Sáinz López, OP, religious/marty, 8/14
 
-- Convent of Santa Ángela de la Cruz, Calle Santa Ángela de la Cruz,
-  Capilla de Santa Ángela de la Cruz/126​ Casa Madre de las Hermanas de la
+- Convent of Santa Ángela de la Cruz, Calle Santa Ángela de la Cruz, Capilla de Santa Ángela de la Cruz/126​ Casa Madre de las Hermanas de la
   Cruz (calle Santa Ángela de la Cruz)
 
   - St. Angela de la Cruz Guerrero (aka, María de los Ángeles Guerrero González), HCC, religious, 3/2
 
   - St. María de la Purísima de la Cruz (née María Isabel) Salvat Romero, HCC, religious, 9/18 or 10/31
 
-Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
-
-  - Servant of God María Cristina de Arteaga y Falguera, religious, d.
-    7/13/1984
-
 - Convento de la Asunción/Convent of the Assumption (C. San Vicente, 104)
 
-  - Bl. Agustina de la Asunción, O. de M., religious, 10/3Monasterio de la
-    Merced Calzada
+  - Bl. Agustina de la Asunción, O. de M., religious, 10/3
+
+- Convento de Santa Isabel (Plaza de Santa Isabel, 4, Casco Antiguo)
+
+	- Ven. María Dolorosa (née Dolores) Márquez Romero de Onoro, FMD, foundress, d. 7/31/1904
+
+- Convento de Santa Paula (Calle Sta. Paula, 11, Casco Antiguo)
+
+  - Servant of God María Cristina de Arteaga y Falguera, religious, d. 7/13/1984
+
+- Monasterio de la Merced Calzada
 
   - St. Beatrice de Roelas, O. de M., religious, 8/21
 
-- Bl. Francisca Martel, religious/founded this monastery, 6/23
+  - Bl. Francisca Martel, religious/founded this monastery, 6/23
 
   - Bl. Magdalena de la Concepción, O. de M., religious, 6/8
 
   - Bl. Magdalena la mayor, O. de M., religious, 10/3
 
-  - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious,
-    5/28
+  - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious, 5/28
 
 - La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la calle Cervantes)
 
@@ -7764,8 +7761,7 @@ Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha autonomous comm
 
 - Catedral de Santa María de Sigüenza
 
-  - Servant of God Jesús Pla Gandía, bishop, d. 11/8/2000 (in the Capilla de
-    la Inmaculada Concepción)
+  - Servant of God Jesús Pla Gandía, bishop, d. 11/8/2000 (in the Capilla de la Inmaculada Concepción)
 
   - St. Liberata, martyr, 1/11
 
