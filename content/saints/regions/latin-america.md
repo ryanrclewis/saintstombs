@@ -2454,7 +2454,7 @@ Puebla
 
   - Ven. Ramon Ibarra Gonzalez, archbishop, d. 2/1/1917 (Arzobispado de Puebla, Aptdo. 235. Av. 2 sur N. 305)
 
-San Francisco, Chapel of the Virgin of the Conquest
+- San Francisco, Chapel of the Virgin of the Conquest
 
   - Bl. Sebastian of Aparicio (incorrupt), OFM, widower/monk, 2/25
 
@@ -2462,11 +2462,11 @@ San Francisco, Chapel of the Virgin of the Conquest
 
   - The "China Poblana," Catarina of San Juan (not a saint, but venerated as one)
 
-Monasterio de la Purisima (Calle Diagonal Diaz Ordaz Nte. 4313, Col. San Baltazar Campeche)
+- Monasterio de la Purisima (Calle Diagonal Diaz Ordaz Nte. 4313, Col. San Baltazar Campeche)
 
   - Ven. María Tomelin del Campo (María of Jesus), religious, 6/11/1637
 
-Central House of the Servants of the Sacred Heart of Jesus and the Poor (Avenida 3 Poniente,1512)
+- Casa Central de las Siervas del Sagrado Corazón de Jesús y los Pobres/Central House of the Servants of the Sacred Heart of Jesus and the Poor (Avenida 3 Poniente,1512)
 
   - St. José María de Yermo y Parres, priest, 9/20
 
@@ -3105,9 +3105,9 @@ Montevideo
 
   - Servant of God Victor Loyódice, CSSR, d. 1/10/1916
 
-- Capilla Santuario de la Beata Francisca Rubatto
+- Capilla Santuario de la Beata Francisca Rubatto (Avenida Carlos María Ramírez 56, Belvedere neighborhood)
 
-  - St. Anna María (María Francesca de Jesus) Rubatto, foundress, 8/6
+  - St. Anna María (née María Francesca de Jesus) Rubatto, foundress, 8/6
 
 - Cementerio del Buceo
 
