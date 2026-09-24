@@ -10956,6 +10956,12 @@ Oratorio di Sant'Andrea al Celio/Santi Andrea e Gregorio al Celio
   - St. Nicola da Longobardi (née Giovanni Battista Saggio), OM,
     religious, 2/2
 
+- San Gioacchino in Prati (Via Pompeo Magno, 25)
+
+  - A center for Adorazione Riparatrice (Reparation/Eucharistic Adoration)
+
+  - St. Generosa of Sicily, martyr, 7/17 (in the Cappella del Sacro Cuore/Cappella dei Francesi/French Chapel)
+
 - San Giorgio in Velabro
 
   - St. Anastasius the Priest, martyr, 8/13 (disputed with St. Catherine's
@@ -11235,16 +11241,23 @@ Santa Maria Maggiore
 
   - Bl. Luigi Novarese, priest/founder, 7/20
 
-- Sta. Maria in Traspontina
+- Sta. Maria in Traspontina (Via della Conciliazione, 14c)
 
-  - Ven. Giovanni Battista Lucchesi, Carmelite (d. 1719) (Chapel of Ss.
-  Peter & Paul)
+  - Icon of Our Lady of Mount Carmel
 
-  - St. Basilde, martyr (Chapel of the Pieta)
+  - Miraculous 14th-century crucifix
 
-  - St. Mandalo, martyr (Chapel of the Pieta)
+  - Ven. Giovanni Domenico Lucchesi, Carmelite (d. 1719) (Chapel of Ss. Peter & Paul)
 
-  - St. Trisposius, martyr (Chapel of the Pieta)
+  - St. Basilde, martyr, 6/10 (Chapel of the Pieta)
+
+  - St. Mandalo, martyr, 6/10 (Chapel of the Pieta)
+
+  - St. Trisposius, martyr, 6/10 (Chapel of the Pieta)
+
+  - Two ancient marble column shafts believed to be the very columns to which St. Peter and St. Paul were bound and flogged before their martyrdom in Rome.
+
+  - National Shrine of San Canuto/King St. Canute IV of Denmark (no relics)
 
 - Sta. Maria in Trastevere
 
