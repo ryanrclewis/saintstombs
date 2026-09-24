@@ -12691,7 +12691,7 @@ Siena, Toscana region
 
   - St. Ansano/Ansanus the Baptizer, adolescent/martyr, 12/1
 
-  - St. Crescenzio/Crescentius of Rome, 11-year-old martyr, 9/14
+  - St. Crescenzio/Crescentius of Rome, 11-year-old martyr, 9/14 (As of September 2026, the reliquary is in the sacristy due to renovations)
 
 San Domenico
 
