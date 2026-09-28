@@ -75,8 +75,7 @@ region
 
   - St. Beornwald/Berenwald/Byrnwald/Bernwald of Bampton, priest, 12/21
 
-- Bardney Abbey, Lincolnshire County, East Midlands and Yorkshire and
-  Humber regions
+Bardney Abbey, Lincolnshire County, East Midlands and Yorkshire and   Humber regions
 
 - Abbey church (most likely, but it is almost all but gone)
 
@@ -84,7 +83,7 @@ region
 
   - St. Osthryth
 
-  - St. Oswald of Northumbria
+  - King St. Oswald of Northumbria, 8/5
 
 Bardsey, Gwynedd, Wales
 
@@ -94,9 +93,9 @@ Bardsey, Gwynedd, Wales
 
 Bardsey Island, Wales
 
-- ???
+- ??? Individual graves here are hard to pinpoint, but it is said that over 20,000 saints and martyrs are buried here.
 
-  - St. Deiniol of Bangor, evangelist, 9/11
+  - St. Deiniol of Bangor, evangelist and first bishop of Bangor, 9/11
 
 Barking, London Borough of Barking and Dagenham
 
@@ -1626,12 +1625,11 @@ Peterborough, shire county/district of Cambridgeshire
 
   - St. Cyneswith
 
-- St. Hedda of Peterborough, under the Hedda Stone in the Lady Chapel
-  behind the High Altar, martyr, 4/9
+  - St. Hedda of Peterborough, under the Hedda Stone in the Lady Chapel behind the High Altar, martyr, 4/9
 
   - St. Kyneburga/Cyneburgh/Cyneburga of Castor, OSB, abbess, 3/6
 
-  - St. Oswald of Northumbria (one of his arms)
+  - King St. Oswald of Northumbria (one of his arms), 8/5
 
   - St. Swithun (arm)
 
