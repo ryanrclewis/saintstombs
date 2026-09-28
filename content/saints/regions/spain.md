@@ -5481,6 +5481,10 @@ Fruitós de Bages, Comarca Bages, Catalonia region)
 
   - Bl. Pere Roca Toscas, priest/martyr, 3/4
 
+- Convento de las Hermanas Franciscanas de la Inmaculada/Convent de les Germanes Franciscanes de la Immaculada/Convent of the Franciscan Sisters of the Immaculate (Carrer Salvador Giner, 1)
+
+	- Ven. Francisca de la Concepción (née Francisca Pascual) Doménech, HFIC, foundress, d. 4/26/1903
+
 - Cementerio de Montcada/Montcada cemetery
 
   - Bl. Antoni Tort Reixachs, jeweler/martyr,
@@ -6697,8 +6701,7 @@ Pozuelo de Alarcón, Community of Madrid
 
 Capilla del Colegio-Hogar del Buen Consejo (Paseo De la Concepción, 12)
 
-  - Servant of God Enriqueta (Maria Teresa de Jesús) Rodon i Asencio,
-    foundress, d. 12/28/1903
+  - Servant of God Enriqueta (María Teresa de Jesús) Rodón i Asencio, foundress, d. 12/28/1903
 
 - ???
 
