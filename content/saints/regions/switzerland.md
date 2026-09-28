@@ -1,3 +1,5 @@
+# Switzerland
+
 Agno, Lugano District, Canton of Ticino
 
 - Chiesa dei Santi Giovanni Battista e Provino/Parish church of Ss. John
@@ -141,12 +143,17 @@ Fischingen, Canton of Thurgau
 
   - Bl. Ida of Toggenburg, anchoress, 11/4
 
-Fribourg
+Fribourg, Fribourg Canton
 
-- Church of St. Michael/General House of the FSSP (or at the Collège
-  Saint-Michel (German: Kollegium St. Michael)
+- Church of St. Michael/General House of the FSSP (or at the Collège Saint-Michel (German: Kollegium St. Michael)
 
   - St. Peter Canisius, SJ, reformer, 12/21 & 4/27
+
+Fribourg, Saanebezirk/Sarine District, Fribourg canton
+
+- University of Fribourg, Chapelle de l’université Miséricorde (Avenue de l’Europe 20)
+
+  - Servant of God Maximilian Westermaier, botanist, d. 5/1/1903
 
 Geneva
 
