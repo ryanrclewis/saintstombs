@@ -2160,6 +2160,8 @@ Washington, DC
 - St. John Paul II National Shrine (3900 Harewood Road, NE)
 - Franciscan Monastery of the Holy Land (aka, Monastery of the Holy Sepulchre) (1400 Quincy Street NE)
 - Ukrainian Catholic National Shrine of the Holy Family (4250 Harewood Road NE)
+- St. Dominic Church (630 E Street SW)
+  - Rosary Shrine of St. Jude
 - Oak Hill Cemetery in Georgetown
   - Servant of God Mary Virginia Merrick, laywoman, d. 1/10/1955
 
