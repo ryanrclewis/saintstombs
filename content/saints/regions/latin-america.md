@@ -1990,17 +1990,15 @@ Cañada de Caracheo, Cortazar municipality, Guanajato state
 
 Chalchihuites, Zacatecas
 
-- ???
+- Parroquia de San Pedro Apóstol/Church of St. Peter the Apostle (Iturbide 102)
 
-  - St. David Roldán-Lara, layman, 5/25 & 8/15
-
-  - St. Luis Batiz Sainz, martyr, 5/25 & 8/15
-
-  - St. Manuel Miranda, martyr, 5/25
-
-  - St. Manuel Moralez, martyr, 5/25
-
-  - St. Salvador Lara, martyr, 5/25
+  - St. David Roldán-Lara, layman/martyr, 5/25 & 8/15
+  
+  - St. Luis Batis Sáinz, priest/martyr, 5/25 & 8/15
+  
+  - St. Manuel Morales, layman/martyr
+  
+  - St. Salvador Lara Puente, layman/martyr, 5/25
 
 Chihuahua
 
@@ -2084,13 +2082,19 @@ Durango, Durango state
 
 - ???
 
-Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuanes
+  - Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuanes
 
 Ecuandureo, Michoacan
 
 - Parroquia del Señor de la Paz/Our Lord of Peace (Calle Leonardo Castellanos #14, Frente a la Plaza Municipal, Colonia Centro)
 
   - Ven. Leonardo Castellanos y Castellanos, bishop, d. 12/21/1912
+
+El Cubilete (La Montana), Silao de la Victoria Municipality, Guanajuato
+
+- Santuario de Cristo Rey (Cerro del Cubilete S/N)
+
+  - Bl. Leonardo Pérez Larios, layman/martyr, 4/27
 
 El Tarengo, La Barca, Jalisco state
 
@@ -2210,13 +2214,17 @@ Jalostotitlán, Jalisco
 
 León, Guanajuato
 
-Sanctuary of Guadalupe
+- Sanctuary of Guadalupe
 
   - Ven. Pablo de Anda Padilla, founder, d. 6/29/1904
 
-Templo del Inmaculado Corazón de María
+- Templo del Inmaculado Corazón de María
 
   - Bl. Andrés Solá Molist, priest/martyr, 4/25
+
+- Templo de las Tres Ave Marías/Iglesia de la Santísima/Templo de la Santísima Trinidad y de las Tres Aves Marías (5 de Mayo 343, Colonia Obregón)
+
+  - Bl. Leonardo Pérez Larios, lay martyr, 4/25
 
 - ???
 
