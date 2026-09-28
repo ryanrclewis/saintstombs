@@ -801,6 +801,12 @@ Bourg-Saint-Andéol (Bergoïata), Ardèche department, Rhône Valley southern Fr
 - Maison mère des Sœurs de la Présentation de Marie
   - St. Anne-Marie Rivier, religious/foundress, 2/3 (chapelle/chapel)
 
+Bourg-en-Bresse, Ain department, Auvergne-Rhône-Alpes region
+
+- Cimetière de Bourg-en-Bresse/Cimetière de Challes (Avenue de l’Égalité, Challes district)
+
+  - Servant of God Marie du Sacré-Cœur (nee Marie-Constance) Bernaud, HPCJ, foundress, d. 8/2/1903
+
 Bourges, Cher department, Province of Berry
 
 - Cathédrale Saint-Étienne de Bourges
@@ -3134,11 +3140,6 @@ Paris
   - St. Séverin/Severinus of Paris, hermit, 11/23 (tomb may have been lost to time)
 - Saint-Sulpice
   - St. Sulpice le Pieux de Bourges/Sulpicius the Pious of Bourges, bishop, 1/17
-- Maison mère vincentienne/Congrégation de la Mission/Congregation of the Mission/ Chapelle Saint-Vincent-de-Paul de Paris/Chapel of St. Vincent de Paul (95, rue de Sèvres)
-  - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11
-  - St. Vincent de Paul, CM, priest/founder, 9/27
-- Maison-mère de la Congrégation du Saint-Esprit/Motherhouse of the Congregation of the Holy Spirit (30, rue Lhomond on Montagne Sainte-Geneviève in the 5th arrondissement)
-  - Ven. François Libermann, CSSp, founder/con from Judaism, d. 2/2/1852
 - Shrine of Notre Dame de la Salette
   - Ven. Jean-Léon Le Prevost, SSVP, founder, d. 10/30/1874
   - Bl. Mathieu-Henri Planchat, SSVP, priest/martyr, 5/26
@@ -3155,6 +3156,13 @@ Paris
   - St. William of Bourges, bishop, 1/10 (rib only)
 - Hospital of Val-de-Grâce Chapel (in the 5<sup>th</sup> arrondissement)
   - St. Clement of Ankara (skull only), martyr, 1/23
+- Maison-mère de la Congrégation du Saint-Esprit/Motherhouse of the Congregation of the Holy Spirit (30, rue Lhomond on Montagne Sainte-Geneviève in the 5th arrondissement)
+  - Ven. François Libermann, CSSp, founder/con from Judaism, d. 2/2/1852
+- Maison-Mère de Congrégation des soeurs de Marie-Auxiliatrice (25c rue de Maubeuge)
+  - Servant of God Marie-Louise-Sidonie de Luppé, MA, religious, d. 4/7/1903
+- Maison mère vincentienne/Congrégation de la Mission/Congregation of the Mission/ Chapelle Saint-Vincent-de-Paul de Paris/Chapel of St. Vincent de Paul (95, rue de Sèvres)
+  - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11
+  - St. Vincent de Paul, CM, priest/founder, 9/27
 - Cimetière d'Auteuil
   - Servant of God Madeleine (née Boudou) Follereau, philanthropist, d. 3/3/1991
   - Servant of God Raoul Follereau, author, d. 12/6/1977
@@ -3239,11 +3247,11 @@ Paris
 
 Paris, Auteuil quarter/arrondissement
 
-- Sainte-Thérèse-de-l'Enfant-Jésus sanctuary
+- Sainte-Thérèse-de-l'Enfant-Jésus sanctuary (40 Rue Jean de la Fontaine)
   - Bl. Daniel Brottier, CSSp, priest, 2/28
 - Maison-mère of the Religieuses de l’Assomption (17 Rue de l’Assomption)
+  - Servant of God François Picard, AA, priest/cofounder, d. 4/16/1903
   - Servant of God Isabelle de Gethsémani (née Isabelle de Clermont-Tonnerre), OrA, cofoundress, d. 7/3/1921
-
 
 Parnoy-en-Bassigny, Langres arrondissement, Haute-Marne department, Grand Est department
 
