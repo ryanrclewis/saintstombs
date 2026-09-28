@@ -552,8 +552,7 @@ Dryburne, near Durham
 
   - Bl. Richard Holiday, priest/martyr, 5/27
 
-Four common criminals professed that they died Catholic with the other
-four martyrs of that day, 5/27
+  - Four common criminals professed that they died Catholic with the other four martyrs of that day, 5/27
 
 Dufftown, County Banff(shire), Scotland
 
@@ -565,7 +564,7 @@ Dunblane, Stirling Council area, Stirling and Falkirk lieutenancy area
 
 - Dunblane Cathedral
 
-- Bl. Clement of Dunblane, OP, bishop, 3/19 (in the choir)
+  - Bl. Clement of Dunblane, OP, bishop, 3/19 (in the choir)
 
 Dunfermline, Fife, Scotland
 
@@ -573,15 +572,13 @@ Dunfermline, Fife, Scotland
 
   - King St. David, 1/11 and 5/24
 
-  - Queen St. Margaret of Scotland, 11/16 (most relics destroyed by the
-    Protestants)
+  - Queen St. Margaret of Scotland, 11/16 (most relics destroyed by the Protestants)
 
 Dunstable, Bedfordshire
 
 - Dunstable Priory
 
-- St. Fremund of Dunstable, hermit/martyr, 5/11 (shrine destroyed by the
-  Protestants)
+  - St. Fremund of Dunstable, hermit/martyr, 5/11 (shrine destroyed by the Protestants)
 
 Durham
 
@@ -589,10 +586,9 @@ Durham
 
   - St. Baldred the Hermit of Tyninghame, 3/6
 
-  - St. Balther of Lindisfarne, OSB, hermit, 3/6 (grave likely lost; was in
-    the shrine of St. Cuthbert)
+  - St. Balther of Lindisfarne, OSB, hermit, 3/6 (grave likely lost; was in the shrine of St. Cuthbert)
 
-- St. Bede the Venerable (Galilee Chapel)
+  - St. Bede the Venerable (Galilee Chapel)
 
   - St. Boisil, 2/24
 
@@ -602,7 +598,7 @@ Durham
 
   - St. Ethelwald of Lindisfarne, monk/bishop, 2/12 (relics likely lost)
 
-  - St. Oswald (skull only)
+  - King St. Oswald of Northumbria, 8/5 (skull only)
 
   - St. Nicholas
 
@@ -612,8 +608,7 @@ Durham
 
   - St. Edbert (aka, Eadbert; Eadbeorht) of Lindisfarne, bishop, 5/6
 
-  - St. Ethelwald (Aethelweald; Aedilauld; Ethilwald; Ethelwold) of
-    Lindisfarne, bishop, 2/12
+  - St. Ethelwald (Æthelwold, Aethelweald; Aedilauld; Ethilwald; Ethelwold) of Lindisfarne, bishop, 2/12
 
   - St. Gobert of Apremont, O.Cist., 8/20
 
@@ -639,15 +634,15 @@ Ely, Cambridgeshire
 
 - Cathedral
 
+  - St. Etheldreda, princess/abbess, 6/23 (Her shrine was destroyed during the Reformation, but its former location is marked so that pilgrims can pray there.)
+
   - St. Wendreda, nun, 1/22
 
-- St. Wihtburh/Withburga/Withburge, princess/abbess, 3/17 (tomb destroyed
-  by the Protestants)
+  - St. Wihtburh/Withburga/Withburge, princess/abbess, 3/17 (tomb destroyed by the Protestants)
 
 - Church of St. Etheldreda (on Egremont St.)
 
-- St. Etheldreda (left hand only) (she was at the cathedral, but her
-  shrine was destroyed during the dissolution of the monasteries)
+  - St. Etheldreda (left hand only) (she was at the cathedral, but her shrine was destroyed during the dissolution of the monasteries)
 
 Erdington, Birmingham
 
@@ -795,6 +790,12 @@ Hayle, Cornwall
 - St. Gwinear/Guigner, martyr, 3/23 (a now lost basilica was built over
   his grave)
 
+Heavenfield, Northumberland
+
+- Cross of St. Oswald
+
+  - Marks the site where King St. Oswald of Northumbria raised a wooden battle standard before his victory in the Battle of Heavenfield.
+
 Hereford, Herefordshire, West Midlands
 
 - Hereford Cathedral
@@ -811,7 +812,7 @@ Hexham, Northumberland, North East
 
 - Cathedral
 
-- St. Alcmund, shrine destroyed by the Scots, 9/7
+  - St. Alcmund, shrine destroyed by the Scots, 9/7
 
 - Abbey of St. Andrew (Hexham Abbey)
 
@@ -819,10 +820,15 @@ Hexham, Northumberland, North East
 
 Hibaldstow, Lincolnshire
 
-St Hybald
+- St Hybald (Church Street)
 
-  - St. Hybald, abbot, 9/18 (body rediscovered in 1864; what happened to it
-    after that is anyone's guess; call the parish at (01652) 600 860)
+  - St. Hybald, abbot, 9/18 (body rediscovered in 1864; what happened to it after that is anyone's guess; call the parish at (01652) 600 860)
+
+Hinderwell, Saltburn-by-the-Sea, North Yorkshire, England
+
+- St. Hilda Church (Rosedale Lane [just off the main A174 village road])
+
+  - St. Hilda’s Well
 
 Holborn, London Borough of Camden, Greater London
 
@@ -886,15 +892,19 @@ Inchinnan, Renfrewshire, Scotland
 
   - St. Conval (destroyed to make way for the Glasgow Airport)
 
-  - St. Conval, evangelist, 4/1
+    - St. Conval, evangelist, 4/1
 
-Ingleby, South Derbyshire district, Derbyshire County, East Midlands
-region
+Ingleby, South Derbyshire district, Derbyshire County, East Midlands region
 
 - Anchor Church/Anchorite caves
 
-  - St. Eardwulf/Hardulph, deposed king/hermit, 8/21 (reputed to be where he
-    died and was laid to rest)
+  - St. Eardwulf/Hardulph, deposed king/hermit, 8/21 (reputed to be where he died and was laid to rest)
+
+Inner Farne Island, the Farne Islands, North Sunderland, Northumbria
+
+- Chapel of St. Cuthbert built on the site of his former cell and where he died (reachable by boat)(55° 37’ 01.2” N, 1° 39’ 18.9”/55.616990, -1.655256)
+
+  - St. Bartholomew of Farne, hermit, 6/24 (buried under the chapel)
 
 Iona
 
@@ -954,12 +964,11 @@ Kew, Cornwall, England
 
   - St. Kigwe (aka, Ciwa; Ciwg; Cwick; Kewe; Kigwoe; Kuet; Kywere), 2/8
 
-  - Kingarth, Isle of Bute, Scotland
+Kingarth, Isle of Bute, Scotland
 
 - ???
 
-- St. Blane, 8/10 (either St. Blane's chapel of Kingarth abbey, both
-  probably ruined, or maybe even Dunblane Cathedral)
+  - St. Blane, 8/10 (either St. Blane's chapel of Kingarth abbey, both probably ruined, or maybe even Dunblane Cathedral)
 
 Kirkwall, Orkney Islands
 
@@ -977,8 +986,7 @@ Lacock, County of Wiltshire, South West region
 
 - Lacock Abbey
 
-- Bl. Ela of Lacock, peeress/noblewoman/abbess, 2/1 & 8/24 (her tomb still
-  exists)
+  - Bl. Ela of Lacock, peeress/noblewoman/abbess, 2/1 & 8/24 (her tomb still exists)
 
 Lancaster
 
@@ -1018,7 +1026,7 @@ Lastingham, Ryedale district, North Yorkshire
 
 - Parish Church of St. Mary
 
-- St. Cedd/Cedda, OSB, abbot/bishop/monk, 1/7 or 10/26 (crypt)
+  - St. Cedd/Cedda, OSB, abbot/bishop/monk, 1/7 or 10/26 (crypt)
 
 Leeds
 
@@ -1044,7 +1052,7 @@ Lincoln
 
 - Cathedral
 
-- St. Hugh of Lincoln, 11/17 (south choir road)
+  - St. Hugh of Lincoln, 11/17 (south choir road)
 
 - ???
 
@@ -1066,11 +1074,19 @@ Llanbadarn
 
 Llanbabo, Gwynedd, Anglesey, Tref Alaw
 
+- St. Pabo Church (One 2017 visitor found it locked, so check access before travelling.)
+
+  - Tombstone of St. Pabo, prince, 11/9 (he is supposedly buried in the churchyard) 
+
 Llandaff, South Glamorgan County, Cardiff, Wales
 
 - Llandaff Cathedral
 
+  - St. Dyfrig/Dubricius, abbot, 11/14
+
   - St. Oudoceus, bishop, 7/2
+
+  - St. Teilo, bishop/abbot, 2/9
 
 Llanddwyn Island, Anglesey
 
@@ -2158,9 +2174,15 @@ Wrexham, Wrexham County Borough, Wales
 
   - St. Richard Gwyn, layman/martyr, 10/17 & 10/25 (relics only)
 
+Yeavering, Kirknewton civil parish, Northumberland
+
+- The River Glen Ad Gefrin/St. Paulinus monument 55.567958° N, 2.117205° W/55°34’04.7”N, 2°07’01.9”W)
+
+  - Marking showing where St. Paulinus baptized the local people in 627 after instructing them for 36 days.
+
 York
 
-York Minster (aka, St. Peter's)
+- York Minster (aka, St. Peter's)
 
   - King St. Edwin of Northumbria, 10/12 (head only)
 
