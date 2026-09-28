@@ -229,9 +229,9 @@ Steyl, Tegelen district, Venlo municipality
 
 - Notre Dame Monastery of Missiezusters Dienaressen van de Heilige Geest (Zusterstraat)
 
-  - Bl. Mother Josepha (aka, Hendrina Stennmans), foundress, 5/20
+  - Bl. Josefa (née Hendrina) Stennmans, SSpS, foundress, 5/20
 
-  - Bl. Maria Virgo (Helena Stollenwerk), religious, 2/3 & 11/28
+  - Bl. Maria Virgo (née Helena) Stollenwerk, SSpS religious, 2/3 & 11/28
 
 - ???
 
