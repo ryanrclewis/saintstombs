@@ -12689,11 +12689,11 @@ Siena, Toscana region
 
 - Duomo
 
-  - St. Ansano/Ansanus the Baptizer, adolescent/martyr, 12/1
+   - St. Ansano/Ansanus the Baptizer, adolescent/martyr, 12/1 (Cappella di Sant’Ansano, in the left transept)
 
   - St. Crescenzio/Crescentius of Rome, 11-year-old martyr, 9/14 (As of September 2026, the reliquary is in the sacristy due to renovations)
 
-San Domenico
+- San Domenico
 
   - Bl. Ambrogio/Ambrose (Sansedoni), OP, 3/20
 
