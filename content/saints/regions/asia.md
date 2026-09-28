@@ -3439,11 +3439,11 @@ Barangay Balintocatok (Dariuk Hills), City of Santiago, Province of Isabela, Cag
 
 Binondo, Manila
 
-- Binondo Church
+- Binondo Church (1006 Plaza Lorenzo Ruiz)
 
-  - St. Domingo Ibáñez de Erquicia, 8/13
+  - St. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/13 (shrine only; ashes thrown into the sea)
 
-  - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine only)
+  - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine only; ashes thrown into the sea)
 
   - St. Lorenzo Ruiz, layman/martyr, 9/28 (shrine only; ashes thrown into the sea)
 
