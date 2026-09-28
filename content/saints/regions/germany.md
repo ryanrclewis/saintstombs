@@ -1183,21 +1183,19 @@ Hildesheim
 
 - Dom
 
-  - St. Epiphanius the Peacemaker of Pavia, Glory of Italy, Light of
-    Bishops, bishop, 1/21
+  - St. Epiphanius the Peacemaker of Pavia, Glory of Italy, Light of Bishops, bishop, 1/21
 
   - St. Godehard of Hildesheim, bishop, 5/5
 
-  - King St. Oswald of Northumbria, 8/5
+  - King St. Oswald of Northumbria, 8/5 (reliquary bust only)
 
 - Dom museum
 
-- St. Jacob of Nisibis, bishop, 7/15 (head reliquary)
+  - St. Jacob of Nisibis, bishop, 7/15 (head reliquary)
 
-Basilika St. Godehard
+- Basilika St. Godehard
 
-  - Bl. Arnold of Hildesheim, abbot, 7/16 (He died here when it was the
-    abbey church, but is he still buried here?)
+  - Bl. Arnold of Hildesheim, abbot, 7/16 (He died here when it was the abbey church, but is he still buried here?)
 
   - Bl. Bernhard I of Hildesheim, bishop, 7/20
 
@@ -1205,8 +1203,7 @@ Basilika St. Godehard
 
   - St. Bernward of Hildesheim, bishop, 11/20
 
-Hirsau, Calw District, Karlsruhe administrative region,
-Baden-Württemberg state
+Hirsau, Calw District, Karlsruhe administrative region, Baden-Württemberg state
 
 - Pfarrkirche St. Aurelius/Parish church of St. Aurelius
 
