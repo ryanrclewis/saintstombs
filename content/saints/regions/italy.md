@@ -1159,31 +1159,27 @@ Bergamo, Province of Bergamo, Lombardia region
 
   - Bl. Albert Prezzati of Pontida, OSB, abbot, 9/2
 
-- Figlie del Sacro Cuore di Gesù/Chapel of the Institute of the Daughters
-  of the Sacred Heart
+- Figlie del Sacro Cuore di Gesù/Chapel of the Institute of the Daughters of the Sacred Heart
 
   - St. Teresa Eustochio Verzeri, OSB, foundress, 3/3
 
 - Dominican Monastery Matris Domini of Bergamo
 
-  - Bl. Guala de Roniis of Brescia, OP, prior and bishop, 9/3 (skull and
-    femurs)
+  - Bl. Guala de Roniis of Brescia, OP, prior and bishop, 9/3 (skull and femurs)
 
 - Casa Madre di Suore delle Poverelle dell\'Istituto Palazzolo (Via San Bernardino 56)
 
   - St. Luigi Maria Palazzolo, priest/founder, 6/15 & 5/22
 
-- Congregazione delle Suore Sacramentine di Bergamo Mother House chapel
-  (next to the Church of Adoration/Chiesa dell'Adorazione)
+- Congregazione delle Suore Sacramentine di Bergamo Mother House chapel (next to the Church of Adoration/Chiesa dell'Adorazione)
 
-  - Bl. Geltrude Caterina Comensoli, foundress, 2/18
+  - St. Geltrude (nee Caterina) Comensoli, foundress, 2/18
 
 - Generalizia delle Suore Orsoline di Maria Vergine Immacolata (Via Masone, 20/A)
 
   - Servant of God Gesuina (née Domenica) Seghezzi, religious, d. 3/30/1963
 
-  - Ven. Maria Dositea Eucaristica (née Maria Domenica) Bottani, religious,
-    d. 9/2/1970
+  - Ven. Maria Dositea Eucaristica (née Maria Domenica) Bottani, religious, d. 9/2/1970
 
 - Clinica San Francesco chapel
 
@@ -7519,8 +7515,7 @@ Naples (Napoli)
 
 - San Pietro ad Aram
 
-  - Servant of God Maria Angela Crocifissa (née Maria Giuda), Franciscan
-    nun
+  - Servant of God Maria Angela Crocifissa (née Maria Giuda), Franciscan nun, d. 4/9/1932
 
 - Santa Restituta e la Stefania
 
@@ -7574,6 +7569,10 @@ Naples (Napoli)
 
   - Ven. Agostino Cozzolino, priest, d. 11/2/1988 (in the hypogeum [\underground tomb\] of the Congregation of Sant’Anna nell’ipogeo
     della Congrega di Sant’Anna)
+
+- Cimitero Monumentale di Poggioreale, Cappella dell’Arciconfraternita dei Nobili della Vita (Via Nuova Poggioreale) 
+
+  - Servant of God Clelia Russo, laywoman, d. 8/27/1903
 
 - Catacombe di San Gaudioso
 
@@ -14745,6 +14744,10 @@ Verona
 - Casa Madre dei Missionari Comboniani
 
   - St. Daniel Comboni, bishop/founder, 10/10 (relics only; rebels destroyed his body in Sudan)
+
+- Casa Madre dei Suore Missionarie Comboniane/Comboni Missionary Sisters Mother House (Via Tezza, 2)
+
+  - Ven. Maria Giuseppa (nee Maria Teresa) Scandola, MSV, religious, d. 9/1/1903
 
 - Casa Maddre Sorelle della Sacra Famiglia di Verona (Via Fontane di Sopra, 2)
 
