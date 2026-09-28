@@ -763,6 +763,10 @@ Glastonbury
 
 Gloucester, Gloucestershire
 
+- St. Oswald’s Prior (Archdeacon Street)(in ruins)
+
+  - King St. Oswald of Northumbria, 8/5 (main body; likely buried under what was once the priory church)
+
 - ???
 
   - Bl. John Sandys, priest/martyr, 8/11
