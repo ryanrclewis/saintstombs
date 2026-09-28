@@ -5520,6 +5520,12 @@ Lecce, Province of Lecce, Puglia region
 
   - Ven. Ugo de Blasi, priest, d. 2/6/1982
 
+Lecco, Rancio rione/neighborhood, Province of Lecco, Lombardia region
+
+- Santuario di Santa Maria Gloriosa/Shrine of Holy Mary, Glorious (Via Antonio Bonaiti)
+
+  - Memorial to Bl. Giovanni Battista Mazzucconi, PIME, priest/martyr, 9/7 (altar dedicated to him; this is the closest thing he has to a shrine)
+
 Legnano, Metropolitan City of Milan, Lombardia region
 
 - Basilica di San Magno
