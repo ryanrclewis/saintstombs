@@ -1545,7 +1545,7 @@ Much Wenlock (aka, Wenlock), Shropshire
 
 - Ruined Abbey
 
-  - St. Milburge, abbess, 2/23
+  - St. Milburga, abbess, 2/23 (The relics of St. Milburga were publicly burned and destroyed in the marketplace during the Dissolution of the Monasteries in 1540 under Edward VI.)
 
 Neston, Cheshire West and Chester, Chesire County, North West region
 
