@@ -1322,21 +1322,17 @@ Vedalai, Ramanathapuram district, Tamil Nadu state
 
   - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body lost but there may be a shrine to him there)
 
-- Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
-
-  - Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
-
-  - Ss. Josaphat and Baarlam, martyrs, 11/27
-
-  - Servants of God Kantheswar Digal and 34 companions, martyrs of Kandhamal, d. 8/2008
-
-  - Servant of God Mary Grace D'Lima (Teresa of Saint Rose of Lima), CSST, foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of     Bangalore/Bengaluru, Karnataka state, where the generalate of the order she founded is located)
-
-Vilakkannur, Kannur District, Kerala State
+ Vilakkannur, Kannur District, Kerala State
 
 - Christ the King Church
 
   - Vatican approved eucharistic miracle of 11/15/2013
+
+Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
+Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
+Ss. Josaphat and Baarlam, martyrs, 11/27
+Servants of God Kantheswar Digal and 34 companions, martyrs of Kandhamal, d. 8/2008
+Servant of God Teresa of Saint Rose of Lima D’Lima (née Mary Grace), CSST, foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of Bangalore/Bengaluru, Karnataka state, where the generalate of the order she founded is located)
 
 # Indonesia
 
