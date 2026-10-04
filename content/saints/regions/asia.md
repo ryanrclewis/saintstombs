@@ -3740,13 +3740,20 @@ Antioch
 
   - St. Eustachius of Antioch, bishop, 2/21
 
+Syria
+
+Apamea, NW of Hama
+- ???
+  - St. Antoninus, 9/2
+  - St. Julian of Apamea, 12/9
+
 Cyrus
 
 Damascus
 
 - ???
 
-Our Lady of Damascus/Our Lady of Tears, 1/24
+  - Our Lady of Damascus/Our Lady of Tears, 1/24
 
   - St. Caesarius, martyr, 11/1
 
@@ -3795,19 +3802,15 @@ Edessa
 
   - St. Mary of Edessa, converted prostitute, anchoress, 10/29
 
-Himo village (قرية هيمو), Qamishli district, Al-Hasakah
-governorate, northeastern Syria
+Himo village (قرية هيمو), Qamishli district, Al-Hasakah governorate, northeastern Syria
 
 - Monastery of Saint Febronia of Nisibis (دير القديسة فيبرونيا
   النصيبين)
-
-  - St. Febronia of Nisibis, martyr, 6/25 (allegedly, her body was
-    transferred to Constantinople in 363)
+  - St. Febronia of Nisibis, martyr, 6/25 (allegedly, her body was transferred to Constantinople in 363)
 
 Homs (formerly Emesa)
 
-- Church of Saint Elian (كنيسة مار اليان, Kaneesat Mar
-  Elian)
+- Church of Saint Elian (كنيسة مار اليان, Kaneesat Mar Elian)
 
   - St. Elian/Julian of Emesa, physician/martyr, 2/6, 2/7, & 3/7
 
@@ -3819,13 +3822,13 @@ Homs (formerly Emesa)
 
   - St. Silvanus, bishop, martyr, 2/6
 
-Latakia
+Latakia/اللَّاذِقِيَّة
 
 - ???
 
   - St. Eusebius of Laodicea, bishop, 7/3
 
-Rufiananas
+Rufiananas/ الرفنية/al-Rafaniyya, Hama governorate (34°56′03″N 36°23′48″E)(now in ruins)
 
 - Monastery of St. Hypatius
 
