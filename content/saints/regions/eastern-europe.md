@@ -3949,10 +3949,13 @@ Kosice/Košice
 
 Michalovce, Michalovce District, Košice Region
 
-- Bazilike Zostúpenia Svätého Ducha/Basilica of the Descent of the Holy
-  Spirit
+- Bazilike Zostúpenia Svätého Ducha/Basilica of the Descent of the Holy Spirit
 
   - Bl. Metodej (Dominik) Trčka, CSsR, priest/martyr, 3/23
+
+Mount Živčáková (located near the town of Turzovka), Čadca District, Žilina Region, northwest part of the country
+
+- Reputed Marian apparition site (approved as an official site of Marian pilgrimage by the local bishop on Oct. 19, 2008)
 
 Nitra, Nitra district, Nitra region
 
@@ -4155,11 +4158,13 @@ Laodicea
 
 # Turkey
 
-Alasehir (Philadelphia)
+Alaşehir/Philadelphia, Manisa Province
 
 - ???
 
   - St. Aquila, 8/1
+
+  - St. Cyril, martyr, 8/1
 
   - St. Domitian, martyr, 8/1
 
@@ -4228,13 +4233,11 @@ Bal-Kiz region (formerly the town of Cyzicus)
 
   - St. Tryphaena of Cyzicus, martyr, 1/31
 
-Bekarlar (aka, Nenizi, aka, Nazianzus), Gülağaç district, Aksaray
-Province
+Bekarlar (aka, Nenizi, aka, Nazianzus), Gülağaç district, Aksaray Province
 
 - ???
 
-  - St. Caesarius of Nazianzus, politician, 2/25 (grave likely lost to time
-    and invasion)
+  - St. Caesarius of Nazianzus, politician, 2/25 (grave likely lost to time and invasion)
 
 Bergama (Pergamum)
 
@@ -4262,7 +4265,7 @@ Bursa, Bursa Province, Marmara region
 
 Büyükada Island, Adalar İlçesi (Princes islands), Istanbul
 
-- Ayios Nikolaos/Άγιος Νικόλαος/Agios Nicholaos/Saint Nicholas
+- Ayios Nikolaos/Άγιος Νικόλαος/Agios Nicholaos/St. Nicholas
 
   - Empress St. Irene Piroska of Hungary/Macaristan İmparatoriçesi St. Irene Piroska/Αυτοκράτειρα Αγία Ειρήνη Πιρόσκα της Ουγγαρίας, 8/13
 
@@ -4293,15 +4296,13 @@ George the Trophy-Bearer
 
 - Chapel of the Three Hierarchs
 
-  - Balıklı Meryem Ana Rum Manastiri/Church of St. Mary of the Spring/Church of the Life-Giving Spring
+- Balıklı Meryem Ana Rum Manastiri/Church of St. Mary of the Spring/Church of the Life-Giving Spring
 
-  - St. Auxentius of Constantinople, martyr, 1/25 (Orthodox saint; his
-    relics may have been lost to desecration by the Muslims in 1955)
+  - St. Auxentius of Constantinople, martyr, 1/25 (Orthodox saint; his relics may have been lost to desecration by the Muslims in 1955)
 
   - Burial place of the Ecumenical Patriarchs (relics scattered by the Muslims)
 
-- Fatih Camii/Fatih Mosque/Havariyyun Kilisesi/Church of the Great Apostles/Holy Apostles (Greek: [Ἅ]{dir="rtl"}γιοι
-  [Ἀ]{dir="rtl"}πόστολοι, Agioi Apostoloi)
+- Fatih Camii/Fatih Mosque/Havariyyun Kilisesi/Church of the Great Apostles/Holy Apostles (Greek: [Ἅ]{dir="rtl"}γιοι [Ἀ]{dir="rtl"}πόστολοι, Agioi Apostoloi)
 
   - Burial place of the Emperors
 
@@ -4309,11 +4310,9 @@ George the Trophy-Bearer
 
   - St. Nikephoros/Nicephorus of Constantinople, patriarch, 6/2
 
-- Church of Ss. Acendinus, Pegasius, Aftonius, Elpidiforus, Anempodistus,
-  and companions
+- Church of Ss. Acendinus, Pegasius, Aftonius, Elpidiforus, Anempodistus, and companions
 
-  - Ss. Acendinus, Pegasius, Aftonius, Elpidiforus, Anempodistus, and
-    companions, Persian martyrs, 11/2
+  - Ss. Acendinus, Pegasius, Aftonius, Elpidiforus, Anempodistus, and companions, Persian martyrs, 11/2
 
   - St. Anastasia
 
@@ -4345,34 +4344,31 @@ George the Trophy-Bearer
 
 - Church of St. Theodosia (now Gül Camii \[Turkish 'Rose Mosque'\]
 
-  - St. Theodosia of Constantinople, religious/martyr, 7/18 (relics likely
-    lost when the Muslims changed it into a mosque)
+  - St. Theodosia of Constantinople, religious/martyr, 7/18 (relics likely lost when the Muslims changed it into a mosque)
 
-Stoudios (now a ruin)
+- Stoudios (now a ruin)
 
   - St. Plato of Sakkoudion, royal official, then monk, 4/18
 
   - St. Theodore the Studite, abbot, 11/12
 
-Topkapi (former palace containing the Chamber of the Holy Relics)
+- Topkapi (former palace containing the Chamber of the Holy Relics)
 
   - King David's sword
 
-Moses' staff
+  - Moses' staff
 
   - St. John the Baptist's arm
 
 Zoodochos Pege
 
-Holy Fount/Spring, its feast is the Friday of Orthodox Easter Week
+- Holy Fount/Spring, its feast is the Friday of Orthodox Easter Week
 
 - Palecl Mezarlığı/Palecl Cemetery/Պալըքլըի Գերեզմանատուն (Seyit Nizam
   Yolu No: 8, 34015 Silivrikapı)
 
-  - Bl. Gomidas Keumurjian/Cosma di Carbognano, convert/priest/martyr, 11/5
-    (another source says his mortal remains were taken to the Jesuit
-    novitiate in Lyon, France, where they were destroyed during the French
-    Revolution
+  - Bl. Gomidas Keumurjian/Cosma di Carbognano, convert/priest/martyr, 11/5 (another source says his mortal remains were taken to the Jesuit
+    novitiate in Lyon, France, where they were destroyed during the French Revolution)
 
 - ???
 
@@ -4403,11 +4399,9 @@ Holy Fount/Spring, its feast is the Friday of Orthodox Easter Week
 
   - St. Callinicus, martyr, 1/28
 
-- St. Clement of Ankara (might be at the church called the Palace or at
-  one dedicated to him outside of the city in Pera. Skull is in Paris.
-  Same with Agathangelus)
+- St. Clement of Ankara (might be at the church called the Palace or at one dedicated to him outside of the city in Pera. Skull is in Paris. Same with Agathangelus)
 
-- St. Cyril of Constantinople, Church Doctor, 3/6
+  - St. Cyril of Constantinople, Church Doctor, 3/6
 
   - St. Datius of Milan, bishop, 1/14
 
@@ -4415,12 +4409,12 @@ Holy Fount/Spring, its feast is the Friday of Orthodox Easter Week
 
   - St. Eulogius, martyr, 7/3
 
-- St. Gregory of Nanzianzen, bishop, Doctor, Church Father, 1/2
+  - St. Gregory of Nanzianzen, bishop, Doctor, Church Father, 1/2
 
   - St. John Calabytes (aka, Calibita, Calabites, Kalabytes, the
     Hut-Dweller), 1/15
 
-- St. John Chrysostum, Church Father, 9/13
+  - St. John Chrysostum, Church Father, 9/13
 
   - Bl. Lucio di Montaldo of Savoy, O. de M., martyr, 5/5
 
@@ -4462,7 +4456,7 @@ Diyarbakır, Diyarbakır Province, South Eastern Anatolia region
 
 - ???
 
-Prophet Elisha, 6/14
+  - Prophet Elisha, 6/14
 
 Edirne, Province of Edirne
 
@@ -4474,9 +4468,9 @@ Edirne, Province of Edirne
 
 Ephesus
 
-House of Mary
+- House of Mary
 
-- Basilica of St. John the Apostle
+- Basilica of St. John the Apostle (in ruins)
 
   - St. John the Apostle, 12/27 & 5/8
 
@@ -4557,8 +4551,7 @@ Kahramanmaraş (formerly Marash), Province of Kahramanmaraş, Mediterranean regi
 
 - ???
 
-  - Bl. Thomas of Baabdat (nee Géries Saleh), OFM Cap., missionary/martyr,
-    1/18 (body probably thrown to the dogs)
+  - Bl. Thomas of Baabdat (nee Géries Saleh), OFM Cap., missionary/martyr, 1/18 (body probably thrown to the dogs)
   - Bl. Thūmā from B'abdāt (nee Jirays H̱anā S̱āleẖ), OFM Cap., priest/martyr, 2/28 (his captors hacked his body to pieces and threw the remains into wells and down caves)
 
 Karamürsel (i.e., Helenopolis), near Nicomedia
@@ -4566,6 +4559,12 @@ Karamürsel (i.e., Helenopolis), near Nicomedia
 - ???
 
   - St. Lucian of Antioch
+
+At the base of Kayış Dağı, near Kayışdağı, Ataşehir district, Istanbul Province
+
+- Nunnery of Gyrita/the Trichinarea (no longer extant and covered by Istanbul’s modern urban sprawl; formerly located “one mile out of Chalcedon” on “the low ground”)
+
+  - St. Auxentius of Bithynia, hermit, 2/14 (Kayış Dağı was formerly called Mount Auxentius)
 
 Kayseri, Kayseri Province (aka, Caesarea in Cappadocia)
 
@@ -4727,19 +4726,19 @@ Pharroa, near Pinara, Likya
 
   - Ss. Theodorus, Sergius and Bacchus, MM.
 
-The Forty Martyrs of Sebaste
-
-Philadelphia
-
-- ???
-
-  - St. Cyril, martyr, 8/1
+  - The Forty Martyrs of Sebaste
 
 Pontus (northeast Turkey)
 
 - ???
 
   - St. Basiliscus, martyr, 3/3
+
+Rufiananas/Rufinianae (40°57′52″ N, 29°04′07″ E)(now in ruins underneath the Caddebostan neighborhood, located within the Kadıköy district on the Asian side of Istanbul.)
+
+- Monastery of St. Hypatius (no longer extant)
+
+  - St. Hypatius of Bithynia, founder, 6/17
 
 Rumkale/Hromkla Castle, 50 km west of Şanlıurfa, Şanlıurfa Province
 
