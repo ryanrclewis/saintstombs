@@ -500,50 +500,49 @@ Avrillé, Angers arrondissement, Maine-et-Loire department, Pays de la Loire reg
   - Bl. Monique Pichery, laywoman martyr, 1/2 & 1/18
   - Bl. Victoire Gusteau, laywoman/martyr, 1/2 & 1/18
   - Bl. Catherine Cottenceau, martyr, 2/1  
-        • Charlotte Davy, martyr, 2/1  
-        • François Bellanger, martyr, 2/1  
-        • François Bonneau, martyr, 2/1  
-        • François Michau, martyr, 2/1  
-        • François Pagis epouse Railleau, martyr, 2/1  
-        • Gabrielle Androuin, martyr, 2/1  
-        • Jacquine Monnier, martyr, 2/1  
-        • Jeanne Bourigault, martyr, 2/1  
-        • Jeanne Fouchard épouse Chalonneau, martyr, 2/1  
-        • Jeanne Gruget veuve Doly, martyr, 2/1  
-        • Jeanne-Marie Sailland d'Epinatz, martyr, 2/1  
-        • Louise-Aimée Dean de Luigné, martyr, 2/1  
-        • Louise-Olympe Rallier de la Tertinière veuve Déan de Luigné, martyr, 2/1  
-        • Madeleine Blond, martyr, 2/1  
-        • Madeleine Perrotin veuve Rousseau, martyr, 2/1  
-        • Madeleine Sailland d'Epinatz, martyr, 2/1  
-        • Marguerite Rivière epouse Huau, martyr, 2/1  
-        • Marie Anne Pichery épouse Delahaye, martyr, 2/1  
-        • Marie-Anne Vaillot, martyr, 2/1  
-        • Marie Cassin épouse Moreau, martyr, 2/1  
-        • Marie Fausseuse épouse Banchereau, martyr, 2/1  
-        • Marie Gallard épouse Quesson, martyr, 2/1  
-        • Marie Gasnier épouse Mercier, martyr, 2/1  
-        • Marie Grillard, martyr, 2/1  
-        • Marie-Jeanne Chauvigné épouse Rorteau, martyr, 2/1  
-        • Marie Lenée épouse Lepage de Varancé, martyr, 2/1  
-        • Marie Leroy, martyr, 2/1  
-        • Marie Leroy épouse Brevet, martyr, 2/1  
-        • Marie Roualt épouse Bouju, martyr, 2/1  
-        • Odilia Baumgarten, martyr, 2/1  
-        • Perrine Androuin, martyr, 2/1  
-        • Perrine Besson, martyr, 2/1  
-        • Perrine-Charlotte Phelippeaux épouse Sailland d'Epinatz, martyr, 2/1  
-        • Perrine Grille, martyr, 2/1  
-        • Perrine Ledoyen, martyr, 2/1  
-        • Perrine Sailland d'Epinatz, martyr, 2/1  
-        • Renée Cailleau épouse Girault, martyr, 2/1  
-        • Renée Grillard, martyr, 2/1  
-        • Renée Martin épouse Martin, martyr, 2/1  
-        • Renée Valin, martyr, 2/1  
-        • Rose Quenion, martyr, 2/1  
-        • Simone Chauvigné veuve Charbonneau, martyr, 2/1  
-        • Suzanne Androuin, martyr, 2/1  
-        • Victoire Bauduceau epouse Réveillère, martyr, 2/1
+  - Charlotte Davy, martyr, 2/1  
+  - François Bonneau, martyr, 2/1  
+  - François Michau, martyr, 2/1  
+  - François Pagis epouse Railleau, martyr, 2/1  
+  - Gabrielle Androuin, martyr, 2/1  
+  - Jacquine Monnier, martyr, 2/1  
+  - Jeanne Bourigault, martyr, 2/1  
+  - Jeanne Fouchard épouse Chalonneau, martyr, 2/1  
+  - Jeanne Gruget veuve Doly, martyr, 2/1  
+  - Jeanne-Marie Sailland d'Epinatz, martyr, 2/1  
+  - Louise-Aimée Dean de Luigné, martyr, 2/1  
+  - Louise-Olympe Rallier de la Tertinière veuve Déan de Luigné, martyr, 2/1  
+  - Madeleine Blond, martyr, 2/1  
+  - Madeleine Perrotin veuve Rousseau, martyr, 2/1  
+  - Madeleine Sailland d'Epinatz, martyr, 2/1  
+  - Marguerite Rivière epouse Huau, martyr, 2/1  
+  - Marie Anne Pichery épouse Delahaye, martyr, 2/1  
+  - Marie-Anne Vaillot, martyr, 2/1  
+  - Marie Cassin épouse Moreau, martyr, 2/1  
+  - Marie Fausseuse épouse Banchereau, martyr, 2/1  
+  - Marie Gallard épouse Quesson, martyr, 2/1  
+  - Marie Gasnier épouse Mercier, martyr, 2/1  
+  - Marie Grillard, martyr, 2/1  
+  - Marie-Jeanne Chauvigné épouse Rorteau, martyr, 2/1  
+  - Marie Lenée épouse Lepage de Varancé, martyr, 2/1  
+  - Marie Leroy, martyr, 2/1  
+  - Marie Leroy épouse Brevet, martyr, 2/1  
+  - Marie Roualt épouse Bouju, martyr, 2/1  
+  - Odilia Baumgarten, martyr, 2/1  
+  - Perrine Androuin, martyr, 2/1  
+  - Perrine Besson, martyr, 2/1  
+  - Perrine-Charlotte Phelippeaux épouse Sailland d'Epinatz, martyr, 2/1  
+  - Perrine Grille, martyr, 2/1  
+  - Perrine Ledoyen, martyr, 2/1  
+  - Perrine Sailland d'Epinatz, martyr, 2/1  
+  - Renée Cailleau épouse Girault, martyr, 2/1  
+  - Renée Grillard, martyr, 2/1  
+  - Renée Martin épouse Martin, martyr, 2/1  
+  - Renée Valin, martyr, 2/1  
+  - Rose Quenion, martyr, 2/1  
+  - Simone Chauvigné veuve Charbonneau, martyr, 2/1  
+  - Suzanne Androuin, martyr, 2/1  
+  - Victoire Bauduceau epouse Réveillère, martyr, 2/1
 
 Bagneux, Hauts-de-Seine Department, Île-de-France region
 
@@ -2768,8 +2767,9 @@ Montreuil-sur-Mer, CA Deux Baies en Montreuillois intercommunality, Montreuil ar
   - St. Julienne de Pavilly/Juliana of Montreuil, OSB, nun/abbess, 10/11
   - St. Sauve d'Amiens/Salvius/, bishop, 1/11 (relics likely lost)
   - Treasury of the church (relics shown on guided tours only)
-- Montreuil-les-Dames
-- ???
+
+Montreuil-en-Thiérache, Rocquigny Commune, Aisne department, Hauts-de-France region
+- Montreuil-les-Dames (utterly in ruins)(50° 01′ 27″ N, 3° 58′ 56″ E)
   - St. Austrebertha, abbess, 5/17 (Revolutionaries burned the relics)
   - St. Frameilde, widow, 5/17 (Revolutionaries burned the relics)
 
@@ -2789,16 +2789,25 @@ Mortain-Bocage, Le Mortainais canton, Avranches arrondissement, Manche departmen
 Moslins, Épernay arrondissement, Marne department, Grand Est region
 
 - Abbaye d'Argensolles/Argensolles Abbey (utterly ruined)
+
   - Bl. Ida of Argensolles, SOCist, abbess, 1/13
+
+Moulle, Saint-Omer arrondissement, Pas-de-Calais department, Hauts-de-France region
+
+- Cimetière communal de Moulle/Cemetery (17 Rue des Arts, near Rue de l’Église)
+
+  - Ven. Georges Bellanger, RSV, priest, d. 8/16/1902
 
 Moussy, Épernay arrondissement, Marne depart
 
 - L'ancienne église priorale Sainte-Opportune
+
   - St. Opportune of Montreuil, OSB, abbess, 4/22 (fragment of her skull)
 
 Moustiers-en-Fagne, Fourmies canton, Avesnes-sur-Helpe arrondissement, Nord department, Hauts-de-France region (right by the Belgian border)
 
 - Église paroissiale/parish church
+
   - St. Dodón/Dodone of Wallers-en-Fagne, OSB, abbot, 10/29
 
 Moûtiers, Albertville arrondissement, Savoie department, Auvergne-Rhône-Alpes region
