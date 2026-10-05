@@ -2901,9 +2901,9 @@ Grocio Prado District, Province of Chincha
 
 Huánuco, Province of Huánuco, Huánuco department
 
-- Catedral del Señor de Burgos
+- Catedral del Señor de Burgos (Jirón Dámaso Beraún 741)
 
-  - Servant of God Alfonso María De La Cruz Sardinas Zavala, OFM, bishop, d. 1902
+  - Servant of God Alfonso María de la Cruz Sardinas, OFM, bishop/founder, d. 6/26/1902
 
 - ???
 
