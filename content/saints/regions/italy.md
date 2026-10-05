@@ -3985,18 +3985,19 @@ Faenza, Province of Ravenna, Emilia-Romagna region
 
   - St. Emiliano of Ireland, bishop, pilgrim 11/6
 
-- St. Peter Damian/Damiani, cardinal, Church Doctor, 2/21
+  - Bl. Giacomo/James Bertoni (aka, James Philippi), 5/30 (under the altar of San Carlo Borromeo/St. Charles Borromeo)
 
   - Bl. Novellone/Nevolo, monk, 7/27
 
+  - Servant of God Paolo Taroni, priest, d. 4/11/1902 (Cappella di San Martino)
+
+  - St. Peter Damian/Damiani, cardinal, Church Doctor, 2/21
+
   - St. Savinius (aka, Savinio)
 
-- St. Savino di Assisi, bishop, 12/30 (buried in his eponymous chapel)
+  - St. Savino di Assisi, bishop, 12/30 (buried in his eponymous chapel)
 
   - St. Terence/Terenzio di Imola, hermit, 7/30
-
-  - Bl. Giacomo/James Bertoni (aka, James Philippi), 5/30 (under the altar
-    of St. Charles Borromeo)
 
 - Monastero Ara Crucis
 
@@ -4631,10 +4632,9 @@ Frascati, Province of Rome, Lazio region
   - Ven. Elisa Miceli, laywoman/foundress, d. 4/19/1976 (cappella dalla
     Madonna del Carmine)
 
-Istituto Figlie di Maria Immacolata
+- Istituto Figlie di Maria Immacolata
 
-  - Ven. Brigida Maria Postorino, founder, d. 3/30/1960 (in the
-    capella/chapel)
+  - Ven. Brigida Maria Postorino, founder, d. 3/30/1960 (in the capella/chapel)
 
 Frascati, Vermicino *frazione*, Province of Rome, Lazio region
 
@@ -4676,6 +4676,12 @@ Frigento, Province of Avellino, Campania region
 - Santuario Madonna Buon Consiglio Dei Frati Francescani dell’Immacolata/Sanctuary of Our Lady of Good Counsel (Via Piano della Croce, 6)
 
   - The majolica of the Madonna and Child
+
+Frignano, Province of Caserta, Campania region
+
+- Cimitero di Frignano/Cimitero Cittadino)/Municipal Cemetery
+
+  - Servant of God Teresa Ruocco, lay child/cancer victim, d. 7/29/2015
 
 Fucecchio, Province of Firenze, Toscana Region
 
@@ -6120,15 +6126,17 @@ Matera, Province of Matera, Basilicata region
 
   - Servant of God Vito Staffieri, priest, d. 8/5/1991
 
+- Cripta del Peccato Originale/Crypt of Original Sin/“The Sistine Chapel of Rupestrian Art” (Contrada Pietrapinta; there is an entrance fee)
+
 Meda, Province of Monza and Brianza, Lombardia region
 
-San Vittore
+- San Vittore
 
 - St. Aimo and Vermondo Corio of Meda, convent founders, 2/13
 
 Melegnano, Metropolitan City of Milan, Lombardia region
 
-Convento di Santa Maria della Misericordia
+- Convento di Santa Maria della Misericordia
 
   - Bl. Bernardino de' Bustis, theologian, 5/8
 
@@ -9157,23 +9165,23 @@ Pistoia (near Florence)
 
 - Santuario della Madonna di Valdibrana
 
-San Domenico
+- San Domenico
 
   - Bl. Andrea (aka, Andrew) Franchi, OP, bishop, 5/26
 
   - Bl. Lorenzo da Ripafratta, priest/scientist, 9/27
 
-San Francesco
+- San Francesco
 
   - Bl. Alessandro da Verona, OFM, preacher, 12/20
 
-Santissima Annunziata/Holy Annunciation
+- Santissima Annunziata/Holy Annunciation
 
   - Bl. Bonaventura Bonaccorsi da Pistoia, OSM, priest, 12/14
 
 Poggia a Caiano (near Florence)
 
-Motherhouse, Minime Suore del Sacro Cuore, Via G. da Sangallo, 4, 50046
+- Motherhouse, Minime Suore del Sacro Cuore, Via G. da Sangallo, 4, 50046
 
   - Bl. Maria Margherita Caiani, religious, 8/8
 
@@ -9186,8 +9194,7 @@ Poggibonsi
   - St. Luchesius/Luchesio/Lucchese, grocer, possibly the first Franciscan
     tertiary, 4/28
 
-Poggio di Castel San Pietro Terme, Metropolitan City of Bologna,
-Emilia-Romagna region
+Poggio di Castel San Pietro Terme, Metropolitan City of Bologna, Emilia-Romagna region
 
 - ???
 
@@ -9207,10 +9214,9 @@ Poirino, Metropolitan City of Turin, Piemonte
 
   - Ven. Silvio Dissegna, child, d. 9/24/1979
 
-Policastro, *frazione* of Santa Marina, Province of Salerno, Campania
-region
+Policastro, *frazione* of Santa Marina, Province of Salerno, Campania region
 
-Concattedrale di S. Maria Assunta
+- Concattedrale di S. Maria Assunta
 
   - Servant of God Federico Pezzullo, bishop, d. 9/10/1979
 
@@ -9237,7 +9243,7 @@ Pollenza, Province of Macerata, Le Marche region
 
   - St. Flaviano, bishop/martyr, 11/24
 
-Santi Francesco e Antonio (Via Roma, 77)
+- Santi Francesco e Antonio (Via Roma, 77)
 
   - Servant of God Sante Saccone, farmer, d. 1634
 
@@ -9247,8 +9253,7 @@ Santi Francesco e Antonio (Via Roma, 77)
 
 Pompeii, Metropolitan City of Naples, Campania region
 
-- Santuario della Beata Vergine di Pompeii/Basilica of Our Lady of the
-  Rosary
+- Santuario della Beata Vergine di Pompeii/Basilica of Our Lady of the Rosary
 
   - Beata Vergine del Santo Rosario di Pompei, 5/8
 
@@ -9260,7 +9265,7 @@ Pompeii, Metropolitan City of Naples, Campania region
 
 Pontassieve (Le Sieci frazione), Metropolitan City of Florence, Toscana region
 
-Convento di San Giovanni Evangelista
+- Convento di San Giovanni Evangelista
 
   - Bl. Margaret (aka, Margarita, Margherita) of Faenza, OSB Vall.,
     religious, 8/26 (the Convento is reportedly no longer operative, so she
@@ -9298,15 +9303,13 @@ Ponteranica, Province of Bergamo, Lombardia region
 
 - Cappella del Seminario di Ponteranica
 
-  - Ven. Giovanni Nadiani, SSS, religious, d. 1/6/1940 (incorrupt as of
-    1988)
+  - Ven. Giovanni Nadiani, SSS, religious, d. 1/6/1940 (incorrupt as of 1988)
 
   - Servant of God Lodovico Longari, SSS, priest, d. 6/17/1963
 
 Pontida, Province of Bergamo, Lombardia region
 
-- Monastero dell'Abbazia di San Giacomo/Monastery of St. James (no longer
-  operational but still open to the public)
+- Monastero dell'Abbazia di San Giacomo/Monastery of St. James (no longer operational but still open to the public)
 
   - St. Guido/Vitus of Pontida, OSB, abbot, 9/2
 
@@ -13664,8 +13667,7 @@ Trevi, Province of Perugia, Umbria region
 
   - Ss. Vincent and Benignus
 
-Trevi, Cannaiola di Trevi/Cannaiola *frazione*, Province of Perugia,
-Umbria region
+Trevi, Cannaiola di Trevi/Cannaiola *frazione*, Province of Perugia, Umbria region
 
 - Santuario del Beato Pietro Bonilli
 
@@ -13675,7 +13677,7 @@ Umbria region
 
 Treviglio, Province of Bergamo, Lombardia region
 
-Convento di S. Maria del Grazia fuori Maletum
+- Convento di S. Maria del Grazia fuori Maletum
 
   - Bl. Arcangelo da Treviglio, Franciscan, 2/27
 
@@ -13705,7 +13707,7 @@ Treviso, Veneto
   - St. Francis de Sales, bishop (incorrupt heart only), bishop/apologist,
     1/29
 
-San Lorenzo a Venezia
+- San Lorenzo a Venezia
 
   - St. Theonestus (Teonesto), bishop/martyr, 10/30
 
@@ -13713,18 +13715,15 @@ San Lorenzo a Venezia
 
   - St. Augusta, martyr, 3/27
 
-Trezzo sull'Adda, Concesa *frazione*, Metropolitan City of Milan,
-Lombardia region
+Trezzo sull'Adda, Concesa *frazione*, Metropolitan City of Milan, Lombardia region
 
 - Santuario della Madonna di Concesa
 
   - St. Regio, martyr
 
-Convento "Divina Maternità" dei Carmelitani Scalzi (via P. Benigno
-Calvi, 9)
+- Convento "Divina Maternità" dei Carmelitani Scalzi (via P. Benigno Calvi, 9)
 
-  - Ven. Benigno di Santa Teresa del Bambino Gesù (née Angelo) Calvi, OCD,
-    priest, d. 10/25/1937
+  - Ven. Benigno di Santa Teresa del Bambino Gesù (née Angelo) Calvi, OCD, priest, d. 10/25/1937
 
 Tricarico, Province of Matera, Basilicata region
 
@@ -14088,8 +14087,7 @@ Ugento, Province of Lecce, Apulia region
 
 Urbania, Province of Pesaro e Urbino, Le Marche region
 
-- Duomo di Urbania/Concattedrale di San Cristoforo martire/Urbania
-  Cathedral
+- Duomo di Urbania/Concattedrale di San Cristoforo martire/Urbania Cathedral
 
   - Servant of God Domenico Bartolomei, priest, d. 6/15/1938
 
@@ -14135,8 +14133,7 @@ Vaie, Metropolitan City of Turin, Piemonte region
   - Servant of God Emilio Giaccone, layman, d. 8/1/1972 (he died here, his
     hometown, but where is he buried?)
 
-Val di Chy, Pecco *frazione*, Metropolitan City of Turin, Piemonte
-region
+Val di Chy, Pecco *frazione*, Metropolitan City of Turin, Piemonte region
 
 - Chiesa parrocchiale/Parish church
 
@@ -14214,7 +14211,7 @@ Vallombrosa, Town of Reggello, Province of Florence, Tuscany
 
 Valsalice, Piemonte region
 
-Room where St. John Bosco died (kept the exact way)
+- Room where St. John Bosco died (kept the exact way)
 
 Varallo Sesia, Provincia di Vercelli, Piemonte region
 
@@ -14222,10 +14219,9 @@ Varallo Sesia, Provincia di Vercelli, Piemonte region
 
   - Ven. Margherita Maria (Alessia Antonia) Guaini, foundress, d. 3/2/1994
 
-Il Sacro Monte
+- Il Sacro Monte
 
-  - Bl. Bernardino Caimi, OFM, religious, 2/9 (Cappella del Santo Sepolcro,
-    his skull; where are the rest of his relics?)
+  - Bl. Bernardino Caimi, OFM, religious, 2/9 (Cappella del Santo Sepolcro, his skull; where are the rest of his relics?)
 
 - ???
 
@@ -14239,10 +14235,9 @@ Varazze, Province of Savona, Liguria region
 
 - Il santuario di Nostra Signora della Croce, 3/25
 
-Convento carmelitano del Deserto
+- Convento carmelitano del Deserto
 
-  - Ven. Gioacchino di Regina Pacis (Leone Ramognino), OCD, religious, d.
-    8/25/1985 (church crypt)
+  - Ven. Gioacchino di Regina Pacis (Leone Ramognino), OCD, religious, d. 8/25/1985 (church crypt)
 
 - Cappella del cimitero di Varazze dei frati cappuccini/Varazze cemetery
   chapel of the Capuchin friars
@@ -14360,7 +14355,7 @@ Venice (Venezia)
 
   - Servant of God Giovanni (née Francesco Antonio) Zuccolo, FdCC, religious, d. 2/10/1960
 
-San Giorgio Maggiore (Isola di San Giorgio Maggiore/Island of San Giorgio Maggiore)
+- San Giorgio Maggiore (Isola di San Giorgio Maggiore/Island of San Giorgio Maggiore)
 
   - St. Cosmas the Hermit
 
@@ -14746,6 +14741,8 @@ Verona
   - St. Maddalena of Canossa, foundress, 4/10
 
 - Casa Madre dei Missionari Comboniani
+
+  - Servant of God Antonio Maria Roveggio, MCCJ, bishop, d. 5/2/1902
 
   - St. Daniel Comboni, bishop/founder, 10/10 (relics only; rebels destroyed his body in Sudan)
 
@@ -15144,6 +15141,8 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
 
 # Vatican City State
 
+- Chiesa del Pellegrino/San Pellegrino in Vaticano (Via del Pellegrino)
+  - St. Peregrine of Auxerre, bishop/martyr, 5/16
 - San Lino 
   - Pope St. Cletus/Anacletus, 4/26
 - Basilica di San Pietro in Vaticano
