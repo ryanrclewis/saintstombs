@@ -6579,7 +6579,7 @@ Melchiorre Gioia, 51)
 
   - Bl. Armida Barelli, laywoman/foundress, 8/15
 
-  - Bl. Contardo Ferrini, layman, 1/0/17
+  - Bl. Contardo Ferrini, layman, 10/17
 
   - Ven. Ludovico Necchi Villa, TOSF, physician, d. 1/10/1930
 
@@ -9278,7 +9278,7 @@ Pontecorvo, Province of Frosinone, Lazio region
 
 - San Paolo
 
-  - Bl. Grimoaldo Santamaria (Grimoaldo della Purificazione), CP, religious, 11/18 (relic only) (this is according to AI, so take it with a grain of salt)
+  - Bl. Grimoaldo della Purificazione (née Fernando) Santamaria, CP, religious, 11/18 (relic only) (this is according to AI, so take it with a grain of salt)
 
 Ponte Lambro, Province of Como, Lombardia region
 
@@ -10542,14 +10542,12 @@ Conception of Lipari (via delle Benedettine 34/36)
 - Casa Generalizia delle Suore della Sacra Famiglia di Nazareth/Generalate of the Sisters of the Holy Family of Nazareth (Via
 Nazareth, 400)
 
-  - Bl. Maria Franciszka Siedliska (Maria del Buon Pastore/Maria of the
-    Good Shepherd), foundress, 11/22
+  - Bl. Maria del Buon Pastore/Maria of the Good Shepherd (née Maria Franciszka) Siedliska, foundress, 11/22
 
 - Casa Generalizia dell’Istituto delle Francescane Missionarie di Maria/General House of the Institute of the Franciscan Missionaries of
 Mary (Via Giusti, 12)
 
-  - Bl. Marie de la Passion (née Hélène -Marie Philippine de Chappotin de
-    Neuville), foundress, 11/15
+  - Bl. Marie de la Passion (née Hélène -Marie Philippine de Chappotin de Neuville), foundress, 11/15
 
 - Casa generalizia delle Figlie di Maria Missionarie/General House of the Missionary Daughters of Mary (Via Giovanni Battista Canobi, 18) (NOTE: The Casa generalizia doubles as a pensione.)
 
