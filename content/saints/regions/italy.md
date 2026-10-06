@@ -12685,17 +12685,15 @@ Sidolo village, Bardi, Province of Parma, Emilia-Romagna region
 
 - ???
 
-  - Don Francesco Delnevo, priest/martyr, 7/20 (non-causa, but killed in the
-    same attack as Bl. Giuseppe Beotti)
+  - Don Francesco Delnevo, priest/martyr, d. 7/20/1944 (non-causa, but killed in the same attack as Bl. Giuseppe Beotti)
 
-  - Italo Subacchi, seminarian/martyr, 7/20 (non-causa, but killed in the
-    same attack as Bl. Giuseppe Beotti)
+  - Italo Subacchi, seminarian/martyr, d. 7/20/1944 (non-causa, but killed in the same attack as Bl. Giuseppe Beotti)
 
 Siena, Toscana region
 
 - Duomo
 
-   - St. Ansano/Ansanus the Baptizer, adolescent/martyr, 12/1 (Cappella di Sant’Ansano, in the left transept)
+  - St. Ansano/Ansanus the Baptizer, adolescent/martyr, 12/1 (Cappella di Sant’Ansano, in the left transept)
 
   - St. Crescenzio/Crescentius of Rome, 11-year-old martyr, 9/14 (As of September 2026, the reliquary is in the sacristy due to renovations)
 
@@ -12703,8 +12701,7 @@ Siena, Toscana region
 
   - Bl. Ambrogio/Ambrose (Sansedoni), OP, 3/20
 
-  - Bl. Andrew/Andrea Gallerani 3/19 (6/20) (There is a special
-    indulgence if you pray at his tomb on Easter Monday).
+  - Bl. Andrew/Andrea Gallerani 3/19 (6/20) (There is a special indulgence if you pray at his tomb on Easter Monday).
 
   - St. Catherine (Benincasa) of Siena, OP, 4/29 (head only)
 
@@ -12751,8 +12748,7 @@ Siena, Toscana region
 
   - Bl. Bonaventura Tolomei, OP, 12/27
 
-  - St. Crescentius (Crescenzo) of Rome, martyr, 9/24 (city's patron
-    saint)
+  - St. Crescentius (Crescenzo) of Rome, martyr, 9/24 (city's patron saint)
 
   - Bl. Franco da Siena (née Francesco Lippi), O.Carm., hermit, 12/11
 
@@ -12774,7 +12770,7 @@ Signa, Province of Florence, Tuscany Region
 
 Sinalunga, Province of Siena, Toscana region
 
-Convento di San Bernardino (with adjacent Madonna del Rifugio sanctuary)
+- Convento di San Bernardino (with adjacent Madonna del Rifugio sanctuary)
 
   - Servant of God Sante (Pellegrino) Boni, OFM, religious, d. 7/29/1990
 
@@ -12827,7 +12823,7 @@ Soncino, Province of Cremona, Lombardy Region
 
 Sondrio Province of Sondrio, Lombardia region
 
-Collegiata dei Santi Gervasio e Protasio
+- Collegiata dei Santi Gervasio e Protasio
 
   - Bl. Nicola Rusca, priest/martyr, 9/4
 
@@ -12855,25 +12851,22 @@ Sora, Province of Frosinone, Lazio Region (near Caserta and Naples)
 
 - ???
 
-Sant'Eutizio, frazione of Soriano nel Cimino, Province of Viterbo, Lazio
-region
+Sant'Eutizio, _frazione_ of Soriano nel Cimino, Province of Viterbo, Lazio region
 
 - Santuario di Sant'Eutizio
 
   - St. Eutizio of Ferento, martyr, 5/15
 
-Sorbolo Mezzani (Mezzano Inferiore *frazione*), Province of Parma,
-Emilia-Romagna region
+Sorbolo Mezzani (Mezzano Inferiore *frazione*), Province of Parma, Emilia-Romagna region
 
 - ???
 
-  - Servant of God Giovanni Bernini, priest, d. 1/13/1972 (maybe at Santa
-    Maria Nascente, the parish church where he was pastor at Mezzano
+  - Servant of God Giovanni Bernini, priest, d. 1/13/1972 (maybe at Santa Maria Nascente, the parish church where he was pastor at Mezzano
     Inferiore for 30 years)
 
 Sorico, Province of Como, Lombardy Region
 
-San Miro
+- San Miro
 
   - St. Miro Canzo, religious, 5/10 & 21
 
@@ -12883,12 +12876,11 @@ Sorrento, Province of Napoli, Campania Region
 
   - St. Antonino/Antoninus Cacciottolo di Sorrento, abbot, 2/14
 
-San Felice
+- San Felice
 
   - St. Bacolo di Sorrento, bishop, 8/27
 
-- Church of the Servants of Mary (Chiesa dei Servi di Maria; open by
-  request; ask your hotel's concierge)
+- Church of the Servants of Mary (Chiesa dei Servi di Maria; open by request; ask your hotel's concierge)
 
   - St. Catellus, bishop, 1/19
 
@@ -12961,7 +12953,7 @@ Spoleto, Province of Perugia, Umbria Region
 
   - Bl. Leopold of Gaiche, Franciscan, 4/2
 
-Santi Giovanni e Eufemia
+- Santi Giovanni e Eufemia
 
   - St. Giovanni di Spoleto/John of Spoleto, bishop, 9/19
 
@@ -13052,13 +13044,13 @@ Stezzano, Province of Bergamo, Lombardy region
 
 Stilo, Province of Reggio, Calabria
 
-San Giovanni Theristi
+- San Giovanni Theristi
 
   - St. Giovanni Theristi, monk, 2/23
 
 Stresa, Province of Verbano-Cusio-Ossola, Piemonte Region
 
-Santissimo Crocifisso
+- Santissimo Crocifisso
 
   - St. Antonio Rosmini-Serbati, priest/founder, 7/1
 
