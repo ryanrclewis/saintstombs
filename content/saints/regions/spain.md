@@ -5825,46 +5825,44 @@ Cementerio Municipal de Nerva
 
   - Servant of God Luisa Sosa Fontenla, foundress, d. 11/25/2017
 
-Nocito, Nueno municipality, Province of Huesca, Aragon autonomous
-community
+Nocito, Nueno municipality, Province of Huesca, Aragon autonomous community
 
 - Santuario de San Úrbez/Sanctuary of San Úrbez
 
   - St. Ubicio/Úrbez, hermit, 12/15 (he was incorrupt until the
     Revolutionaries burned his corpse)
 
-Novelda, Vinalopó Mitjà comarca, Province of Alicante, Valencian
-autonomous community
+Novelda, Vinalopó Mitjà comarca, Province of Alicante, Valencian autonomous community
 
-Colegio de las Carmelitas Misioneras de Novelda
+- Colegio de las Carmelitas Misioneras de Novelda
 
-  - Ven. Teresa del Niño Jesús de Praga (nee Teresa) Mira García, CMT,
-    religious, d. 2/26/1941 (en la capilla/in the chapel)
+  - Ven. Teresa del Niño Jesús de Praga (nee Teresa) Mira García, CMT, religious, d. 2/26/1941 (en la capilla/in the chapel)
 
 Ocaña, Province of Toledo, Castilla--La Mancha autonomous community
 
-Convento de Santo Domingo de Ocaña
+- Convento de Santa Clara/Convent of St. Clare
+
+	- Servant of God Isabel del Santísimo Sacramento née Isabel Juliana) García-Suelto Pantoja, OSC, religious/mystic, d. 7/5/1902
+
+- Convento de Santo Domingo de Ocaña
 
   - St. José María Díaz Sanjurjo, OP, bishop/martyr, 7/20 (head only)
 
 Òdena, Anoia comarca, Catalonia
 
-Cementerio
+- Cementerio
 
-  - Bl. Ignasi de San Ramon (née Ignasi) Casanovas Perramón, SchP,
-    priest/martyr, 9/16 (buried in his family's tomb)
+  - Bl. Ignasi de San Ramon (née Ignasi) Casanovas Perramón, SchP, priest/martyr, 9/16 (buried in his family's tomb)
 
 O Incio, Province of Lugo, Galicia autonomous community
 
-Santa María do Mao
+- Santa María do Mao
 
   - St. Euphrasius of Andujar, missionary, 5/15
 
-Olesa de Montserrat, Baix Llobregat comarca, Province of Barcelona,
-Catalonia autonomous community
+Olesa de Montserrat, Baix Llobregat comarca, Province of Barcelona, Catalonia autonomous community
 
-??? Possibly at the Monasterio/Casa de las escolapias (the Piarists)
-(she died here so it's assumed she's buried here)
+- ??? Possibly at the Monasterio/Casa de las escolapias (the Piarists)(she died here so it's assumed she's buried here)
 
   - St. Paula Montal Fornés de San José de Calasanz, religious, 2/26
 
