@@ -292,15 +292,17 @@ Canton, Stark County, Ohio
 Carey, Wyandot County, Ohio
 
 - Basilica and National Shrine of Our Lady of Consolation
+  - Replica of the statue of Our Lady of Consolation
   - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11 (small relic in a beautiful reliquary)
 
 Carlisle, Nicholas County, Kentucky
 
 - Shrine of Our Lady of Guadalupe (617 E Main Street)
 
-Carmel-by-the-Sea, California
+Carmel-by-the-Sea, Monterey County, California
 
 - Mission San Carlos Borromeo de Carmelo
+- 
   - St. Junípero Serra, OFM, evangelist, July 1
 
 Carthage, Jasper County, Missouri
@@ -334,28 +336,28 @@ Chicago, Illinois
 - Holy Trinity Polish Mission (1118 N. Noble Street)
   - Bl. Karolina Kózka/Karolina Kózkówna/Karoliny Kózkówny, martyr for chastity, 11/18 (relic only)
 - Our Lady of Guadalupe Church
-  - Shrine of St. Jude (relics only) (3200 E. 91st St.)
-- Our Lady of Sorrows Basilica (3121 W. Jackson Blvd.)
+  - Shrine of St. Jude (relics only) (3200 E. 91st Streey)
+- Our Lady of Sorrows Basilica (3121 W. Jackson Boulevard)
   - National Shrine of Our Sorrowful Mother
   - National Shrine of St. Peregrine
-- St. John Cantius Church (825 N Carpenter St.)
+- St. John Cantius Church (825 N Carpenter Street)
   - Relics of 2,000 saints (including all 12 apostles)
   - Relics of the Holy Land
 - St. Joseph and St. Anne Church (2751 W. 38<sup>th</sup> Place)
   - National Shrine of St. Anne
-- St. Michael Church (1633 N. Cleveland Ave.)
+- St. Michael Church (1633 N. Cleveland Avenue)
   - Shrine of Our Lady of Perpetual Help
-- St. Peter Church (110 W. Madison)
+- St. Peter Church (110 W. Madison Street)
   - Franciscan Shrines of Ss. Francis and Anthony
-- St. Pius Church (1901-1909 S. Ashland Ave.)
+- St. Pius Church (1901-1909 S. Ashland Avenue)
   - Dominican Shrine of St. Jude
-- Felician Sisters Mother of Good Counsel Convent (3800 W. Peterson Ave.)
+- Felician Sisters Mother of Good Counsel Convent (3800 W. Peterson Avenue)
   - Sacred Heart Shrine (in the provincial house chapel)
-- Sisters of St. Casimir Motherhouse (2601 W. Marquette Rd.)
+- Sisters of St. Casimir Motherhouse (2601 W. Marquette Road)
   - Ven. Kasimira (née Maria) Kaupas, SSC, foundress, d. 4/17/1940
 - Shrine of Christ the King Sovereign Priest (6423 South Woodlawn Avenue)
 - Columbus Hospital
-  - Mother Cabrini Shrine (2520 N. Lakeview Ave.)
+  - Mother Cabrini Shrine (2520 N. Lakeview Avenue)
 
 Childs, Cecil County, Maryland
 
@@ -1351,7 +1353,8 @@ New Ulm, Brown County, Minnesota
 
 New York City, New York
 
-- Cathedral of St. Patrick
+- Cathedral of St. Patrick (14 East 51st Street)
+  - Bl. Fulton Sheen, bishop/evangelist, 12/9 (relic only)
   - Ven. Pierre Toussaint, hairdresser, d. 6/30/1853
   - Servant of God Terrance Cardinal Cooke, archbishop, d. 10/6/1983
 - Saint Patrick's Old Cathedral Churchyard
@@ -1787,9 +1790,8 @@ St. Peters, St. Charles County, Missouri
 
 San Antonio, Texas
 
-- Basilica of the National Shrine of the Little Flower (aka, Our Lady of Mount Carmel and St. Thérèse Church)
-  - Shrine to St. Thérèse
-  - St. Thérèse, OCD, religious, 10/1 (relics only)
+- Basilica of the National Shrine of the Little Flower (aka, Our Lady of Mount Carmel and St. Thérèse Church)(906 Kentucky Ave.)
+  - St. Thérèse of Lisieux, OCD, religious, 10/1 (relics only)
   - Ss. Louis and Zélie Martin, laymen/parents of St. Thérèse, 7/12 (relics only)
 - Our Lady of Czestochowa Church (138 Beethoven Street)
   - Shrine of Our Lady of Czestochowa
@@ -1798,10 +1800,12 @@ San Antonio, Texas
   - Adoration Chapel
 - Chapel of Miracles (113 Ruiz St.)
   - Miracles have happened here
-- Little Flower Shrine (906 Kentucky Ave.)
+- Little Flower Shrine
 - Lourdes Grotto & Tepeyac de San Antonio (5712 Blanco Road)
   - Blessed Sacrament Chapel
     - St. Eugène de Mazenod, bishop and founder, 5/21 (relic of heart only)
+- Our Lady of Guadalupe Shrine/Santuario de Nuestra Señora de Guadalupe (1321 El Paso Street)
+  - Replica of the original tilma (touched to the original one)
 - San Juan de los Lagos Church and Shrine (3231 El Paso Street)
   - Shrine of Nuestra Señora de San Juan de los Lagos
 
