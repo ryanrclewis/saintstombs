@@ -15,7 +15,7 @@ Meritxell, Canillo parish
 
 # Spain
 
-Ágreda
+Ágreda, Province of Soria, Castilla y León autonomous community
 
 - Convent of the Conception
 
