@@ -8,7 +8,7 @@ Adwerth, Frisia
 
 Alem, Maasdriel municipality, Province of Gelderland
 
-Sint Odrada-kerk
+- Sint Odrada-kerk
 
   - St. Odrada van Alem, religious, 11/3
 
@@ -28,13 +28,11 @@ Brielle (Den Briel), Voorne aan Zee municipality, South Holland
 
   - Site of the martyrdom of the Martyrs of Gorkum, 7/9
 
-- Shrine of St. Godfried Coart (Godfried van Melveren), OFM,
-  priest/martyr, 7/19
+- Shrine of St. Godfried Coart (Godfried van Melveren), OFM, priest/martyr, 7/19
 
 Dantumadeel, Province of Friesland
 
-- Klooster Klaarkamp/Klaarkamp Abbey (completely ruined after Friesland
-  became Protestant)
+- Klooster Klaarkamp/Klaarkamp Abbey (completely ruined after Friesland became Protestant)
 
   - Bl. Gebrand of Klaarkamp, abbot, 10/13
 
