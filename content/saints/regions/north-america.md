@@ -97,12 +97,22 @@ Baltimore, Maryland
 
 - St. Jude Shrine (512 W. Saratoga Street/308 N. Paca Street)
 
+Barto, Washington Township, Berks County, Pennsylvania
+
+- National Centre for Padre Pio and Shrine (111 Barto Road)
+
+  - Many relics and artifacts related to St. Pio. 
+
 Bay St. Louis, Hancock County, Mississippi
 
 - St. Augustine Seminary and Retreat Center (199 Seminary Drive)
+
   - Lourdes Grotto
+
   - Agony Grotto
-  - Highway Shrine of the Sacred Heart
+
+   - Highway Shrine of the Sacred Heart
+
 - Shrine of Our Lady of the Woods (228 S. Beach Blvd.)
 
 Bayard, Grant County, New Mexico
