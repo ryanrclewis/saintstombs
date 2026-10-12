@@ -2447,6 +2447,8 @@ Lyon, département du Rhône, Auvergne-Rhône-Alpes region
   - St. Aubrin, bishop, 1/2 & 7/15
 - St. Irenaeus Seminary
   - St. Phanxicô Xaviê Nguyễn Khắc Cần/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20 (relics only)
+- Soeurs Trinitaires de Valence (17 Rue Chazière)
+  - Servant of God Marie-Séraphia (née Marie-Magdeleine-Euphrasie) Hugon, CSST, religious, d. 3/17/1900
 - ???
   - St. Albinus/Aubin/Alpin of Lyon, bishop, 9/15
   - St. Agobard, bishop, 6/6
