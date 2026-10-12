@@ -2273,9 +2273,7 @@ Cammarata, Sicily
 
 Camogli, Metropolitan City of Genoa, Liguria region
 
-- Abbazia di San Fruttuoso/Monastery of Capodimonte (no longer operational
-  but still an important historic site and has an operational parish
-  church)
+- Abbazia di San Fruttuoso/Monastery of Capodimonte (no longer operational but still an important historic site and has an operational parish   church)
 
   - St. Fructuoso of Tarragona, bishop/martyr, 1/21
 
@@ -2379,8 +2377,7 @@ Capodrise, Province of Caserta, Campania region
 
   - Ven. Giacomo Gaglione, TOSF, layman, d. 5/28/1962
 
-Caposele, Materdomini *frazione*, Province of Avellino (AV), Campania
-region
+Caposele, Materdomini *frazione*, Province of Avellino (AV), Campania region
 
 - Basilica di San Gerardo Maiella
 
@@ -2440,12 +2437,11 @@ Capriate San Gervasio, Province of Bergamo, Lombardia region
 
   - Servant of God Germana Sommaruga, laywoman/foundress, d. 10/4/1995
 
-Capua, Province of Caserta, Calabria region
+Capua, Province of Caserta, Campania region
 
 - Cattedrale di Santa Maria Assunta/Cathedral
 
-- St. Decorosus/Decoroso di Capua, bishop, 2/15 (buried in the chapel of
-  the Treasury in a silver urn)
+  - St. Decorosus/Decoroso di Capua, bishop, 2/15 (buried in the chapel of the Treasury in a silver urn)
 
   - St. Priscus of Capua, 1st bishop/martyr, 9/1
 
@@ -2453,7 +2449,11 @@ Capua, Province of Caserta, Calabria region
 
   - St. Rufino/Rufus, martyr, 8/27
 
-Santa Maria Maggiore
+- Basilica di Santa Maria Maggiore in Santa Maria Capua Vetere (aka, la Collegiata)(Via Giuseppe Sirtori 3)
+
+  - St. Simmaco di Capua/St. Symmachus, bishop, 10/22
+
+  - Maria Santissima Vergine Assunta in Cielo/Our Lady Assumed into Heaven (statue/simulacro)
 
 - ???
 
@@ -2462,8 +2462,6 @@ Santa Maria Maggiore
   - St. Modesto di Capua, martyr, 10/14
 
   - Ss. Quartus and Quintus of Capua, martyrs, 5/10
-
-  - St. Simmaco di Capua, bishop, 10/22
 
 Capurso, Province of Bari, Apulia region
 
@@ -2495,8 +2493,7 @@ Cariati, Province of Cosenza, Calabria region
 
 Carini, Metropolitan City of Palermo, Sicily
 
-- Chiesa Madre/Duomo di Santa Maria Assunta/Duomo di Carini/Mother
-  Church/Cathedral
+- Chiesa Madre/Duomo di Santa Maria Assunta/Duomo di Carini/Mother Church/Cathedral
 
   - Servant of God Tommaso Mannino, priest, d. April 1, 1938
 
@@ -2523,8 +2520,7 @@ Carpi, Province of Modena, Emilia-Romagna region
 
 - ???
 
-  - Ven. Maria Anna Saltini Testi, widow/foundress, d. 12/3/1957 (maybe at
-    the Casa della Divina Provvidenza/House of Divine Providence, via
+  - Ven. Maria Anna Saltini Testi, widow/foundress, d. 12/3/1957 (maybe at the Casa della Divina Provvidenza/House of Divine Providence, via
     Matteotti 71)
 
 Carpi, Fossoli *frazione*, Province of Modena, Emilia-Romagna region
@@ -2537,8 +2533,7 @@ Carpineto Romano, Metropolitan City of Rome, Lazio region
 
 - San Pietro Apostolo
 
-  - Servant of God Maestro (née Matteo) De Angelis, OSA, priest, d.
-    5/14/2003 (they may be trying to move his tomb to Sant'Agostino in the
+  - Servant of God Maestro (née Matteo) De Angelis, OSA, priest, d. 5/14/2003 (they may be trying to move his tomb to Sant’Agostino in the
     same town)
 
 Carrara, Province of Massa and Carrara (MS), Toscana region
@@ -2555,8 +2550,7 @@ Casaglia di Caprara, Bologna, Emilia-Romagna
 
   - Bl. Ubaldo Marchioni, priest/Nazi victim/martyr, 9/29
 
-Casale, San Vito di Romagna, Province of Forlì-Cesena, Emilia-Romagna
-region
+Casale, San Vito di Romagna, Province of Forlì-Cesena, Emilia-Romagna region
 
 - Sanctuary/Santuario della Madonna di Cassale
 
@@ -2589,13 +2583,13 @@ Cascia, Province of Perugia, Umbria region
 
 - Basilica of St. Rita
 
-- Eucharistic miracle (lower basilica)
+  - Eucharistic miracle (lower basilica)
 
-- Bl. Maria Teresa Fasce, OSA, abbess, 1/18 (lower basilica)
+  - Bl. Maria Teresa Fasce, OSA, abbess, 1/18 (lower basilica)
 
   - St. Rita of Cascia
 
-- Bl. Simon Fidati, 2/2 (lower basilica)
+  - Bl. Simon Fidati, 2/2 (lower basilica)
 
 Cascia, Roccaporena *frazione*, Province of Perugia, Umbria region
 
@@ -2631,25 +2625,23 @@ Cassano all'Ionio, Province of Cosenza, Calabria autonomous community
 
 - Cattedrale della Natività della Beata Vergine Maria/Cathedral of Cassano
 
-  - Servant of God Raffaele Barbieri, bishop, d. 1/31//1968 (Cappella del
-    Sacramento/Chapel of the Sacrament)
+  - Servant of God Raffaele Barbieri, bishop, d. 1/31//1968 (Cappella del Sacramento/Chapel of the Sacrament)
 
 Cassino, Province of Frosinone, Lazio region
 
-San Germano
+- San Germano
 
   - St. Germano di Capua/Germanus of Capua, bishop, 10/29
 
 Castelbuono, near Palermo, Sicily
 
-Santa Maria del Parto
+- Santa Maria del Parto
 
   - St. Guglielmo Gnoffi, religious, 4/16
 
 - Cimitero della città di Castelbuono
 
-  - Servant of God Mario Giuseppe Restivo, layman, d. 8/19/1982 (in a
-    chapel)
+  - Servant of God Mario Giuseppe Restivo, layman, d. 8/19/1982 (in a chapel)
 
 Castelfranco Emilia, Province of Modena, Emilia-Romagna region
 
@@ -2660,45 +2652,15 @@ Castelfranco Emilia, Province of Modena, Emilia-Romagna region
 
 Castel Gandolfo, Metropolitan City of Rome, Lazio region
 
-Piccola Opera Mater Dei (Viale Bruno Buozzi, 42)
+- Piccola Opera Mater Dei (Viale Bruno Buozzi, 42)
 
   - Ven. Maria Antonietta Bordoni, TOSD, laywoman/foundress, d. 10/16/1978
 
-Castelli Calepio, Calepio frazione, Province of Bergamo, Lombardia
-Region
+Castelli Calepio, Calepio frazione, Province of Bergamo, Lombardia region
 
-Cappella degli Angelo Custode e San Celestino Martire
+- Cappella degli Angelo Custode e San Celestino Martire
 
   - St. Celestine, martyr
-
-Castelmagno, Province of Cuneo, Piemonte region
-
-- Santuario di San Magno
-
-  - St. Magno/Magnus of Cuneo, martyr, 8/19
-
-Castellammare di Stabia, Metropolitan City of Naples, Campania region
-
-Casa "Stella Maris" delle Suore Francescane Alcantarine (might be at Via
-Vecchia Pozzano, 10)
-
-  - Ven. Maria Elisabetta della Santa Croce (née Agata Maria) Jacobucci,
-    religious, d. 2/10/1939 (nella cappella/in the chapel)
-
-Castellammare di Stabia, Quisisana *frazione*, Metropolitan City of
-Naples, Campania region
-
-- ???
-
-  - Servant of God Maria Cannavale, laywoman, d. 12/15/1967 (petitioner:
-    Parrocchia S. Matteo Quisisana, Via S. Basile, 1, 80053 Castellammare di
-    Stabia)
-
-Castelpoto, Province of Benevento, Campania region
-
-- Chiesa parrocchiale di San Nicola da Mira
-
-  - St. Laureato/Laureatus, martyr, 2/8
 
 Castel Sant'Elia, Province of Viterbo, Lazio region
 
@@ -2708,7 +2670,7 @@ Castel Sant'Elia, Province of Viterbo, Lazio region
 
   - St. Nonnoso of Monte Soratte, OSB, abbot, 9/2 (relics only)
 
-Sanctuary of Maria Santissima ad Rupes
+- Sanctuary of Maria Santissima ad Rupes
 
   - Servant of God Giuseppe Andrea Rodio, TOSF, hermit, d. 1/11/1819
 
@@ -2722,14 +2684,24 @@ Castelfiorentino, Metropolitan City of Florence, Toscania region
 
   - St. Verdiana, anchoress, 2/1
 
-Castellammare di Stabia, Province of Naples, Campania region
+Castellammare di Stabia, Metropolitan City of Naples, Campania region
 
 - Concattedrale di Maria Santissima Assunta e San Catello/Cathedral
 
   - St. Catello/Catellus, bishop, 1/19
 
-Castellarano, San Valentino frazione, Province of Reggio Emilia,
-Emilia-Romagna region
+- Casa "Stella Maris" delle Suore Francescane Alcantarine (might be at Via Vecchia Pozzano, 10)
+
+  - Ven. Maria Elisabetta della Santa Croce (née Agata Maria) Jacobucci, religious, d. 2/10/1939 (nella cappella/in the chapel)
+
+Castellammare di Stabia, Quisisana *frazione*, Metropolitan City of Naples, Campania region
+
+- ???
+
+  - Servant of God Maria Cannavale, laywoman, d. 12/15/1967 (petitioner: Parrocchia S. Matteo Quisisana, Via S. Basile, 1, 80053 Castellammare di
+    Stabia)
+
+Castellarano, San Valentino frazione, Province of Reggio Emilia, Emilia-Romagna region
 
 - Chiesa/Parrocchia/Pieve di San Valentino
 
@@ -2745,12 +2717,29 @@ Castelluccio Superiore, Province of Potenza, Basilicata region
 
   - Bl. Maria Angelica Mastroti di Papasidero, laywoman/mystic, 5/26
 
+Castelmagno, Province of Cuneo, Piemonte region
+
+- Santuario di San Magno
+
+  - St. Magno/Magnus of Cuneo, martyr, 8/19
+
 Castelpetroso, Province of Isernia, Molise region
 
-- Basilica santuario di Maria Santissima Addolorata/Blessed Virgin of
-  Sorrows of Castelpetroso
+- Basilica santuario di Maria Santissima Addolorata/Blessed Virgin of Sorrows of Castelpetroso
 
-Site of Marian apparitions, 3/22
+  - Site of Marian apparitions, 3/22
+
+Castelpoto, Province of Benevento, Campania region
+
+- Chiesa parrocchiale di San Nicola da Mira
+
+  - St. Laureato/Laureatus, martyr, 2/8
+
+Castelspina, Province of Alessandria, Piemonte region
+
+- Istituto Suore Francescane Angeline (Via Padre Gamalero, 30)
+
+  - Servant of God Chiara (née Ottavia Caterina) Ricci, SFA, foundress, d. 9/30/1900
 
 Castiglione a Casauria, Province of Pescara, Abruzzo region
 
@@ -4852,6 +4841,10 @@ Genoa (Genova)
 
   - Servant of God Rachele “Lina” Noceti, laywoman, d. 4/3/1918
 
+- Santi Nazario e Celso e San Francesco di Albaro (Via Albaro, 33)
+
+  - Servant of God Antonietta Celesia De Ferrari, laywoman, d. 10/27/1901
+
 - Chiesa di San Siro
 
   - St. Remo/Romulus of Genoa, bishop, 11/6
@@ -4876,7 +4869,7 @@ Genoa (Genova)
 
 - Motherhouse of the Sisters of Santa Marta
 
-  - Bl. Tommaso Reggio, archbishop, 11/22
+  - Bl. Tommaso Reggio, archbishop/founder, 11/22
 
 - Casa madre delle Figlie dei Sacri Cuori (Piazza Carignano)
 
@@ -4912,8 +4905,6 @@ Genoa (Genova)
   - St. Beda il Giovane/Bede the Younger, monk, 4/10
 
   - St. Consolata of Genoa, nun, 12/5 (a church was built to house her remains and was named after her, but it seems to no longer exist)
-
-  - Bl. Eugenia Ravasco, foundress, 12/30
 
   - Ss. Felix, Valentine, and Romulus, bishops (either at Dodici Apostoli or San Siro)
 
@@ -7749,6 +7740,12 @@ Nocera Inferiore, Province of Salerno, Campania region
 
   - St. Prisco/Priscus of Nocera, 1^st^ bishop, 9/16
 
+Nocera Superiore, Porta Romana frazione, Province of Salerno, Campania region
+
+- Casa Madre di Suore dell’Addolorata, Serve di Maria (Via Porta Romana, 55)
+
+  - Ven. Maria Consiglio dello Spirito Santo (née Emilia Pasqualina) Addatis, SMN, foundress, d. 1/11/1900
+
 Nocera Umbra, Province of Perugia, Umbria region
 
 - San Felicissimo (until the Cathedral is repaired from the 1997
@@ -10155,16 +10152,13 @@ Rome (Roma)
   - Ven. Egidio Giuseppe dei Ss. Cuori (née Severino Malacarne), CP, priest,
     d. 11/29/1953
 
-  - Ven. Elisa Giambelluca, math teacher/principal, d. 7/5/1986 (probably
-    buried elsewhere)
+  - Ven. Elisa Giambelluca, math teacher/principal, d. 7/5/1986 (probably buried elsewhere)
 
-  - Ss. Epimachus and Gordianus, buried off the Via Latina (Gordiano, 5/10,
-    is at the Lateran and Kempen Abbey in Bavaria)
+  - Ss. Epimachus and Gordianus, buried off the Via Latina (Gordiano, 5/10, is at the Lateran and Kempen Abbey in Bavaria)
 
   - St. Euprepis, martyr, 11/30
 
-  - St. Eutichio, martyr, 2/3 ("interred in the catacombs of the Appian Way
-    outside Rome," but which one, San Callisto or San Sebastiano?)
+  - St. Eutichio, martyr, 2/3 ("interred in the catacombs of the Appian Way outside Rome," but which one, San Callisto or San Sebastiano?)
 
   - St. Fabiola of Rome, physician/laywoman, 12/27
 
@@ -10187,8 +10181,7 @@ Rome (Roma)
 
   - Servant of God Giulio Penitenti, priest/founder, d. 7/7/1978
 
-  - Servant of God Giuseppe Battistella, FSMI, priest, d. 11/10/1965 (he
-    died here, but where is he buried?)
+  - Servant of God Giuseppe Battistella, FSMI, priest, d. 11/10/1965 (he died here, but where is he buried?)
 
   - St. Hermes the Exorcist of Rome, martyr, 12/31
 
@@ -10198,8 +10191,7 @@ Rome (Roma)
 
   - St. Mary of Egypt, 4/1
 
-  - Servant of God Maria Agostina di Gesù, 1/28/1900, possibly at the
-    Generalate for the Suore di Carità di Nostra Signora del Buon e
+  - Servant of God Maria Agostina di Gesù, 1/28/1900, possibly at the Generalate for the Suore di Carità di Nostra Signora del Buon e
     Perpetuo Soccorso
 
   - Servant of God Maria Farsetti, laywoman, d. 5/9/1953
@@ -10208,11 +10200,9 @@ Rome (Roma)
 
   - Servant of God Maria Rachele Tararan, religious, d. 8/1/1980
 
-  - St. Maximus of Rome, priest/martyr, 11/19 (supposedly buried in the
-    "catacombs of Saint Xystus, Rome," but I can\'t find where that is)
+  - St. Maximus of Rome, priest/martyr, 11/19 (supposedly buried in the “catacombs of Saint Xystus, Rome,” but I can’t find where that is)
 
-  - Servant of God Marie-Ignace (née Marie-Adélaïde) Melin, foundress, d.
-    1/26/1941
+  - Servant of God Marie-Ignace (née Marie-Adélaïde) Melin, foundress, d. 1/26/1941
 
   - Pope St. Melchiades, martyr, 12/10 (maybe on Via Appia)
 
@@ -10235,8 +10225,7 @@ Rome (Roma)
   - St. Restitutus/Restituto of Rome, martyr, 5/27 & 5/29 & 6/11 (on the
     Via Nomentana)
 
-  - Bl. Rodolfo Acquaviva, SJ, priest/martyr, 2/4 (arm only; at the Jesuit
-    house)
+  - Bl. Rodolfo Acquaviva, SJ, priest/martyr, 2/4 (arm only; at the Jesuit house)
 
   - Servant of God Mother Rosetta Marchese, religious, d. 3/8/1984
 
@@ -10246,15 +10235,13 @@ Rome (Roma)
 
   - Ss. Saturninus, an old man, and Sisinius, deacon
 
-  - St. Simitrius of Rome & 22 Companions, martyrs, 5/26 (beheaded c.159
-    on the Via Salaria Nuova)
+  - St. Simitrius of Rome & 22 Companions, martyrs, 5/26 (beheaded c.159 on the Via Salaria Nuova)
 
   - St. Simplicius of Rome, imperial senator, and companions, 5/10
 
   - St. Siricius, pope and confessor
 
-  - St. Sisinnius of Rome, deacon/martyr, 11/29 (buried at San Sebastiano,
-    but which one?)
+  - St. Sisinnius of Rome, deacon/martyr, 11/29 (buried at San Sebastiano, but which one?)
 
   - St. Sotere, virgin/martyr, 2/11 (buried at the cemetery that bears her name)
 
@@ -10264,15 +10251,13 @@ Rome (Roma)
 
   - St. Telemaco/Telemachus, monk/martyr, 1/1
 
-  - Servant of God Teresa del Sagrado Corazón (née Rosa Mercedes de
-    Castañeda Coello), foundress, d. 2/12/1950
+  - Servant of God Teresa del Sagrado Corazón (née Rosa Mercedes) de Castañeda Coello, foundress, d. 2/12/1950
 
   - Servant of God Teresa (née Sivilli) Ugenti, laywoman, d. 5/21/1984
 
   - Servant of God Umberto Terenzi, priest, d. 1/3/1974
 
-  - Servant of God Urbano Barberini, young layman, d. 4/4/1947 (could be
-    buried in Castelgandolfo)
+  - Servant of God Urbano Barberini, young layman, d. 4/4/1947 (could be buried in Castelgandolfo)
 
   - Servant of God Vincenzo Tarozzi, priest/Latinist for Leo XIII, d. 12/17/1918
 
@@ -10319,6 +10304,10 @@ Sacrament
 - Casa Generalizia delle Suore Ancelle della Beata Vergine Maria Immacolata (Via Cassia 102–104)
 
   - Bl. Josaphata/Yosafata (nee Mykhailyna) Gordashevska/Hordashevs'ka, SSMI, cofoundress, 4/7
+
+- Casa generaliza di Suore di Carità di Nostra Signora del Buono e Perpetuo Soccorso (Via Merulana 170)
+
+  - Servant of God Marie-Augustine (née Caroline) Lenferna de Laresle, BPS, foundress, d. 1/3/1900
 
 - Casa Generalizia delle Suore Oblate al Divino Amore (Via Marruvio, 4,)
 
@@ -10585,7 +10574,7 @@ the Child Jesus
 
 - Casa Madre/Motherhouse for the Figlie di Sant'Anna Madre di Maria Immacolata (Via Merulana, 177)
 
-  - Bl. Anna Rosa Maria Benedetta Gattorno Custo, widow/foundress, 5/6
+  - Bl. Anna Rosa (née Maria Benedetta) Gattorno Custo, widow/foundress, 5/6
 
 - Convento di San Sisto Vecchio (Piazzale Numa Pompilio, 8)
 
@@ -12359,6 +12348,14 @@ Santa Croce sull’Arno, Province of Pisa, Toscana/Tuscany region
 
   - Bl. Cristiana da Santa Croce (née Oringa) Menabuoi, OSA, virgin, 1/4
 
+Sant’Elia a Pianisi, Province of Campobasso, Molise region
+
+- Convento di San Francesco/Convento dei Cappuccini/St. Francis Convent (Via Padre Pio, 7)(must make an appointment; only three friars are left, and they show the convent only at set times; a small offering is appreciated)
+
+  - Ven. Raffaele da Sant’Elia a Pianisi (née Domenico) Petrucelli, OFM Cap., priest, d. 1/6/1901 (in the convent church)
+
+  - St. Padre Pio lived here for three years; you can see his cell
+
 Santa Giusta, Sardinia
 
 - Duomo di Santa Giusta/Cathedral
@@ -12417,7 +12414,7 @@ Sanza, Salerno, Campania
 
 - San Francesco d’Assisi
 
-  - Servant of God Angelo da Maiori (née Gaetano Riccio), OFM, 11/12/1738
+  - Servant of God Angelo da Maiori (née Gaetano) Riccio, OFM, 11/12/1738
 
 Sanzeno, Province of Trentino, Trentino-Alto Adige/Südtirol
 
@@ -13798,8 +13795,7 @@ Tronzano Vercellese, Province of Vercelli, Piedmont region
 
 - ???
 
-  - Servant of God Rosetta Gheddo, laywoman, d. 10/26/1934 (She died here,
-    but where is she buried?)
+  - Servant of God Rosetta Gheddo, laywoman, d. 10/26/1934 (She died here, but where is she buried?)
 
 Troia, Province of Foggia (FG), Puglia region
 
@@ -13853,9 +13849,7 @@ Turin (Torino)
 
   - St. Giuseppe Allamano, IMC, founder, 2/16
 
-  - St. Joseph/Giuseppe Cafasso, 6/22
-
-  - St. Leonardo Murialdo, priest/founder, 3/30
+  - St. Joseph/Giuseppe Cafasso, priest/social reformer, 6/22
 
   - St. Valery/Walaric de Leuconay, abbot, 4/1
 
@@ -13865,20 +13859,19 @@ Turin (Torino)
 
   - Bl. Luigi Boccardo, priest/founder, "Apostle of Merciful Love", 6/9
 
-- Chiesa di Monte di Torino (aka, Monte dei Cappuccini, near Gran Madre di
-  Dio)
+- Chiesa di Monte di Torino (aka, Monte dei Cappuccini, near Gran Madre di Dio)
 
-- Madonna dei Lavoratori
+  - Madonna dei Lavoratori
 
   - St. Botontus (aka, Botonto), child martyr, 1/15
 
-- Church of the Visitation, sanctuary of the Passion
+- Chiesa della Visitazione di Maria Vergine, Santuario della Passione/Church of the Visitation, sanctuary of the Passion (Via XX Settembre, 23)
 
   - Bl. Marcantonio Durando, priest, 12/10
 
-- Santa Barbara
+- Santa Barbara (Via Ottavio Assarotti, 14)
 
-  - St. Leonardo Murialdo, priest/founder, 3/30
+  - St. Leonardo Murialdo, priest/founder, 3/30 (cenotaph only; former burial place)
 
 - Parrocchia San Dalmazzo (via Garibaldi)
 
@@ -13992,7 +13985,7 @@ Turin (Torino)
 
   - St. Marina, martyr
 
-- Santuario della Madonna della Salute in Borgo Vittoria
+- Santuario della Madonna della Salute in Borgo Vittoria (Via Michele Antonio Vibò 26)
 
   - Ven. Eugenio Reffo, CSI, priest/cofounder, d. 5/9/1925
 
@@ -14000,7 +13993,7 @@ Turin (Torino)
 
 - Istituto Adorazione (Viale Curreno Giacomo 21)
 
-  - Servant of God Maria Giuseppina di Gesù (née Luisa Cepollini d’Alto e Caprauna), ASC, religious, d. 6/21/1917
+  - Servant of God Maria Giuseppina di Gesù (née Luisa) Cepollini d’Alto e Caprauna, ASC, religious, d. 6/21/1917
 
 - L’Istituto delle Piccole Suore del Sacro Cuore di Gesù/Valsalice mother house of the Salesian sisters
 
@@ -14858,11 +14851,15 @@ Vicenza, Province of Vicenza, Veneto Region
 
 Vico Equense, Metropolitan City of Naples, Campania region
 
-  - Ss. Ciro e Giovanni
+- Ss. Ciro e Giovanni (Via San Ciro, 13 [or Piazza San Ciro, 13])
 
   - St. Ciro/Cyrus, martyr, 1/31
 
   - St. Giovanni/John, martyr, 1/31
+
+- Ss. Salvatore/Church of the Most Holy Savior (Via S. Salvatore)
+
+  - Servant of God Luigi Avellino, TOSF, layman, d. 4/13/1900
 
 Vico nel Lazio, Province of Frosinone, Lazio region
 
