@@ -1200,7 +1200,7 @@ Prayagraj, Prayagraj district, Prayagraj division, Uttar Pradesh
 
 Pune (Poona), Maharashtra state
 
-- Sisters of Our Lady of Fatima Convent, Fatima Nagar,
+- Sisters of Our Lady of Fatima Convent, Fatima Nagar (FR7C+CH)(18.5029° N 73.8967° E)
 
   - Servant of God Francis Xavier Kroot, MHM, priest/founder, d. 1/5/1900
 
@@ -3531,6 +3531,14 @@ Marikina City, Metro Manila
 
 - Shrine of Our Lady of the Abandoned (aka, Nuestra Señora de los
   Desamparados)
+
+Naga City, Camarines Sur Province, Bicol Region
+
+- Peñafrancia Basilica (13°37′55″N 123°12′00″E)
+
+  - Nuestra Señora de Peñafrancia/Our Lady of Peñafrancia (Third Saturday of September)
+  
+  - El Divino Rostro (Second Friday of September)
 
 Novaliches, Quezon City
 
