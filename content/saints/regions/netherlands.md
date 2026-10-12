@@ -231,7 +231,7 @@ Steyl, Tegelen district, Venlo municipality
 
   - Bl. Josefa (née Hendrina) Stennmans, SSpS, foundress, 5/20
 
-  - Bl. Maria Virgo (née Helena) Stollenwerk, SSpS religious, 2/3 & 11/28
+  - Bl. Maria Virgo (née Helena) Stollenwerk, SSpS, religious, 2/3 & 11/28
 
 - ???
 
