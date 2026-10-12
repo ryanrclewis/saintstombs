@@ -163,9 +163,15 @@ Bodfari, Denighshire, Wales
 
   - St. Deifer of Bodfari, hermit, 3/7 or 3/8
 
+Bodmin/Bosvena, Cornwall, England
+
+- St. Petroc Church (Church Square, Priory Road)(50.4714°N 4.7168°W)
+
+  - St. Petroc, prince/monastery founder, 6/4 (his reliquary casket; Protestants threw out his relics; his remains were reputed to have ended up in the bay of Hailemouth near Padstow)
+
 Braunton, Devonshire
 
-- Monastery
+- Monastery (6MJ2+CC)(51.1111° N, 4.1622° W)
 
   - St. Brannock/Barnoc/Brannoc, abbot, 1/7
 
@@ -296,10 +302,9 @@ Canterbury
 
   - St. Wilfrid of York, bishop, 10/12 & 4/24
 
-- Abbey of St. Augustine (formerly the Abbey of Ss. Peter and Paul and now
-  an utter ruin)
+- Abbey of St. Augustine (formerly the Abbey of Ss. Peter and Paul and now an utter ruin)
 
-- St. Adrian of Canterbury, Canterbury Cathedral, 1/9
+  - St. Adrian of Canterbury, Canterbury Cathedral, 1/9
 
   - St. Augustine of Canterbury, 5/27
 
@@ -324,14 +329,17 @@ Canterbury
 
   - St. Theodore of Canterbury, bishop, 3/19 (buried on the lawn?)
 
-  - St. Gregory Hospital
+- St. Gregory Priory (built over but formerly located at roughly 90–91 Northgate Street)
+
+  - Queen St. Ethelburga/Æthelburh, queen/abbess, 9/8 (shrine destroyed and relics dispersed)
+
+- St. Gregory Hospital
 
   - St. Edburga, abbess, 12/12
 
   - St. Mildred, 2/20
 
-- Church of St. John the Baptist (it was located on the cathedral's west
-  side)
+- Church of St. John the Baptist (it was located on the cathedral's west side)
 
   - St. Cuthbert of Canterbury, archbishop, 10/26
 
@@ -1216,11 +1224,9 @@ London
 
   - Bl. John Hewett, priest/martyr, 10/5
 
-  - St. John Houghton, priest/martyr, 5/3 (remains scattered throughout
-    London as a warning to others)
+  - St. John Houghton, priest/martyr, 5/3 (remains scattered throughout London as a warning to others)
 
-Bls. John Larke, John Ireland, vicar of Eltham, and German Gardiner,
-priest martyrs, 3/7
+  - Bls. John Larke, John Ireland, vicar of Eltham, and German Gardiner, priest martyrs, 3/7
 
   - Bl. John Lowe, priest/martyr, 10/8, 10/29, & 11/22
 
@@ -1264,8 +1270,7 @@ priest martyrs, 3/7
 
   - Bl. Richard Bere, O.Cart., monk, 8/9
 
-- Bl. Richard Creagh of Armagh, bishop/martyr (died at the Tower of
-  London), 10/14
+  - Bl. Richard Creagh of Armagh, bishop/martyr (died at the Tower of London), 10/14
 
   - Bl. Richard Langhorne, lay martyr, 7/14
 
@@ -1331,8 +1336,7 @@ priest martyrs, 3/7
 
   - Bl. William Carter, martyr, 1/11
 
-  - Bl. William Dean, priest-martyr, 8/28 (died at Mile End Green, East
-    London)
+  - Bl. William Dean, priest-martyr, 8/28 (died at Mile End Green, East London)
 
   - Bl. William Exmew, monk, martyr, 6/19 at Tyburn
 
@@ -1406,15 +1410,15 @@ priest martyrs, 3/7
 
   - Linen and straw stained with the blood of five Jesuit martyrs:
 
-    - Thomas Whitbread
+  - Thomas Whitbread
     
-    - William Harcourt
+  - William Harcourt
     
-    - John Fenwick
+  - John Fenwick
     
-    - Antony Turner
+  - Antony Turner
     
-    - John Gavan
+  - John Gavan
 
   - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
 
@@ -1448,11 +1452,17 @@ priest martyrs, 3/7
 
   - St. Valerie of Limoges, martyr, 12/9
 
-Lyming
+London, Roehampton district
 
-- Abbey
+- Maryfield Convent (Mount Angelus Road)
 
-  - Queen St. Ethelburga, abbess, 9/8
+  - Ven. Mary Magdalen of the Sacred Heart (née Frances Margaret) Taylor, SMG, foundress/convert, d. 6/9/1900
+
+Lyminge, Kent
+
+- St. Mary and St Ethelburga’s Church
+
+  - Queen St. Ethelburga/Æthelburh, queen/abbess, 9/8 (this was her tomb for 400 years)
 
 Manchester
 
