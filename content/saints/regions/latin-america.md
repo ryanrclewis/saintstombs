@@ -24,6 +24,10 @@ Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal
 
   - Ven. María Benita Arias, foundress, d. 9/25/1894
 
+- Iglesia de San José del Tala/Santuario Nuestra Señora Desatadora de Nudos/Shrine of Our Lady, Undoers of Knots
+
+  - Nuestra Señora Desatadora de Nudos/Our Lady, Undoer of Knots, 9/28
+
 - Iglesia de Nuestra Señora de la Merced
 
   - Bl. María Antonia de Paz y Figueroa, religious, 3/7
@@ -40,13 +44,13 @@ Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal
 
   - Servant of God María Bernardita de la Inmaculada (née Adela Sesso), PSSJ, religious, d. 12/12/2001 (in the chapel of the Padres Teatinos)
 
-- Capilla de Sán Hector
+- Capilla de Sán Hector (Rio Bamba 650)
 
   - St. Benito de Jesús, Spanish civil war martyr, 10/9
 
-- Iglesia de San José del Tala/Santuario Nuestra Señora Desatadora de Nudos/Shrine of Our Lady, Undoers of Knots
+- Casa Madre de la Congregación de las Hermanas Terciarias Franciscanas de la Caridad (next to the Parroquia San Ildefonso at Guise 1941 [in the Palermo neighborhood])
 
-  - Nuestra Señora Desatadora de Nudos/Our Lady, Undoer of Knots, 9/28
+  - Servant of God María Mercedes del Niño Jesús (née Maria Mercedes) Guerra, HTFC, foundress, d. 7/31/1901
 
 - Cementerio de Chacarita, Panteón Social de la Federación de Círculos Católicos de Obreros (Av. Guzmán 680, C1427)
 
@@ -1394,7 +1398,7 @@ Cartagena
 
 - ???
 
-  - Servant of God Nicolás Rodríguez Campo (Nicolau Rodrigues), SJ, priest, d. 9/30/1900
+  - Servant of God Nicolau (née Nicolás) Rodríguez Campo, SJ, priest, d. 9/30/1900
 
 El Santuario, Oriente subregion, Antioquia department
 
