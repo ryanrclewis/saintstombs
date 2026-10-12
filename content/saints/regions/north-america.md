@@ -325,20 +325,30 @@ Cataldo, Kootenai and Shoshone Counties, Idaho
   - Oldest building in Idaho
   - Site of Native American devotion and pilgrimage
 
+Centralia, Columbia County, Pennsylvania
+
+- Assumption of the Blessed Virgin Mary Ukrainian Catholic Church (N. Paxton Street)
+
+  - Site of a major Marian pilgrimage, which occurs typically on a Sunday near the Feast of the Dormition/Assumption (often the third or last Sunday of August).
+
 Champion, Brown County, Wisconsin
 
 - Chapel of Our Lady of Good Help Cemetery (4047 Chapel Dr.)
+
   - Servant of God Marie Adele Joseph Brise, visionary, foundress, d. 7/5/1896
+
 - Shrine of Our Lady of Champion (4047 Chapel Dr.)
 
 Chattanooga, Hamilton County, Tennessee
 
 - Cathedral Basilica of Ss. Peter and Paul
+
   - Servant of God Fr. Patrick Ryan, white martyr, d. 9/28/1878
 
 Chestnut Hill, Middlesex, Norfolk, and Suffolk Counties, Massachusetts
 
 - Boston College, Burns Library (140 Commonwealth Ave.)
+
   - Extensive pre-Vatican II artifacts
 
 Chicago, Illinois
