@@ -104,16 +104,19 @@ Götzens, Innsbruck Land district, Tyrol state
 
 Graz, Eggenberg Distrikt, Steiermark/Styria state
 
-- Kloster der Franziskanerinnen von der unbefleckten Empfängnis
-(Kaiser-Franz-Josef Kai 16)
+- Kloster der Franziskanerinnen von der unbefleckten Empfängnis (Kaiser-Franz-Josef Kai 16)
 
   - Ven. Maria Klara (nee Rosa Maria) Fietz, religious, d. 6/15/1937
+
+- Vinzentinerinnenkonvent Graz/Kirche zur Unbefleckten Empfängnis/Church of the Immaculate Conception (Mariengasse 12)
+
+  - Servant of God Maria Josefa (born Leopoldine) Brandis, MSWM, foundress, d. 11/11/1900 (You should call ahead before visiting.)
 
 Gurk, Sankt Veit an der Glan district, Kärnten/Carinthia state
 
 - Dom/Cathedral
 
-- St. Hemma of Gurk, laywoman, 6/29 (in the crypt)
+  - St. Hemma of Gurk, laywoman, 6/29 (in the crypt)
 
 Güssing, Burgenland
 
@@ -121,8 +124,7 @@ Güssing, Burgenland
 
   - Bl. László/Lazlo (aka, Ladislaus) Batthyány-Strattmann, doctor, 1/22
 
-  - Servant of God Coreth Mária Terézia/Maria Theresia von Coreth zu Coredo
-    und Starkenberg Batthyány-Strattmann, laywoman, d. 3/14/1951
+  - Servant of God Coreth Mária Terézia/Maria Theresia von Coreth zu Coredo und Starkenberg Batthyány-Strattmann, laywoman, d. 3/14/1951
 
 Heiligenkreuz, Baden District, Lower Austria state
 
