@@ -1,7 +1,6 @@
 # Andorra
 
-Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in
-southern Andorra
+Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in southern Andorra
 
 - Canòlich sanctuary
 
@@ -1082,7 +1081,7 @@ Sagrada Familia
 
 - Colegio (High School) de Jesús, María y José
 
-	- St. Josep Manyanet y Vives, founder, 12/17 (chapel)
+	- St. Josep Manyanet y Vives, priest/founder, 12/17 (chapel)
 
 - La cripta de Colegio Mayor Bonaigua/l’Oratori de Bonaigua de Barcelona (Carrer Jiménez i Iglesias, 3)
 
@@ -1268,13 +1267,11 @@ Sagrada Familia
 
   - Bl. Guillermo Giraldi, O. de M., religious, 3/5-3/6
 
-- Bl. Guillermo Vives, O. de M., friar, 1/3 ("buried at the monastery at
-  Barcelona, Spain" ... Convento de la Mercè de Barcelona?)
+  - Bl. Guillermo Vives, O. de M., friar, 1/3 ("buried at the monastery at Barcelona, Spain" ... Convento de la Mercè de Barcelona?)
 
   - Bl. Gumersindo Valtierra Alonso, priest/martyr, 2/1 & 7/26
 
-  - Bl. Ildefons Lluís (née José/Josep) Casas Lluch, FSC, religious/martyr,
-    10/22
+  - Bl. Ildefons Lluís (née José/Josep) Casas Lluch, FSC, religious/martyr, 10/22
 
   - Bl. Isabel Berti, O. de M., widow/religious, 1/19
 
@@ -1292,24 +1289,20 @@ Sagrada Familia
     buried in La Secuita, Province of Tarragona, his hometown, maybe at the
     church, Santa María de la Secuita)
 
-  - Bl. Lamberto Carlos (née Jaime) Mases Boncompte, FSC, religious/martyr,
-    12/16 (burned alive by a militiawoman)
+  - Bl. Lamberto Carlos (née Jaime) Mases Boncompte, FSC, religious/martyr, 12/16 (burned alive by a militiawoman)
 
   - Bl. Lorenzo Moreno Nicolás, O. de M., religious/martyr, 11/3 (body never
     found)
 
   - Bl. Lucrecia García Solanas, laywoman/martyr, 7/23
 
-  - Bl. Luis Beltran (née Serviliano Solá Jiménez), OH, religious/martyr,
-    8/28 (his remains are not conserved)
+  - Bl. Luis Beltran (née Serviliano Solá Jiménez), OH, religious/martyr, 8/28 (his remains are not conserved)
 
   - Bl. Luis Urbano Lanaspa, OP, priest/martyr, 8/25
 
-  - Bl. Luis María de la Virgen de la Merced (née Luis) Minguel Ferrer, OCD,
-    priest/martyr, 10/22
+  - Bl. Luis María de la Virgen de la Merced (née Luis) Minguel Ferrer, OCD, priest/martyr, 10/22
 
-  - Bl. Luis Victorio (née Eleuterio Angulo Ayala), FSC, religious/martyr,
-    8/30
+  - Bl. Luis Victorio (née Eleuterio Angulo Ayala), FSC, religious/martyr, 8/30
 
   - Fr. Marc Castanyer Seda, priest, d. 4/18/1878
 
@@ -1360,49 +1353,41 @@ Barcelona (Sants neighborhood)
 
   - Bl. Fèlix Vivet Trabal, martyr, 8/26
 
-Barcelona (Sants-Montjuïc district), Province of Barcelona, Catalonia
-autonomous community
+Barcelona (Sants-Montjuïc district), Province of Barcelona, Catalonia autonomous community
 
-Cementiri de Tots Sants/Cementiri de Sants/Cementiri General de
-Barcelona (Carrer de l'Hospital, 56)
+- Cementiri de Tots Sants/Cementiri de Sants/Cementiri General de Barcelona (Carrer de l'Hospital, 56)
 
   - Bl. Jacinto Blanch Ferrer, CMF, priest/martyr, 8/21 (grave lost)
 
-Barcelona, Pedralbes barrio/neighborhood, Province of Barcelona,
-Catalonia autonomous region
+Barcelona, Pedralbes barrio/neighborhood, Province of Barcelona, Catalonia autonomous region
 
 - ???
 
   - Bl. Antonio/Antoni Junyent Estruch, CMF, religious/martyr, 2/1 & 8/18
 
-San Andrés de Palomar/Sant Andreu de Palomar barrio/neighborhood,
-Province of Barcelona, Catalonia region
+Barcelona, San Andrés de Palomar/Sant Andreu de Palomar barrio/neighborhood, Province of Barcelona, Catalonia region
 
 - Cementiri/Cemetery
 
   - Bl. Cándido/Càndid Casals Sunyer, priest/martyr, 2/1 & 7/29
 
-Barcelona, Vallibona neighborhood, Province of Barcelona, Cataluña
-autonomous community
+Barcelona, Vallibona neighborhood, Province of Barcelona, Cataluña autonomous community
 
 - Cementerio/Cemetery
 
   - Bl. Matías Cardona-Meseguer, SchP, priest/martyr, 8/20
 
-Barrios de Colina, Alfoz de Burgos comarca, Province of Burgos, Castile
-and León autonomous community
+Barrios de Colina, Alfoz de Burgos comarca, Province of Burgos, Castile and León autonomous community
 
-Monasterio de San Juan de Ortega
+- Monasterio de San Juan de Ortega
 
   - St. Juan de Ortega, religious, 6/2
 
-Barruelo de Santullán, Province of Palencia, Castile y León autonomous
-community
+Barruelo de Santullán, Province of Palencia, Castile y León autonomous community
 
 - Iglesia de Santo Tomás
 
-  - Bl. Bernat/Bernardo (née Plàcid) Fàbrega Julià, FMS,
-    teacher/religious/martyr, 10/6
+  - Bl. Bernat/Bernardo (née Plàcid) Fàbrega Julià, FMS, teacher/religious/martyr, 10/6
 
 Batea, Terra Alta comarca, Province of Tarragona, Catalonia autonomous
 region
@@ -2725,8 +2710,7 @@ community
 
   - St. Pedro del Barco, priest/hermit, 8/12
 
-El Burgo de Osma, Burgo de Osma-Ciudad de Osma, Soria province, Castilla
-y León autonomous community
+El Burgo de Osma, Burgo de Osma-Ciudad de Osma, Soria province, Castilla y León autonomous community
 
 - Catedral de la Asunción de la Virgen
 
@@ -2736,13 +2720,17 @@ y León autonomous community
 
   - St. Pedro de Osma, OSB, bishop, 8/2
 
-El Catllar, Tarragonès comarca, Province of Tarragona, Catalonia
-autonomous region
+El Cabaco, Sierra de Francia comarca, Province of Salamanca, Castilla y León autonomous community
+
+- Santuario de Nuestra Señora de la Peña de Francia (at the top of the Peña de Francia mountain)(SA-203 road, s/n)(40°30′44″ N, 6°10′07″ W)
+
+	- Nuestra Señora de Peñafrancia/Our Lady of Peñafrancia, 9/8
+
+El Catllar, Tarragonès comarca, Province of Tarragona, Catalonia autonomous region
 
 - ???
 
-  - Bl. Augusto María (née Arsenio) Merino Miguel, FSC, religious/martyr,
-    10/29 (unknown burial place)
+  - Bl. Augusto María (née Arsenio) Merino Miguel, FSC, religious/martyr, 10/29 (unknown burial place)
 
 El Masnou, Province of Barcelona, Catalonia autonomous region
 
@@ -2750,16 +2738,21 @@ El Masnou, Province of Barcelona, Catalonia autonomous region
 
   - Bl. Joan Roig i Diggle, layman/martyr, 9/11
 
-El Pont d'Armentera, Alt Camp comarca, Province of Tarragona, Catalonia
-autonomous region
+El Pont d'Armentera, Alt Camp comarca, Province of Tarragona, Catalonia autonomous region
 
-Cementerio de El Pont d'Armentera
+- Cementerio de El Pont d'Armentera
 
   - Bl. Jaume/Jaime Tarragó Iglesias, priest/martyr, 8/28
 
+El Puerto de Santa María, Province of Cádiz, Andalusia autonomous community
+
+- Iglesia San Francisco
+
+  - Servant of God Pedro Guerrero González, SJ, priest, d. 9/3/1973
+
 El Puig de Santa Maria, Horta Nord, Province of Valencia
 
-Monasterio de Santa Maria/Santa María de los Ángeles
+- Monasterio de Santa Maria/Santa María de los Ángeles
 
   - Bl. Arnaldo de Rossinol, O. de M., master general, 5/3
 
@@ -2781,29 +2774,17 @@ Monasterio de Santa Maria/Santa María de los Ángeles
 
 El Saler, Province of Valencia, Valencian autonomous community
 
-Cementerio de El Saler (Carrer del Cementeri, 2)
+- Cementerio de El Saler (Carrer del Cementeri, 2)
 
-  - Bl. Carmen de San Felipe Neri (née Nazaria Gómez Lezaun), SChP,
-    religious/martyr, 8/8
+  - Bl. Carmen de San Felipe Neri (née Nazaria Gómez Lezaun), SChP, religious/martyr, 8/8
 
-  - Bl. Clemencia/Climenta de San Juan Bautista (née Antonia Riba Mestres),
-    SChP, religious/martyr, 8/8
+  - Bl. Clemencia/Climenta de San Juan Bautista (née Antonia Riba Mestres), SChP, religious/martyr, 8/8
 
-  - Bl. María del Niño Jesús (née Maria Baldillou Bullit), SChP,
-    religious/martyr, 8/8
+  - Bl. María del Niño Jesús (née Maria Baldillou Bullit), SChP, religious/martyr, 8/8
 
-  - Bl. María Luisa de Jesús (née María Luisa Girón Romera), SChP,
-    religious/martyr, 8/8
+  - Bl. María Luisa de Jesús (née María Luisa Girón Romera), SChP, religious/martyr, 8/8
 
-  - Bl. Presentación de la Sagrada Familia (née Pascuala Gallén Martí),
-    SChP, religious/martyr, 8/8
-
-El Puerto de Santa María, Province of Cádiz, Andalusia autonomous
-community
-
-- Iglesia San Francisco
-
-  - Servant of God Pedro Guerrero González, SJ, priest, d. 9/3/1973
+  - Bl. Presentación de la Sagrada Familia (née Pascuala Gallén Martí), SChP, religious/martyr, 8/8
 
 Elche, Province of Alicante, Valencian autonomous community
 
@@ -5997,6 +5978,12 @@ Orozko/Orozco, Province of Biscay, Basque autonomous community
 - Monasterio de Jesús y María
 
   - Bl. Clara de Ugarte, O. de M., religious, 1/4 (her remains may no longer be here)
+
+Osa de la Vega, Province of Cuenca, Castilla-La Mancha autonomous community
+
+- Iglesia de la Asunción/Church of the Assumption (Calle de la Iglesia, s/n)
+
+	- El Divino Rostro (Second Friday of September)
 
 Oviedo, Asturias
 
