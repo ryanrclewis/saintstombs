@@ -1780,14 +1780,19 @@ St. Joseph, Stearns County, Minnesota
 St. Louis, Missouri
 
 - Old Cathedral/Basilica of St. Louis, King of France (209 Walnut Street)
+
   - Servant of God Giuseppe (Joseph) Rosati, VM, bishop, d. 9/25/1843
+
 - St. Alphonsus "The Rock" Church (1118 N. Grand Blvd.)
+
   - Shrine to Our Lady of Perpetual Help
+
 - Shrine of St. Joseph (1220 N. 11th St.)
 
 St. Mary's, Kansas
 
-- St. Mary's Academy, 200 E. Mission St.
+- St. Mary's Academy, 200 E. Mission St. (SSPX)
+
   - Relic chapel with virtually every saint ever
 
 St. Mary-of-the-Woods, Sugar Creek Township, Vigo County, Indiana
@@ -1811,74 +1816,111 @@ St. Peters, St. Charles County, Missouri
 San Antonio, Texas
 
 - Basilica of the National Shrine of the Little Flower (aka, Our Lady of Mount Carmel and St. Thérèse Church)(906 Kentucky Ave.)
+
   - St. Thérèse of Lisieux, OCD, religious, 10/1 (relics only)
+
   - Ss. Louis and Zélie Martin, laymen/parents of St. Thérèse, 7/12 (relics only)
+
 - Our Lady of Czestochowa Church (138 Beethoven Street)
+
   - Shrine of Our Lady of Czestochowa
+
 - St. Anthony of Padua Church (102 Lorenz Road)
+
   - National Shrine of St. Anthony
+
   - Adoration Chapel
+
 - Chapel of Miracles (113 Ruiz St.)
+
   - Miracles have happened here
+
 - Little Flower Shrine
+
 - Lourdes Grotto & Tepeyac de San Antonio (5712 Blanco Road)
+
   - Blessed Sacrament Chapel
+  
     - St. Eugène de Mazenod, bishop and founder, 5/21 (relic of heart only)
+
 - Our Lady of Guadalupe Shrine/Santuario de Nuestra Señora de Guadalupe (1321 El Paso Street)
+
   - Replica of the original tilma (touched to the original one)
+
 - San Juan de los Lagos Church and Shrine (3231 El Paso Street)
+
   - Shrine of Nuestra Señora de San Juan de los Lagos
 
 San Diego, California
 
 - Mission San Diego de Acala (10818 San Diego Mission Rd.)
+
   - Fr. Luis Jayme, OFM (née Melcio Jaume Vallespir), priest/martyr, d. 11/5/1775 (_non-causa_)(before the sanctuary)
+
   - Shrine Grotto of Our Lady of Guadalupe
+
 - St. Jude Shrine of the West (1129 S. 38th St.)
 
 San Elizario, El Paso County, Texas
 
 - Presidio Chapel of San Elizario (aka, San Elceario Church)(1556 San Elizario Road)
+
   - Shrine to Our Lady
+
   - Altar of St. Elizario
 
 San Francisco, California
 
 - National Shrine of St. Francis of Assisi (600 Vallejo St.)
+
 - St. Dominic Church (2390 Bush St.)
+
   - Shrine of St. Jude
+
 - Holy Virgin Orthodox Cathedral/Cathedral of the Theotokos, Joy of All Who Sorrow (6210 Geary Blvd.)
+
   - St. John of Shanghai and San Francisco "the Wonderworker" (Mikhail Borisovich Maximovitch), hierarch, 6/4 and 17, as well as 7/2 and 15 (incorrupt)
+
 - The Camino de San Francisco has been developed connecting a path from Mission San Rafael Archangel in Marin County to Mission San Francisco de Asis (Mission Dolores) in San Francisco
 
 San Gabriel, Los Angeles County, California
 
 - San Gabriel Mission Cemetery
+
   - Servant of God Aloysius Ellacuria, CMF, priest/mystic, d. 4/6/1981
 
 San Juan, Hidalgo County, Texas
 
 - National Shrine Basilica of Our Lady of San Juan del Valle/
+
   - Shrine/Santuario de la Virgen de San Juan del Valle (400 N. Virgen de San Juan Boulevard)
 
 San Juan Capistrano, Orange County, California
 
 - Old Mission San Juan Capistrano (31520 Camino Capistrano)
+
   - Shrine of St. Peregrine
 
 San Luis, Costilla County, Colorado
 
 - Sangre de Cristo Church (511 S. Church Place)
+
   - Our Lady of Guadalupe Grotto
+
   - Shrine of the Stations of the Cross
 
 Santa Clara, California
 
 - Santa Clara Catholic Cemetery, Fatima Wing of the Mausoleum
+
   - Servant of God Cora Evans, lay mystic, d. 3/30/1957
+
 - University of Santa Clara Chapel, Chapel of the Crucifix
+
   - Servant of God Magín Catalá Guasch, OFM, priest, 11/22/1830
+
 - Our Lady of Peace Church (2800 Mission College Boulevard)
+
   - Shrine of Our Lady of Peace
 
 Santa Cruz, California
@@ -1888,6 +1930,7 @@ Santa Cruz, California
 Santa Cruz, New Mexico
 
 - Holy Cross Church (aka, Iglesia de Santa Cruz de la Cañada)(126 S. McCurdy Road)
+
   - Miraculous statue of Jesus Nazareno
 
 Santa Fe, New Mexico
@@ -1951,20 +1994,27 @@ Seboyeta, Cibola County, New Mexico
 Sedona, Coconino and Yavapai counties, Arizona
 
 - Chapel of the Holy Cross
+
   - Relics of the 12 apostles
+
   - Shrine of the Red Rocks
 
 Shiner, Lavaca County, Texas
 
 - Ss. Cyril and Methodius Catholic Cemetery
+
   - Servant of God Charles Kram, priest, d. 8/13/2000
 
 Shreveport, Louisiana
 
 - Cemetery of St. Joseph
+
   - Servant of God François LeVézouët, priest, d. 10/8/1873
+
   - Servant of God Isidore A. Quémerais, priest, d. 9/15/1873
+
   - Servant of God Jean Pierre, priest, d. 9/16/1873
+
   - Servant of God Jean Marie Biler, priest, d. 9/26/1873
 
 Silverton, San Juan County, Colorado
@@ -1974,11 +2024,13 @@ Silverton, San Juan County, Colorado
 Sitka City and Borough, Alaska
 
 - Holy Trinity Russian Orthodox Church
+
   - Bl. Jacob Netsvetov, missionary, 7/26 ("buried at the doors of the Tlingit chapel where he served") (Orthodox saint)
 
 Sleepy Eye, Brown County, Minnesota
 
 - Schoenstatt On the Lake (27762 County Highway 27)
+
   - Our Mother Thrice Admirable Queen and Victress Shrine
 
 Socorro, El Paso County, Texas
@@ -1990,6 +2042,7 @@ Socorro, El Paso County, Texas
 Solomon, Graham County, Arizona
 
 - Our Lady of Guadalupe Church (2257 1<sup>st</sup> Avenue)
+
   - Shrine of Our Lady of Guadalupe
 
 South Burlington, Chittenden County, Vermont
@@ -2001,6 +2054,7 @@ South Burlington, Chittenden County, Vermont
 South Canaan, Pennsylvania
 
 - St. Tikhon Orthodox Monastery
+
   - St. Alexis Toth of Wilkes-Barre, Orthodox priest
 
 South Haven, Valparaiso, Porter County, Indiana
@@ -2022,7 +2076,9 @@ Springfield, Illinois
 Starkenburg, Montgomery County, Missouri
 
 - St. Martin's Church Museum (197 Highway P)
+
   - Shrine of Our Lady of Sorrows
+
   - Oldest Pfeffer pipe organ in the US
 
 Sterling Heights, Macomb County, Michigan
@@ -2034,17 +2090,25 @@ Sterling Heights, Macomb County, Michigan
 Steubenville, Jefferson County, Ohio
 
 - Franciscan University of Steubenville
+
   - Portiuncula Chapel (an exact replica, with perpetual adoration)
 
 Stirling, Morris County, New Jersey
 
 - St. Joseph's Shrine (1050 Long Hill Rd.)
+
   - Our Lady of Humility Shrine
+
   - St. Anthony of Padua Shrine
+
   - Mother Cabrini Shrine
+
   - St. Anne Shrine
+
   - The Holy Cross Shrine
+
   - St. Martin de Porres Shrine
+
   - Our Lady of Fatima Shrine
 
 Stockbridge, Berkshire County, Massachusetts
@@ -2054,21 +2118,25 @@ Stockbridge, Berkshire County, Massachusetts
 Sugar Ridge, Overton, Bradford County, Pennsylvania
 
 - Ss. Philip & James Church (Coordinates: 41.57340, -76.54530)
+
   - St. John Neumann Shrine (the shrine is inside the church, which is open only from July through Labor Day; call ahead for Mass schedule to 570-328-2265, x2)
 
 Summit, Union County, New Jersey
 
 - Monastery of Our Lady of the Rosary, Rosary Shrine (543 Springfield Ave.)
+
   - Replica of the Shroud of Turin
 
 Sunland Park, Doña Ana County, New Mexico
 
 - Mount Cristo Rey (1 Cristo Rey Road)
+
   - Christ on the Cross statue (the walk takes two hours)
 
 Syracuse, New York
 
 - Shrine & Museum of St. Marianne Cope (Motherhouse of the Sisters of St. Francis)
+
   - St. Marianne Cope, religious, 8/9
 
 Sycamore, Colusa County, California
@@ -2099,7 +2167,7 @@ Three Rivers, Otero County, New Mexico
 
   - In addition to the Shrine, there is a Way of the Cross and a large cross on a nearby hill
 
-Toledo
+Toledo, Ohio
 
 - St. Patrick Church (130 Avondale Avenue)
 
@@ -2124,17 +2192,27 @@ Trinidad, Las Animas County, Colorado
 Tucson, Arizona
 
 - San Xavier del Back (1950 W. San Xavier Road)
+
   - Shrine of St. Francis Xavier
 
-Uniontown, Fayette County, Pennsylvania
+Uniontown, Pennsylvania
 
-- Mount St. Macrina (510 W. Main St.)
-  - Our Lady of Perpetual Help Shrine
+- Mount Saint Macrina/Oak Hill Estate/Fox Hill (520 W. Main Street)
+
+  - Shrine of Our Lady of Perpetual Help, home to the icon of Our Lady of Perpetual Help given by Pope Pius XI
+
+  - Mother of God Shrine
+
+  - Lourdes Grotto 
+
+  - Festal Icon Shrines — a series of outdoor shrines along a walking path called the Festal Icon Walk, each dedicated to a different feast of the liturgical year, including the Festal Icon Shrine of the Nativity of Our Lord
 
 Vail, Pima County, Arizona
 
 - St. Rita in the Desert Church (13260 E. Colossal Cave Road)
+
   - Shrine of St. Rita in the Desert
+
   - The only Catholic Church in the US built in memory of a Japanese citizen
 
 Victoria, Herzog Township, Ellis County, Kansas
@@ -2158,6 +2236,7 @@ Villanova, Pennsylvania
 Vincennes, Knox County, Indiana
 
 - St. Francis Xavier Cathedral Cemetery
+
   - Servant of God Bishop Simon-Guillaume-Gabriel Bruté de Rémur, d. 6/23/1839
 
 Wahpeton, Richland County, North Dakota
@@ -2181,12 +2260,19 @@ Warminster, Bucks County
 Washington, DC
 
 - Basilica of the National Shrine of the Immaculate Conception (400 Michigan Avenue NE)
+
 - St. John Paul II National Shrine (3900 Harewood Road, NE)
+
 - Franciscan Monastery of the Holy Land (aka, Monastery of the Holy Sepulchre) (1400 Quincy Street NE)
+
 - Ukrainian Catholic National Shrine of the Holy Family (4250 Harewood Road NE)
+
 - St. Dominic Church (630 E Street SW)
+
   - Rosary Shrine of St. Jude
+
 - Oak Hill Cemetery in Georgetown
+
   - Servant of God Mary Virginia Merrick, laywoman, d. 1/10/1955
 
 Washington (and Asbury), Warren County, New Jersey
@@ -2196,16 +2282,19 @@ Washington (and Asbury), Warren County, New Jersey
 Waterbury, New Haven County, Connecticut
 
 - Church of the Immaculate Conception (74 W. Main St.)
+
   - Site of the baptism of Bl. Michael McGivney and where he said his first Mass
 
 Waukesha, Kenosha County, Wisconsin
 
 - Schoenstatt Center
+
   - Sanctuary of Our Mother Thrice Admirable, Queen and Victress
 
 Waverly, Lancaster County, Nebraska
 
 - Good Counsel Retreat House (7303 N. 112<sup>th</sup> Street)
+
   - Shrine of Our Lady at Kalin Memorial Tower
 
 Wernersville, Berks County, Pennsylvania
@@ -2225,11 +2314,13 @@ West Haverstraw, Rockland County, New York
 West Paterson, Passaic County, New Jersey
 
 - St. Anne Melkite Church (802 Rifle Camp Road)
+
   - Shrine Church of the Holy Icon of Our Lady of America
 
 West Burlington, Des Moines County, Iowa
 
 - St. Mary Church (500 W. Mt Pleasant Street)
+
   - Our Lady of Grace Grotto
 
 West Haverstraw, Rockland County, New York
@@ -2239,11 +2330,13 @@ West Haverstraw, Rockland County, New York
 West New Brighton, Richmond County (Staten Island), New York
 
 - Saint Peter Cemetery
+
   - Servant of God Vincent Capodanno, military chaplain, d. 9/4/1967
 
 Wichita, Kansas
 
 - Cathedral of the Immaculate Conception
+
   - Ven. Emil Kapaun, priest/military chaplain/martyr, d. 5/23/1951
 
 Williamsburg, Virginia
@@ -2259,38 +2352,51 @@ Winslow, Washington County, Arkansas
 Woodside, Queens County, New York
 
 - Calvary Cemetery
-  - Maria Grazia (née Bellotti) LaPercha, laywoman, d. 1927 (_non-cau_sa; investigation started in 1931 in the Archdiocese of Newark)
+
+  - Maria Grazia (née Bellotti) LaPercha, laywoman, d. 1927 (_non-causa_; investigation started in 1931 in the Archdiocese of Newark)
 
 Worcester, Worcester County, Massachusetts
 
 - Our Lady of Loreto Church (33 Massasoit Road)
+
   - Our Lady of Loreto Shrine
+
 - St. Anthony Shrine (52 High St.)
 
 Yankton, Yankton County, South Dakota
 
 - The House of Mary Shrine (142 Drees Drive on Lewis and Clark Lake)
+
   - Way of the Cross
+
   - Calvary Hill
+
   - Rosary Pond
+
   - Scala Santa
+
   - Rosary Way
+
   - Chapel of St. Joseph
 
 Yardley, Bucks County, Pennsylvania
 
 - Grey Nuns of the Sacred Heart Motherhouse (1750 Quarry Road)
+
   - Sacred Heart Chapel
+  
     - Bl. Marguerite d'Youville Shrine
 
 Yardville, Hamilton Township, Mercer County, New Jersey
 
 - St. Vincent de Paul Church (555 Yardville Allentown Road)
+
   - Eucharistic miracle
 
 Yarnell, Yavapai County, Arizona
 
 - Shrine of St. Joseph of the Mountains (16887 Shrine Drive)
+
   - Fantastic Stations of the Cross
 
 Youngstown, Niagara County, New York
@@ -2300,11 +2406,13 @@ Youngstown, Niagara County, New York
 Youngstown, Mahoning County, Ohio
 
 - Mt. Alverna Friary (517 S. S. Belle Vista Avenue)
+
   - Shrine of Our Lady, Comforter of the Afflicted
 
 ???
 
 - Servant of God Luis Sánchez y Pacheco, O.F.M., priest/martyr, d. 10/29/1696 (central Florida, south of Orlando) (Martyrs of La Florida)
+
 - Servant of God Tiburcio De Osorio, OFM, priest/martyr, d. between 9/1/1712 and July 1715 in the area of what is now Montgomery, Alabama) (Martyrs of La Florida)
 
 # Canada
