@@ -171,9 +171,9 @@ Bodmin/Bosvena, Cornwall, England
 
 Braunton, Devonshire
 
-- Monastery (6MJ2+CC)(51.1111° N, 4.1622° W)
+- Monastery Church of St. Brannock (Church Street)(6MJ2+CC for the monastery; 9C3Q4R7R+53 for the church)(51.1111° N, -4.1622° W for the monastery; 51.11299° N,-4.15978° W for the church)
 
-  - St. Brannock/Barnoc/Brannoc, abbot, 1/7
+  - St. Brannock/Barnoc/Brannoc, abbot, 1/7 (the pastor said in October 2016 that the saint’s remains are traditionally believed to still rest beneath the high altar)
 
 Brecon, Brecknockshire (aka, County of Brecon), Wales
 
