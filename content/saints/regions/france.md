@@ -3174,6 +3174,8 @@ Paris
 - Maison mère vincentienne/Congrégation de la Mission/Congregation of the Mission/ Chapelle Saint-Vincent-de-Paul de Paris/Chapel of St. Vincent de Paul (95, rue de Sèvres)
   - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11
   - St. Vincent de Paul, CM, priest/founder, 9/27
+- Maison-Mère des Petites Sœurs de l’Assomption/Mother House of the Little Sisters of the Assumption (57 Rue Violet)
+  - Ven. Étienne (née Claude-Étienne) Pernet AA, priest/founder, d. 4/3/1899
 - Cimetière d'Auteuil
   - Servant of God Madeleine (née Boudou) Follereau, philanthropist, d. 3/3/1991
   - Servant of God Raoul Follereau, author, d. 12/6/1977
