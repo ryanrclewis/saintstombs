@@ -2239,7 +2239,7 @@ Kalisz, Greater Poland voivodeship
 
   - St. Gianna Beretta Mola (relic only)
 
-  - St. Maria Angela Truszkowska, 3/3 (relic only)
+  - Bl. Maria Angela (née Zofia Kamila) Truszkowska, 3/3 (relic only)
 
   - St. Mother Teresa of Kolkata (relic only)
 
@@ -2430,7 +2430,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
 - Niepokalanego Serca Maryi/Felician Sisters Mother House
 
-  - Bl. Angela Maria (Sofia Camilla) Truszkowska, foundress, 10/10
+  - Bl. Maria Angela (née Zofia Kamila) Truszkowska, foundress, 10/10
 
 - Cmentarzu Podgórskim/Podgórski Cemetery
 
@@ -2459,8 +2459,7 @@ http://www.pilgrimage-poland.eu/en/pilgrim\--routes\--saints\--krakow
 
   - Bl. Leon Nowakowski, priest/martyr, 10/31
 
-  - Bl. Maria Angela (née Zofia Kamila) Truszkowska, CSSF,
-    religious/foundress, 10/10
+  - Bl. Maria Angela (née Zofia Kamila) Truszkowska, CSSF, religious/foundress, 10/10
 
   - Servant of God Stanisław Kownacki, epidemiologist/layman, d. 11/22/1995
     (he died here; where is he buried)
