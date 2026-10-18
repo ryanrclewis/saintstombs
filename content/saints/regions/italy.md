@@ -4859,17 +4859,20 @@ Genoa (Genova)
 
 - Santuario di Sant'Anna dei Carmelitani Scalzi (Piazzetta Sant\'Anna, 4)
 
-  - Bl. Antonio di San Pietro, O. de M., friar, 7/30 (the Mercedarians
-    may have taken his relics with them when the convent transferred
+  - Bl. Antonio di San Pietro, O. de M., friar, 7/30 (the Mercedarians may have taken his relics with them when the convent transferred
     from being a Mercedarian convent to a Carmelite one)
 
-- Chapel of the Sisters of Our Lady of Refuge in Mount Calvary
+- Cappella delle Suore di Nostra Signora del Rifugio a Mount Calvary/Chapel of the Sisters of Our Lady of Refuge in Mount Calvary
 
   - St. Virginia Centurione Bracelli, widow/mother/foundress, 12/15
 
-- Motherhouse of the Sisters of Santa Marta
+- Casa madre delle Suore di Santa Marta/Motherhouse of the Sisters of St. Martha
 
   - Bl. Tommaso Reggio, archbishop/founder, 11/22
+
+- Casa madre delle Figlie della Divina Provvidenza (Salita Belvedere 2)
+
+  - Servant of God Nicolò Daste, priest/founder, d. 2/7/1899
 
 - Casa madre delle Figlie dei Sacri Cuori (Piazza Carignano)
 
@@ -5257,6 +5260,10 @@ Imola, Province of Bologna, Emilia-Romagna region
 
   - Ven. Angelo Bughetti, priest, d. 4/5/1935
 
+- Cimitero del Piratello/Piratello Cemetery (Via Emilia Ponente 19A / 24)
+
+  - Ven. Lucia (née Georgine) Noiret, ASC, foundress, d. 3/17/1944
+
 Isola del Gran Sasso d'Italia, Province of Teramo, Abruzzi region
 
 - Santuario di Isola di San Gabriele
@@ -5336,8 +5343,7 @@ La Spezia, Province of La Spezia, Liguria region
 
 La Torre (see Serra San Bruno)
 
-Lacco Ameno, Island of Ischia, Metropolitan City of Naples, Campania
-region
+Lacco Ameno, Island of Ischia, Metropolitan City of Naples, Campania region
 
 - Basilica di Santa Restituta
 
@@ -5349,28 +5355,23 @@ Lamezia Terme, Province of Trapani, Sicily
 
   - Servant of God Vittorio Moietta, bishop, d. 4/1/1963
 
-- Santuario della Madonna del Soccorso/Sanctuary of the Madonna del
-  Soccorso
+- Santuario della Madonna del Soccorso/Sanctuary of the Madonna del Soccorso
 
-Madonna del Soccorso/Our Lady of Soccorso,7/13
+  - Madonna del Soccorso/Our Lady of Soccorso,7/13
 
 Lanciano, Province of Chieti, Abruzzo Region
 
 - Madonna del Ponte Cattedrale
 
-Eucharistic miracle of Lanciano
+  - Eucharistic miracle of Lanciano
 
-- Chiesa del Sacro Cuore (Congregazione delle Suore Missionarie dei Sacri
-  Cuori di Gesù e Maria)
+- Chiesa del Sacro Cuore (Congregazione delle Suore Missionarie dei Sacri Cuori di Gesù e Maria)
 
-  - Ven. Leonilde di San Giovanni Battista (née Amelia) Rossi, religious, d.
-    12/12/1945
-
-San Tommaso Apostolo Concattedrale
+  - Ven. Leonilde di San Giovanni Battista (née Amelia) Rossi, religious, d. 12/12/1945
 
 - Church of Lagontial
 
-Where the miracle took place
+  - Where the eucharistic miracle took place
 
 - Chiesa del Purgatorio
 
@@ -6072,6 +6073,12 @@ Mascalucia, Metropolitan City of Catania, Sicily
 
   - Ven. Lucia Mangano, OSU, religious, d. 11/10/1946
 
+Massa Lubrense, Sant’Agata sui Due Golfi frazione, Metropolitan City of Naples, Campania, Italy
+
+- Istituto Casa della Madonna (Via Sant'Agata Santa Maria della Neve, 13)
+
+  - Ven. Francesco Gattola, priest/founder, d. 1/20/1899
+
 Massa Marittima, Province of Grosseto, Toscana region
 
 - Duomo di Massa Marittima/Cattedrale di San Cerbone/Massa Marittima
@@ -6189,6 +6196,7 @@ Mercogliano, Montevergine frazione, Province of Avellino, Campania region
   - St. Luke the Evangelist (his arm)
 
 - Abbazia di Montevergine
+
   - Ss. Anania, Misaele, e Azaria (Abdenago, Misach, e Sidrach)/Ananias, Misael, and Azariah (Abednego, Meshach, and Shadrach), Old Testament figures, 12/17
   - St. Desiderius, lector/martyr, 9/7
   - St. Festus, deacon/martyr, 9/7
@@ -8046,9 +8054,9 @@ Orta San Giulio, province of Novara, Piemonte Region
 
 Ortona, Province of Chieti, Abruzzo region
 
-- Basilica San Tommaso Apostolo
+- Concattedrale Basilica di San Tommaso Apostolo
 
-  - St. Thomas the Apostle, July 3
+  - St. Thomas the Apostle, 7/3 (major relics)
 
 Ortucchio, Province of L'Aquila, Abruzzo region
 
@@ -13932,8 +13940,7 @@ Turin (Torino)
 
 - San Secondo/St. Secundus
 
-  - Ven. Giovanni Battista Pinardi, bishop, d. 8/2/1962 (altare del Sacro
-    Cuore/altar of the Sacred Heart)
+  - Ven. Giovanni Battista Pinardi, bishop, d. 8/2/1962 (altare del Sacro Cuore/altar of the Sacred Heart)
 
 - Santi Solutore, Ottavio, and Avventore
 
@@ -13943,14 +13950,19 @@ Turin (Torino)
 
   - Servant of God Amadeo di Savoia, king/husband, d. 1/18/1890
 
-  - Servant of God Maria Vittoria Dal Pozzo della Cisterna, queen/wife, d.
-    11/8/1876
+  - Servant of God Maria Vittoria Dal Pozzo della Cisterna, queen/wife, d. 11/8/1876
 
 - San Tommaso Apostolo/St. Thomas the Apostle (Via Monte di Pietà, 11 at Via Pietro Micca)
 
+  - Servant of God Giuseppina Comoglio, TOSF, mystic/laywoman, d. 5/2/1899
+
   - Servant of God Leopoldo Maria (née Luigi) Musso, OFM, religious, d. 1/26/1922)
 
+  - Servant of God Lucia (née Catterina) Bocchino Rajna, TOSF, abused wife/grieving mother/widow/shopkeeper, d. 5/10/1768
+
   - Ven. Paolo Pio Perazzo, TOSF, railwayman/extraordinary layman, d. 11/22/1911
+
+  - Servant of God Teresa Comoglio, TOSF, mystic/laywoman, d. 6/2/1891 (she is buried here, and her heart is in the sacristy)
 
 - Monastero Clarisse Cappuccine (Via Cardinal Maurizio, 5)
 
@@ -13964,7 +13976,7 @@ Turin (Torino)
 
   - Bl. Maria Enrichetta (Caterina) Dominici, religious, 2/21
 
-- Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44; Tel. 39 011 89 80 429 )
+- Casa Generalizia Istituto del Famulato Cristiano (Via Lomellina 44)
 
   - Ven. Adolfo Barberis, priest/founder, d. 9/24/1967
 
