@@ -428,11 +428,17 @@ Shanghai
 
 - Cemetery of Liu-Ka-Vay
 
-Saintly Russian Orthodox Abbess Rufina, d. August 15, 1937
+  - Saintly Russian Orthodox Abbess Rufina, d. August 15, 1937
 
 - 震旦大學/The former Aurora University or a nearby cemetery
 
   - 张必达/Beda Chang/Zhang Boda, SJ, priest/martyr, d. 11/11/1951 (grave unmarked) (non-causa)
+
+Shanghai, 松江区/Songjiang District
+
+- 佘山天主教堂/Basilica of Holy Mary, Help of Christians (上海市松江区外青松公路9142号西佘山园山顶/No. 9142 Waiqingsong Highway)
+
+  - 佘山聖母/Our Lady of Sheshan/Our Lady of Luck/Our Lady of Good Luck/Mother of China, patroness of China, 5/24
 
 Shenzhou City, Hebei Province 
 
