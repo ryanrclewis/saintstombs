@@ -133,7 +133,7 @@ Ermesinde, Valongo, Porto District, Porto metropolitan area, Norte region
 
 - Igreja do Sagrado Coração de Jesus (Church of the Sacred Heart of Jesus)
 
-  - Bl. Maria do Divino Coração/Mary of the Divine Heart (née Maria Droste zu Vischering), visionary/religious, 6/8
+  - Bl. Maria do Divino Coração de Jesus/Maria vom Göttlichen Herzen Jesu (née Maria) Droste zu Vischering, visionary/religious, 6/8
 
 Este (São Pedro e São Mamede), Braga municipality, Cávado intermunicipal district, Norte region
 
