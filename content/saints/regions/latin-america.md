@@ -212,6 +212,8 @@ Luján, Luján Division, Argentina
 
   - Bl. Eduardo Francisco Pironio, cardinal, 2/5
 
+  - Servant of God Jorge María (née George) Salvaire, priest, d. 2/4/1899
+
 - Capilla de Pedro de Montalvo/Pedro de Montalvo chapel
 
   - Servant of God Manuel Costa de los Ríos, slave, d. 1686 ("Sus restos reposan bajo el altar mayor a los pies de la imagen de la Virgen"/His remains rest under the main altar at the feet of the image of the Virgin)
@@ -3097,9 +3099,9 @@ Port of Spain
 
 Maldonado, Maldonado Department
 
-- ???
+- Catedral de San Fernando/Catedral de Maldonado/ Cathedral of Saint Ferdinand of Maldonado (18 de Julio 833)(34.9088°S 54.9589°W)
 
-  - Servant of God Umberto Domingo Orsetti (Domingo from Tacuarembó), OFM Cap, d. 1/8/1994
+  - Servant God Domingo de Tacuarembó (née Umberto Domingo) Orsetti, OFM Cap, d. 1/8/1994
 
 Montevideo
 
