@@ -1069,8 +1069,13 @@ Leopold, Perry County, Indiana
 
 Libertyville, Lake County, Illinois
 
-- Marytown/National Shrine of St. Maximilian Kolbe
+- Marytown/National Shrine of St. Maximilian Kolbe (1600 W. Park Avenue)
+
   - St. Maximilian Kolbe, priest/martyr (relics only)
+
+- St. Sava Serbian Orthodox Monastery (32377 N. Milwaukee Avenue)
+
+  - St. Mardarije (Uskoković), abbot, 12/12
 
 Lincoln, Placer County, California
 
@@ -1079,6 +1084,7 @@ Lincoln, Placer County, California
 Lincoln, Nebraska
 
 - Adoration Convent of Christ the King (1040 S. Cotner Boulevard)
+
   - Eucharistic Shrine of Christ the King
 
 Litchfield, Litchfield County, Connecticut
@@ -1093,34 +1099,47 @@ Little Rock, Arkansas
 Lombard, DuPage County, Illinois
 
 - St. Pius X Church (1025 E. Madison St.)
+
   - National Shrine of Mary Immaculate, Queen of the Universe
 
 Loretto, Cambria County, Pennsylvania
 
 - St. Michael Church (321 St. Mary Street)
+
   - Servant of God Demetrius Augustine Gallitzin (Apostle of the Alleghenies), priest, d. 5/6/1840 (his tomb is outside the church on the front lawn)
+
 - Our Lady of the Alleghenies Shrine
+
 - Our Lady of Fatima Shrine
 
 Los Angeles
 
 - Cathedral of Our Lady of the Angels
+
   - St. Bibiana/Vibiana, martyr, 12/2
+
 - Our Lady of the Rosary of Talpa Church (Nuestra Señora del Rosario de Talpa)
+
   - Shrine to Our Lady of Talpa
+
 - Santuario de Nuestra Señora de Guadalupe (4100 E. 2<sup>nd</sup> Street)
 
 Los Angeles, Mission Hills neighborhood, Los Angeles County, California
 
 - San Fernando Mission Cemetery (11160 Stranwood Ave.)
+
   - Servant of God Ida Peterfy, SDSH, foundress, d. 2/8/2000
+
   - Shrine to the Unborn
+
   - Graves of several Hollywood celebrities
 
 Louisville, Kentucky
 
 - St. Louis Bertrand Church (1104 S. 6<sup>th</sup> Street)
+
   - Shrine of Our Lady of Lourdes (aka, Lourdes Rosary Shrine)
+
 - Shrine of St. Martin of Tours (639 S. Shelby St.)
   - St. Bonosa, martyr, 7/15
   - St. Magnus, martyr, 8/19
@@ -1672,14 +1691,19 @@ Rhineland, Montgomery County, Missouri
 Richard, Acadia Parish, Louisiana
 
 - St. Edward Church Cemetery
+
   - Servant of God Charlene Richard, child cancer victim, d. 8/11/1959
 
 Richmond Hill, Bryan County, Georgia
 
 - St. Anne Church
+
   - Relic of the True Cross
+
   - St. Ann, mother of Mary (relic only)
+
   - St. Faustina Kowalska (relic only)
+
   - St. Maximilian Kolbe (relic only)
 
 Rochester, Monroe County, New York
@@ -1719,22 +1743,30 @@ Russells Point, Logan County, Ohio
 Sacramento, California
 
 - Cathedral of the Blessed Sacrament (1017 11<sup>th</sup> St.)
+
   - St. Toribio Romo, priest/martyr, 5/21 (relic)
+
 - National Shrine of Our Lady of Guadalupe (711 T St.)
+
   - Ven. Alphonse Gallegos, bishop, d. 10/6/1991
 
 Salt Lake City, Utah
 
 - Cathedral of the Madeleine (331 E. S. Temple St.)
-- Relic of the True Cross
-- Ss. Gratus, bishop, and St. Fenusta, martyr (in the altar)
-- Shrine to Our Lady (the Lady Chapel)
-- Shrine to St. Joseph
+
+  - Relic of the True Cross
+
+  - Ss. Gratus, bishop, and St. Fenusta, martyr (in the altar)
+
+  - Shrine to Our Lady (the Lady Chapel)
+
+  - Shrine to St. Joseph
 
 St. Anne, Kankakee County, Illinois
 
 - Church of St. Anne (2330 N. 6<sup>th</sup> St.)
-  - Original Shrine of St. Anne
+
+   - Original Shrine of St. Anne
 
 St. Augustine, Florida
 
@@ -1744,7 +1776,7 @@ St. Augustine, Florida
 
 - Mission Nombre de Dios (89 A1A Scenic and Historic Coastal Byway)
 
-   - National Shrine of Our Lady of La Leche (oldest shrine to Our Lady in the US)
+  - National Shrine of Our Lady of La Leche (oldest shrine to Our Lady in the US)
 
   - Site of the first Christmas Mass celebrated in what is now the US.
 
@@ -2049,7 +2081,7 @@ South Burlington, Chittenden County, Vermont
 
 - Resurrection Park Cemetery (200 Hinesburg Road)
 
-  - Servant of God Louis de Goesbriand, bishop, d. 11/3/1899
+  - Servant of God Louis de Goësbriand, bishop, d. 11/3/1899
 
 South Canaan, Pennsylvania
 
