@@ -3586,7 +3586,7 @@ Novgorod
 
 Oserlag Gulag, near Tayshet Irkutsk Oblast
 
-Gulag graveyard (???)
+- Gulag graveyard (???)
 
   - Bl. Ivan Ziatyk, priest/martyr
 
@@ -3594,13 +3594,11 @@ Osa
 
 - ???
 
-30 massacred Orthodox priests
+  - 30 massacred Orthodox priests
 
-Ozerlag MVD special camp, near Tayshet, Tayshetsky District, Irkutsk
-Oblast
+Ozerlag MVD special camp, near Tayshet, Tayshetsky District, Irkutsk Oblast
 
-- "Cemetery 373 in the Lake Baikal zone, in the district of Tajshet in the
-  region of Irkyts'k (sic, actually Irkutsk)"
+- “Cemetery 373 in the Lake Baikal zone, in the district of Tajshet in the region of Irkyts'k (sic, actually Irkutsk)”
 
   - Bl. Ivan Ziatyk, CSsR, martyr, 5/17
 
@@ -3608,7 +3606,7 @@ Perm
 
 - ???
 
-25 Catholic priests shot and the bishop buried alive
+  - 25 Catholic priests shot and the bishop buried alive
 
 Pskov, Pskov Oblast
 
@@ -3639,14 +3637,11 @@ Sandomokh, in Karelia, near Medvezhegorsk
   - Camilla Kruczelnicka, lay martyr, d. 10/27/1937 (turned in by her own
     husband)
 
-Sarov/Саро́в, Nizhny Novgorod Oblast (note: Sarov is a closed town, so
-you will néed special permission to visit it or remain overnight)
+Sarov/Саро́в, Nizhny Novgorod Oblast (note: Sarov is a closed town, so you will néed special permission to visit it or remain overnight)
 
-Свято-Троицкий Серафимо-Дивеевский монастырь/Holy Trinity Saint
-Seraphim-Diveyevo Monastery
+- Свято-Троицкий Серафимо-Дивеевский монастырь/Holy Trinity Saint Seraphim-Diveyevo Monastery
 
-  - St. Серафим Саровский/Seraphim of Sarov (née Prokhor Moshnin),
-    priest/visionary, 1/2 or 1/14 (Russian Orthodox saint)
+  - St. Серафим Саровский/Seraphim of Sarov (née Prokhor Moshnin), priest/visionary, 1/2 or 1/14 (Russian Orthodox saint)
 
 Selitrennoye/Селитренное, Kharabalinsky District, Astrakhan Oblast
 
@@ -3654,13 +3649,11 @@ Selitrennoye/Селитренное, Kharabalinsky District, Astrakhan Oblast
 
   - Bl. Stephen of Nagyvárad, OFM, martyr, 4/22
 
-Sergiyev Posad/Сергиев Посад, Sergiyevo-Posadsky District of Moscow
-Oblast
+Sergiyev Posad/Сергиев Посад, Sergiyevo-Posadsky District of Moscow Oblast
 
-- Троице-Сергиева лавра/Trinity Lavra of St. Sergius, Cathedral of the
-  Holy Trinity
+- Троице-Сергиева лавра/Trinity Lavra of St. Sergius, Cathedral of the Holy Trinity
 
-Icon of the Holy Trinity
+  - Icon of the Holy Trinity
 
   - St. Innocent of Alaska, metropolitan, 4/13
 
@@ -3672,9 +3665,7 @@ Siblag correctional labor camp/Сиблаг, West Siberian region
 
 - ???
 
-  - St. Матвей Иванович Гусев/Matthew Ivanovich Gusev, layman/martyr of the
-    communists, 1/5 & 1/18 (Russian Orthodox saint; buried in an unmarked
-    grave)
+  - St. Матвей Иванович Гусев/Matthew Ivanovich Gusev, layman/martyr of the communists, 1/5 & 1/18 (Russian Orthodox saint; buried in an unmarked grave)
 
 Smolensk, Smolensk Oblast
 
@@ -3696,11 +3687,9 @@ Smolensk, Smolensk Oblast
     
   - Святой Григорий Назианзин Богослов St. Gregory Nazianzen the Theologian, bishop/theologian, 3/9 (relic)
 
-- Воскресенский Новодевичий монастырь/Resurrection Novodevichy Convent (in
-  the Orthodox cathedral)
+- Воскресенский Новодевичий монастырь/Resurrection Novodevichy Convent (in the Orthodox cathedral)
 
-Akhtyrskaya Icon of the Mother of God (Ахтырская икона Божией
-Матери),7/2
+Akhtyrskaya Icon of the Mother of God (Ахтырская икона Божией Матери),7/2
 
 - Преображенское кладбище/Cemetery of the Transfiguration
 
@@ -3712,12 +3701,11 @@ Akhtyrskaya Icon of the Mother of God (Ахтырская икона Божие�
 
 - Государственный Эрмитаж/State Hermitage Museum
 
-Silver sarcophagus of St. Alexander Nevski (no relics are in it)
+  - Silver sarcophagus of St. Alexander Nevski (no relics are in it)
 
 - ???
 
-  - Servant of God Constantine Budkiewicz, priest/martyr, executed on Holy
-    Saturday night, d. 3/31/1923
+  - Servant of God Constantine Budkiewicz, priest/martyr, executed on Holy Saturday night, d. 3/31/1923
 
   - Servant of God Pawel Chomicz, martyr
 
@@ -3734,14 +3722,11 @@ Taishet (aka, Tayshet)/Тайшет, Tayshetsky District, Irkutsk Oblast
   - Servant of God Andrew Cikoto/Эндрю Цикото, MIC, priest/martyr, d.
     2/13/1952
 
-Teryaevo/Теряево, Volokolamsk district/Волоколамский район, Moscow
-oblast/Московская область
+Teryaevo/Теряево, Volokolamsk district/Волоколамский район, Moscow oblast/Московская область
 
-- Успенском соборе Иосифо-Волоцкого монастыря/Joseph-Volotsky Monastery,
-  Assumption Cathedral
+- Успенском соборе Иосифо-Волоцкого монастыря/Joseph-Volotsky Monastery, Assumption Cathedral
 
-  - St. Иосиф Волоцкий/Joseph of Volotsk (née Ivan Sanin/Ива́н Са́нин),
-    theologian, 9/9
+  - St. Иосиф Волоцкий/Joseph of Volotsk (née Ivan Sanin/Ива́н Са́нин), theologian, 9/9
 
 Tula, Tula Oblast
 
@@ -3785,8 +3770,7 @@ Vladikavkaz, North Ossetia-Alania
 
 - ???
 
-  - Fr. Antony Czerwinski, martyr (this is where he was arrested, not
-    necessarily where he died or was buried)
+  - Fr. Antony Czerwinski, martyr (this is where he was arrested, not necessarily where he died or was buried)
 
 Vladimir, Vladimir Oblast
 
@@ -3794,7 +3778,7 @@ Vladimir, Vladimir Oblast
 
   - St. Abraham of Bulgaria, Muslim convert/martyr, 4/1
 
-Vladimir Central Prison (Владимирский централ)
+- Vladimir Central Prison (Владимирский централ)
 
   - Bl. Klymentiy Sheptytsky, MSU, archimandrite/martyr, 5/1 (grave lost)
 
@@ -3810,15 +3794,13 @@ Yekaterinburg/Ekaterinburg, Sverdlovsk Oblast, Ural Federal District
 
   - St. Eugene, missionary bishop, 3/4
 
-Serbia**
-
+# Serbia
 
 Belgrade
 
-Храм Светог Саве/Temple of St. Sava
+- Храм Светог Саве/Temple of St. Sava
 
-  - St. Свети Сава/Sava the Enlightener (nee Rastko Nemanjic),
-    prince/monk/founder of Serbian Orthodoxy, 1/14 & 1/27
+  - St. Свети Сава/Sava the Enlightener (nee Rastko Nemanjic), prince/monk/founder of Serbian Orthodoxy, 1/14 & 1/27
 
 - ???
 
@@ -3826,8 +3808,7 @@ Belgrade
 
   - St. Stratonicus of Belgrade, martyr, 1/13
 
-Krušedol Prnjavor village/Крушедол Прњавор, Irig municipality, Srem
-District, Province of Vojvodina
+Krušedol Prnjavor village/Крушедол Прњавор, Irig municipality, Srem District, Province of Vojvodina
 
 - Манастир Крушедол/Krušedol Monastery
 
@@ -3838,12 +3819,17 @@ District, Province of Vojvodina
 
   - Ss. Ivan and Djurda, prince and princess (Serbian Orthodox saints)
 
+Lelić, Valjevo, Kolubara District
+
+- Манастир Лелић/Manastir Lelić/Lelić Monastery
+
+  - St. Nikolaj Velimirović, bishop, 5/3 (Serbian Orthodox saint)
+
 Sol-Iletsk, Orenburg Oblast
 
-Petropavlovsk prison
+- Petropavlovsk prison
 
-  - Servant of God Stanislovas Pijų Rimkus/Rimkų, priest/martyr, d.
-    5/20/1942
+  - Servant of God Stanislovas Pijų Rimkus/Rimkų, priest/martyr, d. 5/20/1942
 
 Sremska Mitrovica (formerly Sirmium)
 
@@ -3853,21 +3839,17 @@ Sremska Mitrovica (formerly Sirmium)
 
 Ukhta/Ухта́, Komi Republic
 
-Трудовой лагерь/Labor camp
+- Трудовой лагерь/Labor camp
 
-  - Servant of God Станислав Шульминский/Stanisław Szulmiński, SAC,
-    priest/martyr, d. 11/27/1941
+  - Servant of God Станислав Шульминский/Stanisław Szulmiński, SAC, priest/martyr, d. 11/27/1941
 
-Valaam Island, Lake Ladoga, Leningrad Oblast, Republic of Karelia,
-northwestern Russia
+Valaam Island, Lake Ladoga, Leningrad Oblast, Republic of Karelia, northwestern Russia
 
 - Valaam Monastery (Валаамский монастырь)
 
-- St. Herman of Valaam, abbey founder, 6/28 (relics may have been moved to
-  Novgorod)
+  - St. Herman of Valaam, abbey founder, 6/28 (relics may have been moved to Novgorod)
 
-- St. Sergius of Valaam, abbey founder, 6/28 (relics may have been moved
-  to Novgorod)
+  - St. Sergius of Valaam, abbey founder, 6/28 (relics may have been moved to Novgorod)
 
 Village of Varadin, Medveđa municipality
 
@@ -5115,9 +5097,9 @@ Lviv/Lwow
 
   - Блаженний Андрій Іщак/Bl. Andrii Ischak (Андрій Іщак), priest/martyr, 6/26
 
-- Тюрма (проспект Лонського або вул. Лонцького)/Prison (Lonsky Avenue or Lontskyi Street)
+- Національний музей-меморіал жертв окупаційних режимів/Тюрма на Лонцького/Lontskoho Prison (вулиця Степана Бандери, 1, at the corner of Stepan Bandera and Kopernika Streets)
 
-  - Bl. Роман Лиско/Roman Lysko, priest/martyr, 10/14 and 4/2 (entombed alive in a wall by the communists)
+  - Bl. Лиско Роман Володимирович/Roman Lysko, priest/martyr, 4/2 and 10/14 (he is buried within one of the walls)
 
 - ???
 
