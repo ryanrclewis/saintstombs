@@ -806,7 +806,7 @@ Passendale, West Flanders, Belgium
 
 - Tyne Cot Memorial (where he is commemorated)
 
-  - Servant of God Willie Doyle, SJ, MC, army chaplain, d. 8/17/1917 (body never recovered; his beatification cause is likely dead)
+  - Servant of God Willie Doyle, SJ, MC, army chaplain, d. 8/17/1917 (body never recovered)
 
 Ronse, Oudenaarde, Province of East Flanders, Flanders region
 
