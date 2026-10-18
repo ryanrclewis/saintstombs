@@ -3821,7 +3821,7 @@ Krušedol Prnjavor village/Крушедол Прњавор, Irig municipality, S
 
 Lelić, Valjevo, Kolubara District
 
-- Манастир Лелић/Manastir Lelić/Lelić Monastery
+- Манастир Лелић/Manastir Lelić/Lelić Monastery (Lelić bb)
 
   - St. Nikolaj Velimirović, bishop, 5/3 (Serbian Orthodox saint)
 
