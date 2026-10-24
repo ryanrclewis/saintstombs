@@ -569,7 +569,12 @@ Doral, Miami-Dade County, Florida
 Doylestown, Bucks County, Pennsylvania
 
 - National Shrine of Our Lady of Czestochowa
+
   - Relics exhibition in the lower church
+
+- Our Lady of Czestochowa Cemetery
+
+  - Servant of God Maria Middleton, young laywoman, d. 10/8/2020
 
 Dubuque, Iowa
 
