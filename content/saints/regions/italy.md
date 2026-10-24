@@ -2455,6 +2455,10 @@ Capua, Province of Caserta, Campania region
 
   - Maria Santissima Vergine Assunta in Cielo/Our Lady Assumed into Heaven (statue/simulacro)
 
+- Istituto Santa Caterina (Casa Madre di Congregazione Suore Francescane dei Sacri Cuori)(Piazza S. Francesco, 4)
+
+  - Ven. Simpliciano della Natività (née Aniello) Maresca, OFM, priest/founder, d. 5/25/1898
+
 - ???
 
   - St. Lupulo of Capua, martyr, 10/14
@@ -2596,6 +2600,12 @@ Cascia, Roccaporena *frazione*, Province of Perugia, Umbria region
 - ???
 
   - Servant of God Settimio Peroni, archbishop, d. 10/12/1958
+
+Casamicciola, Metropolitan City of Naples, Campania region.
+
+- Basilica del Sacro Cuore di Gesù e di Santa Maria Maddalena Penitente/Basilica of the Sacred Heart of Jesus and of St. Mary Magdalene Penitent
+
+  - Ven. Giuseppe Morgera, priest/writer, d. 4/17/1898
 
 Cascina, Province of Pisa, Toscana region
 
@@ -5484,6 +5494,8 @@ Lecce, Province of Lecce, Puglia region
 
   - St. Oronzo/Orontius of Lecce, 1^st^ bishop, 8/26
 
+  - Servant of God Salvatore Luigi Zola, bishop, d. 4/27/1898 (cause suspended in 1985)
+
 - Porta Napoli
 
   - St. Giusto
@@ -7416,8 +7428,7 @@ Naples (Napoli)
 
   - St. Nostriano/Nostrianus of Naples, bishop, 2/14
 
-- Basilica di San Francesco di Paola (in Piazza del Plebiscito, former
-  site of the Convento San Luigi)
+- Basilica di San Francesco di Paola (in Piazza del Plebiscito, former site of the Convento San Luigi)
 
   - Bl. Bernardino Otranto, abbot, 10/25
 
@@ -7468,14 +7479,17 @@ Naples (Napoli)
 
   - Ven. Michelangelo di San Francesco da Frattamaggiore
 
-- Convento San Luigi
+- Convento San Luigi (Via Francesco Petrarca, 115, in the Posillipo neighborhood)
 
   - Bl. Bernardino Otranto, Minim religious, 10/25
 
+- Santa Maria Avvocata (Via Avvocata, 13, at the end of Via Avvocata in Piazza Dante)
+
+  - Servant of God Vincenzo Maria Sarnelli, archbishop, d. 1/7/1898
+
 - Chiesa di Santa Maria di Caravaggio/Church of Santa Maria di Caravaggio
 
-  - St. Francesco Saverio Maria Bianchi/Francis Xavier Bianchi, CRSP,
-    apostle of Naples, 1/31
+  - St. Francesco Saverio Maria Bianchi/Francis Xavier Bianchi, CRSP, “the apostle of Naples,” 1/31
 
 - Chiesa di Santa Maria in Cosmedin (or Portanova)
 
