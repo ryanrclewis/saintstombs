@@ -1053,10 +1053,9 @@ Barcelona
 
 - Casa mare de les Carmelites Tereses de S. Josep
 
-  - Ven. Teresa del Cuore Immacolato di Maria Guasch y Toda, religious, d.
-    12/15/1912
+  - Ven. Teresa del Cuore Immacolato di Maria Guasch y Toda, religious, d. 12/15/1912
 
-  - Ven. Teresa Toda i Juncosa, foundress, d. 7/30/1898
+  - Ven. Teresa de San José (née Teresa) Toda i Juncosa, foundress, d. 7/30/1898
 
 - Capella de les Serventes de la Passió (C Llobet i Vall llosera, 12) (el Guinardó neighborhood)
 
@@ -2179,10 +2178,6 @@ Chulilla, Los Serranos comarca, Valencia
 
 Ciempozuelos, La Sagra, Province of Madrid, Madrid autonomous community
 
-- Casa Madre de la Congregación de Hermanas Hospitalarias del Sagrado Corazón de Jesús/Mother House, Congregation of Hospitaller Sisters of the Sacred Heart of Jesus
-
-  - St. Benedetto (née Angelo Ercole) Menni Figini, OH, priest/founder, 4/24
-
 - Iglesia del Centro San Juan de Dios
 
   - Bl. Juan de la Cruz (née Eloy Francisco Felipe Delgado Pastor), OH, religious/martyr, 7/25
@@ -2199,6 +2194,14 @@ Ciempozuelos, La Sagra, Province of Madrid, Madrid autonomous community
   - Bl. Jerónimo Ochoa Urdangarín, OH, religious/martyr, 7/25
 
   - Bl. Primo Martínez de San Vicente Castillo
+
+- Casa Madre de la Congregación de Hermanas Hospitalarias del Sagrado Corazón de Jesús/Mother House, Congregation of Hospitaller Sisters of the Sacred Heart of Jesus
+
+  - St. Benedetto (née Angelo Ercole) Menni Figini, OH, priest/founder, 4/24
+
+- Casa de Espiritualidad Oblatas en Ciempozuelos/Spirituality House of the Oblate Sisters of the Most Holy Redeemer (Avenida Venerable Madre Antonia, 20)
+
+  - Ven. Antonia María de Merced (née Antonia) de Oviedo Schöntal, OSR, cofoundress, d. 2/28/1898
 
 - Cementerio de los Hermanos de San Juan de Dios/Cemetery of the Brothers of Saint John of God
 
@@ -8948,77 +8951,54 @@ Casa Noviciado de las Carmelitas de la Caridad de Vinalesa
   - Bl. Àgueda de la Mare de Déu de les Virtuts/Águeda de Nuestra Señora de
     las Virtudes (née Agueda) Hernández Amorós, CCV, religious/martyr, 8/19
 
-  - Bl. Antonia de San Timoteo (née Antonia Gosens Sáez De Ibarra), CCV,
-    religious/martyr, 11/24
+  - Bl. Antonia de San Timoteo (née Antonia) Gosens Sáez De Ibarra, CCV, religious/martyr, 11/24
 
-  - Bl. Cándida de Nuestra Señora de los Ángeles (née Cándida) Cayuso
-    González, CCV, religious/martyr, 11/24
+  - Bl. Cándida de Nuestra Señora de los Ángeles (née Cándida) Cayuso González, CCV, religious/martyr, 11/24
 
-  - Bl. Clara de Nuestra Señora de la Esperanza (née Clara) Ezcurra Urrutia,
-    CCV, religious/martyr, 11/24
+  - Bl. Clara de Nuestra Señora de la Esperanza (née Clara) Ezcurra Urrutia, CCV, religious/martyr, 11/24
 
-  - Bl. Concepción de Santa Magdalena (née Concepción) Rodríguez Fernández,
-    CCV, religious/martyr, 11/24
+  - Bl. Concepción de Santa Magdalena (née Concepción) Rodríguez Fernández, CCV, religious/martyr, 11/24
 
-  - Bl. Daría de Santa Sofía (née Daría) Campillo Paniagua, CCV,
-    religious/martyr, 11/24
+  - Bl. Daría de Santa Sofía (née Daría) Campillo Paniagua, CCV, religious/martyr, 11/24
 
-  - Bl. Elvira de la Natividad de Nuestra Señora (née Elvira) Torrentallé
-    Paraire, CCV, religious/martyr, 8/19
+  - Bl. Elvira de la Natividad de Nuestra Señora (née Elvira) Torrentallé Paraire, CCV, religious/martyr, 8/19
 
-  - Bl. Erundina de Nuestra Señora del Carmen (née Erundina) Colino Vega,
-    CCV, religious/martyr, 11/24
+  - Bl. Erundina de Nuestra Señora del Carmen (née Erundina) Colino Vega, CCV, religious/martyr, 11/24
 
-  - Bl. Feliciana de Nuestra Señora del Monte Carmelo (née Feliciana) de
-    Uribe Orbe, CCV, religious/martyr, 11/24
+  - Bl. Feliciana de Nuestra Señora del Monte Carmelo (née Feliciana) de Uribe Orbe, CCV, religious/martyr, 11/24
 
-  - Bl. Francisca de Santa Teresa (née Francisca) de Amezúa Ibaibarriaga,
-    CCV, religious/martyr, 8/19
+  - Bl. Francisca de Santa Teresa (née Francisca) de Amezúa Ibaibarriaga, CCV, religious/martyr, 8/19
 
-  - Bl. Justa de la Inmaculada (née Justa) Maiza Goicoechea, CCV,
-    religious/martyr, 11/24
+  - Bl. Justa de la Inmaculada (née Justa) Maiza Goicoechea, CCV, religious/martyr, 11/24
 
-  - Bl. María Concepción de San Ignacio (née María Concepción) Odriozola
-    Zabalía, CCV, religious/martyr, 11/24
+  - Bl. María Concepción de San Ignacio (née María Concepción) Odriozola Zabalía, CCV, religious/martyr, 11/24
 
-  - Bl. María Consuelo del Santísimo Sacramento (née María Consuelo) Cuñado
-    González, CCV, religious/martyr, 11/24
+  - Bl. María Consuelo del Santísimo Sacramento (née María Consuelo) Cuñado González, CCV, religious/martyr, 11/24
 
-  - Bl. María de las Nieves de la Santísima Trinidad (née María de las
-    Nieves) Crespo López, CCV, religious/martyr, 8/19
+  - Bl. María de las Nieves de la Santísima Trinidad (née María de las Nieves) Crespo López, CCV, religious/martyr, 8/19
 
-  - Bl. María de Nuestra Señora de la Providencia (née María) Calaf Miracle,
-    CCV, religious/martyr, 8/19
+  - Bl. María de Nuestra Señora de la Providencia (née María) Calaf Miracle, CCV, religious/martyr, 8/19
 
-  - Bl. María Desamparados del Santísimo Sacramento (née María Desamparados)
-    Giner Sixta, CCV, religious/martyr, 8/19
+  - Bl. María Desamparados del Santísimo Sacramento (née María Desamparados) Giner Sixta, CCV, religious/martyr, 8/19
 
-  - Bl. María Dolores de San Francisco Javier (née María Dolores) Vidal
-    Cervera, CCV, religious/martyr, 8/19
+  - Bl. María Dolores de San Francisco Javier (née María Dolores) Vidal Cervera, CCV, religious/martyr, 8/19
 
-  - Bl. Niceta de San Prudencio (née Niceta) Plaja Xifra, CCV,
-    religious/martyr, 11/24
+  - Bl. Niceta de San Prudencio (née Niceta) Plaja Xifra, CCV, religious/martyr, 11/24
 
-  - Bl. Paula de Santa Anastasia (née Paula) Isla Alonso, CCV,
-    religious/martyr, 11/24
+  - Bl. Paula de Santa Anastasia (née Paula) Isla Alonso, CCV, religious/martyr, 11/24
 
-  - Bl. Rosa de Nuestra Señora del Buen Consejo (née Rosa) Pedret Rull, CCV,
-    religious/martyr, 8/19
+  - Bl. Rosa de Nuestra Señora del Buen Consejo (née Rosa) Pedret Rull, CCV, religious/martyr, 8/19
 
-  - Bl. Teresa de la Divina Pastora (née Teresa) Chambó y Palet, CCV,
-    religious/martyr, 8/19
+  - Bl. Teresa de la Divina Pastora (née Teresa) Chambó y Palet, CCV, religious/martyr, 8/19
 
-Vinaròs, Baix Maestrat region, Province of Castellón, Valencian
-autonomous community
+Vinaròs, Baix Maestrat region, Province of Castellón, Valencian autonomous community
 
-Cementerio Municipal de Vinaròs
+- Cementerio Municipal de Vinaròs
 
-  - Bl. Alejandro Juan (née Fermín) Gellida Cornelles, SDB,
-    religious/martyr, 8/18 (this is AI's best guess; take it with a grain of
+  - Bl. Alejandro Juan (née Fermín) Gellida Cornelles, SDB, religious/martyr, 8/18 (this is AI's best guess; take it with a grain of
     salt)
 
-Vinyols i els Arcs, Baix Camp comarca, Province of Tarragona, Catalonia
-autonomous community
+Vinyols i els Arcs, Baix Camp comarca, Province of Tarragona, Catalonia autonomous community
 
 - Cementerio de Viñols y Archs/cemetery
 
