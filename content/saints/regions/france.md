@@ -959,8 +959,11 @@ Cannes
 Carcassonne, Carcassonne Agglo intercommunality, Carcassone canton, Carcassone arrondissement, Aude department, Occitanie region
 
 - Sainte-Marie de Grâce (church of the former Notre-Dame monastery)
+
   - St. Albin of Embrun, bishop, 3/1
+
 - ???
+
   - St. Guimérra of Carcassone, bishop, 2/13
 
 Casteil/Castell de Vernet, Le Canigou canton, Prades arrondissement, Pyrénées-Orientales department,  Occitanie region
@@ -972,6 +975,7 @@ Casteil/Castell de Vernet, Le Canigou canton, Prades arrondissement, Pyrénées-
 Carpentras, Vaucluse department, Provence-Alpes-Côte d'Azur region
 
 - Cathédrale Saint-Siffrein de Carpentras/Carpentras Cathedral
+
   - St. Siffrein/Siffredus of Carpentras, bishop 11/27
 
 Castelnau-d'Estrétefonds, Toulouse arrondissement, Haute-Garonne department, Occitanie region
@@ -982,13 +986,25 @@ Castelnau-d'Estrétefonds, Toulouse arrondissement, Haute-Garonne department, Oc
 Castres, Tarn department, Occitanie region
 
 - Cathédrale Saint-Benoît de Castres/Cathedral of St. Benedict
+
   - St. Vincent of Zaragoza, deacon/martyr, 1/22 & 11/11
+
 - Cimetière du Couvent Bleu (11 avenue Émilie-de-Villeneuve)
+
   - St. Jeanne-Émilie de Villeneuve, foundress, 10/2
+
+Cateri, Haute-Corse department, Corsica
+
+- Couvent de Marcassu/Marcusso Convent (42° 34′ 12″ N, 8° 53′ 11″ E)
+
+  - Ven. Bernardino da Calenzana (nee Bernardino Alberti), OFM, priest/miracle worker, d. 9/29/1653
+
+  - Servant of God Pedro López de Moncaleán/Pierre Lopez, OFM, priest, d. 1/20/1897 or 3/25/1898 (sources differ)
 
 Caudry, Nord department
 
 - Basilique Sainte-Maxellende de Caudry
+
   - St. Maxellendis (aka, Maxellende), martyr, 11/13
 
 Cavaillon, Vaucluse department, Provence-Alpes-Côte d'Azur region
@@ -3131,6 +3147,8 @@ Paris
 - Église Saint-Jacques-du-Haut-Pas/St. James the Minor (at the corner of Rue Saint-Jacques and Rue de l'Abbé de l'Épée)
   - Bl. Dionysius Rabinis, O. de M., scholar, 8/8 (a tenuous connection to this former Mercedarian church)
   - St. Magloire de Dol, archbishop, 10/24 (relics only; since the Revolution, his remains are kept in a secure location)
+- Église Saint-Joseph Artisan/St. Joseph the Worker (214 Rue La Fayette; Stalingrad Station off the Metro)
+  - Ven. Alpert (née Chrétien) Motsch, FSC, religious, d. 4/6/1898 (on the right side of the nave)
 - Église Saint-Joseph des Carmes
   - Bl. André Grasset de Saint-Sauveur, priest/martyr, 9/2
   - Bl. Jacques-Jules Bonnaud, SJ, priest/martyr, 9/2
@@ -3227,7 +3245,7 @@ Paris
 - Institut Catholique, Église Saint-Joseph des Carmes
   - Bl. Antoine-Frédéric Ozanam, layman, 9/8 (in the crypt)
 - Maison-mère de la chapelle des religieuses de l'Assomption, 17 de la rue de l'Assomption (16e arrondissement de Paris)
-  - St. Marie-Eugénie de Jésus (Anne-Eugénie Milleret de Brou), foundress, 3/10
+  - St. Marie-Eugénie de Jésus (nee Anne-Eugénie) Milleret de Brou, foundress, 3/10
 - Prison de La Force/La Force prison (demolished in 1845)
   - Bl. Jean-Baptiste Bottex, priest/martyr, 9/3 (common grave)
   - Bl. François-Hyacinthe lé Livec de Trésurin, SJ, priest/martyr, 9/2 (common grave)
