@@ -1338,7 +1338,7 @@ Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
 Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
 Ss. Josaphat and Baarlam, martyrs, 11/27
 Servants of God Kantheswar Digal and 34 companions, martyrs of Kandhamal, d. 8/2008
-Servant of God Teresa of Saint Rose of Lima D’Lima (née Mary Grace), CSST, foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of Bangalore/Bengaluru, Karnataka state, where the generalate of the order she founded is located)
+Servant of God Teresa of Saint Rose of Lima D’Lima (née Mary Grace), CSST, foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of Bangalore/Bengaluru, Karnataka state, where the generalate of the order she founded is located)(her order does not want to disclose the location of her grave while her cause is in process)
 
 # Indonesia
 
