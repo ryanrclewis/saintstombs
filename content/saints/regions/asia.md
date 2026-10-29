@@ -1255,6 +1255,8 @@ Somme Village, Khibito (India-China border)/Sommeu, Dzayul province
 
 Tura, West Garo Hills, Meghalaya state
 
+- Bosco Mount Aspirantate, Oreste Marengo Memorial Chapel in Rongkhon (Plus Code: G6VH+2F3) (not necessarily where he is buried)
+
 - ???
 
   - Servant of God Bishop Oreste Marengo, SDB, bishop, d. 7/30/1998
@@ -1588,13 +1590,17 @@ Beit Sahour (بيت ساحور), Bethlehem Governorate, Palestinian Authority
 
 - Greek Orthodox Monastery of the Shepherds/Kenisat er-Ruwat
 
-Beit Shemesh/בית שמש, Jerusalem District
+Beit Shemesh/בית שמש, Judean Foothills, Jerusalem District
 
 בית ג\'מאל/بيت جمال
 /الحك/Beit Jimal Salesian Monastery
 
   - Ven. سمعان سروجي/Sim\'ān "Simon" Srūjī, SDB,
     religious, d. 11/27/1943
+
+- Deir Rafat/Sanctuary of Our Lady, Queen of Palestine and of the Holy Land/דיר ראפאת/دير رفات
+
+  - Our Lady, Queen of Palestine and of the Holy Land, 10/25
 
 Bethlehem, West Bank
 
