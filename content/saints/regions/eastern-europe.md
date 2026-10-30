@@ -251,40 +251,39 @@ Słonim/Слонім, Slonim District, Grodno Region
 
 - ???
 
-  - Bl. Adamem Sztarkiem, SJ, priest/martyr/Righteous Among the Nations,
-    12/19 (buried in a common grave)
+  - Bl. Adamem Sztarkiem, SJ, priest/martyr/Righteous Among the Nations, 12/19 (buried in a common grave)
 
-  - Bl. Marią Ewą od Opatrzności (née Bogumiłą) Noiszewską, CSIC,
-    religious/martyr, 6/12 & 12/19 (buried in a common grave)
+  - Bl. Marią Ewą od Opatrzności (née Bogumiłą) Noiszewską, CSIC, religious/martyr, 6/12 & 12/19 (buried in a common grave)
 
-  - Bl. Marią Marta (née Kazimiera) Wołowska, CSIC, prioress/martyr, 6/12 &
-    12/19 (buried in a common grave)
+  - Bl. Marią Marta (née Kazimiera) Wołowska, CSIC, prioress/martyr, 6/12 & 12/19 (buried in a common grave)
 
 # Bosnia-Herzegovina
 
-Goražde/Горажде, Berane Municipality, Bosnian-Podrinje Canton, Podrinje
-region
+Goražde/Горажде, Berane Municipality, Bosnian-Podrinje Canton, Podrinje region
 
 - ???
 
-  - Bl. Jula (nee Kata) Ivanišević, DC, religious/martyr, 12/15 (thrown into
-    the Drina River)
+  - Bl. Jula (nee Kata) Ivanišević, DC, religious/martyr, 12/15 (thrown into the Drina River)
 
-  - Bl. M. Berchmana (nee Anna Karoline) Leidenix, DC, religious/martyr,
-    12/15
+  - Bl. M. Berchmana (nee Anna Karoline) Leidenix, DC, religious/martyr, 12/15
 
-  - Bl. M. Krizina (nee Jožefa) Bojanc, DC, religious/martyr, 12/15 (thrown
-    into the Drina River)
+  - Bl. M. Krizina (nee Jožefa) Bojanc, DC, religious/martyr, 12/15 (thrown into the Drina River)
 
-  - Bl. Antonija (nee Jožefa) Fabjan, DC, religious/martyr, 12/15 (thrown
-    into the Drina River)
+  - Bl. Antonija (nee Jožefa) Fabjan, DC, religious/martyr, 12/15 (thrown into the Drina River)
 
-  - Bl. Bernadetta (Terezija) Banja, DC, religious/martyr, 12/15 (thrown
-    into the Drina River)
+  - Bl. Bernadetta (Terezija) Banja, DC, religious/martyr, 12/15 (thrown into the Drina River)
 
 Sarajevo
+
 - Katedrala Srca Isusova/Катедрала Срца Исусова/Sacred Heart Cathedral (Trg Fra Grge Martića 2)
+
   - Servant of God Josip Stadler, bishop/founder, d. 12/8/1918
+
+Travnik, Central Bosnia Canton, Federation of Bosnia and Herzegovina
+
+- Sjemenišna crkva sv. Alojzija Gonzage/Seminary church of St. Aloysius Gonzaga (Školska 1)
+
+  - Ven. Petar Barbarić, SJ, novice, d. 4/15/1897
 
 # Bulgaria
 
@@ -1473,6 +1472,12 @@ Kalocsa, Kalocsa district, Bács-Kiskun County
 - Nagyboldogasszony Főszékesegyház/Assumption Cathedral
 
   - St. Astricus/Astrik of Esztergom, archbishop, 11/12
+
+Kaposvár, Kaposvári Járás, Somogy County, Dél-Dunántúl region
+
+- Szent II. János Pál-körkápolna/Pope St. John Paul II Round Chapel (Fő u. 1/Széchenyi tér 1/Széchenyi Square 1)
+
+  - Servant of God Pál Martincsevits/Martincsevits Pál, priest/martyr, d. 4/1/1945 (in the crypt)
 
 Litér, Veszprem County, Central Transdanubia
 
