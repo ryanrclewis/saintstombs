@@ -492,26 +492,21 @@ Aosta, Aosta Valley region
 
 Aquara, Province of Salerno, Campania region
 
-- Santuario diocesano di San Nicola di Bari/Diocesan Sanctuary of St.
-  Nicholas
+- Santuario diocesano di San Nicola di Bari/Diocesan Sanctuary of St. Nicholas
 
-  - St. Lucidio, religious, 12/5 (maybe in the Capella Santa Maria del
-    Piano)
+  - St. Lucidio, religious, 12/5 (maybe in the Capella Santa Maria del Piano)
 
-Aquileia, Udine district, Province of Friuli, Friuli-Venezia Giulia
-region
+Aquileia, Udine district, Province of Friuli, Friuli-Venezia Giulia region
 
 - Basilica of St. Euphemia (may no longer be extant)
 
-  - Ss. Hermagoras (Ermagora) and Fortunatus (Fortunato), bishop and
-    deacon/martyrs, 7/12
+  - Ss. Hermagoras (Ermagora) and Fortunatus (Fortunato), bishop and deacon/martyrs, 7/12
 
 - ???
 
   - St. Chromatius of Aquileia, bishop, 12/2
 
-  - Ss. Denis (aka, Hilary, Dionysius), bishop/martyr, and Tanzianus, 3/16
-    (probably at Gorizia)
+  - Ss. Denis (aka, Hilary, Dionysius), bishop/martyr, and Tanzianus, 3/16 (probably at Gorizia)
 
   - St. Felix, layman, martyr, 3/16
 
@@ -2493,13 +2488,13 @@ Cariati, Province of Cosenza, Calabria region
 
 - Co-Cattedrale di San Michele Arcangelo
 
-  - Servant of God Alessandro Vitetti, priest/educator, d. 2/24/1995
+  - Ven. Alessandro Vitetti, priest/educator, d. 2/24/1995
 
 Carini, Metropolitan City of Palermo, Sicily
 
 - Chiesa Madre/Duomo di Santa Maria Assunta/Duomo di Carini/Mother Church/Cathedral
 
-  - Servant of God Tommaso Mannino, priest, d. April 1, 1938
+  - Servant of God Tommaso Mannino, priest, d. 4/1/1938
 
 Carinola, Province of Caserta, Campania region
 
@@ -3001,16 +2996,21 @@ Certaldo, Province of Firenze, Toscana region
 
 - Ss. Philip and James Church
 
-  - Bl. Giulia della Rena of Certaldo, virgin/hermitess/religious, 1/9 &
-    2/15
+  - Bl. Giulia della Rena of Certaldo, virgin/hermitess/religious, 1/9 & 2/15
 
-Giovanni Boccacio, famous writer (not a saint)
+  - Giovanni Boccacio, famous writer (not a saint)
 
 Cervere, Province of Cuneo, Piemonte region
 
 - Parish church (either Maria Vergine Assunta or S. Michele Arcangelo)
 
   - Bl. Bartolomeo Cerveri, OP, priest/martyr, 4/21
+
+Cesano Boscone, Metropolitan city of Milan
+
+- Istituto Sacra Famiglia (Piazza Monsignor Luigi Moneta, 1)
+
+  - Ven. Domenico Pogliani, priest, d. 6/12/1921 (Chiesa dell’Istituto, beside the main altar)
 
 Cesena, Province of Forlì-Cesena, Emilia-Romagna region
 
@@ -6228,35 +6228,30 @@ Mesero, Metropolitan City of Milan, Lombardia region
 
 Messina, Province of Messina, Sicily
 
-- Duomo di Messina; Basilica Cathedrale metropolitana di Santa Maria
-  Assunta
+- Duomo di Messina; Basilica Cathedrale metropolitana di Santa Maria Assunta
 
-  - Relic of Our Lady's hair
+  - Relic of Our Lady’s hair
 
-Our Lady of the Letter
+  - Our Lady of the Letter
 
   - Servant of God Francesco Fasola, archbishop, d. 7/1/1988
 
 - Treasury of the Cathedral
 
-  - St. Marciano di Siracuse/Marcian of Syracuse, bishop, 10/30
-    (reliquary bust)
+  - St. Marciano di Siracuse/Marcian of Syracuse, bishop, 10/30 (reliquary bust)
 
 - Protometropolitan Cathedral Basilica of Santa Maria Assunta
 
-  - Ss. Alfio, Filadelfo, and Cirino, martyred brothers, 5/10 (skull
-    caps only)
+  - Ss. Alfio, Filadelfo, and Cirino, martyred brothers, 5/10 (skull caps only)
 
-- Tempio della Rogazione Evangelica (aka, Basilica Santuario di
-  Sant'Antonio di Padova, located at the intersection of via Cesare
+- Tempio della Rogazione Evangelica (aka, Basilica Santuario di Sant'Antonio di Padova, located at the intersection of via Cesare
   Battisti and via Santa Cecilia)
 
   - St. Annibale Maria Di Francia, founder, 6/1
 
   - Ven. Giuseppe Marrazzo, priest, d. 11/30/1992
 
-- Church of San Giovanni di Malta and the martyrs Placido and
-  companions/Chiesa di San Giovanni di Malta (on the eponymous street)
+- Church of San Giovanni di Malta and the martyrs Placido and companions/Chiesa di San Giovanni di Malta (on the eponymous street)
 
   - St. Placido, OSB, patron of novice monks, 10/5
 
@@ -6266,13 +6261,11 @@ Our Lady of the Letter
 
   - The crucifix that spoke to St. Annibale Maria Di Francia
 
-- Tempio di Gesù Sacramentato/Chiesa di Gesù Sacramentato/Church of
-  Jesus in the Blessed Sacrament
+- Tempio di Gesù Sacramentato/Chiesa di Gesù Sacramentato/Church of Jesus in the Blessed Sacrament
 
   - Ven. Antonino Celona, priest/founder, d. 10/15/1952
 
-  - Servant of God Maria Alfonsa of the Child Jesus (Elena Bruno),
-    religious, d. 8/23/1994
+  - Servant of God Maria Alfonsa of the Child Jesus (Elena Bruno), religious, d. 8/23/1994
 
   - Stele della Madonna della Lettera sul Forte del Santissimo Salvatore/Stele of the Madonna of the Letter on the Fort of the Most Holy Savior
 
@@ -6296,11 +6289,9 @@ Our Lady of the Letter
 
   - Ven. Maria Francesca (née Carmela) Giannetto, FMI, religious, d. 2/16/1930
 
-Mevania
+- Istituto “Leone XIII”/Casa Generalizia degli Apostoli della Sacra Famiglia (Via Elenuccia, 15)
 
-- ???
-
-  - Bl. James Bianconi of Mevania, 8/23
+  - Servant of God Giuseppe Guarino, Cardinal, d. 9/27/1897
 
 Mezzojuso, Metropolitan City of Palermo, Sicily
 
@@ -6884,9 +6875,9 @@ Monte Argentario, Province of Grosseto, Toscana region
 
 - Convento e Chiesa della Presentazione al Tempio (Str. Prov. Del Convento, 77)
 
-  - Ven. Galileo Nicolini, Passionist novice, d. 5/13/1897
+  - Ven. Gabriele dell’Addolorata (née Galileo) Nicolini, CP, novice, d. 5/13/1897
   
-  - Ven. Nazareno di Maria Immacolata Santolini, CP, priest, d. 1/4/1930
+  - Ven. Nazareno di Maria Immacolata (née Nazareno) Santolini, CP, priest, d. 1/4/1930
 
 Monte Caramanico
 
@@ -7215,6 +7206,12 @@ Monza, Province of Monza e Brianza, Lombardia Region
 - ???
 
   - St. Fruttuoso, martyr
+
+Monzambano, Castellaro Lagusello frazione, Province of Mantova, Lombardia region
+
+- Chiesa di San Nicola di Bari/Church of St. Nicholas
+
+  - Sacri Vasi/Vials of earthy from Golgotha mixed with the Sacred Blood of Christ
 
 Morano Calabro, Province of Cosenza, Calabria
 
@@ -8443,8 +8440,7 @@ Palestrina
 
   - St. Agapito/Agapitus, martyr, 8/18
 
-  - St. Guarinus of Palestrina/Guarino Foscari, cardinal bishop, 2/6 (relics
-    lost)
+  - St. Guarinus of Palestrina/Guarino Foscari, cardinal bishop, 2/6 (relics lost)
 
   - St. Secundus of Palestrina, bishop, 8/1 (most likely)
 
@@ -10319,6 +10315,10 @@ Sacrament
 
   - Bl. María Inés Teresa del Santísimo Sacramento Arias, foundress, 7/22
 
+- Casa Generalizia della Congregazione dei Figli dell’Immacolata Concezione/General House of the Congregation of the Sons of the Immaculate Conception (Vicolo del Conte, 2)
+
+  - Servant of God Ivan Bonifacije Pavletić, CFIC, religious, d. 11/4/1897
+
 - Casa Generalizia della Società del Divin Salvatore (Via della Conciliazione 51, just adjacent to St. Peter Square)
 
   - Bl. Franziskus Maria vom Kreuze (née Johann Baptist) Jordan, SDS, founder, 9/8
@@ -12117,16 +12117,13 @@ San Giovanni Rotondo/Our Lady of Grace Friary
 
 - Cimitero Comunale di San Giovanni Rotondo/Municipal Cemetery of San Giovanni Rotondo (Via Croce)
 
-  - Servant of Good Daniele da San Giovanni Rotondo (Michele Natale), OFM
-    Cap., religious, d. 7/6/1994 (in his family's chapel)
-
   - Servant of God Licia (née Gualandris) Manelli, TOSF, laywoman, d. 1/18/2004
 
   - Servant of God Settimio Manelli, layman, d. 4/26/1978
 
 - Santuario di Santa Maria delle Grazi/Sanctuary of Our Lady of Grace
   
-  - Servant of Good Daniele da San Giovanni Rotondo (née Michele Natale), OFM Cap., religious, d. 7/6/1994 
+  - Ven. Daniele da San Giovanni Rotondo (née Michele) Natale, OFM Cap., religious, d. 7/6/1994 
   
   - St. Massimiana, martyr (under a minor altar)
 
@@ -15348,8 +15345,6 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
   - Bl. Giovanni Cini della Pace (aka, the Soldier), 11/12
 
   - Bl. Girolamo Ranuzzi (Angel of Good Counsel), somewhere in Urbino, 12/12
-
-  - St. Guarinus/Guarino, Cardinal Bishop of Palestrina, probably at Palestrina or Pavia (feast celebrated in Bologna, Feb. 6)
 
   - Bl. Guido Maramaldi, OP, preacher, 6/25 (buried in the Rosary chapel of San Domenico, but where?)
 
