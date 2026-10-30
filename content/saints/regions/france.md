@@ -3,8 +3,11 @@
 Ravin de Sainte-Dévote ward
 
 - Cathédrale de Monaco
+
   - St. Dévote, martyr, 1/27 (relics only)
+
 - Église de Sainte-Dévote/Chapelle Sainte Dévote
+
   - St. Dévote, martyr, 1/27
 
 # France
@@ -604,15 +607,21 @@ Beaumont
 Beaumontois-en-Périgord (formerly Nojals-et-Clotte), Département de Dordogne, Nouvelle-Aquitaine region
 
 - Parish church of Nojals-et-Clotte
-  - Bl. Marie-Céline de la Présentation (nee Jeanne Germaine Castang), PC, religious, 5/30
+
+  - Bl. Marie-Céline de la Présentation (née Jeanne Germaine) Castang, PC, religious, 5/30
 
 Beauvais, Oise département, Picardy region
 
 - Cathedral
+
   - St. Angadrisma of Beauvais, abbess, 10/14
+
   - St. Germer/Geremarus, monk/abbot, 9/24
+
 - Abbey of St. Quentin
+
   - St. Bertrand of St. Quentin, abbot, 1/24 (**VERIFY**)
+
 - ???
   - St. Adelmann of Beauvais, bishop, 12/4
   - St. Constantine of Beauvais, bishop, 6/15
@@ -624,11 +633,13 @@ Beauvais, Oise département, Picardy region
 Bellevaux, Thonon-les-Bains arrondissement, Haute-Savoie department, Auvergne-Rhône-Alpes
 
 - Église Notre-Dame de Bellevaux
+
   - St. Pierre II of Tarentaise, O.Cist., bishop, 9/14 & 5/8 (relics only if anything still exists at all)
 
 Bergues, canton, Dunkerque arrondissement, Nord department, Nord-Pas-de-Calais region
 
 - Abbaye de Saint-Winoc/Abbey of St. Winnoc (mostly in ruins)
+
   - St. Winnoc of Wormhoult, monk, 11/6 (only relics exist, but who knows where they moved after the Revolution destroyed this place?)
 
 Besançon
@@ -2301,19 +2312,37 @@ Lescar, Gave et Terres du Pont-Long canton, Pau arrondissement, Pyrénées-Atlan
 Lesquielles-Saint-Germain, Vervins arrondissement, Aisne department, Hauts-de-France region
 
 - Saint Jean-Baptiste de Lesquielles
+
   - St. Grimonia/Grimonie of Picardy/de La Capelle, anchoress, martyr, 9/7 & 4/20
+
   - St. Preuve de Laon, young girl martyr, 4/28 & 4/20
+
+Lestelle-Bétharram, Pau arrondissement, Pyrénées-Atlantiques department, Nouvelle-Aquitaine
+
+- Sanctuaire Notre-Dame de Bétharram/Sanctuary of Our Lady of Bétharram (Place Saint Michel Garicoïts)
+
+  - St. Michel Garicoïts, SCJ, priest/founder, 5/14 & 5/15
+
+  - Outdoors Way of the Cross
+
+- Chapelle de la Résurrection/Chapel of the Resurrection at the top of the Way of the Cross at Sanctuaire Notre-Dame de Bétharram
+
+  - Servant of God Auguste Etchécopar, SCJ, priest, d. 4/13/1897
 
 Lévignac, Toulouse arrondissement, Haute Garonne department, Occitanie region
 
 - Abbaye Sainte-Marie-du-Désert
+
   - Bl. Marie-Joseph (aka, Pierre-Joseph) Cassant, priest, 6/17
 
 Liesse-Notre Dame, Villeneuve-sur-Aisne canton, Laon arrondissement, Aisne department, Hauts-de-France region
 
 - Basilique-sanctuaire Notre-Dame de Liesse/Basilica Shrine of Our Lady of Liesse
+
   - Notre-Dame de Liesse/Our Lady of Liesse, 12/2
+
 - ???
+
   - St. Wulganus, evangelist/hermit, 11/3 (relics only)
 
 Liessies, Fourmies canton, Avesnes-sur-Helpe arrondissement, Nord department, Hauts-de-France (very near the Belgian border)
@@ -2334,6 +2363,7 @@ Lille, Nord department, Hauts-de-France region
 Limeuil, Périgord Central canton, Sarlat-la-Canéda arrondissement, Dordogne department, Nouvelle-Aquitaine region
 
 - ???
+
   - St. Alvère/Alvera of Limeuil, 3/9
 
 Limoges, Haute-Vienne department, Nouvelle-Aquitaine region
@@ -2354,23 +2384,31 @@ Limoges, Haute-Vienne department, Nouvelle-Aquitaine region
 Lisieux, Département du Calvados, Basse-Normandie region
 
 - Chapel of the Convent of Carmel
-  - St. Thérèse of the Child Jesus, nun, 10/1
+
+  - St. Thérèse of the Child Jesus (née Thérèse) Martin, nun, 10/1
+
 - Basilica of St. Thérèse of Lisieux
+
   - St. Louis Martin, husband/father, 7/12
+
   - St. Zélie Martin, wife/mother, 7/12
+
 - ???
   - St. Ursinus of Bourges, bishop, 11/9
 
-L'Isle-Adam, Val-d'Oise department, Île-de-France region
+L’Isle-Adam, Val-d'Oise department, Île-de-France region
 
 - Prieuré Notre-Dame-et-Saint-Godegrand (or Chrodegang)
+
   - St. Opportuna of Montreuil, OSB, abbess, 4/22 (jaw bone)
 
 Lochieu (municipality of Arvière-en-Valromey), Belley arrondissement, Ain department, Auvergne-Rhône-Alpes region
 
 - Parish church/Église de l'Assomption
+
   - St. Artaldus/Arthaud de Belley, O.Cart., bishop, 10/6
-- Ruins of the Chartreuse d'Arvières in the nearby forest of Arvières (founded by St. Artaldus)
+
+- Ruins of the Chartreuse d’Arvières in the nearby forest of Arvières (founded by St. Artaldus)
 
 Locronan, Département du Finistère, Brittany Region
 
@@ -2417,54 +2455,73 @@ Lourdes, département du Hautes-Pyrénées, Occitanie region
 Luché-Pringé, Le Lude canton, La Flèche arrondissement, Sarthe, Pays de la Loire
 
 - Saint-Martin de Luché
+
   - St. Adela de Bourgogne/of Pfalzel, wife/widow/mother/abbess, 12/24
 
 Lure, Haute-Saône department, Bourgogne-Franche-Comté region
 
 - Église Saint-Martin
+
   - St. Colombin de Lure, abbot, 9/13
+
   - St. Del de Lure/Déicole/Deicolus, hermit/abbot, 1/18
 
 Lyon, département du Rhône, Auvergne-Rhône-Alpes region
 
 - Cathédrale Saint-Jean-Baptiste de Lyon/Primatiale Saint-Jean de Lyon
+
   - St. Rémi/Remigius of Lyons, archbishop, 10/28 (relics disappeared thanks to the Revolution)
+
 - Chapel of the l'Œuvre du Prado (Rue Antoine Chevrier)
   - Bl. Antoine Chevrier, founder, 10/2
+
 - Église Dominicaine de Lyon
   - St. Henri de Susa/Henry of Segusio, cardinal, 10/25
   - Bl. Hugues de Saint-Cher/Hugh of Saint-Cher, OP, cardinal, 3/19
+
 - L'église de Saint-Galmier
   - St. Galmier de Lyon (Baldomer, Baldomerus, Waldomar), monk, 2/27
 - Church of Saint-Justus
   - St. Elpidius, bishop, 9/2
+
 - Saint-Irénée/St. Irenaeus
   - Ss. Epodius and Alexander, martyrs, April 22
   - St. Justus of Lyon, bishop, 9/2 (might have been in the Église de les Maccabées or currently in the Cathédrale Saint-Jean-Baptiste de Lyon according to Spanish Wikipedia)
+
 - Église de les Maccabées (no longer extant)
   - St. Antiochus of Lyon, 9/13 (likely lost during the Revolution)
   - St. Viator of Lyon, hermit/catechist, 10/21 (likely lost during the Revolution)
+
 - Basilique Saint-Martin d'Ainay/Basilica of Saint-Martin d'Ainay (11 Rue Bourgelat)
   - St. Aredius of Lyons, archbishop, 8/10 (if they exist anywhere, it's here)
   - St. Badulf of Ainay, abbot, 8/19
   - 47 martyrs
+
 - Église Saint-Nicéce
   - St. Rusticus of Lyon, bishop, 4/25 (tomb likely lost)
+
 - Chapel of St. Nizier
   - St. Annemund/Annemond/Ennemond of Lyon, murdered bishop, 9/28
   - St. Aurelian of Arles, bishop, 6/16
   - Bl. Pauline Marie Jaricot, TOSD, consecrated woman/foundress, 1/9
   - St. Sicaire or Sicarius of Lyons, bishop, 3/26
+
 - Chapelle des Religieuses de Jésus-Marie (Fourvière)
   - St. Marie de St. Ignace (née Claudine Thévenet), foundress, 2/3
+
 - Chapelle de la Société des Missions Africaines
   - Ven. Melchior de Marion Brésillac, SMA, apostolic vicar/founder, d. 6/25/1859
+
 - Saint-André (church long gone)
   - St. Aubrin, bishop, 1/2 & 7/15
+
 - St. Irenaeus Seminary
   - St. Phanxicô Xaviê Nguyễn Khắc Cần/Francis Xavier Can Nguyen, lay catechist/martyr, 11/20 (relics only)
+
 - Soeurs Trinitaires de Valence (17 Rue Chazière)
+
   - Servant of God Marie-Séraphia (née Marie-Magdeleine-Euphrasie) Hugon, CSST, religious, d. 3/17/1900
+
 - ???
   - St. Albinus/Aubin/Alpin of Lyon, bishop, 9/15
   - St. Agobard, bishop, 6/6
@@ -3430,6 +3487,7 @@ Poitiers
   - Bl. Gautier Van den Zande of Bruges, bishop, 1/21 (relics destroyed by the Huguenots)
   - Servant of God Georges Duret, priest/martyr, 5/30/1943
   - St. Hilaire/Hilary of Poitiers, bishop/Doctor of the Church, 1/13
+  - Servant of God Louis-Etienne Rabussier, SJ, priest/founder, d. 12/9/1897
   - St. Thaumastus of Mainz, bishop, 1/1
 
 Poligny, Jura department, Bourgogne-Franche-Comté
