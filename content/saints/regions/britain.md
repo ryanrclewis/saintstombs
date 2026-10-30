@@ -16,8 +16,7 @@ Aberdour, Scotland
 
 - ???
 
-  - St. Drostan (aka, Drostán mac Coscreig of Deer, Drust, Drustan, Dustan,
-    Throstan, Trust), OSB, abbot, 7/11
+  - St. Drostan (aka, Drostán mac Coscreig of Deer, Drust, Drustan, Dustan, Throstan, Trust), OSB, abbot, 7/11
 
 Abingdon, Berkshire, England
 
@@ -199,6 +198,12 @@ Bridlington, East Yorkshire, Yorkshire (north of Hull)
 
   - St. John Twenge of Bridlington, CRSA, prior, 10/9, 10/21 (magnificent
     shrine destroyed by order of Henry VIII)
+
+Brookwood, Woking District, Surrey County, South East region 
+
+- St. Edward the Martyr Orthodox Church
+
+  - King St. Edward, martyr, 3/18
 
 Buckingham, Buckinghamshire, South East region
 
@@ -606,11 +611,13 @@ Durham
 
   - St. Ethelwald of Lindisfarne, monk/bishop, 2/12 (relics likely lost)
 
-  - King St. Oswald of Northumbria, 8/5 (skull only)
-
   - St. Nicholas
 
-  - Bl. Thomas Plumtree, priest/martyr, 1/4
+  - King St. Oswald of Northumbria, 8/5 (skull only)
+
+  - King St. Oswin, martyr, 8/20 (only a small relic is all that's left of him)
+
+ - Bl. Thomas Plumtree, priest/martyr, 1/4
 
 - ???
 
@@ -964,7 +971,15 @@ Isle of Lismore
 
 - Cathedral of St. Moluag
 
-- Shrine of St. Moluag, abbot, 6/25
+  - Shrine of St. Moluag, abbot, 6/25
+
+Jarrow, South Tyneside, Tyne and Wear County, North East Region
+
+- Abbey of Sts. Peter and Paul
+
+  - Museum dedicated to St. Bede the Venerable (he was originally buried here) 
+
+  - St. Esterwine of Wearmouth, abbot, 3/7 (grave was near the high altar; likely lost)
 
 Kew, Cornwall, England
 
@@ -1648,8 +1663,7 @@ Pershore, Worcestershire, England
 
 Peterborough, shire county/district of Cambridgeshire
 
-- Peterborough Cathedral (the Cathedral Church of St Peter, St Paul and St
-  Andrew)[^2]
+- Peterborough Cathedral (the Cathedral Church of St. Peter, St. Paul and St. Andrew)[^2]
 
   - Queen Catherine of Aragon
 
@@ -1995,25 +2009,27 @@ Tynemouth
 
   - St. Henry of Coquet, hermit, 1/16
 
-  - King St. Oswin, martyr
+  - King St. Oswin, martyr, 8/20 (shrine destroyed and almost all relics destroyed)
 
-Tullicht
+Tullich/An Tulach, Aberdeenshire, Scotland
 
-- ???
+- Tullich Kirk (now in ruins)
 
-  - St. Nathalan, bishop, 1/8
+  - St. Nathalan, bishop, 1/8 (relics dispersed in the Protestant Revolt) 
+
+Ushaw Moor, County Durham
+
+- Ushaw Historic House (Woodland Road)
+
+  - 14 chapels
+
+  - Oratory of the Holy Family (many relics up above in a glass case; remains unidentified)
 
 Usk, Monmouthshire (10 miles NE of Newport)
 
 - St. Mary's Priory Anglican church
 
   - St. David Lewis, priest/martyr, 8/27
-
-Wareham
-
-- ???
-
-  - King St. Edward, martyr, 3/18
 
 Warwick, Warwickshire
 
@@ -2033,21 +2049,11 @@ Wass village, Byland civil parish, North Yorkshire
 
   - St. Fulgentia
 
-Wearmouth-Jarrow
-
-- Abbey of Sts. Peter and Paul
-
-  - St. Bede the Venerable, 5/25 (**DBL CHECK**)
-
-  - St. Esterwine of Wearmouth, abbot, 3/7 (grave was near the high altar;
-    likely lost)
-
 Weedon, Northamptonshire
 
 - ???
 
-  - St. Cadoc of Llancarvan (aka, Cadocus, Cadvael, Cathmael, Cartwg Ddoeth,
-    Cattwg the Wise, Docus), martyr, 9/25
+  - St. Cadoc of Llancarvan (aka, Cadocus, Cadvael, Cathmael, Cartwg Ddoeth, Cattwg the Wise, Docus), martyr, 9/25
 
 Welsh Newton, Herefordshire
 
@@ -2057,12 +2063,11 @@ Welsh Newton, Herefordshire
 
 West Grinstead, Catholic Diocese of Arundel and Brighton
 
-- The Shrine of Our Lady of Consolation (oldest continuous shrine in
-  England)
+- The Shrine of Our Lady of Consolation (oldest continuous shrine in England)
 
-  - Blessed Francis Bell, martyr
+  - Blessed Arthur “Francis” Bell, OFM, priest/martyr, 12/11
 
-Renowned author Hilaire Belloc
+  - Renowned author Hilaire Belloc (non-causa)
 
 Whitby, North Yorkshire
 
