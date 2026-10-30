@@ -373,8 +373,7 @@ Ufnau Island, Lake Zürich, Höfe district, Canton of Schwyz
 
 Winterthur, Canton of Zurich
 
-Kloster Töss (deteriorated and ultimately destroyed because of the
-Protestant Revolt)
+- Kloster Töss (deteriorated and ultimately destroyed because of the Protestant Revolt)
 
   - Bl. Elisabeth Stagel, OP, prioress, 5/30 (grave lost)
 
@@ -382,14 +381,13 @@ Wolfenschiessen, Nidwalden
 
 - Bettelrüti Chapel
 
-  - Bl. Conrad Scheuber, hermit, 3/5 (died here; not sure if he\'s buried
-    here; beautiful walk, though)
+  - Bl. Conrad Scheuber, hermit, 3/5 (died here; not sure if he’s buried here; beautiful walk, though)
 
 Ziteil (between Piz Curvér and Piz Toissa), Canton of Graubünden
 
 - Marian Shrine Ziteil (highest pilgrimage site in Europe)
 
-Our Lady of Ziteil, 7/16
+  - Our Lady of Ziteil, 7/16
 
 Zurich
 
@@ -397,10 +395,9 @@ Zurich
 
   - Servant of God Toni (Antonio) Zweifel, engineer, d. 11/24/1989
 
-Grossmünster
+- Grossmünster
 
-  - Ss. Felix, Regula, and Exsuperantius, martyrs/patron saints of Zurich,
-    9/11 (may be lost because this is now a Protestant church, although
+  - Ss. Felix, Regula, and Exuperantius, martyrs/patron saints of Zurich, 9/11 (may be lost because this is now a Protestant church, although
     Wikipedia says they're still here)
 
 Grossmünster treasury
