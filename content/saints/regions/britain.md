@@ -1176,13 +1176,13 @@ London
 
   - The Rosary Shrine
 
-- Church of St. Etheldreda (Ely Place, Holborn, London – oldest continually active Catholic church in England)
+- Church of St. Etheldreda (14 Ely Place, Holborn, London– oldest continually active Catholic church in England)
 
   - St. Etheldreda’s relics are reputedly here.
 
 - Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation chapel
 
-- St. Patrick Church, London
+- St. Patrick Church, London (21A Soho Square)
 
   - St. Cuthbert Mayne, priest/martyr, 11/25 (relics only)
 
