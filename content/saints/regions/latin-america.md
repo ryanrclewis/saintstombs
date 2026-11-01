@@ -480,7 +480,7 @@ Barretos, São Paulo state, Southeast region
 
 Baturité, Ceará State, Northeast region
 
-Igreja Matriz de Nossa Senhora da Palma
+- Igreja Matriz de Nossa Senhora da Palma
 
   - Servant of God Clemência (née Francisca Benícia) de Oliveira, DC, religious, d. 7/6/1966
 
@@ -534,7 +534,7 @@ Caetés, Pernambuco state, Northeast region
 
 Caibaté, Rio Grande do Sul state
 
-Santuário do Caaró (site of the martyrdoms of the following)
+- Santuário do Caaró (site of the martyrdoms of the following)
 
   - St. Alonso (Alfonso) Rodriguez, SJ, martyr, 11/15
 
@@ -547,6 +547,12 @@ Campinas, São Paulo state, Southeast region
 - Convento da Congregação das Irmãs Missionárias de Jesus Crucificado/Convent of the Congregation of the Missionary Sisters of Jesus Crucified
 
   - Nossa Senhora das Lágrimas/Our Lady of Tears, 6/2 or 6/13 or 8/29
+
+Campo Grande, Mato Grosso do Sul state, Central-West Region
+
+- Paróquia (Igreja) São José (Rua Pedro Celestino, 1446 - Centro)
+
+  - Servant of God Giovanni/João Crippa, SDB, priest, d. 8/1/1941
 
 Canela, Rio Grande do Sul
 
@@ -1742,13 +1748,13 @@ Painting of the Miracle of the Virgin of Sorrows
 
 Riobamba, Chimborazo Province
 
-Casa Madre de las Hermanas de Maríana de Jesús/Congregación de las Maríanitas
+- Casa Madre de las Hermanas de Maríana de Jesús/Congregación de las Maríanitas
 
   - Bl. Mercedes de Jesús Molina Ayala, foundress, 6/12
 
-- ???
+- Colegio San Felipe Neri/Templo Expiatorio de San Felipe (Juan de Velasco 2406)
 
-  - Bl. Victor Emilio Moscoso Cárdenas, SJ, priest/martyr, 5/4 & 11/23 (possibly at the Hospital de las Hermanas de la Caridad)
+  - Bl. Victor Emilio Moscoso Cárdenas, SJ, priest/martyr, 5/4 & 11/23 
 
 San Miguel de Los Bancos (Los Bancos), Pichincha Province
 
