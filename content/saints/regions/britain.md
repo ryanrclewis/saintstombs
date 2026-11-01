@@ -1172,6 +1172,100 @@ Llanilltud Fawr, aka, Llan-Illtut (Llantwit Major), Glamorgan County
 
 London
 
+- St. Dominic’s Priory Church/Our Lady of the Rosary and St. Dominic (Southampton Road)
+
+  - The Rosary Shrine
+
+- Church of St. Etheldreda (Ely Place, Holborn, London – oldest continually active Catholic church in England)
+
+  - St. Etheldreda’s relics are reputedly here.
+
+- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation chapel
+
+- St. Patrick Church, London
+
+  - St. Cuthbert Mayne, priest/martyr, 11/25 (relics only)
+
+  - St. Oliver Plunkett, archbishop/martyr, 7/1
+
+- Brompton Oratory/Church of the Immaculate Heart of Mary,
+
+  - St. Eutropius of Orange, bishop, 5/27
+
+- Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
+
+  - Bl. Anthony Turner, SJ, priest/martyr, 6/20
+
+  - Bl. John Fenwick, SJ, priest/martyr, 6/20
+
+  - Bl. John Gavan, priest/martyr
+
+  - Bl. Thomas Whitbread, priest/martyr, 6/20
+
+  - Bl. William Barrow, priest/martyr, 6/20
+
+- Cathedral of St. Paul
+
+  - St. Alphege of Winchester, bishop, 4/19
+
+  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics lost to Protestant destruction and the Great Fire of London)
+
+- St. Paul Cathedral churchyard
+
+  - Bl. John Felton, martyr, 8/8
+
+- Tower of London, Chapel of St. Peter ad Vincula
+
+  - Bl. Margaret Pole, lay martyr, 5/28
+
+  - Ss. Thomas More and John Fisher, martyrs (relics only)
+
+- Tyburn Convent
+
+  - Linen and straw stained with the blood of five Jesuit martyrs:
+
+  - Thomas Whitbread
+    
+  - William Harcourt
+    
+  - John Fenwick
+    
+  - Antony Turner
+    
+  - John Gavan
+
+  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
+
+  - Vertebra and precordia of John Lockwood
+
+  - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
+
+  - Bone of St. Oliver Plunkett, martyr, 7/1
+
+  - Fingernail of Bl. Thomas Holland, SJ, priest/martyr, 12/22
+
+- Westminster Abbey
+
+  - King St. Edward the Confessor, 10/13 (behind the high altar)
+
+  - King St. Ethelbert, martyr, 5/20 (head only)
+
+  - Bl. Queen Matilda Canmore of Scotland, 4/30
+
+  - Mary Queen of Scots, d. Feb. 8, 1587 (non-causa but ended how she did because she was a Catholic)
+
+- Westminster Cathedral, Chapel of the Martyrs
+
+  - Bl. John Lockwood, priest/martyr, 4/13
+
+  - St. John Southworth, priest/martyr, 6/28
+
+- British Museum
+
+  - St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
+
+  - St. Valerie of Limoges, martyr, 12/9
+
 - ???
 
   - St. Alban Bartholomew Roe, OSB, priest/martyr, 1/21, 10/25, & 10/29
@@ -1207,8 +1301,7 @@ London
 
   - Bl. George Haydock, priest/martyr, 2/12 at Tyburn
 
-  - Bl. Henry Morse, SJ, convert/priest/martyr, 2/1, 10/25, & 10/29 at
-    Tyburn
+  - Bl. Henry Morse, SJ, convert/priest/martyr, 2/1, 10/25, & 10/29 at Tyburn
 
   - Bl. Henry Webley, layman/martyr, 8/28
 
@@ -1376,96 +1469,6 @@ London
   - Bl. William Ward, priest/martyr, 7/26
 
   - Bl. William Way, priest/martyr, 9/23
-
-- Church of St. Etheldreda (Ely Place, Holborn, London – oldest continually active Catholic church in England)
-
-  - St. Etheldreda’s relics are reputedly here.
-
-- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation chapel
-
-- St. Patrick Church, London
-
-  - St. Cuthbert Mayne, priest/martyr, 11/25 (relics only)
-
-  - St. Oliver Plunkett, archbishop/martyr, 7/1
-
-- Brompton Oratory/Church of the Immaculate Heart of Mary,
-
-  - St. Eutropius of Orange, bishop, 5/27
-
-- Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
-
-  - Bl. Anthony Turner, SJ, priest/martyr, 6/20
-
-  - Bl. John Fenwick, SJ, priest/martyr, 6/20
-
-  - Bl. John Gavan, priest/martyr
-
-  - Bl. Thomas Whitbread, priest/martyr, 6/20
-
-  - Bl. William Barrow, priest/martyr, 6/20
-
-- Cathedral of St. Paul
-
-  - St. Alphege of Winchester, bishop, 4/19
-
-  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics lost to Protestant destruction and the Great Fire of London)
-
-- St. Paul Cathedral churchyard
-
-  - Bl. John Felton, martyr, 8/8
-
-- Tower of London, Chapel of St. Peter ad Vincula
-
-  - Bl. Margaret Pole, lay martyr, 5/28
-
-  - Ss. Thomas More and John Fisher, martyrs (relics only)
-
-- Tyburn Convent
-
-  - Linen and straw stained with the blood of five Jesuit martyrs:
-
-  - Thomas Whitbread
-    
-  - William Harcourt
-    
-  - John Fenwick
-    
-  - Antony Turner
-    
-  - John Gavan
-
-  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
-
-  - Vertebra and precordia of John Lockwood
-
-  - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
-
-  - Bone of St. Oliver Plunkett, martyr, 7/1
-
-  - Fingernail of Bl. Thomas Holland, SJ, priest/martyr, 12/22
-
-- Westminster Abbey
-
-  - King St. Edward the Confessor, 10/13 (behind the high altar)
-
-  - King St. Ethelbert, martyr, 5/20 (head only)
-
-  - Bl. Queen Matilda Canmore of Scotland, 4/30
-
-  - Mary Queen of Scots, d. Feb. 8, 1587 (non-causa but ended how she did because she was a Catholic)
-
-- Westminster Cathedral, Chapel of the Martyrs
-
-  - Bl. John Lockwood, priest/martyr, 4/13
-
-  - St. John Southworth, priest/martyr, 6/28
-
-- British Museum
-
-  - St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
-
-  - St. Valerie of Limoges, martyr, 12/9
 
 London, Roehampton district
 
