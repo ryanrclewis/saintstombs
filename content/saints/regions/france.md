@@ -3480,6 +3480,8 @@ Poitiers
   - St. Radegund, queen/abbess, 8/13 (relics burned by Calvinists; nonetheless, some survived and are kept here in her eponymous chapel)
 - Abbaye Saint-Cyprien de Poitiers/Saint-Cyprien Abbey of Poitiers (now Pasteur Hospital)
   - St. Faciolus, OSB, monk, 9/7 (grave likely lost)
+- Cimetière de Chilvert (21 Rue de Chilvert)
+  - Servant of God Louis-Etienne Rabussier, SJ, priest/founder, d. 12/9/1897 (buried in the Jesuit vault)
 - Cimetière de l’Hôpital-des-Champs (Rue de l’Hôpital-des-Champs)
   - Servant of God Josefa Menéndez del Moral, religious/mystic, d. 12/29/1923
 - ???
@@ -3487,7 +3489,7 @@ Poitiers
   - Bl. Gautier Van den Zande of Bruges, bishop, 1/21 (relics destroyed by the Huguenots)
   - Servant of God Georges Duret, priest/martyr, 5/30/1943
   - St. Hilaire/Hilary of Poitiers, bishop/Doctor of the Church, 1/13
-  - Servant of God Louis-Etienne Rabussier, SJ, priest/founder, d. 12/9/1897
+
   - St. Thaumastus of Mainz, bishop, 1/1
 
 Poligny, Jura department, Bourgogne-Franche-Comté
