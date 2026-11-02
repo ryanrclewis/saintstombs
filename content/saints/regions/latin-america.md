@@ -2857,7 +2857,7 @@ Caravelí, Province of Caravelí, Arequipa region
 
 - Convento Cenáculo de Caravelí, 6JGP+XQP, Unnamed Road
 
-  - Servant of God Friedrich Kaiser Depel, MSC, bishop/founder, d. 9/26/1993
+  - Ven. Friedrich Kaiser Depel, MSC, bishop/founder, d. 9/26/1993
 
 Chachapoyas, Chachapoyas district, Chachapoyas Province, Amazonas region
 
