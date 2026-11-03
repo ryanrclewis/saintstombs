@@ -1731,9 +1731,12 @@ Roseville, Placer County, California
 
 Royal Oak, Oakland County, Michigan
 
-- National Basilica Shrine of the Little Flower
+- National Basilica Shrine of the Little Flower (2100 12 Mile Road)(built after the KKK burnt a cross of the lawn of the former church)
+
   - St. Thérèse Chapel
+
   - Calvary and Bethlehem stones
+
   - St. Edith Stein room
 
 Rudolph, Wood County, Wisconsin
@@ -2333,6 +2336,16 @@ Waverly, Lancaster County, Nebraska
 - Good Counsel Retreat House (7303 N. 112<sup>th</sup> Street)
 
   - Shrine of Our Lady at Kalin Memorial Tower
+
+Wayne, Wayne County, West Virginia
+
+- Holy Cross Russian Orthodox Monastery (505 Holy Cross Road)
+
+  - The Romanov Royal Martyrs (relics only)
+  
+  - The Optina Elders (relics only)
+  
+  - St. Panteleimon (relics only)
 
 Wernersville, Berks County, Pennsylvania
 
