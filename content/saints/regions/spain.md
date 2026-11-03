@@ -3809,7 +3809,7 @@ Las Matas, Las Rozas de Madrid, Community of Madrid
 
 - Capilla del Centro Mariápolis Luminosa
 
-  - Servant of God Margarita (Luminosa) Bavosi, laywoman, d. 3/7/1985
+  - Ven. Margarita “Luminosa” Bavosi, laywoman, d. 3/7/1985
 
 Las Pedroñeras, Province of Cuenca, Castilla-La Mancha autonomous community
 
@@ -5055,8 +5055,7 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
   - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (could be at the
     cathedral, instead)
 
-  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according
-    to AI; take it with a grain of salt; could be at the cathedral, instead)
+  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according to AI; take it with a grain of salt; could be at the cathedral, instead)
 
 - Cementerio de San Miguel/St. Michael Cemetery (Plaza del Patrocinio, 8) (36°44′02″N 4°25′05″W)
 
@@ -5074,12 +5073,10 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
 - ???
 
-  - Bl. Félix Paco Escartín, SDB, priest/martyr, 8/31 (possibly in a common
-    grave at Cementerio de San Rafael, which is where he was shot and
+  - Bl. Félix Paco Escartín, SDB, priest/martyr, 8/31 (possibly in a common grave at Cementerio de San Rafael, which is where he was shot and
     killed)
 
-  - Bl. José Becerra Sánchez, priest/martyr, 9/19 (body recovered, but
-    burial place unknown)
+  - Bl. José Becerra Sánchez, priest/martyr, 9/19 (body recovered, but burial place unknown)
 
 Malla, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
@@ -5089,8 +5086,7 @@ Malla, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
   - Bl. Miquel Codina Ventayol, priest/martyr, 2/1 & 10/12
 
-Manises, Horta Oest comarca, Province of Valencia province, Valencian
-autonomous community
+Manises, Horta Oest comarca, Province of Valencia province, Valencian autonomous community
 
 - Church of San Juan Batista
 
@@ -5557,33 +5553,27 @@ Fruitós de Bages, Comarca Bages, Catalonia region)
 
 - ???
 
-  - Bl. Antonio Mascaró Colomina, religious/martyr, 1/27 (body never
-    found)
+  - Bl. Antonio Mascaró Colomina, religious/martyr, 1/27 (body never found)
 
-Monteagudo, Tudela comarca, Province of Navarra, Navarra autonomous
-community (far north of the country)
+Monteagudo, Tudela comarca, Province of Navarra, Navarra autonomous community (far north of the country)
 
 - Iglesia de la Virgen del Camino del Convento de Monteagudo
 
   - St. Ezequiél Moreno y Díaz, OAR, bishop, 8/19 (incorrupt)
 
-- Iglesia de los Misioneros Agustinos Recoletos (possibly at Avenida de
-  los Fueros, 22)
+- Iglesia de los Misioneros Agustinos Recoletos (possibly at Avenida de los Fueros, 22)
 
-  - Ven. María Esperanza de la Cruz (née Salustiana Antonia) Ayerbe
-    Castillo, religious/cofoundress, d. 5/23/1967
+  - Ven. María Esperanza de la Cruz (née Salustiana Antonia) Ayerbe Castillo, religious/cofoundress, d. 5/23/1967
 
-Montemayor preserve, near Moguer, Huelva province, Andalusia autonomous
-province
+Montemayor preserve, near Moguer, Huelva province, Andalusia autonomous province
 
 - La Ermita de Montemayor/Hermitage of Montemayor
 
-Nuestra Señora de Montemayor, 6/15
+	- Nuestra Señora de Montemayor, 6/15
 
-Montes de Valdueza, Province of León, autonomous community of Castilla y
-León
+Montes de Valdueza, Province of León, autonomous community of Castilla y León
 
-Monasterio de San Pedro de Montes
+- Monasterio de San Pedro de Montes
 
   - St. Valerio/Valerius of San Pedro de Montes
 
@@ -5593,41 +5583,32 @@ Montilla
 
   - St. Juan de Avila/John of Avila, extraordinary preacher, 5/10
 
-Montmaneu, Anoia comarca, Province of Barcelona, Catalonia autonomous
-community
+Montmaneu, Anoia comarca, Province of Barcelona, Catalonia autonomous community
 
 - ???
 
-  - Bl. Joan Prats Gibert, priest/martyr, 2/1 & 8/17 (his remains were
-    collected in July 1939)
+  - Bl. Joan Prats Gibert, priest/martyr, 2/1 & 8/17 (his remains were collected in July 1939)
 
-Montserrat, Monistrol de Montserrat, Bages county, Province of
-Barcelona, Centre Region, Catalonia autonomous community
+Montserrat, Monistrol de Montserrat, Bages county, Province of Barcelona, Centre Region, Catalonia autonomous community
 
-Santa Maria de Montserrat
+- Santa Maria de Montserrat
 
-Our Lady of Montserrat ("La Moreneta"), 4/24
+	- Our Lady of Montserrat (“La Moreneta”), 4/24
 
-Montserrat, Ribera Alta comarca, Province of Valencia, Valencia
-autonomous community
+Montserrat, Ribera Alta comarca, Province of Valencia, Valencia autonomous community
 
 - ???
 
   - Bl. Germán Gozalvo Andreu, priest of Valencia/martyr, 9/22
 
-  - Bl. Recaredo María de Torrent (née José María Llópez Mora), TC,
-    priest/martyr, 9/18
+  - Bl. Recaredo María de Torrent (née José María Llópez Mora), TC, priest/martyr, 9/18
 
-Monzón, Cinca Medio comarca, Province of Huesca, Aragon autonomous
-community
+Monzón, Cinca Medio comarca, Province of Huesca, Aragon autonomous community
 
-- Either the Cementerio Municipal (municipal cemetery) or the Cementerio
-  Parroquial (parish cemetery)
+- Either the Cementerio Municipal (municipal cemetery) or the Cementerio Parroquial (parish cemetery)
 
-  - Bl. Dionisio Pamplona-Polo, SchP, priest/martyr & 12 Companions, 7/25
-    ("His remains were thrown into a common grave in the town cemetery."
-    "Sus restos fueron arrojados a una fosa común en el cementerio del
-    pueblo.")
+  - Bl. Dionisio Pamplona-Polo, SchP, priest/martyr & 12 Companions, 7/25 (“His remains were thrown into a common grave in the town cemetery.”
+    “Sus restos fueron arrojados a una fosa común en el cementerio del pueblo.”)
 
 Mora, Province of Toledo, Castile-La Mancha autonomous region
 
@@ -5635,41 +5616,35 @@ Mora, Province of Toledo, Castile-La Mancha autonomous region
 
   - Bl. Agrícola Rodríguez García de Los Huertos, priest/martyr, 7/21
 
-Monasterio del Sagrado Corazón de Jesús o Convento de las Mínimas
+- Monasterio del Sagrado Corazón de Jesús o Convento de las Mínimas
 
   - Ven. Filomena Ferrer Galcerán (Galzeran), religious, d. 8/13/1868
 
-Mosquerela, Province of Teruel, Aragon autonomous
-community'7\]\\\\\\\\84
+Mosquerela, Province of Teruel, Aragon autonomous community
 
 - ???
 
-  - Bl. Antonio Gil-Monforte, FSC, religious/martyr, 9/22 (unknown burial
-    place)
+  - Bl. Antonio Gil-Monforte, FSC, religious/martyr, 9/22 (unknown burial place)
 
-  - Bl. Félix Adriano (née Francisco) Vicente Edo, FSC, religious/martyr,
-    9/22
+  - Bl. Félix Adriano (née Francisco) Vicente Edo, FSC, religious/martyr, 9/22
 
-Mota del Marques, Province of Valladolid, Castilla y León autonomous
-community
+Mota del Marques, Province of Valladolid, Castilla y León autonomous community
 
-Cementerio de la Compañía del Salvador (Company of the Savior's
-cemetery)
+- Cementerio de la Compañía del Salvador (Company of the Savior’s cemetery)
 
   - Ven. María Félix Torres, foundress, d. 1/12/2001
 
-Motril, Costa Tropical comarca, Province of Granada, Andalusia
-autonomous community
+Motril, Costa Tropical comarca, Province of Granada, Andalusia autonomous community
 
-Nuestra Señora de la Encarnación
+- Nuestra Señora de la Encarnación
 
   - Bl. Manuel Martín Sierra, priest/martyr, 7/26
 
   - Bl. Vicente Pinilla Ibáñez, OAR, priest/martyr, 7/26
 
-Several martyrs are buried here.
+  - Several martyrs are buried here.
 
-Cementerio Municipal de Motril
+- Cementerio Municipal de Motril
 
 - The Martyrs of Motril (in the mausoleum dedicated to the seven Spanish
   Blessed Augustinians Recollects martyrs -- Fathers Vincente Soler,
@@ -5677,8 +5652,7 @@ Cementerio Municipal de Motril
   Julian Moreno, and Brother Jose Ricardo Diez -- and a diocesan priest,
   Father Manuel Martín Sierra), 7/25
 
-  - Bl. Manuel Vázquez Alfalla, priest/martyr, 7/25 (buried in a common
-    grave with other martyrs)
+  - Bl. Manuel Vázquez Alfalla, priest/martyr, 7/25 (buried in a common grave with other martyrs)
 
 - ???
 
@@ -5690,14 +5664,11 @@ Muniesa, Province of Teruel, Aragon autonomous community
 
 - ???
 
-  - Bl. Francisco Gargallo Gascón, O. de M., priest/martyr, 8/7 (body burned
-    where he was shot)
+  - Bl. Francisco Gargallo Gascón, O. de M., priest/martyr, 8/7 (body burned where he was shot)
 
-  - Bl. Manuel Sancho Aguilar, O. de M., priest/martyr, 8/7 (body burned
-    where he was shot)
+  - Bl. Manuel Sancho Aguilar, O. de M., priest/martyr, 8/7 (body burned where he was shot)
 
-Munera, Campo de Montiel comarca, Province of Albacete, Castile-La
-Mancha autonomous community
+Munera, Campo de Montiel comarca, Province of Albacete, Castile-La Mancha autonomous community
 
 - Parroquia de San Sebastián/Parish of Saint Sebastian
 
@@ -5705,8 +5676,7 @@ Mancha autonomous community
 
 Murcia
 
-- Iglesia Catedral de Santa María en Murcia/Cathedral (Pl. del Cardenal
-  Belluga, s/n)
+- Iglesia Catedral de Santa María en Murcia/Cathedral (Pl. del Cardenal Belluga, s/n)
 
   - Bl. Andrés Hibernón Real, Franciscan friar, 4/18 (some relics)
 
@@ -5720,13 +5690,11 @@ Murcia
 
 - Iglesia Franciscana de la Misericordia/Franciscan Church of Mercy
 
-  - Bl. Buenaventura (née Baltasar Mariano Muñoz Martínez), OFM,
-    religious/martyr, 9/4
+  - Bl. Buenaventura (née Baltasar Mariano Muñoz Martínez), OFM, religious/martyr, 9/4
 
   - Bl. Miguel Faúndez López, OFM, priest/martyr, 8/22 & 9/19
 
-- Iglesia de la Merced y Convento de los Padres Franciscanos (C/ Santo
-  Cristo 2)
+- Iglesia de la Merced y Convento de los Padres Franciscanos (C/ Santo Cristo 2)
 
   - Bl. Antonio (née Miguel) Faúndez López, OFM, priest/martyr, 9/19
 
@@ -6538,28 +6506,29 @@ Castilla-La Mancha autonomous community
     Iglesia de Nuestra Señora de la Esperanza de Peñas de San Pedro or the
     cemetery)
 
-Picassent, Horta Sud comarca, Province of Valencia, Valencian autonomous
-community
+Picassent, Horta Sud comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio de Picassent/Cemetery of Picassent
 
-  - Bl. Fernando González Añon, priest/martyr, 8/27 (in a common grave, but
-    he has his own memorial marker)
+  - Bl. Fernando González Añon, priest/martyr, 8/27 (in a common grave, but he has his own memorial marker)
 
-Planes, Comtat comarca, Province of Alicante, Valencian autonomous
-community
+Planes, Comtat comarca, Province of Alicante, Valencian autonomous community
 
 - Iglesia Parroquial de Planes
 
-  - Bl. María Luisa Montesinos Orduña, laywoman/martyr, 1/28 (Capilla del
-    Santísimo Sacramento/Chapel of the Blessed Sacrament)
+  - Bl. María Luisa Montesinos Orduña, laywoman/martyr, 1/28 (Capilla del Santísimo Sacramento/Chapel of the Blessed Sacrament)
+
+Plasencia, Province of Caceres, Extremadura autonomous community
+
+- Casa Madre de Instituto de Hermanas Josefinas de la Santísima Trinidad (Ctra. Virgen del Puerto, 22)
+
+	- Ven. Eladio Mozas Santamera, priest/founder, d. 3/18/1897
 
 Playa de la Malvarrosa, Valencia
 
 - ???
 
-  - Bl. Jaime (née Armando) Óscar Valdés, OH, religious/martyr, 8/11 (his
-    remains, left on the beach, are missing)
+  - Bl. Jaime (née Armando) Óscar Valdés, OH, religious/martyr, 8/11 (his remains, left on the beach, are missing)
 
 Pollença, Sierra de Tramontana comarca, Province of the Balearic Islands, Islas Baleares autonomous community
 
@@ -6579,21 +6548,17 @@ Pontils (formerly Santa Perpètua de Gaià), Conca de Barberà region, Province 
 
   - St. Raymond Nonnatus, priest, 8/31 (sources conflict where he's buried)
 
-Portichol de Valldigna, Province of Valencia, Valencian autonomous
-community
+Portichol de Valldigna, Province of Valencia, Valencian autonomous community
 
 - ???
 
-  - Bl. María Patrocinio de San Juan (née María Cinta Asunción) Giner Gomis,
-    RMI, religious/martyr, 11/13 (buried in a mass grave)
+  - Bl. María Patrocinio de San Juan (née María Cinta Asunción) Giner Gomis, RMI, religious/martyr, 11/13 (buried in a mass grave)
 
-Pozo de Cantavieja, Tahal, Province of Almería, Andalucía autonomous
-community
+Pozo de Cantavieja, Tahal, Province of Almería, Andalucía autonomous community
 
 - ???
 
-  - Bl. Adolfo Martínez Sáez, layman/martyr, 9/26 (body may have been
-    exhumed after the war)
+  - Bl. Adolfo Martínez Sáez, layman/martyr, 9/26 (body may have been exhumed after the war)
 
   - Bl. Aurelio María (née Bienvenido) Villalón Acebrón, FSC,
     religious/martyr, 9/13 & 11/16 (body thrown into a well or a deep place,
