@@ -6360,27 +6360,25 @@ Milan (Milano)
 
   - St. Cristina, martyr
 
-- Chiesa Sacro Cuore di Gesù dei Frati Minori Cappuccini/Sacred Heart of Jesus of the Capuchin (viale Piave,
-  2)
+- Chiesa Sacro Cuore di Gesù dei Frati Minori Cappuccini/Sacred Heart of Jesus of the Capuchin (viale Piave, 2)
 
   - Ven. Antonio Pietro Cortinovis (Cecilio Maria da Costa Serina), OFM Cap., religious, d. 4/10/1984
 
   - Ven. Daniele di Samarate (née Felice) Rossini, OFM Cap., priest, d. 5/19/1924
 
-- Sant'Agostino
+- Sant’Agostino
 
   - Ven. Attilio Giordani, CDB/ASC, layman, d. 12/18/1972
 
   - St. Faustus, soldier, 8/7 (not certain, no one really knows)
 
-- Sant'Ambrogio
+- Sant’Ambrogio
 
   - St. Ambrose
 
   - St. Gervase & Protase
 
-  - St. Marcellina, virgin, sister of St. Ambrose, 7/17 (Chapel of St.
-  Marcellina)
+  - St. Marcellina, virgin, sister of St. Ambrose, 7/17 (Chapel of St. Marcellina)
 
   - St. Maternus/Materno of Milan, bishop, 7/18 (near Nabor & Felix)
 
@@ -6388,13 +6386,11 @@ Milan (Milano)
 
   - Ss. Nabor and Felix (See Savina), 7/12
 
-  - St. Satiro/Satyrus, confessor, brother of St. Ambrose, 9/17 (Chapel
-  of Ss. Bartholomew & Satyrus, 2^nd^ on the right)
+  - St. Satiro/Satyrus, confessor, brother of St. Ambrose, 9/17 (Chapel of Ss. Bartholomew & Satyrus, 2^nd^ on the right)
 
-  - St. Savina, died while praying at the tomb of Nabor & Felix, 1/30,
-  Chapel of St. Savina, third chapel on right
+  - St. Savina, died while praying at the tomb of Nabor & Felix, 1/30, Chapel of St. Savina, third chapel on right
 
-- St. Victor, martyr, Chapel of San Vittore
+  - St. Victor, martyr, Chapel of San Vittore
 
 - Sant'Angelo
 
@@ -6402,15 +6398,15 @@ Milan (Milano)
 
 - Chiesa di Sant'Antonio Abate
 
-- Chapel of the Relics (left transept)
+  - Chapel of the Relics (left transept)
 
-- Fragment of the True Cross (Chapel of the Relics)
+  - Fragment of the True Cross (Chapel of the Relics)
 
-- Basilica Santuario Sant\'Antonio di Padova/Sanctuary of St. Anthony
+- Basilica Santuario Sant\’Antonio di Padova/Sanctuary of St. Anthony
 
   - Bl. Sisto Brioschi, OFM, priest, 11/22
 
-- Sant'Apollinare di Milano
+- Sant’Apollinare di Milano
 
   - St. Fausto
 
@@ -6426,8 +6422,7 @@ Milan (Milano)
 
   - Bl. Giovannangelo Porro, OSM, hermit/priest, 10/23
 
-- Santuario diocesano del beato don Carlo Gnocchi (Fondazione Pro
-  Juventute, Piazzale R. Morandi, 6, 20121 Milano)
+- Santuario diocesano del beato don Carlo Gnocchi (Fondazione Pro Juventute, Piazzale R. Morandi, 6, 20121 Milano)
 
   - Bl. Carlo Gnocchi, 2/28
 
@@ -6435,7 +6430,7 @@ Milan (Milano)
 
   - St. Erlembaldo Cotta of Milan, reformer, 6/28
 
-- Sant'Eufemia
+- Sant’Eufemia
 
   - St. Senator, bishop, 5/28
 
@@ -6461,7 +6456,7 @@ San Francesco
 
   - Ss. Nabor and Felix (See Savina), 7/12 (or at Sant'Ambrogio)
 
-San Francesco Saverio dell'Istituto Missionario
+San Francesco Saverio dell’Istituto Missionario
 
   - Ven. Angelo Ramazzotti, bishop
 
@@ -6475,14 +6470,13 @@ San Francesco Saverio dell'Istituto Missionario
 
 - San Gregorio
 
-  - St. Celestine, martyr (no feast date) (Cappella dell'Addolorata)
+  - St. Celestine, martyr (no feast date) (Cappella dell’Addolorata)
 
   - St. Innocent, martyr (no feast date)
 
 - Basilica of San Lorenzo Maggiore
 
-  - St. Aquilino/Aquilinus of Milan, martyr, 1/29 (he is buried in the
-    Chapel of the Queen, aka, Cappella di S. Aquilino)
+  - St. Aquilino/Aquilinus of Milan, martyr, 1/29 (he is buried in the Chapel of the Queen, aka, Cappella di S. Aquilino)
 
   - St. Eusebius/Eusebio of Milan, bishop, 8/8 or 8/12
 
@@ -6516,8 +6510,7 @@ San Francesco Saverio dell'Istituto Missionario
 
   - St. Celsus of Rome, martyr, 7/28
 
-  - St. Glycerius of Milan/Glicerio di Milano, archbishop, 9/20
-    (epitaph; remains may be lost)
+  - St. Glycerius of Milan/Glicerio di Milano, archbishop, 9/20 (epitaph; remains may be lost)
 
   - St. Nazarius, martyr, 7/28 & 10/14
 
@@ -6525,7 +6518,7 @@ San Francesco Saverio dell'Istituto Missionario
 
   - St. Marolo of Milan, archbishop, 4/23
 
-- Convent of the Angelics di San Paolo (Barnabites), Via Commenda, 5
+- Convent of the Angelics di San Paolo (Barnabites) (Via Commenda, 5)
 
   - St. Antonio Maria Zaccaria, priest/founder, 7/5
 
@@ -6537,8 +6530,7 @@ San Francesco Saverio dell'Istituto Missionario
 
   - St. Benigno/Benignus, bishop, 11/20 & 11/22
 
-  - St. Gerontio/Geruntius of Milan, bishop, 5/5 (another source says in
-    the Chiesa di San Sinforiano)
+  - St. Gerontio/Geruntius of Milan, bishop, 5/5 (another source says in the Chiesa di San Sinforiano)
 
   - St. Simplicianus, bishop,
 
@@ -6560,7 +6552,7 @@ San Francesco Saverio dell'Istituto Missionario
 
 - San Vittore *al corpo*/Basilica Portiana
 
-  - St. Victor Maurus, "il Moro," martyr, 5/8
+  - St. Victor Maurus, “il Moro,” martyr, 5/8
 
   - St. Dazio/Datius of Milan, bishop, 1/14
 
@@ -6568,20 +6560,15 @@ San Francesco Saverio dell'Istituto Missionario
 
 - Augustinian Convent of Santa Marta
 
-  - St. Veronica of Binasco, OSA (aka, of Milan), religious, 1/13 (a
-    relic if anything)
+  - St. Veronica of Binasco, OSA (aka, of Milan), religious, 1/13 (a relic if anything)
 
-- Piccola Casa San Giuseppe/Istituto delle Suore della Carità/Institute
-of the Sisters of Charity, Via del Caravaggio, 10
+- Piccola Casa San Giuseppe/Istituto delle Suore della Carità/Institute of the Sisters of Charity, Via del Caravaggio, 10
 
-  - Bl. Enrichetta (née Maria Angela Domenica) Alfieri, SCSJA,
-    religious, 11/23
+  - Bl. Enrichetta (née Maria Angela Domenica) Alfieri, SCSJA, religious, 11/23
 
-- Casa Madre del Istituto delle Suore di Maria Consolatrice (via
-Melchiorre Gioia, 51)
+- Casa Madre del Istituto delle Suore di Maria Consolatrice (via Melchiorre Gioia, 51)
 
-  - Bl. Arsenio da Trigolo (née Giuseppe Antonio) Migliavacca, OFM Cap.,
-    priest/founder, 12/10
+  - Bl. Arsenio da Trigolo (née Giuseppe Antonio) Migliavacca, OFM Cap., priest/founder, 12/10
 
 - Università Cattolica del Sacro Cuore/Catholic University of the Sacred Heart, crypt
 
@@ -6613,8 +6600,7 @@ Melchiorre Gioia, 51)
 
   - St. Eusebius, preceded Geruntius
 
-  - St. Faustus of Rome and Milan, martyr, 7/16 (buried in the Chiesa di
-  Sant'Antonio, but is that Chiesa di Sant'Antonio Abate or Chiesa di
+  - St. Faustus of Rome and Milan, martyr, 7/16 (buried in the Chiesa di Sant'Antonio, but is that Chiesa di Sant'Antonio Abate or Chiesa di
   Sant'Antonio di Padova?)
 
   - St. Fedele/Fidelis of Como, soldier/martyr, 10/28 (relics only)
@@ -6639,8 +6625,7 @@ Melchiorre Gioia, 51)
 
   - St. Venustus of Milan, martyr, 3/6
 
-Milan, Musocco district/quartier (Zone 8), Metropolitan City of Milan,
-Lombardia region
+Milan, Musocco district/quartier (Zone 8), Metropolitan City of Milan, Lombardia region
 
 - Cimitero di Musocco/Cimitero Maggiore di Milano
 
@@ -6666,11 +6651,9 @@ Mineo, Province of Catania, Sicily
 
   - St. Agrippina of Rome, martyr, 6/23
 
-  - St. Euprexia of Mineo, laywoman, 1/5 (this is a guess because it was her
-    home)
+  - St. Euprexia of Mineo, laywoman, 1/5 (this is a guess because it was her home)
 
-  - St. Theognia of Mineo, paralyzed laywoman, 1/5 (this is a guess because
-    it was her mother's house, and St. Agrippina's relics healed Theognia)
+  - St. Theognia of Mineo, paralyzed laywoman, 1/5 (this is a guess because it was her mother’s house, and St. Agrippina’s relics healed Theognia)
 
 Minori, Province of Salerno, Campania Region
 
@@ -6690,7 +6673,7 @@ Missanello, Province of Potenza, Basilicata region
 
 - St. Senatro, monk, 1/11 (possibly in the Basilica di Sant'Elia)
 
-Modena, Province of Modena, Reggio d'Emilia region
+Modena, Province of Modena, Reggio d’Emilia region
 
 - Duomo
 
