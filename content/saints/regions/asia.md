@@ -1352,11 +1352,15 @@ Banda Aceh, Aceh Province, Sumatra region
 
   - Bl. Redemptus of the Cross (Tomás Rodrigues da Cunha), religious/martyr, 11/29 (body lost; thrown into the sea)
 
+- Kolser, Kei Kecil sub-district, Southeast Maluku/Kabupaten Maluku Tenggara, Maluku Province/Kolser, Kecamatan Kei Kecil, Maluku Tenggara/Kabupaten Maluku Tenggara, Provinsi Maluku
+
+  - Gua Kuil Maria Dikandung Tanpa Noda/Shrine Grotto of the Immaculate Conception of Mary (8PQC+CV7)
+
 Langgur, Kei Kecil Island, Southeast Maluku Province
 
 - Kei Martyrs Pilgrimage Park
 
-  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12 Missionaries of the Sacred Heart (MSC) Companions
+  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12 Missionaries of the Sacred Heart (MSC) Companions, d. 7/30/1942
 
 Larantuka, East Flores Regency, Flores Island, East Nusa Tenggara province
 
@@ -1378,7 +1382,7 @@ Hamadan, Central district, Hamadan County, Hamadan Province
 
 - Tomb of Esther and Mordechai (Persian: آرامگاه استر و
   مردخای)
-  - Queen St. Esther
+  - Queen St. Esther, 7/1
 
   - Mordechai
 
@@ -1658,8 +1662,7 @@ Ein Karem/Ain Karem (עין כרם), Jerusalem, Jerusalem District
 
 - The Virgin Spring
 
-Eleutheropolis (\"city of the free\") was the Greek name of a Roman city
-in Palestine, some 53 km southwest of Jerusalem
+Eleutheropolis (\"city of the free\") was the Greek name of a Roman city in Palestine, some 53 km southwest of Jerusalem
 
 - ???
 
@@ -1792,8 +1795,7 @@ Jerusalem
 
 - Convent of the Dominican Sisters of the Most Holy Rosary/Rosary Church
 
-  - St. Mariam Sultaneh Danil Ghattas/Marie-Alphonsine Danil Ghattas,
-    foundress, 3/25
+  - St. Mariam Sultaneh Danil Ghattas/Marie-Alphonsine Danil Ghattas, foundress, 3/25
 
 - Monastery Sainte Claire (Hanock Albeck, 3; tel. +972 02.671.75.34; clarisse.gerusalemme@gmail.com)
 
@@ -1815,9 +1817,7 @@ Jerusalem
 
   - Ss. Andronicus and Athanasia, spouses, 10/9
 
-  - St. Chariton the Confessor of Palestine, confessor, 9/28 (buried in
-    a church built on the site of the robbers\' cave on the outskirts of
-    Jerusalem)
+  - St. Chariton the Confessor of Palestine, confessor, 9/28 (buried in a church built on the site of the robbers\' cave on the outskirts of Jerusalem)
 
   - St. Cyril of Jerusalem, Church Father, Church Doctor, 3/18
 
@@ -1863,20 +1863,19 @@ Kever Shmuel ha-Navi/Nebi Samuel/Nebi Samwil
 - Tomb of Samuel/النبي صموئيل/קבר שמואל
   הנביא/Nabi Samwil mosque
 
-The Prophet Samuel, 8/20
+  - The Prophet Samuel, 8/20
 
 الخان الأحمر/חאן אל-אחמאר/Khan
 al-Ahmar, Jerusalem Governorate, West Bank
 
 - دير أوثيميوس/מנזר אותימיוס/Monastery of
-  Euthymius/Lavra of Euthymius (its ruins stand on the main
-  Jerusalem-Jericho highway)
+  Euthymius/Lavra of Euthymius (its ruins stand on the main Jerusalem-Jericho highway)
 
   - St. Euthymius the Great, abbot, 1/20
 
 Kiryat Arba/Qiryat Arba, Hebron
 
-Cave of Machpela
+- Cave of Machpela
 
   - St. Sarah the Matriarch, wife of Moses, 8/19
 
@@ -2082,7 +2081,7 @@ Koguchi village, Ōmura, Nagasaki prefecture
 
 Kokura (小倉市), Kitakyushu, Fukuoka Prefecture
 
-All of their bodies were burned and their ashes scattered
+- All of their bodies were burned and their ashes scattered
 
   - Bl. Iacobus Bunzo Gengoro, boy martyr, 8/16
 
@@ -2121,15 +2120,29 @@ Kyoto
     Ikegami • Bl. Thomas Kajiya Yoemon • Bl. Thomas Kian • Bl. Thomas
     Koshima Shinshiro • Bl. Thomas Toemon • Bl. Ursula Sakurai
 
-Mount Unzen/雲仙岳, near Shimabara/島原市, Nagasaki Prefecture, Kyushu
-Island
+Mount Unzen/雲仙岳, near Shimabara/島原市, Nagasaki Prefecture, Kyushu Island
 
 - ???
 
-  - Bl. マイケル・ナカシマ・サブローエモン/Michaël Nakashima Saburoemon,
-    SJ, layman/martyr, 12/25 (he died here, but where is he buried?)
+  - Bl. マイケル・ナカシマ・サブローエモン/Michaël Nakashima Saburoemon, SJ, layman/martyr, 12/25 (he died here, but where is he buried?)
 
 Nagasaki
+
+- 浦上天主堂/浦上教会/Urakami Cathedral (1-79 Motoomachi/长崎県長崎市本尾町1-79)
+
+  - 長崎の被爆のマリア/Our Lady of Nagasaki (relic from the atomic bomb explosion)
+
+- 大浦天主堂/Ōura Tenshudō/Ōura Church/Basilica of the Twenty-Six Holy Martyrs of Japan (長崎県長崎市南山手町5-3/5-3 Minamiyamate-machi
+
+  - Bl. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/14
+
+- 坂本国際墓地/Sakamoto International Cemetery (長崎県長崎市坂本1丁目2/1-2 Sakamoto)
+
+  - Servant of God 森山みどり まりな/Midori Marina Moriyama Midori, laywoman, d. 8/9/1945
+
+  - Servant of God パオロ・ナガイ・タカシ/Takashi Paolo Nagai, doctor, d. 5/1/1951
+
+???
 
   - Bl. Alexius Nakamura, layman, 11/27
 
@@ -2207,8 +2220,7 @@ Nagasaki
 
   - Bl. Francisco Castellet Vinale, OP, priest, 8/8 & 9/8
 
-  - Bl. Francisco Pacheco, SJ, priest/martyr, 6/20 (ashes thrown into the
-    water)
+  - Bl. Francisco Pacheco, SJ, priest/martyr, 6/20 (ashes thrown into the water)
 
   - Bl. Franciscus Kuhyoe, TOSF, layman/martyr, 8/27
 
@@ -2318,11 +2330,9 @@ Nagasaki
 
   - St. Marina of Omura, TOSD, laywoman/martyr, 11/11 (burned alive)
 
-  - St. Martín de la Ascensión (née Martin) Loynaz de Aguirre, OFM,
-    missionary, 2/6
+  - St. Martín de la Ascensión (née Martin) Loynaz de Aguirre, OFM, missionary/martyr, 2/6
 
-  - Bl. Martín de San Nicolás (née Martín) Lumbreras Peralta, OAR,
-    priest/martyr, 9/28 & 12/11 (burned alive)
+  - Bl. Martín de San Nicolás (née Martín) Lumbreras Peralta, OAR, priest/martyr, 9/28 & 12/11 (burned alive)
 
   - Bl. Matthaeus Alvarez Anjin, TOSD/TOSF, layman/martyr, 9/3
 
@@ -2332,8 +2342,7 @@ Nagasaki
 
   - Bl. Matthias Nakano, layman, 11/27
 
-  - Bl. Melchor de San Agustín Sánchez Pérez, OAR, priest/martyr, 9/28 &
-    12/11
+  - Bl. Melchor de San Agustín Sánchez Pérez, OAR, priest/martyr, 9/28 & 12/11
 
   - Bl. Michaël Díaz Hori, layman/martyr, 8/19
 
@@ -2404,18 +2413,6 @@ Nagasaki
   - Bl. Tsuji Shobyoe, TOSF, layman/martyr, 8/27
 
   - Bl. Vincentius Kaun, SJ, priest/martyr, 6/20 (ashes thrown into the sea)
-
-- Ōura Church/Basilica of the Twenty-Six Holy Martyrs of Japan
-
-  - Bl. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/14
-
-- 坂本国際墓地/Sakamoto International Cemetery
-
-  - Servant of God 森山みどり まりな/Midori Marina Moriyama Midori,
-    laywoman, d. 8/9/1945
-
-  - Servant of God パオロ・ナガイ・タカシ/Takashi Paolo Nagai,
-    doctor, d. 5/1/1951
 
 Nishizaka, Nagasaki
 
@@ -3862,7 +3859,7 @@ Saidnaya/صيدنايا, al-Tall district, Rif Dimashq governorate
 Saideneida icon (شاغورة/Shaghoura \"the
 Illustrious"\, 2/3
 
-Anatolius of Alexandria, Laodicea, Syria, 7/3
+  - Anatolius of Alexandria, Laodicea, Syria, 7/3
 
   - St. Ananias of Arbela (Syria), 12/1
 
@@ -3876,11 +3873,17 @@ Anatolius of Alexandria, Laodicea, Syria, 7/3
 
 # Thailand
 
+Ayutthaya, Phra Nakhon Si Ayutthaya province
+
+- วัดนักบุญยอแซฟ อยุธยา/St. Joseph Church (Samphao Lom, Phra Nakhon Si Ayutthaya district)
+
+  - ปีแยร์ ล็องแบร์ เดอ ลา ม็อต/Servant of God Pierre Lambert de la Motte, MEP, missionary bishop, d. 6/15/1679
+
 Bangkok
 
 - อาสนวิหารอัสสัมชัญ/Assumption Cathedral
 
-  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
+  - Bl. Nicholas Bunkerd Kitbamrun, priest/martyr, 1/12 (relic only)
 
 - ???
 
@@ -3892,44 +3895,35 @@ Penang
 
   - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
 
-Songkhon/ทรงคน, Pong Kham subdistrict, Wan Yai
-District,\2\ Mukdahan Province, northeastern Thailand
+Songkhon/ทรงคน, Pong Kham subdistrict, Wan Yai District, Mukdahan Province, northeastern Thailand
 
-- ศาลพระแม่มารีแห่งมรณสักขี/Shrine of Our Lady of the Martyrs of
-  Thailand
+- ศาลพระแม่มารีแห่งมรณสักขี/Shrine of Our Lady of the Martyrs of Thailand
 
 Tambon Chanot/ตำบลชะโนด, Province of Mukdahan
 
-วัดทรงขันธ์/Wat Song Khan/Our Lady of the Martyrs of
-Thailand Shrine
+- วัดทรงขันธ์/Wat Song Khan/Our Lady of the Martyrs of Thailand Shrine
 
   - Proto-martyrs of Thailand, 12/26
 
-  - Bl. อากาตะ พุทธบี/Agatha Phutta,
-    cook/laywoman
+  - Bl. อากาตะ พุทธบี/Agatha Phutta, cook/laywoman
 
   - Bl. อักเนส ฟิลา/Agnes Phila, religious
 
-  - Bl. เซซิเลีย บัตซี่/Cecilia Butsi,
-    cook/laywoman
+  - Bl. เซซิเลีย บัตซี่/Cecilia Butsi, cook/laywoman
 
-  - Bl. ฟิลิป ซิพงศ์ โอนพิทัก/Filip
-    Siphong Onphitak, layman, 12/16
+  - Bl. ฟิลิป ซิพงศ์ โอนพิทัก/Filip Siphong Onphitak, layman, 12/16
 
   - Bl. ลูซี่ คำบัง/Lucy Khambang, religious
 
-  - Bl. มาเรีย ฟอน/Maria Phon,
-    student/laywoman
+  - Bl. มาเรีย ฟอน/Maria Phon, student/laywoman
 
-  - Bl. วิเวียน คัมฟายฟ์/Vivian Khamphaiv,
-    student/laywoman
+  - Bl. วิเวียน คัมฟายฟ์/Vivian Khamphaiv, student/laywoman
 
 Tha Kham sub-district, Sam Phran district, Nakhon Pathom province
 
 - Shrine Of Blessed Nicholas Bunkerd
 
-  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (his ashes and effigy are
-    here)
+  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (his ashes and effigy are here)
 
 # Uzbekistan
 
