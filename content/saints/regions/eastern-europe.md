@@ -2743,15 +2743,13 @@ Parafia Opieki Matki Bożej w Osięcinach
 
   - Bl. Wincenty Matuszewski, priest/martyr, 5/24
 
-Ostrów Wielkopolski, Ostrów Wielkopolski County, Greater Poland
-Voivodeship/Województwo Wielkopolskie
+Ostrów Wielkopolski, Ostrów Wielkopolski County, Greater Poland Voivodeship/Województwo Wielkopolskie
 
 - Konkatedra w Ostrowie Wielkopolskim/Ostrów Wielkopolski Co-Cathedral
 
   - Servant of God Kazimierz Rolewski, priest, d. 3/13/1936
 
-Palmiry, Gmina Czosnów administrative district, Nowy Dwór County,
-Masovian voivodeship
+Palmiry, Gmina Czosnów administrative district, Nowy Dwór County, Masovian voivodeship
 
 - Cmentarz Wojenny w Palmirach/Palmiry Cemetery
 
@@ -2759,11 +2757,15 @@ Masovian voivodeship
 
 Paprotnia village (near Teresin), Sochaczew County, Masovian voivodeship
 
-- Cmentarz Klasztorny w Niepokalanowie, Niepokalanów Klasztorny/cemetery
-  of the Niepokalanow Monastery of the Immaculate Mary Mediatrix of Grace
+- Cmentarz Klasztorny w Niepokalanowie, Niepokalanów Klasztorny/cemetery of the Niepokalanow Monastery of the Immaculate Mary Mediatrix of Grace
 
-  - Servant of God Br. Innocenty Maria (Eugeniusz) Wojcik, OFM Conv.,
-    priest, d. 11/18/1994
+  - Servant of God Br. Innocenty Maria (Eugeniusz) Wojcik, OFM Conv., priest, d. 11/18/1994
+
+Parzno, Gminina/District Kluki, Bełchatów County, Łódź archdiocese
+
+- Kościoła Najświętszego Serca Jezusowego w Parznie/Church of the Sacred Heart (Parzno 18/19)
+
+  - Ven. Wanda Justyna Nepomucena Malczewska, laywoman, d. 9/25/1896 (in the crypt)
 
 Pelkinie, Podkarpackie
 
@@ -2773,10 +2775,9 @@ Pelkinie, Podkarpackie
 
 Pelplin, Tczew County, Pomeranian Voivodship
 
-Cmentarz
+- Cmentarz
 
-  - Servant of God Konstantyn Dominik, bishop, d. 3/7/1942 (He is buried
-    next to the plot of murdered priests from the then-Chełmno diocese)
+  - Servant of God Konstantyn Dominik, bishop, d. 3/7/1942 (He is buried next to the plot of murdered priests from the then-Chełmno diocese)
 
 Pierściec, Gmina Skoczów, Cieszyn County, Silesian Voivodeship
 
