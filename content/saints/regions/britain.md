@@ -1875,7 +1875,7 @@ Shrewsbury, Shropshire
   - St. Winifred of Wales, abbess/martyr, 11/2 (relics returned here from
     Rome in 1852)
 
-Smithfield
+Smithfield/West Smithfield, City of London, Greater London (51.519°N 0.102°W)
 
 - ???
 
@@ -1887,7 +1887,7 @@ Smithfield
 
   - Bl. Thomas Abel, martyr, 7/30
 
-  - St. Andrews, Fife, Scotland
+St. Andrews, Fife, Scotland
 
 - St. Andrew Cathedral (successor to St. Regulus Church, and now a ruin)
 
@@ -1895,23 +1895,23 @@ Smithfield
 
   - St. Regulus, bishop, 3/30 (grave lost)
 
-  - St. Ives, Cambridgeshire
+St. Day village, Cornwall
+
+- Shrine/Chapel of St. Day (Demolished. Site is at the end by the parish council’s town trail.)(Not to be confused with the ruined Holy Trinity Chapel/St. Day Church)
+
+  - St. Day, 1/18 (may or may not have been buried here, but this was the pilgrimage site)
+
+St. Ives, Cambridgeshire
 
 - ???
 
   - St. Ivo, bishop, 6/10
 
-  - St. Mawgan, Cornwall, South West region
+St. Mawgan, Cornwall, South West region
 
 - St. Mawgan-in-Pydar Church
 
   - St. Piran (may not be here)
-
-St. Day village, Cornwall
-
-- Shrine/Chapel of St. Day (End by the parish council’s town trail.)(Not to be confused with the ruined Holy Trinity Chapel/St. Day Church)
-
-  - St. Day, 1/18 (may or may not have been buried here, but this was the pilgrimage site)
 
 Saint Thomas' Waterings, Camberwell, (Southwark?,) England
 
