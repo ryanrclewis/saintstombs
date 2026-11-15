@@ -1729,12 +1729,19 @@ Redruth, Cornwall
 
   - St. Day, 1/18
 
+Rhoscrowther, Angle community, Pembrokeshire, Wales
+
+- St. Decuman Church
+
+  - Shrine of St. Decuman (only the base of it is left)
+
+  - St. Decuman, nobleman/martyr, 2/27 & 8/27 (likely his remains were scattered)
+
 Rievaulx, North Yorkshire, Yorkshire and the Humber region
 
 - Rievaulx Abbey (in ruins)
 
-  - St. Aelred of Rievaulx, O.Cist., abbot, 1/12 (he was buried behind the
-    high altar)
+  - St. Aelred of Rievaulx, O.Cist., abbot, 1/12 (he was buried behind the high altar)
 
 Ripon, North Yorkshire
 
