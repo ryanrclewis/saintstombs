@@ -1723,12 +1723,6 @@ Rednal, Metropolitan Borough of Birmingham, West Midlands
 
   - St. John Henry Newman, cardinal, 8/11 & 10/9
 
-Redruth, Cornwall
-
-- ???
-
-  - St. Day, 1/18
-
 Rhoscrowther, Angle community, Pembrokeshire, Wales
 
 - St. Decuman Church
@@ -1860,8 +1854,7 @@ Salisbury, Wiltshire
 
 - Salisbury Cathedral
 
-- St. Osmund (aka, Edimund; Edmund; Osimund), bishop, 12/4 (in the Chapel
-  of Our Lady, look for the marble slab that reads "MXCIX")
+- St. Osmund (aka, Edimund; Edmund; Osimund), bishop, 12/4 (in the Chapel of Our Lady, look for the marble slab that reads "MXCIX")
 
 - ???
 
@@ -1890,8 +1883,7 @@ Smithfield
 
   - Bl. John Forest, martyr, 5/22 (relics may still be hidden here)
 
-  - Bl. Richard Featherstone, chaplain to Queen Catherine of Aragon, martyr,
-    7/30
+  - Bl. Richard Featherstone, chaplain to Queen Catherine of Aragon, martyr, 7/30
 
   - Bl. Thomas Abel, martyr, 7/30
 
@@ -1899,8 +1891,7 @@ Smithfield
 
 - St. Andrew Cathedral (successor to St. Regulus Church, and now a ruin)
 
-  - Relics of St. Andrew (likely lost after the Protestant rampage of June
-    1559)
+  - Relics of St. Andrew (likely lost after the Protestant rampage of June 1559)
 
   - St. Regulus, bishop, 3/30 (grave lost)
 
@@ -1916,19 +1907,23 @@ Smithfield
 
   - St. Piran (may not be here)
 
+St. Day village, Cornwall
+
+- Shrine/Chapel of St. Day (End by the parish council’s town trail.)(Not to be confused with the ruined Holy Trinity Chapel/St. Day Church)
+
+  - St. Day, 1/18 (may or may not have been buried here, but this was the pilgrimage site)
+
 Saint Thomas' Waterings, Camberwell, (Southwark?,) England
 
 - ???
 
   - Bl. John Pibush, priest/martyr, 2/18
 
-Stanbrook, Callow End, near Malvern, Worcestershire, in the Severn
-Valley
+Stanbrook, Callow End, near Malvern, Worcestershire, in the Severn Valley
 
-- Benedictine abbey
+- Benedictine abbey (Stanbrook Abbey, Crieff Farm, Wass)
 
-  - Carmelite martyrs of Compiègne, second class relics only, 7/17
-  - St. Fulgentia
+  - Carmelite martyrs of Compiègne, second class relics only, 7/17   - St. Fulgentia
 
 Stanton Harcourt, Oxfordshire
 
