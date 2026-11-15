@@ -1702,6 +1702,10 @@ Vilna/Vilnius
 
   - St. John of Vilna, martyr, 4/14
 
+- Vilniaus Dievo Gailestingumo šventovė/Divine Mercy Sanctuary of Vilnius/Holy Trinity Church (Dominikonų St. 12)
+
+  - Original 1934 image of Divine Mercy by artist Eugeniusz Kazimirowski
+
 - Antakalnio kapinės/Antakalnis Cemetery
 
   - Servant of God Marija Rusteikaitė, religious/foundress/Righteous Among
@@ -4064,9 +4068,13 @@ Odranci, Prekmurje region (far eastern Slovenia)
 
 - ??? (possibly at Pokopališče Odranci/Odranci Cemetery)
 
-  - Servant of God Alojzij (Lojze) Kozar, priest/writer, d. 4/29/1999
-    (pastor at župnijski cerkvi Svete Trojice/parish church of the Holy
-    Trinity)
+  - Servant of God Alojzij (Lojze) Kozar, priest/writer, d. 4/29/1999 (pastor at župnijski cerkvi Svete Trojice/parish church of the Holy Trinity)
+
+Petrinci, Sodražica municipality, Southeast Slovenia statistical region, Lower Carniola traditional region
+
+- Pokopališče pri cerkvi Naše Gospe Snežne/Church of Our Lady of Snows cemetery (Petrinci 15)
+
+  - Servant of God Marija Magdalena Gornik, mystic/stigmatist/theologian, d. 2/23/1896
 
 Ptuj, Drava statistical region, Styria traditional region
 
