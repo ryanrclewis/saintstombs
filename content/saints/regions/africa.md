@@ -915,7 +915,11 @@ Cueta
 
   - St. Berard (aka, Beraldus; Berard of Carbio), martyr, 1/16
 
-Tangiers
+Tangiers, Tangier-Assilah Prefecture, Tanger-Tetouan-Al Hoceima
+
+- Catedral de Nuestra Señora de la Asunción/Our Lady of the Assumption Cathedral of Tangier (Avenue Hassan II) (35°46′55″N 5°49′04″W)
+
+  - Servant of God José María de San Antonio (née José Antonio) Ramón Lerchundi, OFM, bishop, d. 3/8/1896
 
 - ???
 
