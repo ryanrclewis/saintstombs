@@ -1,9 +1,5 @@
 # Denmark
 
-- Æbelholt Monastery (now a ruin, but there is a museum at Æbelholt 4 DK-3400 Hillerød Denmark, in the direction of Frederiksværk).
-
-  - St. Wilhelm of Eskilsoe (aka, William of Aebelhold; William of Aebelholt; William of Ebelholt; William of Eskhill; William of Ise Fjord; William of Paris; William of the Paraclete), abbot, 4/6
-
 Alslev, Varde municipality, Ribe county, Southern Denmark region
 
 - ???
@@ -38,17 +34,19 @@ Slagelse, Region Zealand
 
   - St. Anders of Slagelse, priest, 11/30
 
+Tjæreby village, Hillerød Municipality, Region Hovedstaden, Sjælland/Zealand Island
+
+- Æbelholt Monastery (now a ruin, but there is a museum at Æbelholt 4 DK-3400 Hillerød, Denmark, in the direction of Frederiksværk).
+
+  - St. Wilhelm of Eskilsoe, abbot, 4/6
+
 Vestervig, Thisted municipality, North Jutland Region
 
 - Vestervig Abbey
 
-  - Bl. Theodgar/Thøger of Vestervig, missionary, 6/24 (grave likely lost or
-    destroyed)
+  - Bl. Theodgar/Thøger of Vestervig, missionary, 6/24 (grave likely lost or destroyed)
 
   - St. Liafdag, bishop, 2/3
-
-- William of Aebehold/Eskilsoe/Aebelholt (possibly monastery of St.
-  Thomas, Zeeland) 4/6
 
 # Faroe Islands
 
