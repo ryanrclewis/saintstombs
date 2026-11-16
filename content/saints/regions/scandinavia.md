@@ -12,9 +12,9 @@ Alslev, Varde municipality, Ribe county, Southern Denmark region
 
 Odense, Odense Kommune, Syddanmark region
 
-  - St. Canute/St. Alban/Sankt Knuts Kirke
+- St. Canute/St. Alban/Sankt Knuts Kirke
 
-- St. Knud (aka Canute IV), 1/19 & 7/10 (possibly in the church of St. Alban)
+  - St. Knud (aka Canute IV), 1/19 & 7/10 (possibly in the church of St. Alban)
 
   - St. Alban, 6/17 (possible)
 
