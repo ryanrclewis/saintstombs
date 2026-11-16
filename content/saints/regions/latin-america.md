@@ -138,7 +138,7 @@ Córdoba, Capital department, Province of Córdoba
 
   - Servant of God Pura Rosa del Carmen (née Secundina Guadalupe Olmos), religious, d. 7/28/1965 (she died at the motherhouse of Hermanas Carmelitas de Santa Teresa de Jesús)
 
-  - Bl. Saturnina (Madre Catalina de María) Rodríguez de Zavalía, foundress, 4/5
+  - Bl. Madre Catalina de María (née Saturnina) Rodríguez de Zavalía, foundress, 4/5
 
 Curuzú Cuatiá, Curuzú Cuatiá department, Province of Corrientes
 
@@ -1072,7 +1072,7 @@ Colégio Santa Luzia (R. Cônego Eugênio Leite, 825 - Pinheiros)
 
 - ???
 
-  - Servant of God Giuseppe Marchetti, MSCS, priest, d. 12/14/1896
+  - Ven. José/Giuseppe Marchetti, MSCS, priest, d. 12/14/1896
 
 São Paulo, Bairro Jardim Aladim, São Paulo state
 
@@ -2891,7 +2891,7 @@ Ciudad Obregón, Cajeme municipality, Sonora state
 
 Cusco/Cuzco, Cusco Province, Cusco Region, Peru
 
-Monasterio de las Oblatas de la Orden de San Agustín (in ruins; now a hotel)
+- Monasterio de las Oblatas de la Orden de San Agustín (in ruins; now a hotel)
 
   - Servant of God Francisco Tito Yupanqui, indigenous sculptor/layman, d. 1616 (he died here, but is he buried here?)
 
@@ -3052,6 +3052,12 @@ Santa Rosa, Santa Rosa de Ocopa district, Province of Concepción, Department of
   - Servant of God Pío Sarobe Otaño, OFM, priest, d. 3/7/1910
 
   - St. John of Saint Fagondez de Castrillo of Sahagun, preacher, 6/12 (relics here)
+
+Zaña or Saña, Chiclayo Province, Lambayeque
+
+- Santuario de Santo Toribio/Shrine of St. Toribio de Montenegro (Jirón Toribio Rodríguez de Mendoza 126)
+
+  - This is the original burial place of St. Toribio
 
 # Puerto Rico
 
