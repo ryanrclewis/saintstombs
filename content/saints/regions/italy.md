@@ -94,8 +94,7 @@ Suore Serve Di Maria Riparatrici (Via Brollo, 14)
 
   - St. Coliano of Adria, bishop, 2/7
 
-Affi, Province of Verona, Veneto region (120 kilometres \[75 mi\] west
-of Venice and about 20 kilometres \[12 mi\] northwest of Verona)
+Affi, Province of Verona, Veneto region (120 kilometres \[75 mi\] west of Venice and about 20 kilometres \[12 mi\] northwest of Verona)
 
 - Chiesa parrocchiale di San Pietro in Vincoli
 
@@ -5106,8 +5105,7 @@ region
 
 Grottaferrata, Province of Rome, Lazio Region
 
-- Abbey of Santa Maria di Grottaferrata/Monastery and Church of the
-  Madonna
+- Abbey of Santa Maria di Grottaferrata/Monastery and Church of the Madonna
 
   - St. Bartolomeo il Giovane di Rossano/Bartholomew the Younger of Rossano, monk, 11/11 (grave lost to time)
 
@@ -5122,6 +5120,10 @@ Grottaferrata, Province of Rome, Lazio Region
 - Figlie di San Camillo/Daughters of St. Camilus (Via Anagnina, 18)
 
   - St. Giuseppina (née Giuditta Adelaide Agata) Vannini, FSC, foundress, 2/23
+
+- ???
+
+  - Servant of God Silvano Cola, priest, d. 2/17/2007
 
 Grottaglie, Province of Taranto, Apulia region
 
@@ -5415,8 +5417,7 @@ L'Aquila, Province of L'Aquila, Abruzzo Region
 
   - Bl. Giovanni Bassando, priest, 8/26
 
-- Chiesa di S. Margherita (in in Piazza Santa Margherita, the quarto di
-  San Pietro)
+- Chiesa di S. Margherita (in Piazza Santa Margherita, the quarto di San Pietro)
 
   - St. Equizio/Equitius of Valeria, OSB, abbot, 8/11
 
@@ -5430,13 +5431,19 @@ L'Aquila, Province of L'Aquila, Abruzzo Region
 
   - Bl. Vincenzo dell'Aquila, hermit, 8/7
 
-- Chiesa del Monastero dell'eucaristia
+- Casa Generalizia di Suore Zelatrici del Sacro Cuore (Via Santa Chiara d’Acquili, 20)
 
-  - Bl. Antonia of Florence, 2/28
+  - Servant of God, Maria Caterina Ferrari Rotilio, foundress, d. 2/11/1896
 
 - ???
 
   - St. Raniero/Raynerius of Aquila, bishop, 12/30
+
+L’Aquila, Paganica *frazione*, Province of L’Aquila, Abruzzo region
+
+- Monastero di Santa Chiara (Via San Bartolomeo 6)
+
+  - Bl. Antonia of Florence, widow/religious/abbess, 2/28
 
 Larino, Province of Campobasso, Molise Region
 
@@ -6093,8 +6100,7 @@ Massa Lubrense, Sant’Agata sui Due Golfi frazione, Metropolitan City of Naples
 
 Massa Marittima, Province of Grosseto, Toscana region
 
-- Duomo di Massa Marittima/Cattedrale di San Cerbone/Massa Marittima
-  Cathedral
+- Duomo di Massa Marittima/Cattedrale di San Cerbone/Massa Marittima Cathedral
 
   - St. Cerbone/Cerbonius di Populonia/of Verona, bishop, 10/10
 
@@ -9552,23 +9558,19 @@ Icon of Madonna and Child
 
 - La chiesa del Carmelo
 
-  - Bl. Maria Candida dell'Eucharistia (née Maria Barba), OCD, religious,
-    6/12
+  - Bl. Maria Candida dell'Eucharistia (née Maria Barba), OCD, religious, 6/12
 
 Casa madre for the Suore del Sacro Cuore (via Beata Maria Schininà 2)
 
   - Bl. Maria del Sacro Cuore di Gesù (née Maria) Schininà Arezzo, 6/11
 
-Casa di riposo "Maria Schininà"/Retirement home "Maria Schininà" (Via
-Madre Teresa di Calcutta, 11)
+Casa di riposo "Maria Schininà"/Retirement home "Maria Schininà" (Via Madre Teresa di Calcutta, 11)
 
-  - Ven. Santina di Gesù (née Emanuela Giovanna) Scribano, religious, d.
-    5/12/1968 (buried in "one of the chapels")
+  - Ven. Santina di Gesù (née Emanuela Giovanna) Scribano, religious, d. 5/12/1968 (buried in “one of the chapels”)
 
 - ???
 
-  - Servant of God Nazarena del Crocifisso (née Rosaria) Di Pasquale, I.SC,
-    religious, d. 7/20/1954
+  - Servant of God Nazarena del Crocifisso (née Rosaria) Di Pasquale, I.SC, religious, d. 7/20/1954
 
 Raldon, Province of Verona, Venetia region
 
@@ -10060,210 +10062,6 @@ Rogeno, Province of Lecco, Lombardia Region
 
 Rome (Roma)
 
-- ???
-
-  - The martyrs of Crete, 12/23
-
-  - Martyrs of Dalmatia and Istria, 4/1 (Venantius, bishop, and his
-    companions from Dalmatia and Istria, Anastasius, Mauro, Paulinianus,
-    Thelius, Asterius, Septimius, Antiochianus and Gaianus)
-
-  - St. Acestes, martyr, 7/2
-
-  - Servant of God Adela (María Bernadita dsi la Inmaculada) Sesso,
-    religious, d. 12/12/2001
-
-  - St. Agapitus, 8/7
-
-  - St. Agato/Agathus 1/10 (Pope)
-
-  - St. Agileo di Cartagine/Agileus of Carthage, martyr, 1/26
-
-  - St. Alessandro of the Via Claudia, bishop/martyr, 9/21
-
-  - Servant of God Alexandre Toé, OSCam, priest, d. 12/9/1996 (died in Rome,
-    but where is he buried?)
-
-  - St. Anastasio, martyr, 4/1
-
-  - Servant of God Angela Rosa ("Madre Teresa") Napoli, foundress, d.
-    11/16/1992 (maybe at the Generalate of the Ancelle Francescane del Buon
-    Pastore or the casa di cura/nursing home)
-
-  - Servant of God Anna di Gesù (Anna Figus), d. 6/27/1995 (maybe at the
-    motherhouse of Congregazione Delle Pie Suore Della Redenzione \[Via
-    Torrevecchia, 684\])
-
-  - St. Aquila, 7/8
-
-  - St. Bajulus, 12/20
-
-  - St. Bartholomew (on the Isola Tiberna)
-
-  - St. Basileus, martyr, 3/2 (buried beside the Via Latina)
-
-  - Ss. Bassus, Fabius, and Maximus of Sabina, martyrs, 5/11
-
-  - St. Beatrix (sister of Ss. Faustinus & Simplicius), virgin martyr, 6/29
-
-  - St. Benedicta, martyr, 1/4
-
-  - St. Benedetta/Benedicta of Rome, religious, 5/6 (possibly in Dodici
-    Apostoli)
-
-  - St. Blaesilla, widow/friend of St. Jerome, 1/22
-
-  - St. Bonus (aka, Bono), martyr, 8/1
-
-  - Servant of God Carolina Mancinelli Scampone, T.O.C.s, laywoman, d.
-    2/5/1951
-
-  - St. Cassian, martyr, 3/26
-
-  - St. Cassian, martyr, 12/1
-
-- St. Castulus, cemetery named for him on the Via Labicana, martyr, 3/26
-
-  - St. Cyrus (aka, Cher or Abbacyrus) supposedly at Sant'Appassara.
-
-  - St. Constantius, priest, 9/30
-
-  - St. Crispianus, martyr, 10/25
-
-  - St. Crispinus (aka, Crispin), martyr, 10/25 (different than the one
-    above)
-
-  - St. Crispus, priest-martyr, 8/18
-
-  - Ss. Chrysanthus and Daria, martyrs, (buried on the New Salarian Way
-    outside Rome), 10/25
-
-  - St. Didorus, martyr, 12/1
-
-  - Ven Diomira Ludovica Romana (Madre Margherita) Crispi, foundress, d.
-    6/18/1974 (buried "not far from the Major Basilica of San Giovanni in
-    Laterano")
-
-  - St. Dionysius, martyr, 5/12
-
-  - St. Domnio of Rome, priest, 12/28
-
-  - St. Edmund Campion, martyr, 12/1 (relic only)
-
-  - Ven. Egidio Giuseppe dei Ss. Cuori (née Severino Malacarne), CP, priest,
-    d. 11/29/1953
-
-  - Ven. Elisa Giambelluca, math teacher/principal, d. 7/5/1986 (probably buried elsewhere)
-
-  - Ss. Epimachus and Gordianus, buried off the Via Latina (Gordiano, 5/10, is at the Lateran and Kempen Abbey in Bavaria)
-
-  - St. Euprepis, martyr, 11/30
-
-  - St. Eutichio, martyr, 2/3 ("interred in the catacombs of the Appian Way outside Rome," but which one, San Callisto or San Sebastiano?)
-
-  - St. Fabiola of Rome, physician/laywoman, 12/27
-
-  - St. Faustinus, martyr, (likely fictitious), martyr, 2/15 (possibly at
-    the Church of Sant'Angela Merici in Brescia)
-
-  - St. Faustinus & 45 Companions, martyrs, 2/17
-
-  - St. Faustus, layman, martyr, 8/1
-
-  - St. Felicissimus, martyr, 8/7
-
-  - St. Felix, martyr (husband of Blanda), martyr, 5/10
-
-  - St. Felix, martyr, 12/29
-
-  - St. Felix of Rome, martyr, 1/14
-
-  - Servant of God Giampollo Mollo, permanent deacon, d. 9/1/1998
-
-  - Servant of God Giulio Penitenti, priest/founder, d. 7/7/1978
-
-  - Servant of God Giuseppe Battistella, FSMI, priest, d. 11/10/1965 (he died here, but where is he buried?)
-
-  - St. Hermes the Exorcist of Rome, martyr, 12/31
-
-  - Servant of God Lorena D'Alessandro, laywoman
-
-  - St. Marcella of Rome, martyr, 1/31
-
-  - St. Mary of Egypt, 4/1
-
-  - Servant of God Maria Agostina di Gesù, 1/28/1900, possibly at the Generalate for the Suore di Carità di Nostra Signora del Buon e
-    Perpetuo Soccorso
-
-  - Servant of God Maria Farsetti, laywoman, d. 5/9/1953
-
-  - Servant of God Maria Gedda, movement founder, 1/29/1985
-
-  - Servant of God Maria Rachele Tararan, religious, d. 8/1/1980
-
-  - St. Maximus of Rome, priest/martyr, 11/19 (supposedly buried in the “catacombs of Saint Xystus, Rome,” but I can’t find where that is)
-
-  - Servant of God Marie-Ignace (née Marie-Adélaïde) Melin, foundress, d. 1/26/1941
-
-  - Pope St. Melchiades, martyr, 12/10 (maybe on Via Appia)
-
-  - St. Mosè di Roma/Moses of Rome, Jewish convert/priest/martyr, 11/25
-
-  - Servant of God Palmira Viola (Maria Anselma), foundress, d. 1/9/1983
-
-  - St. Pancras, martyr
-
-  - St. Filipo/Philip of Rome, 3^rd^ century martyr, 9/13
-
-  - St. Plautilla of Rome, martyr, 5/20
-
-  - St. Priscillianus, martyr, 1/4
-
-  - St. Priscus, martyr, 1/4
-
-  - St. Prosper of Aquitaine, Church Father, 6/25 & 7/7 (died here but no one knows where his tomb is)
-
-  - St. Restitutus/Restituto of Rome, martyr, 5/27 & 5/29 & 6/11 (on the
-    Via Nomentana)
-
-  - Bl. Rodolfo Acquaviva, SJ, priest/martyr, 2/4 (arm only; at the Jesuit house)
-
-  - Servant of God Mother Rosetta Marchese, religious, d. 3/8/1984
-
-  - Bl. Rudolf/Rodolfo Acquaviva, SJ (arm only)
-
-  - St. Rufus
-
-  - Ss. Saturninus, an old man, and Sisinius, deacon
-
-  - St. Simitrius of Rome & 22 Companions, martyrs, 5/26 (beheaded c.159 on the Via Salaria Nuova)
-
-  - St. Simplicius of Rome, imperial senator, and companions, 5/10
-
-  - St. Siricius, pope and confessor
-
-  - St. Sisinnius of Rome, deacon/martyr, 11/29 (buried at San Sebastiano, but which one?)
-
-  - St. Sotere, virgin/martyr, 2/11 (buried at the cemetery that bears her name)
-
-  - St. Sylvia, mother of St. Gregory
-
-  - St. Tatiana of Rome, laywoman/martyr, 1/12 & 1/25
-
-  - St. Telemaco/Telemachus, monk/martyr, 1/1
-
-  - Servant of God Teresa del Sagrado Corazón (née Rosa Mercedes) de Castañeda Coello, foundress, d. 2/12/1950
-
-  - Servant of God Teresa (née Sivilli) Ugenti, laywoman, d. 5/21/1984
-
-  - Servant of God Umberto Terenzi, priest, d. 1/3/1974
-
-  - Servant of God Urbano Barberini, young layman, d. 4/4/1947 (could be buried in Castelgandolfo)
-
-  - Servant of God Vincenzo Tarozzi, priest/Latinist for Leo XIII, d. 12/17/1918
-
-  - St. Zoe, martyr, 7/5
-
 - Augustinian Generalate
 
   - Bl. Clement of Sant'Elpidio (aka, of Osimo), prior general, 5/19
@@ -10444,10 +10242,8 @@ Sacrament
 
   - St. Donata, martyr, 12/31
 
-- Cemetery of Basilla on the Via Salaria Antica Way/Cimitero di Via
-  Salaria Vecchia/Cemetery of Via Salaria Vecchia/La catacomba di
-  Sant\'Ermete/Catacomb of Sant\'Ermete (entrance at today\'s Via
-  Paisiello)
+- Cemetery of Basilla on the Via Salaria Antica Way/Cimitero di Via Salaria Vecchia/Cemetery of Via Salaria Vecchia/La catacomba di
+  Sant\'Ermete/Catacomb of Sant\'Ermete (entrance at today\'s Via Paisiello)
 
   - St. Liberatus/Liberato/Liberale, martyr, 12/20
 
@@ -11112,9 +10908,7 @@ San Lorenzo in Lucina
 
   - Bl. Evangelista di San Marcello, preacher, 1/3
 
-  - Bl. Giovanni della Cina/St. Giovanni da Triora (née Francesco Maria
-    Lantrua)/John of China, OFM, priest/martyr, 2/7 (near St. Helen's tomb
-    and the gift shop)
+  - Bl. Giovanni della Cina/St. Giovanni da Triora (née Francesco Maria Lantrua)/John of China, OFM, priest/martyr, 2/7 (near St. Helen's tomb and the gift shop)
 
   - Servant of God Giulio Salvadori, TOSF, layman, d. 10/7/1928
 
@@ -11144,10 +10938,9 @@ San Lorenzo in Lucina
 
   - St. Felix of Cantalice, OFM Cap., priest, 5/18
 
-- St. Justin Martyr, Church Father, 6/1
+  - St. Justin Martyr, Church Father, 6/1
 
-  - Ven. Mariano da Torino (née Paolo Roasenda), OFM Cap., priest/TV
-    preacher, d. 3/27/1972
+  - Ven. Mariano da Torino (née Paolo Roasenda), OFM Cap., priest/TV preacher, d. 3/27/1972
 
 - Santa Maria Maddalena
 
@@ -11294,9 +11087,7 @@ Santa Maria Maggiore
 
 - Santa Maria in Via Lata
 
-  - St. Cyriacus (aka, Cyriac, Cyriaci, Cyriacus of the Baths), martyr,
-    8/8 (relics only, if anything; the rest of him is in Neuhausen,
-    Germany)
+  - St. Cyriacus (aka, Cyriac, Cyriaci, Cyriacus of the Baths), martyr, 8/8 (relics only, if anything; the rest of him is in Neuhausen, Germany)
 
   - St. Fortunato di Casei, martyr, 10/16
 
@@ -11576,6 +11367,10 @@ Santa Maria Maggiore
 
   - Pope St. Eleutherius (Chapel of St. Lawrence)
 
+- Santi Dodici Apostoli/Basilica of the Twelve Apostles (Piazza dei Santi Apostoli, 51)
+
+  - Servant of God Luigi Di Liegro, priest, d. 10/12/1997
+
 - Santo Spirito
 
   - Ss. Mario, Martha, and children, martyr
@@ -11648,13 +11443,11 @@ Santa Maria Maggiore
 
 - Tre Fontane -- Fraternità Generale Fraternità delle piccole sorelle di Gesù (Via di Acque Salvie, 1 int 2)
 
-  - Ven. Madeleine Hutin (Petite Soeur Magdeleine de Jésus), foundress, d.
-    11/6/1989 (relics only; her body was donated to medical science)
+  - Ven. Madeleine Hutin (Petite Soeur Magdeleine de Jésus), foundress, d. 11/6/1989 (relics only; her body was donated to medical science)
 
 - Istituto Dermopatico dell'Immacolata (Via dei Monti di Creta, 104)
 
-  - Ven. Luigi Maria (née Emanuele) Stablum, CFIC,
-    dermatologist/religious, d. 3/16/1950 (inside the hospital chapel)
+  - Ven. Luigi Maria (née Emanuele) Stablum, CFIC, dermatologist/religious, d. 3/16/1950 (inside the hospital chapel)
 
 - Istituto San Giovanni Battista De La Salle/Pala Colle La Salle (Via dell'Imbrecciato, 181)
 
@@ -11669,6 +11462,210 @@ Santa Maria Maggiore
   - Bl. Michał Tomaszek, Franciscan martyr in Peru, 6/7 (relics only)
 
   - Bl. Zbigniew Adam Strzałkowski, Franciscan martyr in Peru, 6/7 (relics only)
+
+- ???
+
+  - The martyrs of Crete, 12/23
+
+  - Martyrs of Dalmatia and Istria, 4/1 (Venantius, bishop, and his
+    companions from Dalmatia and Istria, Anastasius, Mauro, Paulinianus,
+    Thelius, Asterius, Septimius, Antiochianus and Gaianus)
+
+  - St. Acestes, martyr, 7/2
+
+  - Servant of God Adela (María Bernadita dsi la Inmaculada) Sesso,
+    religious, d. 12/12/2001
+
+  - St. Agapitus, 8/7
+
+  - St. Agato/Agathus 1/10 (Pope)
+
+  - St. Agileo di Cartagine/Agileus of Carthage, martyr, 1/26
+
+  - St. Alessandro of the Via Claudia, bishop/martyr, 9/21
+
+  - Servant of God Alexandre Toé, OSCam, priest, d. 12/9/1996 (died in Rome,
+    but where is he buried?)
+
+  - St. Anastasio, martyr, 4/1
+
+  - Servant of God Angela Rosa ("Madre Teresa") Napoli, foundress, d.
+    11/16/1992 (maybe at the Generalate of the Ancelle Francescane del Buon
+    Pastore or the casa di cura/nursing home)
+
+  - Servant of God Anna di Gesù (Anna Figus), d. 6/27/1995 (maybe at the
+    motherhouse of Congregazione Delle Pie Suore Della Redenzione \[Via
+    Torrevecchia, 684\])
+
+  - St. Aquila, 7/8
+
+  - St. Bajulus, 12/20
+
+  - St. Bartholomew (on the Isola Tiberna)
+
+  - St. Basileus, martyr, 3/2 (buried beside the Via Latina)
+
+  - Ss. Bassus, Fabius, and Maximus of Sabina, martyrs, 5/11
+
+  - St. Beatrix (sister of Ss. Faustinus & Simplicius), virgin martyr, 6/29
+
+  - St. Benedicta, martyr, 1/4
+
+  - St. Benedetta/Benedicta of Rome, religious, 5/6 (possibly in Dodici Apostoli)
+
+  - St. Blaesilla, widow/friend of St. Jerome, 1/22
+
+  - St. Bonus (aka, Bono), martyr, 8/1
+
+  - Servant of God Carolina Mancinelli Scampone, T.O.C.s, laywoman, d.
+    2/5/1951
+
+  - St. Cassian, martyr, 3/26
+
+  - St. Cassian, martyr, 12/1
+
+- St. Castulus, cemetery named for him on the Via Labicana, martyr, 3/26
+
+  - St. Cyrus (aka, Cher or Abbacyrus) supposedly at Sant'Appassara.
+
+  - St. Constantius, priest, 9/30
+
+  - St. Crispianus, martyr, 10/25
+
+  - St. Crispinus (aka, Crispin), martyr, 10/25 (different than the one
+    above)
+
+  - St. Crispus, priest-martyr, 8/18
+
+  - Ss. Chrysanthus and Daria, martyrs, (buried on the New Salarian Way
+    outside Rome), 10/25
+
+  - St. Didorus, martyr, 12/1
+
+  - Ven Diomira Ludovica Romana (Madre Margherita) Crispi, foundress, d.
+    6/18/1974 (buried "not far from the Major Basilica of San Giovanni in
+    Laterano")
+
+  - St. Dionysius, martyr, 5/12
+
+  - St. Domnio of Rome, priest, 12/28
+
+  - St. Edmund Campion, martyr, 12/1 (relic only)
+
+  - Ven. Egidio Giuseppe dei Ss. Cuori (née Severino Malacarne), CP, priest,
+    d. 11/29/1953
+
+  - Ven. Elisa Giambelluca, math teacher/principal, d. 7/5/1986 (probably buried elsewhere)
+
+  - Ss. Epimachus and Gordianus, buried off the Via Latina (Gordiano, 5/10, is at the Lateran and Kempen Abbey in Bavaria)
+
+  - St. Euprepis, martyr, 11/30
+
+  - St. Eutichio, martyr, 2/3 ("interred in the catacombs of the Appian Way outside Rome," but which one, San Callisto or San Sebastiano?)
+
+  - St. Fabiola of Rome, physician/laywoman, 12/27
+
+  - St. Faustinus, martyr, (likely fictitious), martyr, 2/15 (possibly at
+    the Church of Sant'Angela Merici in Brescia)
+
+  - St. Faustinus & 45 Companions, martyrs, 2/17
+
+  - St. Faustus, layman, martyr, 8/1
+
+  - St. Felicissimus, martyr, 8/7
+
+  - St. Felix, martyr (husband of Blanda), martyr, 5/10
+
+  - St. Felix, martyr, 12/29
+
+  - St. Felix of Rome, martyr, 1/14
+
+  - Servant of God Giampollo Mollo, permanent deacon, d. 9/1/1998
+
+  - Servant of God Giulio Penitenti, priest/founder, d. 7/7/1978
+
+  - Servant of God Giuseppe Battistella, FSMI, priest, d. 11/10/1965 (he died here, but where is he buried?)
+
+  - St. Hermes the Exorcist of Rome, martyr, 12/31
+
+  - Servant of God Lorena D'Alessandro, laywoman
+
+  - Servant of God Lorenzo Cuneo, layman, d. 10/23/1998
+
+  - St. Marcella of Rome, martyr, 1/31
+
+  - St. Mary of Egypt, 4/1
+
+  - Servant of God Maria Agostina di Gesù, 1/28/1900, possibly at the Generalate for the Suore di Carità di Nostra Signora del Buon e Perpetuo Soccorso
+
+  - Servant of God Maria Farsetti, laywoman, d. 5/9/1953
+
+  - Servant of God Maria Gedda, movement founder, 1/29/1985
+
+  - Servant of God Maria Rachele Tararan, religious, d. 8/1/1980
+
+  - St. Maximus of Rome, priest/martyr, 11/19 (supposedly buried in the “catacombs of Saint Xystus, Rome,” but I can’t find where that is)
+
+  - Servant of God Marie-Ignace (née Marie-Adélaïde) Melin, foundress, d. 1/26/1941
+
+  - Pope St. Melchiades, martyr, 12/10 (maybe on Via Appia)
+
+  - St. Mosè di Roma/Moses of Rome, Jewish convert/priest/martyr, 11/25
+
+  - Servant of God Palmira Viola (Maria Anselma), foundress, d. 1/9/1983
+
+  - St. Pancras, martyr
+
+  - St. Filipo/Philip of Rome, 3^rd^ century martyr, 9/13
+
+  - St. Plautilla of Rome, martyr, 5/20
+
+  - St. Priscillianus, martyr, 1/4
+
+  - St. Priscus, martyr, 1/4
+
+  - St. Prosper of Aquitaine, Church Father, 6/25 & 7/7 (died here but no one knows where his tomb is)
+
+  - St. Restitutus/Restituto of Rome, martyr, 5/27 & 5/29 & 6/11 (on the
+    Via Nomentana)
+
+  - Bl. Rodolfo Acquaviva, SJ, priest/martyr, 2/4 (arm only; at the Jesuit house)
+
+  - Servant of God Mother Rosetta Marchese, religious, d. 3/8/1984
+
+  - Bl. Rudolf/Rodolfo Acquaviva, SJ (arm only)
+
+  - St. Rufus
+
+  - Ss. Saturninus, an old man, and Sisinius, deacon
+
+  - St. Simitrius of Rome & 22 Companions, martyrs, 5/26 (beheaded c.159 on the Via Salaria Nuova)
+
+  - St. Simplicius of Rome, imperial senator, and companions, 5/10
+
+  - St. Siricius, pope and confessor
+
+  - St. Sisinnius of Rome, deacon/martyr, 11/29 (buried at San Sebastiano, but which one?)
+
+  - St. Sotere, virgin/martyr, 2/11 (buried at the cemetery that bears her name)
+
+  - St. Sylvia, mother of St. Gregory
+
+  - St. Tatiana of Rome, laywoman/martyr, 1/12 & 1/25
+
+  - St. Telemaco/Telemachus, monk/martyr, 1/1
+
+  - Servant of God Teresa del Sagrado Corazón (née Rosa Mercedes) de Castañeda Coello, foundress, d. 2/12/1950
+
+  - Servant of God Teresa (née Sivilli) Ugenti, laywoman, d. 5/21/1984
+
+  - Servant of God Umberto Terenzi, priest, d. 1/3/1974
+
+  - Servant of God Urbano Barberini, young layman, d. 4/4/1947 (could be buried in Castelgandolfo)
+
+  - Servant of God Vincenzo Tarozzi, priest/Latinist for Leo XIII, d. 12/17/1918
+
+  - St. Zoe, martyr, 7/5
 
 Rome (Garbatella urban zone), Metropolitan City of Rome, Lazio region
 
@@ -11689,7 +11686,7 @@ Rome, Quartierre Centocelle, Metropolitan City of Rome, Lazio region
 
   - Bl. Janina (née Kolumba Matylda) Gabriel, OSB, foundress, 9/24
 
-Ronco all'Adige, Verona
+Ronco all’Adige, Verona
 
 - Motherhouse of the Piccole Figlie di San Giuseppe (via Ippolita Forante, 12)
 
@@ -11832,8 +11829,7 @@ Sambatello, Metropolitan City of Reggio Calabria, Calabria region
 
   - Servant of God Italo Calabro, priest, d. 6/16/1990
 
-Sant\'Ambrogio di Valpolicella, Ponton frazione, Province of Verona,
-Veneto region
+Sant’Ambrogio di Valpolicella, Ponton *frazione*, Province of Verona, Veneto region
 
 Istituto Poverette Casa Nazareth/Poor Sisters of the House of Nazareth
 (Via Domegliara 9)
@@ -14705,6 +14701,10 @@ Verona
 
   - St. Gaspar Bertoni, priest/founder, 6/12
 
+- Chiesa delle Suore Orsoline Figlie di Maria Immacolata/Church of Santa Maria Immacolata (Via Muro Padri, 24)
+
+  - Bl. Zefirino Agostini, priest/founder, 4/6
+
 - Basilica of San Zeno Maggiore (Piazza San Zeno, 2)
 
   - St. Agabius of Verona, bishop, 8/4 (in the crypt)
@@ -15387,10 +15387,9 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
   - St. Severinus of Sanseverino, bishop, 5/15 & 6/8 (possibly at Monte
     Nero)
 
-  - St. Simone del Monte Mercurio/Simon of Mount Mercury, abbot/hermit,
-    11/19
+  - St. Simone del Monte Mercurio/Simon of Mount Mercury, abbot/hermit, 11/19
 
-  - Venerable Teodora Campestrini
+  - Ven. Teodora Campestrini
 
   - St. Theobald of Vico, 6/1
 
@@ -15399,10 +15398,6 @@ Zoppola, Province of Pordenone, Friuli-Venezia Giulia region
   - St. Veronica Giuliani, 7/9 (d. 1727)
 
   - Valentine, priest, and Hilary, deacon, martyred at Viterbo
-
-  - Bl. Zefirino Agostini, possibly Verona, 4/6
-
-[[http://www.op.org/domcentral/life/martyr11.htm]](http://www.op.org/domcentral/life/martyr11.htm)
 
   - Saints of Northern Italy --
     [[http://www.saintpatrickdc.org/ss/italy-ss.htm]](http://www.saintpatrickdc.org/ss/italy-ss.htm)
@@ -15426,22 +15421,19 @@ http://www.le.ac.uk/elh/grj1/ssmain.html
   - St. Valeria, martyr, wife of St. Vitalis, mother of Sts. Gervase &
     Protase, Thibadoux, Louisiana
 
-In 1204 the Body of St. Lucy is brought to the Island (S. Giorgio
-Maggiore), then transferred to the church of the Annunciation (now at
-Church of St. Jeremiah)
+In 1204 the Body of St. Lucy is brought to the Island (S. Giorgio Maggiore), then transferred to the church of the Annunciation (now at Church of St. Jeremiah)
 
-Patriarch of Constantinople Giovanni Contarini, a guest of the
-Monastery, later buried at S. Giorgio Maggiore
+Patriarch of Constantinople Giovanni Contarini, a guest of the Monastery, later buried at S. Giorgio Maggiore
 
-santa Fortunola vedova martire (San Macario in Piano, LU)
+Santa Fortunola vedova martire (San Macario in Piano, LU)
 
-san Feliciano martire (Cava, Italia)
+San Feliciano martire (Cava, Italia)
 
 - san Donato martire (Torre Orsaia, SA), festa I dom. di luglio
 
-santa Teodora martire (Feltre)
+Santa Teodora martire (Feltre)
 
-san Feliciano martire (parrocchia Ss. Cosma e Damiano, Mendrisio,
+Aan Feliciano martire (parrocchia Ss. Cosma e Damiano, Mendrisio,
 Svizzera)
 
 - san Innocente martire (chiesa della Madonna della Porta, Macerata)
@@ -15449,11 +15441,11 @@ Svizzera)
 - san Innocenzo martire e santa Orsola (chiesa di San Tommaso in
   Terramara, Milano)
 
-san Ippolito martire (Rogeno, Italia)
+San Ippolito martire (Rogeno, Italia)
 
-san Basilide Giulio (Germania)
+San Basilide Giulio (Germania)
 
-- san Agapito martire (Santuario di San Francesco, Paolo, CS)
+- San Agapito martire (Santuario di San Francesco, Paolo, CS)
 
 personne related
 
