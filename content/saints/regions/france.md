@@ -370,18 +370,31 @@ Auterive, Muret Arrondissement, Haute-Garonne department, Occitanie region
 Autun, Saône-et-Loire department, Bourgogne-Franche-Comté region
 
 - Cathédrale Saint-Lazare d'Autun/Cathedral of Saint-Lazare
+- 
   - St. Euphronius of Autun, bishop, 8/3
+
   - St. Lazare/Lazarus of Bethany, disciple, 12/17 (relics only)
+
   - St. Lazare (Lazarus), bishop, 8/31
+
   - St. Léger (Leodegar) of Autun, bishop, martyr, 10/2 (relics only)
-  - St. Symphorian of Autun, layman/martyr, 8/22 (not on display to the public yet but they may soon be)
+
+  - St. Symphorian of Autun, layman/martyr, 8/22 (his relics are not on display to the public yet, but they may soon be)
+
 - Église Saint-Symphorien
+
   - St. Placid/Plait of Autun, OSB, abbot, 5/7 (grave lost)
+
 - Abbaye Saint-Andoche/Abbey of St. Andoche
+
   - St. Pragmace/Pragmatius of Autun, bishop, 11/22 (grave may be lost)
+
 - Nécropole chrétienne de St-Pierre-l'Etrier/Christian necropolis of St-Pierre-l'Etrier
+
   - St. Amadour/Amatre/Amator of Autun, bishop, 11/26
+
 - ???
+
   - St. Cassian of Autun, bishop, 8/5
   - St. Egemone/Egemoine/Egemonius/Eugenian, bishop/martyr, 1/8
   - St. Flocellus of Autun, layman/martyr, 9/17
@@ -389,7 +402,6 @@ Autun, Saône-et-Loire department, Bourgogne-Franche-Comté region
   - St. Nectaire d'Autun/Nectarius of Autun, bishop, 9/13
   - St. Paulus of Autun and Companions, martyrs, 6/1
   - St. Racho/Ragnobert of Autun, 1st bishop/bishop, 1/26 (his relics were discovered in 1669)
-  - St. Symphorian(us) of Autun, martyr, 8/22
 
 Auxerre, Yonne département, Bourgogne-Franche-Comté
 
@@ -1179,23 +1191,32 @@ Clermont, Saint-Julien-en-Genevois arrondissement, Haute-Savoie department, Auve
 Clermont-Ferrand, Puy-de-Dôme department, Auvergne-Rhône-Alpes department
 
 - Cathedral
+
   - St. Bonet/Bont/Bonitus, bishop, 1/16
+
   - Ss. Vitalis and Agricola, martyrs (relics only)
+
 - Abbey of Saint Allyre (no longer extant)
   - St. Allirand/Illidius/Alyre, 4<sup>th</sup> bishop of Clermont, 7/7
   - St. Antolian of Clermont, martyr, 2/6 (relics destroyed by the Revolution)
   - St. Urbice/Urbique de Clermont, bishop, 4/3
+
 - L'église Saint-Arthème du quartier Saint-Alyre/Church of St. Artemius in the Saint-Alyre district
   - St. Arthème/Arthemius de Clermont, bishop, 1/24
   - St. Supporine de Clermont, martyr, 1/24
   - St. Vera de Clermont, martyr, 1/24
+
 - Saint Cassien
   - St. Georgia, anchoress, 2/15
+
 - St. Genesius Church (aka, St. Symphorian Church)
   - St. Genesius of Clermont, bishop, 6/3
+
 - Basilique Notre-Dame du Port
   - St. Gal I of Clermont, bishop, 7/3
+
 - ???
+
   - St. Abraham of Cyriacus/of Clermont, abbot, 6/15
   - St. Euphrasius of Clermont-Ferrand, bishop,, 1/14
   - St. Namatius of Clermont, bishop, 10/27
@@ -1205,6 +1226,7 @@ Clermont-Ferrand, Puy-de-Dôme department, Auvergne-Rhône-Alpes department
 Clohars-Carnoët, Finistère department, Brittany region
 
 - Église Notre Dame de Trogwall de Clohars-Carnoët
+
   - St. Maurice Duault de Carnoët, O.Cist., abbot, 9/29& 10/13
 
 Cluny, Mâcon arrondissement, Saône-et-Loire department, Bourgogne-Franche-Comté region
@@ -2089,8 +2111,9 @@ La Seyne-sur-Mer, Toulon arrondissement, Var department, Provence-Alpes-Côte d'
 
 Larchant, Nemours canton, Fontainebleau arrondissement, Seine-et-Marne department, Île-de-France region
 
-- Église Saint-Mathurin (Place du Pilori) (church is mostly in ruins so the grave is most likely lost, especially after what the Huguenots did to it; but the relics were supposedly moved here at the time of the Revolution)
-  - St. Mathurin, convert/exorcist, 11/1
+- Église Saint-Mathurin (Place du Pilori) (only a few relics remain after the Huguenots dispersed most of them)
+
+  - St. Mathurin, convert/exorcist/evangelist, 11/1
 
 La-Roche-sur-Yon, Vendée department, Pays de la Loire region
 
@@ -3201,23 +3224,35 @@ Paris
   - Bl. Saintin Huré, priest/martyr, 9/2
   - St. Turiaf of Dol, bishop, 7/13
   - St. Vincent, martyr, 1/21 (his stole and some of his bones)
+
 - Église Saint-Jacques-du-Haut-Pas/St. James the Minor (at the corner of Rue Saint-Jacques and Rue de l'Abbé de l'Épée)
+
   - Bl. Dionysius Rabinis, O. de M., scholar, 8/8 (a tenuous connection to this former Mercedarian church)
+
   - St. Magloire de Dol, archbishop, 10/24 (relics only; since the Revolution, his remains are kept in a secure location)
+
 - Église Saint-Joseph Artisan/St. Joseph the Worker (214 Rue La Fayette; Stalingrad Station off the Metro)
+
   - Ven. Alpert (née Chrétien) Motsch, FSC, religious, d. 4/6/1898 (on the right side of the nave)
-- Église Saint-Joseph des Carmes
+
+- Église Saint-Joseph-des-Carmes (70 Rue de Vaugirard, located in the 6th arrondissement, within the Institut Catholique de Paris)
+
   - Bl. André Grasset de Saint-Sauveur, priest/martyr, 9/2
+
   - Bl. Jacques-Jules Bonnaud, SJ, priest/martyr, 9/2
-- Saint Lazare Church
-  - ???
+
+  - St. Salomone/Solomon (née Guillaume-Nicolas-Louis) Leclercq, FSC, religious/martyr/proto-martyr of his order, 9/2
+
 - Église Saint-Marcel de Paris/Saint-Marcel Church (13th arrondissement)
+
   - St. Marcel de Paris/Marcel of Paris, bishop, 11/1
-- St. Mathurin
-  - St. Maturinus, evangelist, 11/1
+
 - Église Saint-Merry/Merri
+
   - Bl. Claude Fontaine, priest/martyr, 9/2
+
   - St. Medericus/Merry, hermit, 8/29
+
 - Église Notre-Dame-de-la-Salette de Paris (38 Rue de Cronstadt)
   - Ven. Jean-Léon Le Prévost, priest, d. 10/30/1874
 - Église Notre-Dame du Val-de-Grâce (5th arrondissement)
@@ -3256,13 +3291,14 @@ Paris
   - Servant of God Raoul Follereau, author, d. 12/6/1977
 - Cimetière de Gentilly/Gentilly Cemetery (5 Rue de Ste Hélène)
   - Servant of God Paulin Enfert, layman, d. 9/1/1922
-- Cimetière Montparnasse
+- Cimetière du Montparnasse (3 boulevard Edgar-Quinet, 14th arrondissement)
+  - Servant of God Henri Chaumont, priest/founder, d. 5/15/1896
   - Bl. Marie de la Providence/Eugénie Smet, foundress of Helpers of the Holy Souls, 2/7
   - Bl. Rosalie Rendu, religious, 2/7
 - Cimetière du Père-Lachaise
   - St. Anne Marie Javouhey, SJC, foundress7/15
 - Cimetière de Picpus
-  - Suor Anna Maria di Gesù Crocifisso (Maria Anna Piedcourt), nata a Parigi il 9 dicembre 1715;St. Anne-Marie of Jesus Crucified (Anne-Marie Piedcourt), OCD, religious/martyr, 7/17 (martyrs of Compiègne)
+  - St. Anne-Marie de Jésus Crucifié (néeAnne-Marie) Piedcourt), OCD, religious/martyr, 7/17 (martyrs of Compiègne)
   - St. Anne-Marie-Madeleine Thouret (aka, Bl. Charlotte of the Resurrection), martyr, OCD, religious/7/17
   - St. Anne Petras (Bl. Mary Henrietta of Providence), OCD, religious/martyr, 7/17
   - St. Catherine Soiron, OCD, religious/martyr, 7/17Suor Teresa Soiron, suora esterna (tourière), nata a Compiègne il 23 gennaio 1748.
@@ -5381,13 +5417,11 @@ St. Romanus/Romano/Roman of Subiaco, hermit, 5/22
 
 \*S
 
-St. Salomone/Solomon (née Guillaume-Nicolas-Louis) Leclercq, FSC, religious/martyr/proto-martyr of his order, 9/2 (possibly the Cathedral of Saint-Denis or, more likely, the Cimetière de Picpus)
-
-St. Symphorian, martyr, church built over his grace, 8/22
-
 \*T
 
 St. Theofrid of Corbie, abbot, 1/26
+
+Servant of God Thérèse de Jésus (née Élisabeth) Bacq, O. de M., convert/foundress, d. 6/2/1896 (either in Aix-en-Provence or Paris)
 
 \*U
 
