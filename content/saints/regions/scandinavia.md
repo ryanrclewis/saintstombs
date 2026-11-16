@@ -1,11 +1,8 @@
 # Denmark
 
-- Æbelholt Monastery (now a ruin, but there is a museum at Æbelholt 4
-  DK-3400 Hillerød Denmark, in the direction of Frederiksværk).
+- Æbelholt Monastery (now a ruin, but there is a museum at Æbelholt 4 DK-3400 Hillerød Denmark, in the direction of Frederiksværk).
 
-  - St. Wilhelm of Eskilsoe (aka, William of Aebelhold; William of
-    Aebelholt; William of Ebelholt; William of Eskhill; William of Ise
-    Fjord; William of Paris; William of the Paraclete), abbot, 4/6
+  - St. Wilhelm of Eskilsoe (aka, William of Aebelhold; William of Aebelholt; William of Ebelholt; William of Eskhill; William of Ise Fjord; William of Paris; William of the Paraclete), abbot, 4/6
 
 Alslev, Varde municipality, Ribe county, Southern Denmark region
 
@@ -17,8 +14,7 @@ Odense, Odense Kommune, Syddanmark region
 
   - St. Canute/St. Alban/Sankt Knuts Kirke
 
-- St. Knud (aka Canute IV), 1/19 & 7/10 (possibly in the church of St.
-  Alban)
+- St. Knud (aka Canute IV), 1/19 & 7/10 (possibly in the church of St. Alban)
 
   - St. Alban, 6/17 (possible)
 
@@ -56,28 +52,23 @@ Vestervig, Thisted municipality, North Jutland Region
 
 # Faroe Islands
 
-Kirkjubøur, island of Streymoy
+Kirkjubøur, island of Streymoy/Kirkjubømúrurin, Magnus-katedralurin; Danish: Magnuskatedralen
 
-Kirkjubømúrurin, Magnus-katedralurin; Danish: Magnuskatedralen
+- St. Magnus Cathedral (ruined) (in a lead box in the sanctuary's end wall)
 
-- St. Magnus Cathedral (ruined) (in a lead box in the sanctuary's end
-  wall)
-
-  - St. Thorlak Thorhallsson, bishop, Iceland's first saint, 12/23 (relic
-    only)
+  - St. Thorlak Thorhallsson, bishop, Iceland's first saint, 12/23 (relic only)
 
 # Finland
 
 Helsinki
 
-Pyhän Henrikin katedraali/Sankt Henriks katedral/St. Henry\'s Catholic
-Cathedral
+- Pyhän Henrikin katedraali/Sankt Henriks katedral/St. Henry’s Catholic Cathedral
 
   - St. Henry, bishop, 1/19 (relic only)
 
 Nousiainen, Turku sub-region, Southwest Finland
 
-- Nousiaisten kirkko/Church of the Annunciation
+- Nousiaisten kirkko/Church of the Annunciation (Kirkkotie 212)
 
   - St. Henry of Finland, bishop/martyr, 1/19 (his empty sarcophagus only)
 
@@ -87,8 +78,7 @@ Turku (Åbo), Turku sub-region, Southwest Finland region
 
   - Bl. Hemming of Åbo/of Turku, bishop, 5/21
 
-  - Bones of a saint, possibly St. Henry, bishop, 1/19 (most stolen by the
-    invading Russians in 1720)
+  - Bones of a saint, possibly St. Henry, bishop, 1/19 (most stolen by the invading Russians in 1720)
 
 # Iceland
 
