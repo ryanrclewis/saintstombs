@@ -218,6 +218,7 @@ Boston, West Roxbury neighborhood, Massachusetts
 Bowling Green, Kentucky
 
 - St. Joseph Church (434 Church Avenue)
+
   - Diocesan Shrine of Mary, Mother of the Church and Model of All Christians
 
 Branchville, Sussex County, New Jersey
@@ -1838,16 +1839,24 @@ St. Mary's, Kansas
 St. Mary-of-the-Woods, Sugar Creek Township, Vigo County, Indiana
 
 - Shrine of Saint Mother Theodore Guérin and Sisters of Providence Convent Cemetery
+
   - St. Théodore (Anne Thérèse) Guérin, SP, foundress, 5/14
 
 St. Meinrad, Harrison Township, Spencer County, Indiana
 
-- St. Meinrad Archabbey
+- St. Meinrad Archabbey (200 Hill Drive)
+
   - Our Lady of Monte Cassino Shrine
 
 Saint Patrick, Clark County, Missouri
 
-- Shrine of Saint Patrick (2 Erin Circle)
+- Shrine of St. Patrick (2 Erin Circle)
+
+St. Paul, Minnesota
+
+- Cathedral of St. Paul (239 Selby Avenue)
+
+  - National Shrine of St. Paul
 
 St. Peters, St. Charles County, Missouri
 
