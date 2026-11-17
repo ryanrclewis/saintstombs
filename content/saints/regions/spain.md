@@ -467,16 +467,19 @@ Almuñécar, Costa Granadina comarca, Province of Granada
 
   - Bl. José Peris Ramos, priest/martyr, 8/2
 
-Álora, Valle del Guadalhorce comarca, Province of Málaga, Andalucia
-autonomous community
+Álora, Valle del Guadalhorce comarca, Province of Málaga, Andalucia autonomous community
 
 - La Capilla de la residencia de Ancianos "Virgen de Flores" (nº, Av. Pablo Ruiz Picasso, 20)
 
-  - Servant of God Laura (Señorita Laura) Aguirre Hilla, laywoman, d.
-    12/31/1986
+  - Servant of God Laura (Señorita Laura) Aguirre Hilla, laywoman, d. 12/31/1986
 
-Alzira/Alcira, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Alto de San Cipriano mountain pass, on the border of the Besaya and Saja-Nansa comarcas, Cantabria Province, Cantabria autonomous community
+
+- Communal Grave
+
+	- Bl. Santiago González Concha, priest/martyr, 11/6
+
+Alzira/Alcira, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
 - Trinitarian church
 
@@ -488,8 +491,7 @@ autonomous community
 
 - ???
 
-  - Bl. Josefina Moscardó Montalvá, laywoman/martyr, 9/22 (remains never
-    found)
+  - Bl. Josefina Moscardó Montalvá, laywoman/martyr, 9/22 (remains never found)
 
   - Bl. Salvador Damián Enguix Garés, layman/martyr, 10/27 (body may be
     buried in the cemetery or may have been thrown in the river)
@@ -7058,10 +7060,9 @@ Santander
   - Bl. Alejo de Santibáñez Pan Lopez, priest/martyr, 12/27 (buried in the
     church's presbytery)
 
-- Cementerio de Ciriego/Ciriego cemetery (San Román de la Llanilla)
+- Cementerio de Ciriego/Ciriego cemetery (Calle la Cuevona, 66)
 
-  - Bl. Ambrosio de Santibáñez (née Alejo Pan López), OFM Cap.,
-    priest/martyr, 12/27 (common grave of 160 people)
+  - Bl. Ambrosio de Santibáñez (née Alejo Pan López), OFM Cap., priest/martyr, 12/27 (common grave of 160 people)
 
 - ???
 
@@ -8766,14 +8767,11 @@ Cementerio de Vic
 
 - ???
 
-  - Servant of God Anna Narcisa Maria Soler Pi (Anna od Saint Sabina), O.
-    Carm., superior general, d. 11/2/1896
+  - Servant of God Ana de Santa Sabina (née Anna Narcisa Maria) Soler Pi, O. Carm., superior general, d. 11/2/1896
 
-  - Servant of God María Lourdes (née Carme) Sala Bigas, OP, religious, d.
-    12/28/1952 (possibly at the Convento de Santa Clara de Vic)
+  - Servant of God María Lourdes (née Carme) Sala Bigas, OP, religious, d. 12/28/1952 (possibly at the Convento de Santa Clara de Vic)
 
-  - Ven. Paula Delpuig i Gelabert (Paula de Sant Lluís), religious, d.
-    2/23/1889 (buried at Mas Escorial near Vic)
+  - Ven. Paula Delpuig i Gelabert (Paula de Sant Lluís), religious, d. 2/23/1889 (buried at Mas Escorial near Vic)
 
 Vila-rodona, Tarragona
 
