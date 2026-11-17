@@ -5046,16 +5046,13 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
 - Santuario de la Victoria/Sanctuary of Victory
 
-  - Servant of God José Gálvez Ginachero, physician, d. 4/29/1952 (in the
-    crypt under la Capilla de la Inmaculada/the Chapel of the Immaculate
-    Conception)
+  - Servant of God José Gálvez Ginachero, gynecologist, d. 4/29/1952 (in the crypt under la Capilla de la Inmaculada/the Chapel of the Immaculate Conception)
 
 - Convento de San Agustín (Calle San Agustín, 1-3)
 
-  - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (could be at the
-    cathedral, instead)
+  - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (might be at the cathedral, instead)
 
-  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according to AI; take it with a grain of salt; could be at the cathedral, instead)
+  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according to AI; take it with a grain of salt; might be at the cathedral, instead)
 
 - Cementerio de San Miguel/St. Michael Cemetery (Plaza del Patrocinio, 8) (36°44′02″N 4°25′05″W)
 
