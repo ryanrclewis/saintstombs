@@ -730,10 +730,9 @@ Convento de San Antonio
 
   - Bl. Juan Amero, OP, layman, 12/2
 
-Banyoles/Bañolas/Bañoles, Pla de l'Estany comarca, Province of Girona,
-Catalonia autonomous region
+Banyoles/Bañolas/Bañoles, Pla de l'Estany comarca, Province of Girona, Catalonia autonomous region
 
-Abadía de San Esteban
+- Abadía de San Esteban
 
   - St. Emerius of Bañoles, monk, 1/27
 
@@ -747,8 +746,7 @@ Barbastro
 
 	- Bl. Florentino Asensio Barroso, bishop/martyr, 8/9 (buried in the crypt)
 
-- Mausoleo de los Mártires en la casa de los claretianos de Barbastro/Santuario de los Mártires Claretianos/Claretian Martyrs’
-Shrine (Calle Conde, 4)
+- Mausoleo de los Mártires en la casa de los claretianos de Barbastro/Santuario de los Mártires Claretianos/Claretian Martyrs’ Shrine (Calle Conde, 4)
 
   - Bl. Agustín Viela Ezcurdia, CMF, martyr, 8/13
 
@@ -1161,8 +1159,7 @@ Barcelona
 
   - Bl. Sergio Cid Pazo, SDB, priest/martyr, 7/30
 
-- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery
-  (Dep. I, illa 2a, núm. 47)
+- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery (Dep. I, illa 2a, núm. 47)
 
   - Bl. Agustín Ibarra Anguela, priest/martyr, 8/15
 
@@ -1444,8 +1441,7 @@ community
 
   - Bl. Luis Campos Górriz, layman/martyr, 11/28
 
-Benavites, Camp de Morvedre comarca, Province of Valencia, Valencian
-autonomous community
+Benavites, Camp de Morvedre comarca, Province of Valencia, Valencian autonomous community
 
 - ???
 
@@ -1455,8 +1451,7 @@ autonomous community
 
   - Bl. Rosario Ciércoles Gascón,DC, religious/martyr, 8/18
 
-Benicarló, Baix Maestrat comarca, Province of Castelló, Valencian
-autonomous community
+Benicarló, Baix Maestrat comarca, Province of Castelló, Valencian autonomous community
 
 - ???
 
@@ -1473,11 +1468,9 @@ autonomous community
 
   - Bl. Vicente Ballester Far, priest of Valencia/martyr, 9/23
 
-Benifaió, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Benifaió, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
-- Iglesia Parroquial de San Pedro Apóstol (Carrer Abadia, 6,
-  34-961780249)
+- Iglesia Parroquial de San Pedro Apóstol (Carrer Abadia, 6, 34-961780249)
 
   - Bl. Gabriel María de Benifaió (née José María Sanchís Mompó), TC, priest/martyr, 8/16 (this location comes from AI; take it with a grain
     of salt, although I have verified the address); AI says he could also be buried at the Cementerio Municipal de Picassent, which is nearby, or at the Iglesia Nuestra Señora de la Asunción in Benifaió, but the latter is unlikely)
@@ -1521,9 +1514,15 @@ Benquerencia de la Serena, La Serena comarca, Province of Badajoz, Extremadura a
 
   - Bl. Antonio Frutos Tena Amaya, priest/martyr, 9/6
 
+Bercedo, Las Merindades comarca, Province of Burgos, Castilla y León autonomous community
+
+- ???
+
+  - Bl. Arturo Soto Tapia, priest/martyr, 11/6 (his body was found near here; no evidence as to where it was buried)
+
 Berja, Province of Almería, Andalusia autonomous community
 
-Cementerio de Berja
+- Cementerio de Berja
 
   - Bl. Juan Moreno Juárez, priest/martyr, 9/4 (he was shot here; but is he still buried here?)
 
@@ -1717,7 +1716,21 @@ Burriana/Borriana, Province of Castellón, Valencian autonomous community
 
   - Bl. Benito María of Burriana (née Manuel Ferrer Jordá), TC, priest/martyr, 9/16
 
+Bustamante, Campoo-Los Valles comarca, Cantabria Province, Cantabria autonomous community
+
+- Cementerio de Bustamante/Cemetery of Bustamante
+
+  - Bl. Isidoro Gutiérrez González, priest/martyr, 11/6
+
+Cabañas de Virtus, Las Merindades comarca, Burgos Province, Castilla y León autonomous community
+
+- ???
+
+  - Bl. Arsenio Patrocinio García Lavid, priest/martyr, 11/6
+
 Cáceres, Province of Cáceres, Extremadura autonomous community
+
+- Santuario de la Virgen de la Montaña/Shrine of the Virgin of the Mountain (Calle Ntra. Sra. de la Montaña s/n)(Google Plus Code)(39.4625° N, 6.3517° W)
 
 - ???
 
@@ -2261,10 +2274,13 @@ community
 
 Comillas, Province of Cantabria, Cantabria autonomous community
 
-Panteón del Palacio de Sobrellano
+- Panteón del Palacio de Sobrellano
 
-  - Servant of God Claudio López Bru, nobleman/wealthy businessman, d.
-    4/18/1925
+  - Servant of God Claudio López Bru, nobleman/wealthy businessman, d. 4/18/1925
+
+- Cementerio de Comillas/Comillas Cemetery (Calle las Paserucas, 25)
+
+  - Bl. Manuel Crespo Vega, priest/martyr, 11/6
 
 Compostela/Santiago de Compostela
 
@@ -2820,16 +2836,13 @@ Catalonia autonomous community
 - Monasterio de Santa María de Montsió/women's Dominican convent of this
   city (Carrer de l'Església, 82)
 
-  - Bl. Josefina (née Ventureta) Sauleda Paulís, OP, religious/first
-    contemplative martyr of the war, 8/31
+  - Bl. Josefina (née Ventureta) Sauleda Paulís, OP, religious/first contemplative martyr of the Civil War, 8/31
 
 - ???
 
-  - Bl. Juan Bautista Egozcuezábal Aldaz, OH, martyr, 7/29 (his body was
-    dumped in a field)
+  - Bl. Juan Bautista Egozcuezábal Aldaz, OH, martyr, 7/29 (his body was dumped in a field)
 
-Fernán Caballero, Province of Ciudad Real, Castile-La Mancha autonomous
-community
+Fernán Caballero, Province of Ciudad Real, Castile-La Mancha autonomous community
 
 - Iglesia de los Mártires Claretianos/Church of the Claretian Martyrs
 
@@ -2846,61 +2859,61 @@ community
     (died at the Estación de Fernán Caballero \[train station\] with 13
     companions)
 
-Vicente María Robles
-
-Claudio Lopez
-
-Antonio Orrego
-
-Melecio Pardo
-
-Abelardo García
-
-Antonio Lasa
-
-Thomas Cordero
-
-Otilio Delamo
-
-Primitive Berrocoso
-
-Angel Lopez
-
-Angel Perez
-
-Gabriel Barriopedro
-
-Candide Catalan
-
-Angel López Martínez, CMF, 7/28
-
-Angel Pérez Murillo, CMF, 7/28
-
-Antonio Lasa Vidauretta, CMF, 7/28
-
-Antonio Orrego Fuentes, CMF, 7/28
-
-Cándido Catalán Lasala, CMF, 7/28
-
-Claudio López Martínez, CMF, 7/28
-
-Gabriel Barriopedro Tejedor, CMF, 7/28
-
-Jesús Aníbal Gómez y Gómez, CMF, 7/28
-
-Melecio Pardo Llorente, CMF, 7/28
-
-Otilio Del Amo Palomino, CMF, 7/28
-
-Primitivo Berrocoso Maillo, CMF, 7/28
-
-Tomás Cordero y Cordero, CMF, 7/28
-
-Vicente Robles Gómez, CMF, 7/28
-
-Ferrerias, Province of Islas Baleares, Baleares autonomous community
-
-Parròquia de Sant Bartomeu
+	Vicente María Robles
+	
+	Claudio Lopez
+	
+	Antonio Orrego
+	
+	Melecio Pardo
+	
+	Abelardo García
+	
+	Antonio Lasa
+	
+	Thomas Cordero
+	
+	Otilio Delamo
+	
+	Primitive Berrocoso
+	
+	Angel Lopez
+	
+	Angel Perez
+	
+	Gabriel Barriopedro
+	
+	Candide Catalan
+	
+	Angel López Martínez, CMF, 7/28
+	
+	Angel Pérez Murillo, CMF, 7/28
+	
+	Antonio Lasa Vidauretta, CMF, 7/28
+	
+	Antonio Orrego Fuentes, CMF, 7/28
+	
+	Cándido Catalán Lasala, CMF, 7/28
+	
+	Claudio López Martínez, CMF, 7/28
+	
+	Gabriel Barriopedro Tejedor, CMF, 7/28
+	
+	Jesús Aníbal Gómez y Gómez, CMF, 7/28
+	
+	Melecio Pardo Llorente, CMF, 7/28
+	
+	Otilio Del Amo Palomino, CMF, 7/28
+	
+	Primitivo Berrocoso Maillo, CMF, 7/28
+	
+	Tomás Cordero y Cordero, CMF, 7/28
+	
+	Vicente Robles Gómez, CMF, 7/28
+	
+	Ferrerias, Province of Islas Baleares, Baleares autonomous community
+	
+	Parròquia de Sant Bartomeu
 
   - Bl. Joan/Juan Huguet Cardona, priest/martyr, 7/23
 
@@ -2919,8 +2932,7 @@ Fiñana, Province of Almería, Andalusia autonomous community
   - Bl. Melitón Martínez Gómez, priest/martyr, 9/18 (he is buried at the
     parish church; this looks like the only one in town)
 
-Foios/Foyos, Horta Nord comarca, Province of Valencia, Valencian
-autonomous community
+Foios/Foyos, Horta Nord comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio/Cemetery
 
@@ -2928,9 +2940,15 @@ autonomous community
 
 Fontscaldes, Province of Tarragona, Cataluña autonomous community
 
-Cementerio de Fontscaldes.
+- Cementerio de Fontscaldes
 
   - Bl. Joaquim Balcells Bosch, priest/martyr, 9/3
+
+Fresno del Río, Campoo-Los Valles comarca, Cantabria Province, Cantabria autonomous community
+
+- Cementerio de Fresno del Río/Municipal Cemetery (Calle San José, 5)
+
+  - Bl. José Gutiérrez Huerta, priest/martyr, 11/6
 
 Fresno de Río Tirón, Burgos province
 
@@ -2938,11 +2956,9 @@ Fresno de Río Tirón, Burgos province
 
   - St. Victor of Cerezo, priest/martyr, 8/26
 
-Fuente del Fresno, municipality of San Sebastián de los Reyes, Community
-of Madrid
+Fuente del Fresno, municipality of San Sebastián de los Reyes, Community of Madrid
 
-- Cementerio de Fuente del Fresno/Cemetery of Fuente del Fresno (Calle del
-  Cementerio)
+- Cementerio de Fuente del Fresno/Cemetery of Fuente del Fresno (Calle del Cementerio)
 
   - Bl. Felipe José (née Pedro Álvarez Pérez) FSC, religious/martyr, 8/8
 
