@@ -3390,8 +3390,7 @@ Gumiel de Izán, Ribera del Duero, Province of Burgos, Castilla y León autonomo
 
   - Bl. Manés de Guzmán, OP, cofounder of the Dominicans, 7/30
 
-Gurb/Gurb de la Plana, Osona comarca, Province of Barcelona, Catalonia
-region
+Gurb/Gurb de la Plana, Osona comarca, Province of Barcelona, Catalonia region
 
 - Cementerio/Cemetery
 
@@ -3401,8 +3400,13 @@ region
 
   - Bl. Josep Casals Badía, CMF, religious/martyr, 2/1 and 10/12
 
-Hellín/Hellin, Province of Albacete, Castilla-La Mancha autonomous
-community
+Hazas de Cesto, Trasmiera comarca, Cantabria Province, Cantabria autonomous region
+
+- Cementerio Parroquial de Hazas de Cesto/Cementerio de Beranga/Local Cemetery (Plus Code: 8CMRCC9M+8X)(43° 25′ 6″ N, 3° 33′ 54″ W)
+
+  - Bl. Lucas Mena Angulo, priest/martyr, 11/6
+
+Hellín/Hellin, Province of Albacete, Castilla-La Mancha autonomous community
 
 - Parroquia de la Asunción
 
@@ -3410,8 +3414,7 @@ community
 
 - Casa Madre de Congregación Religiosa de la Misioneras de la Caridad y la Providencia
 
-  - Servant of God María Luisa Zancajo de la Mata, foundress/mystic, d.
-    6/5/1954
+  - Servant of God María Luisa Zancajo de la Mata, foundress/mystic, d. 6/5/1954
 
 Higuera de la Sierra, Sierra de Huelva comarca, Province of Huelva, Andalusia autonomous community
 
