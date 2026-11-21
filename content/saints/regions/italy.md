@@ -10285,8 +10285,9 @@ Sacrament
 
   - Servant of God Giuseppina Berettoni, TOSF, laywoman, d. 1/17/1928 (plot n. 2 – Pincetto Vecchio)
 
-  - Ven. Léon (née Clovis) Veuthy, OFM Conv., priest, d. 6/7/1974 (in the
-    burial place of the Francescani Conventuali/Conventual Franciscans)
+  - Ven. Léon (née Clovis) Veuthy, OFM Conv., priest, d. 6/7/1974 (in the burial place of the Francescani Conventuali/Conventual Franciscans)
+
+  - Servant of God Lorenzo Cuneo, layman, d. 10/23/1998
 
   - Ven. Luigina (Luigia) Sinapi, lay mystic, d. 4/17/1978
 
@@ -11589,8 +11590,6 @@ Santa Maria Maggiore
   - St. Hermes the Exorcist of Rome, martyr, 12/31
 
   - Servant of God Lorena D'Alessandro, laywoman
-
-  - Servant of God Lorenzo Cuneo, layman, d. 10/23/1998
 
   - St. Marcella of Rome, martyr, 1/31
 
