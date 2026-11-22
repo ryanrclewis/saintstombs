@@ -2545,8 +2545,7 @@ Cuenca
 
   - Bl. Pedro Romero Espejo, priest/martyr, 7/4 & 11/6
 
-Cuestas de Belinchón *pedanía* (hamlet), Belinchón municipality,
-Province of Cuenca, Castile-La Mancha autonomous community
+Cuestas de Belinchón *pedanía* (hamlet), Belinchón municipality, Province of Cuenca, Castile-La Mancha autonomous community
 
 - ???
 
@@ -2558,10 +2557,9 @@ Cuteclara (near Cordoba; nothing remains of it)
 
   - St. Martha of Córdoba, religious/martyr, 11/24
 
-Daimiel, Campo de Calatrava comarca, Ciudad Real, Castile-La Mancha
-autonomous community
+Daimiel, Campo de Calatrava comarca, Ciudad Real, Castile-La Mancha autonomous community
 
-Monasterio Pasionista del Santo Cristo de la Luz
+- Monasterio Pasionista del Santo Cristo de la Luz
 
   - Bl. Abilio of the Cross (Abilio Ramos y Ramos), CP, seminarian/martyr,
     7/24
@@ -3694,6 +3692,12 @@ La Llosa de Ranes, Costera comarca, Province of Valencia, Valencian autonomous c
 - ???
 
   - Bl. María del Calvario (née Josefa Romero Clariana, DC), religious/martyr, 9/26 & 11/20
+
+La Montaña, Torrelavega municipality, Cantabria Province, Cantabria autonomous region (43°19′24″N 4°01′00″O)
+
+- ???
+
+	- Bl. Eloy Sedaño Hoyos, priest/martyr, 11/6 (his body was tied to a tree, mutilated, and found the next day; no burial site is known; maybe at The Hermitage of St. Blas)
 
 La Muela, Valdejalón comarca, Province of Zaragoza, Aragon autonomous community
 
