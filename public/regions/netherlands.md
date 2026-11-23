@@ -1,3 +1,5 @@
+# Netherlands
+
 Adwerth, Frisia
 
 - ???
@@ -6,7 +8,7 @@ Adwerth, Frisia
 
 Alem, Maasdriel municipality, Province of Gelderland
 
-Sint Odrada-kerk
+- Sint Odrada-kerk
 
   - St. Odrada van Alem, religious, 11/3
 
@@ -26,13 +28,11 @@ Brielle (Den Briel), Voorne aan Zee municipality, South Holland
 
   - Site of the martyrdom of the Martyrs of Gorkum, 7/9
 
-- Shrine of St. Godfried Coart (Godfried van Melveren), OFM,
-  priest/martyr, 7/19
+- Shrine of St. Godfried Coart (Godfried van Melveren), OFM, priest/martyr, 7/19
 
 Dantumadeel, Province of Friesland
 
-- Klooster Klaarkamp/Klaarkamp Abbey (completely ruined after Friesland
-  became Protestant)
+- Klooster Klaarkamp/Klaarkamp Abbey (completely ruined after Friesland became Protestant)
 
   - Bl. Gebrand of Klaarkamp, abbot, 10/13
 
@@ -91,16 +91,21 @@ Haske, Bakkeveen, Friesland
 
   - Bl. Dodo of Haske, stigmatist, 3/30
 
+Heerlen, Limburg province
+
+- Gedachteniskapel/Memorial Chapel (Gasthuisstraat 4)
+
+  - Ven. Petrus Joseph Savelberg, priest/founder, d. 2/11/1907
+
 Houtham village, Valkenburg aan de Geul municipality, Province of Limburg
 
 - Sint-Gerlachuskerk
 
-  - St. Gerlach van Houthem/Gerlac of Valkenburg, brigand/convert/hermit,
-    1/5 (in the church, the treasury, and the museum)
+  - St. Gerlach van Houthem/Gerlac of Valkenburg, brigand/convert/hermit, 1/5 (his relics are in the church, the treasury, and the museum)
 
 Maarssen, Stichtse Vecht municipality, Province of Utrecht
 
-= Beeresteijn Cemetery (on the Straatweg)
+- Beeresteijn Cemetery (on the Straatweg)
 
   - Servant of God Alphons Ariëns, priest, d. 8/7/1928
 
@@ -114,14 +119,13 @@ Maastricht, province of Limburg
 
   - St. Servatus of Tongeren, bishop, 5/13
 
-  - St. Theodard of Maastricht, murdered bishop, 9/10 (copper statue
-    reliquary only)
+  - St. Theodard of Maastricht, murdered bishop, 9/10 (copper statue reliquary only)
 
 Noodkist in de Maastrichtse (relics of St. Servaas and St. Martin)
 
 - Schatkamer van de Sint-Servaasbasiliek/Treasury of St. Servas Basilica
 
-- St. Martin of Tongres/Tongeren, bishop, 6/3 & 6/21 (reliquary bust only)
+  - St. Martin of Tongres/Tongeren, bishop, 6/3 & 6/21 (reliquary bust only)
 
 - ???
 
@@ -141,20 +145,17 @@ Megen, Oss municipality, Province of Noord-Brabant/North Brabant
 
 - Minderbroedersklooster/Franciscan monastery (Kloosterstraat 6)
 
-  - Servant of God Everardus (nee Joannes Jacobus Maria) Witte, OFM,
-    religious, 12/22/1950 (buried in a chapel)
+  - Servant of God Everardus (nee Joannes Jacobus Maria) Witte, OFM, religious, 12/22/1950 (buried in a chapel)
 
 Nijmegen, Province of Gelderland
 
-Molenstraatkerk/Petrus Canisiuskerk
+- Molenstraatkerk/Petrus Canisiuskerk
 
   - St. Peter Canisius, SJ, reformer, 12/21 (relics only)
 
-Noardeast-Fryslân (formerly Ferwerderadiel), Hallumerhoek hamlet,
-Province of Friesland
+Noardeast-Fryslân (formerly Ferwerderadiel), Hallumerhoek hamlet, Province of Friesland
 
-- Klooster Mariengaarde (in ruins; it's now an archaeological site) (GPS
-  coordinates: 53.29750,5.75194)
+- Klooster Mariengaarde (in ruins; it's now an archaeological site) (GPS coordinates: 53.29750,5.75194)
 
   - St. Sibrand van Mariengaarde, O.Praem., abbot, 12/21
 
@@ -172,7 +173,7 @@ Pey, Echt-Susteren municipality, Province of Limburg
 
 Roermond, Province of Limburg
 
-Munsterabdij
+- Munsterabdij
 
   - St. Wiro of Utrecht/Wiro van Roermond, bishop, 5/8
 
@@ -184,19 +185,19 @@ Roosendaal, Province of Noord-Brabant/North Brabant
 
 Schiedam, Province of South Holland
 
-Basiliek van de H. Liduina en Onze-Lieve-Vrouw van de Rozenkrans
+- Basiliek van de H. Liduina en Onze-Lieve-Vrouw van de Rozenkrans
 
   - St. Lidwina/Liduina of Schiedam, crippled lay mystic, 4/14
 
 Sint Odiliënberg, Central Limburg
 
-Basiliek van de H.H. Wiro, Plechelmus en Otgerus
+- Basiliek van de H.H. Wiro, Plechelmus en Otgerus
 
   - St. Otger of Utrecht, missionary, 5/8
 
 Sint-Oedenrode, Meierijstad municipality, Province of North Barbant
 
-Sint-Martinuskerk
+- Sint-Martinuskerk
 
   - St. Oda of Scotland, hermitess, 10/23 (skull and teeth)
 
@@ -216,8 +217,7 @@ Sittard/Zitterd, Province of Limburg
 
 - Klooster Karmelietessen v.h. Goddelijk Hart v. Jezus/Monastery of the Carmelite Sister of the Divine Heart of Jesus (Kollenberg 2)
 
-  - Bl. Maria-Teresa van de h. Jozef (nee Anna Maria) Tauscher van den
-    Bosch, DCJ, foundress, 10/30 (in a chapel)
+  - Bl. Maria-Teresa van de h. Jozef (nee Anna Maria) Tauscher van den Bosch, DCJ, foundress, 10/30 (in a chapel)
 
 Steyl, Tegelen district, Venlo municipality
 
@@ -227,9 +227,9 @@ Steyl, Tegelen district, Venlo municipality
 
 - Notre Dame Monastery of Missiezusters Dienaressen van de Heilige Geest (Zusterstraat)
 
-  - Bl. Mother Josepha (aka, Hendrina Stennmans), foundress, 5/20
+  - Bl. Josefa (née Hendrina) Stennmans, SSpS, foundress, 5/20
 
-  - Bl. Maria Virgo (Helena Stollenwerk), religious, 2/3 & 11/28
+  - Bl. Maria Virgo (née Helena) Stollenwerk, SSpS, religious, 2/3 & 11/28
 
 - ???
 
@@ -281,7 +281,7 @@ Sint-Salvatorkerk/Oud-Munsterkerk
 
 - Museum Catharijneconvent
 
-- St. Bernulf or Bernold of Utrecht, bishop, 7/19 (reliquary only)
+  - St. Bernulf or Bernold of Utrecht, bishop, 7/19 (reliquary only)
 
 - ???
 
@@ -293,8 +293,7 @@ Velsen, Amsterdam metropolitan area, Province of North Holland
 
 - ???
 
-  - St. Engelmund of Velsen, missionary, 5/14 (probably at Engelmunduskerk,
-    but it\'s now a Protestant church)
+  - St. Engelmund of Velsen, missionary, 5/14 (probably at Engelmunduskerk, but it’s now a Protestant church)
 
 Zutphen
 

@@ -1,7 +1,6 @@
 # Andorra
 
-Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in
-southern Andorra
+Canòlic (traditionally Canòlich), Sant Julià de Lòria parish, in southern Andorra
 
 - Canòlich sanctuary
 
@@ -15,7 +14,7 @@ Meritxell, Canillo parish
 
 # Spain
 
-Ágreda
+Ágreda, Province of Soria, Castilla y León autonomous community
 
 - Convent of the Conception
 
@@ -71,8 +70,7 @@ community
   - Bl. Salvador Estrugo Salves, priest/martyr, 8/10 (this is the best
     guess; there's only one other church in town)
 
-Alboquers village, Sant Bartomeu del Grau municipality, Osona comarca,
-Province of Barcelona, Catalonia autonomous community
+Alboquers village, Sant Bartomeu del Grau municipality, Osona comarca, Province of Barcelona, Catalonia autonomous community
 
 - Cementiri/Cimiterio/Cemetery
 
@@ -101,8 +99,7 @@ San Sebastiano
 - Bl. Agustín Alcalá Henke, businessman/martyr, 7/18 (Chapel of the
   Blessed Sacrament)
 
-Alcalá de Henares, Alcalá comarca, Province of Madrid, Madrid autonomous
-community
+Alcalá de Henares, Alcalá comarca, Province of Madrid, Madrid autonomous community
 
 - Santa y Insigne Iglesia Magistral of Alcala de Henares
 
@@ -137,24 +134,20 @@ Sagrado Corazón de Jesús)
 
   - Bl. Andrés Hibernón Real, Franciscan friar, 4/18 (some relics)
 
-Alcarràs, Segrià comarca, Province of Lleida, Catalonia autonomous
-community
+Alcarràs, Segrià comarca, Province of Lleida, Catalonia autonomous community
 
-- Cementerio Municipal de Alcarràs/Municipal cemetery (Carretera de
-  Vallmanya, s/n)
+- Cementerio Municipal de Alcarràs/Municipal cemetery (Carretera de Vallmanya, s/n)
 
   - Bl. José Camí y Camí, OCSO, postulant/martyr, 7/28
 
-Alcázar de San Juan, Province of Ciudad Real, Castile-La Mancha
-autonomous community
+Alcázar de San Juan, Province of Ciudad Real, Castile-La Mancha autonomous community
 
-Monasterio de la Inmaculada y de Santa Beatriz de Silva
+- Monasterio de la Inmaculada y de Santa Beatriz de Silva
 
   - Servant of God Mercedes de Jesús (née María del Rosario) Egido y
     Izquierdo, OIC, religious, d. 8/3/2004
 
-- Iglesia de la Santísima Trinidad de Alcázar de San Juan/Church of the
-  Holy Trinity
+- Iglesia de la Santísima Trinidad de Alcázar de San Juan/Church of the Holy Trinity
 
   - Bl. Álvaro Santos Cejudo Moreno Chocano, layman/martyr, 9/17
 
@@ -180,15 +173,14 @@ Monasterio de la Inmaculada y de Santa Beatriz de Silva
 
 Alcobendas/Madrid Alcobendas, Madrid autonomous community
 
-Seminario Redemptoris Mater (Carretera del Goloso, km 3, 300)
+- Seminario Redemptoris Mater (Carretera del Goloso, km 3, 300)
 
   - Servant of God Carmen Hernández Barrera, laywoman/cofoundress of the
     Neocatechumenal Way, d. 7/19/2016
 
-Alcorisa, Bajo Aragón comarca, Province or Teruel, Aragon autonomous
-community
+Alcorisa, Bajo Aragón comarca, Province or Teruel, Aragon autonomous community
 
-Cementerio Municipal de Alcorisa (Calle Castillo, s/n)
+- Cementerio Municipal de Alcorisa (Calle Castillo, s/n)
 
   - Bl. Leoncio Pérez Nebreda, CM, priest/martyr, 8/2 (Panteón
     Vicentino/Vincentian pantheon)
@@ -218,8 +210,7 @@ center)
   - Bl. Santiago de Jesús (née Santiago Arriaga Arrien), OSsT,
     priest/martyr, 9/24
 
-Alcoy/Alcoi, Alcoy judicial district, Alcoià comarca, Province of
-Alicante, Valencian autonomous community
+Alcoy/Alcoi, Alcoy judicial district, Alcoià comarca, Province of Alicante, Valencian autonomous community
 
 - Iglesia de San Jorge de Alcoy
 
@@ -241,21 +232,19 @@ Alicante, Valencian autonomous community
 
 Alcuéscar, Province of Cáceres, Extremadura autonomous region
 
-La capilla de la Casa de la Misericordia
+- La capilla de la Casa de la Misericordia
 
   - Servant of God Leocadio Galán Barrena, priest/founder, d. 1/27/1990
 
 Algar, Province of Cádiz, Andalusia autonomous community
 
-Nuestra Señora Santa María de Guadalupe
+- Nuestra Señora Santa María de Guadalupe
 
   - Servant of God Leonardo Castillo Díaz, priest, d. 3/25/2005
 
-Algemesi/ Algemesí, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Algemesi/Algemesí, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
-- Parish church of Santiago/Basílica de San Jaime (Plaça Major, 1) (St.
-  James)
+- Parish church of Santiago/Basílica de San Jaime (Plaça Major, 1) (St. James)
 
   - Bl. José Ferrer Esteve, SchP, religious/martyr, 9/26
 
@@ -302,7 +291,7 @@ autonomous community
 
 Algorta, municipality of Getxo, Province of Biscay, Basque Country
 
-Santo Redentor
+- Santo Redentor
 
   - Bl. Domingo Iturrate y Zubero del Santísimo Sacramento, priest, 11/16
 
@@ -313,13 +302,13 @@ Santo Redentor
 
 Alhama de Granada, Province of Grenada, Andalusia autonomous community
 
-Cementerio Municipal de Alhama de Granada (C. Fuera de la Puerta)
+- Cementerio Municipal de Alhama de Granada (C. Fuera de la Puerta)
 
   - Bl. José Frías Ruiz, priest/martyr, 7/30
 
 Alicante, Province of Alicante, Valencian community
 
-Cementerio de Alicante (Nuestra Señora del Remedio)
+- Cementerio de Alicante (Nuestra Señora del Remedio)
 
   - Ven. Pedro Herrero Rubio, pediatrician, d. 11/5/1978
 
@@ -333,7 +322,7 @@ Cementerio de Alicante (Nuestra Señora del Remedio)
 Allariz, Allariz-Maceda comarca, Province of Ourense, Galicia autonomous
 community
 
-Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
+- Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
 
   - Bl. Garcia Blandez, OFM, 7/20
 
@@ -344,7 +333,7 @@ Convento de Santa Clara, Clarisas de Allariz (Campo da Barreira, 14)
 Almacelles, Segrià comarca, Province of Lleida, Catalonia autonomous
 region
 
-Cementerio de Almacelles (Carrer de la Tossa, s/n)
+- Cementerio de Almacelles (Carrer de la Tossa, s/n)
 
   - Bl. Jesús Massanet Flaquer, O. de M., priest/martyr, 7/25
 
@@ -362,12 +351,9 @@ Mancha autonomous region
 
 - ???
 
-- Bl. Eduardo Sáinz Lantarón, OP, priest/martyr, 8/14 (either at Iglesia
-  de San Pedro Apóstol \[two sources\], Iglesia de Santo Domingo,
-  Cementerio Municipal de Almagro)
+  - Bl. Eduardo Sáinz Lantarón, OP, priest/martyr, 8/14 (either at Iglesia de San Pedro Apóstol \[two sources\], Iglesia de Santo Domingo, Cementerio Municipal de Almagro)
 
-Almansa, Altiplanicie de Almansa comarca, Province of Albacete,
-Castilla--La Mancha
+Almansa, Altiplanicie de Almansa comarca, Province of Albacete, Castilla--La Mancha
 
 - ???
 
@@ -414,20 +400,17 @@ Andalusia region
   - Bl. Valerio Bernardo (née Marciano) Herrero Martínez, FSC,
     religious/martyr, 8/31 & 11/16 (according to AI)
 
-La capilla del Noviciado de las Siervas de los Pobres en la Avenida
-Madre María Aznar 113/Chapel of the Novitiate of the Servants of the
-Poor on Avenida Madre María Aznar 113
+- La capilla del Noviciado de las Siervas de los Pobres en la Avenida Madre María Aznar 113/Chapel of the Novitiate of the Servants of the Poor on Avenida Madre María Aznar 113
 
   - Servant of God Joaquín Reina Castrillón, priest/founder, d. 9/1/1975
 
-The Dominican parish or the pantheon the Dominican Order has in the city
-cemetery.
+- The Dominican parish or the pantheon the Dominican Order has in the city cemetery.
 
   - Bl. Fernando de Pablos Fernández, OP, religious/martyr, 9/10
 
   - Bl. Tomás Morales Morales, OP, priest/martyr, 8/31
 
-Cementerio de Almería (Calle del Cementerio, s/n)
+- Cementerio de Almería (Calle del Cementerio, s/n)
 
   - Bl. Aquilino Rivera Tamargo, priest/martyr, 11/22 (in the mausoleo de
     los mártires/Mausoleum of the martyrs)
@@ -478,36 +461,37 @@ Cementerio de Almería (Calle del Cementerio, s/n)
 
 Almuñécar, Costa Granadina comarca, Province of Granada
 
-Cementerio de Almuñécar (Calle Francisco Prieto Moreno, 1)
+- Cementerio de Almuñécar (Calle Francisco Prieto Moreno, 1)
 
   - Bl. Francisco Manzano Cruz, priest/martyr, 8/2
 
   - Bl. José Peris Ramos, priest/martyr, 8/2
 
-Álora, Valle del Guadalhorce comarca, Province of Málaga, Andalucia
-autonomous community
+Álora, Valle del Guadalhorce comarca, Province of Málaga, Andalucia autonomous community
 
-La Capilla de la residencia de Ancianos "Virgen de Flores" (nº, Av.
-Pablo Ruiz Picasso, 20)
+- La Capilla de la residencia de Ancianos "Virgen de Flores" (nº, Av. Pablo Ruiz Picasso, 20)
 
-  - Servant of God Laura (Señorita Laura) Aguirre Hilla, laywoman, d.
-    12/31/1986
+  - Servant of God Laura (Señorita Laura) Aguirre Hilla, laywoman, d. 12/31/1986
 
-Alzira/Alcira, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Alto de San Cipriano mountain pass, on the border of the Besaya and Saja-Nansa comarcas, Cantabria Province, Cantabria autonomous community
+
+- Communal Grave
+
+	- Bl. Santiago González Concha, priest/martyr, 11/6
+
+Alzira/Alcira, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
 - Trinitarian church
 
   - Ss. Bernardo (Hamed), Maria (Zaida), & Grazia (Zoraide), martyrs, 8/21
 
-Cementerio de Alzira
+- Cementerio de Alzira
 
   - Bl. María de la Purificación Vidal Pastor, laywoman/martyr, 9/22
 
 - ???
 
-  - Bl. Josefina Moscardó Montalvá, laywoman/martyr, 9/22 (remains never
-    found)
+  - Bl. Josefina Moscardó Montalvá, laywoman/martyr, 9/22 (remains never found)
 
   - Bl. Salvador Damián Enguix Garés, layman/martyr, 10/27 (body may be
     buried in the cemetery or may have been thrown in the river)
@@ -516,7 +500,7 @@ Cementerio de Alzira
 
 Andújar, Province of Jaén, Andalusia autonomous community
 
-Casa de la Trinidad
+- Casa de la Trinidad
 
   - Servants of God Bernardo de Monroy, OSsT, priest/martyr, d. 7/31/1622
 
@@ -532,7 +516,7 @@ Antas, Levante Almeriense comarca, Province of Almeria, Spain
 
 - Ermita de la Virgen de la Cabeza/Hermitage of the Virgen of the Head
 
-Where the pilgrimage of the Virgen de la Cabeza takes place
+  - Where the pilgrimage of the Virgen de la Cabeza takes place
 
 - ???
 
@@ -540,16 +524,11 @@ Where the pilgrimage of the Virgen de la Cabeza takes place
 
 Antequera, Province of Málaga, Andalusia autonomous community
 
-Casa Madre de Hermanas Franciscanas de los Sagrados
-Corazones/Motherhouse Franciscan Sisters of the Sacred Heart (Carrera de
-Madre Carmen, 4; Tel. +34 952 84 12 57)
+- Casa Madre de Hermanas Franciscanas de los Sagrados Corazones/Motherhouse Franciscan Sisters of the Sacred Heart (Carrera de Madre Carmen, 4)
 
-  - Bl. María del Carmen del Niño Jesús (née María del Carmen)
-    González-Ramos García-Prieto de Muñoz (inside the Iglesia de Nuestra
-    Señora de la Victoria/Church of Our Lady of Victory)
+  - Bl. María del Carmen del Niño Jesús (née María del Carmen) González-Ramos García-Prieto de Muñoz, widow/foundress, 11/9 (inside the Iglesia de Nuestra Señora de la Victoria/Church of Our Lady of Victory)
 
-Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70
-81 06)
+- Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70 81 06)
 
   - Bl. Ángel de Cañete la Real (née José González Ramos Campos), OFM Cap,
     priest/martyr, 8/6
@@ -569,24 +548,23 @@ Cementerio Municipal de Antequera, Panteón de los Mártires, (+34 952 70
   - Bl. Pacifico de Ronda (née Rafaél Severiano Rodríguez Navarro), OFM
     Cap., religious/martyr, 8/7
 
-Arbeca, Les Garrigues comarca, Province of Lleida, Catalonia autonomous
-community
+Arbeca, Les Garrigues comarca, Province of Lleida, Catalonia autonomous community
 
-Església Sant Jaume (Plaça de l\'Església, 24)
+- Església Sant Jaume (Plaça de l\'Església, 24)
 
   - Bl. Antoni Pedró Minguella, priest/martyr, 8/19
 
 Archena, Vega Media del Segura comarca, Province of Murcia, Murcia
 autonomous community
 
-San Juan Bautista de Archena
+- San Juan Bautista de Archena
 
   - Bl. José Sánchez Medina, priest/martyr, 10/17
 
 Arenas del Rey, Alhama comarca, Province of Granada, Andalusia
 autonomous community
 
-Cementerio de Arenas del Rey
+- Cementerio de Arenas del Rey
 
   - Bl. José María Polo Rejón, priest/martyr, 8/6
 
@@ -624,8 +602,7 @@ Atella, Province of Potenza, Basilicata region
 
   - Bl. Antonio da Bitonto, OFM, preacher/theologian, 9/25
 
-Atzeneta d'Albaida/Adzaneta de Albaida, Vall d\'Albaida comarca,
-Province of Valencia, Valencian autonomous community
+Atzeneta d'Albaida/Adzaneta de Albaida, Vall d\'Albaida comarca, Province of Valencia, Valencian autonomous community
 
 - Parroquia de San Juan Bautista
 
@@ -635,13 +612,15 @@ Avila/Ávila,
 
 - Catedral de Cristo Salvador/Cathedral
 
-  - Bl. Damián Gómez Jiménez, priest/martyr, 8/19 (capilla de los
-    mártires/chapel of the martyrs) (relics only)
+  - Bl. Damián Gómez Jiménez, priest/martyr, 8/19 (capilla de los mártires/chapel of the martyrs) (relics only)
 
   - Bl. José García Librán, priest/martyr, 8/14
 
-  - Bl. Juan Mesonero Huerta, priest/martyr, 8/15 (capilla de los
-    mártires/chapel of the martyrs)
+  - Bl. Juan Mesonero Huerta, priest/martyr, 8/15 (capilla de los mártires/chapel of the martyrs)
+
+- Santuario de Nuestra Señora de Sonsoles/Our Lady of Sonsoles (Carretera de Toledo [N-403])
+
+	- Statue of Our Lady of Sonsoles (It is traditional to enter the shrine barefoot.)
 
 - Basilica de los Santos Hermanos Mártires, Vicente, Sabina y Cristeta (aka, Basilica de San Vicente)
 
@@ -667,10 +646,9 @@ Avila/Ávila,
 
   - Bl. Diego de Saldana, bishop, 5/11
 
-Ayegui -- Aiegi, Eastern Estella region, Estella Merindad, Navarre
-Province, Navarre autonomous community
+Ayegui -- Aiegi, Eastern Estella region, Estella Merindad, Navarre Province, Navarre autonomous community
 
-Monasterio de Santa María la Real de Irache
+- Monasterio de Santa María la Real de Irache
 
   - St. Veremundo/Bermudo, abbot, 3/8
 
@@ -716,13 +694,11 @@ region
 
 - Convent de la Divina Providència
 
-  - Ven. Coloma Antònia Martí i Valls (Francesca de les Nafres de Jesús),
-    religious, d. 6/4/1899
+  - Ven. Francesca de les Nafres de Jesús (née Coloma Antònia) Martí i Valls, OSC, religious, d. 6/4/1899
 
 - ???
 
-  - Bl. José Mariano de los Ángeles (née Mariano) Alarcón Ruiz, OCD,
-    priest/martyr, 12/17 (died with his father and was never seen again)
+  - Bl. José Mariano de los Ángeles (née Mariano) Alarcón Ruiz, OCD, priest/martyr, 12/17 (died with his father and was never seen again)
 
   - St. Sergio de Capadocia (Sergio de Cesarea), martyr, 2/23
 
@@ -754,10 +730,9 @@ Convento de San Antonio
 
   - Bl. Juan Amero, OP, layman, 12/2
 
-Banyoles/Bañolas/Bañoles, Pla de l'Estany comarca, Province of Girona,
-Catalonia autonomous region
+Banyoles/Bañolas/Bañoles, Pla de l'Estany comarca, Province of Girona, Catalonia autonomous region
 
-Abadía de San Esteban
+- Abadía de San Esteban
 
   - St. Emerius of Bañoles, monk, 1/27
 
@@ -769,11 +744,9 @@ Barbastro
 
 - Cathedral
 
-- Bl. Florentino Asensio Barroso, bishop/martyr, 8/9 (buried in the crypt)
+	- Bl. Florentino Asensio Barroso, bishop/martyr, 8/9 (buried in the crypt)
 
-Mausoleo de los Mártires en la casa de los claretianos de
-Barbastro/Santuario de los Mártires Claretianos/Claretian Martyrs'
-Shrine (Calle Conde, 4)
+- Mausoleo de los Mártires en la casa de los claretianos de Barbastro/Santuario de los Mártires Claretianos/Claretian Martyrs’ Shrine (Calle Conde, 4)
 
   - Bl. Agustín Viela Ezcurdia, CMF, martyr, 8/13
 
@@ -899,27 +872,21 @@ Barcelona
 
   - St. Severus/Severo of Barcelona, priest or bishop, 11/6 (relics only)
 
-Sagrada Familia
+- Sagrada Familia
 
-- Ven. Antoni Gaudí i Cornet, architect, d. 6/10/1926 (chapel of Our Lady
-  of Mount Carmel in the crypt)
+	- Ven. Antoni Gaudí i Cornet, architect, d. 6/10/1926 (chapel of Our Lady of Mount Carmel in the crypt)
 
 - Iglesia de los Capuchinos de Sarriá (Santa Maria 7, Arenys de Mar 08350)
 
-  - Bl. Joan Ayats Plantalech (Sant Salvador/Eloi de Bianya), martyred
-    priest, 7/28
+  - Bl. Joan Ayats Plantalech (Sant Salvador/Eloi de Bianya), martyred priest, 7/28
+ 
+  - Bl. Martí Tarrés i Puigpelat (aka, Federico de Berga), 2/17 (possible: he was superior here when he was martyred)
 
-  - Bl. Martí Tarrés i Puigpelat (aka, Federico de Berga), 2/17 (possible:
-    he was superior here when he was martyred)
+- Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer, 1571, Sarrià-Sant Gervasi)
 
-Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer,
-1571, Sarrià-Sant Gervasi)
+  - Bl. Remigi del Papiol (née Esteve) Santacana Armengol, OFM Cap., priest/martyr, 1/22 (his relics are in an urn with 24 other martyrs)
 
-  - Bl. Remigi del Papiol (née Esteve) Santacana Armengol, OFM Cap.,
-    priest/martyr, 1/22 (his relics are in an urn with 24 other martyrs)
-
-- Iglesia del Inmaculado Corazón de María/Església de l'Immaculat Cor de
-  Maria/Immaculate Heart of Mary church
+- Iglesia del Inmaculado Corazón de María/Església de l'Immaculat Cor de Maria/Immaculate Heart of Mary church
 
   - Ven. Jaume Clotet Fabres, cofounder, d. 2/4/1898
 
@@ -969,30 +936,26 @@ Convento de frailes Capuchinos de Sarrià (Plaça de Cirici Pellicer,
 
   - Bl. Juan Urgel, O. de M., Mercedarian friar, 8/26
 
-Basílica de la Mercè/Basílica de Nuestra Señora de la Merced (Plaça de
-la Mercè, 1)
+- Basílica de la Mercè/Basílica de Nuestra Señora de la Merced (Plaça de la Mercè, 1)
 
   - Bl. Guillermo of Parma, O. de M., knight, 8/14
 
-Basílica de la Mercè/Basílica de la Merced
+- Basílica de la Mercè/Basílica de la Merced
 
-  - St. María de Cervellón, O. de M., religious, 9/19 (first altar on the
-    right; incorrupt)
+  - St. María de Cervellón, O. de M., religious, 9/19 (first altar on the right; incorrupt)
 
 - Mercedarian Church
 
   - Bl. Henry of Austria, O de M, monk, 3/7
 
-Basílica de Montserrat/Monasterio de Nuestra Senora de Montserrat (08223
-Monestir de Montserrat)
+- Basílica de Montserrat/Monasterio de Nuestra Senora de Montserrat (08223 Monestir de Montserrat)
 
   - Bl. Ambrosi Maria (née Agustí) Busquets Creixell, OSB, priest/martyr,
     8/19 (Cripta de los Monjes Mártires)
 
   - Bl. Bernat (née Jaume) Vendrell Olivella, OSB, religious/martyr, 7/25
 
-- Bl. Domingo/Domènec (née Cipriano) González Millán, OSB, priest/martyr,
-  8/19 (Cripta de los Monjes Mártires)
+	- Bl. Domingo/Domènec (née Cipriano) González Millán, OSB, priest/martyr, 8/19 (Cripta de los Monjes Mártires)
 
   - Bl. Emilià Maria (née Ignasi) Guilà Ximenes, OSB, religious/martyr, 8/19
     (Cripta de los Monjes Mártires)
@@ -1017,7 +980,7 @@ Monestir de Montserrat)
   - Bl. Placid María (Càndid) Feliu Soler, OSB, priest/martyr, 8/19 (Cripta
     de los Monjes Mártires)
 
-Nuestra Señora de la Mercè
+- Nuestra Señora de la Mercè
 
   - Bl. Maria de Cerevellon, religious, 9/19
 
@@ -1026,38 +989,37 @@ Nuestra Señora de la Mercè
   - Servant of God José María Hernández Garnica, Opus Dei priest, d.
     12/7/1972
 
-Església de Sant Pio X (Carrer de la Garrotxa, 4)
+- Sant Pau del Camp/St. Paul of the Fields (Carrer de Sant Pau, 99–101; El Raval; Ciutat Vella)
+
+	- St. Galderic/Gaudéric de Viéville/Galdric, peasant farmer, 10/16 (relic only; his mortal remains used to rest here)
+
+- Església de Sant Pio X (Carrer de la Garrotxa, 4)
 
   - Bl. Narcís Sitjà Basté, SF, religious/martyr, 8/9
 
-- Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred
-Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
+- Templo del Sagrado Corazón de Jesús (Tibidabo)/Temple of the Sacred Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
-- Bl. Francisco Bandrés Sánchez, SDB, priest/martyr, 8/3 (crypt of the
-  Salesian Martyrs' Chapel)
+	- Bl. Francisco Bandrés Sánchez, SDB, priest/martyr, 8/3 (crypt of the Salesian Martyrs' Chapel)
 
 - San Vicente de Sarría
 
   - Bl. Pere Tarrés i Claret, doctor/priest, 5/30 & 8/31
 
-- Santuari de Sant Josep de la Muntanya
+- Santuari de Sant Josep de la Muntanya (Avinguda del Santuari de Sant Josep de la Muntanya, 25)
 
   - Bl. Petra de Sant Josep (née Ana Josefa) Pérez Florido, foundress, 8/16
 
-- Santuario de María Auxiliadora (Passeig de Sant Joan Bosco, 70,
-  Sarrià-Sant Gervasi)
+- Santuario de María Auxiliadora (Passeig de Sant Joan Bosco, 70, Sarrià-Sant Gervasi)
 
   - Ven. Antonia Dorotea de Chopitea de Villota, social worker, d. 4/3/1891
 
 - Discalced Carmelite Convent
 
-  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín,
-    OCD, religious, d. 1/3/1594 (an arm and a hand only)
+  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín, OCD, religious, d. 1/3/1594 (an arm and a hand only)
 
 - Monasterio Carmelita de la Encarnación, Calle de Panamá, 12
 
-  - Servant of God María Cristina de la Eucaristía Alonso y Alonso, OC, d.
-    5/3/1979
+  - Servant of God María Cristina de la Eucaristía Alonso y Alonso, OC, d. 5/3/1979
 
 - Convento de la Mercè/Convento Mercedario de Santa Eulalia/Mercedarian convent of Saint Eulalia (Plaça de la Mercè, 1)
 
@@ -1081,10 +1043,9 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
   - Bl. Patrocinio (née María) Vilanova Alsina, religious, 7/31
 
-- La cripta de Colegio Mayor Bonaigua/l'Oratori de Bonaigua de Barcelona
+- Casa General de la Congregació de les Serventes de la Passió (Carrer de Llobet i Vall-llosera, 12)
 
-  - Ven. María Montserrat Grases García, teen Opus Dei laywoman, d.
-    3/26/1959
+	- Ven. Teresa Gallifa i Palmarola, SP, foundress, d. 3/17/1907
 
 - Casa Mare de les Germanes Carmelites de Sant Josep
 
@@ -1092,34 +1053,35 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
 - Casa mare de les Carmelites Tereses de S. Josep
 
-  - Ven. Teresa del Cuore Immacolato di Maria Guasch y Toda, religious, d.
-    12/15/1912
+  - Ven. Teresa del Cuore Immacolato di Maria Guasch y Toda, religious, d. 12/15/1912
 
-  - Ven. Teresa Toda i Juncosa, foundress, d. 7/30/1898
+  - Ven. Teresa de San José (née Teresa) Toda i Juncosa, foundress, d. 7/30/1898
 
 - Capella de les Serventes de la Passió (C Llobet i Vall llosera, 12) (el Guinardó neighborhood)
 
   - Ven. Teresa Gallifa i Palmarola, foundress, d. 3/17/1907
 
-- Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
-
-  - Bl. María Mercedes del Sagrado Corazón (née María Mercè Prat i Prat),
-    STJ, religious/martyr, 7/24 (in the chapel)
-
 - Colegio Casa Nostra, casa general de las Operaria
 
   - Servant of God Magdalena Aulina Saurina, lay mystic, d. 5/15/1956
 
-- Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona
-(Calle Mallorca, 191, in the Eixample district)
+- Colegio de las Hermanas Dominicas de la Anunciata/Colegio de Barcelona (Calle Mallorca, 191, in the Eixample district)
 
   - Bl. María del Carmen Zaragoza y Zaragoza, religious/martyr, 8/7
 
   - Bl. María Rosa Adrover Martí, religious/martyr, 8/7
 
-- Colegio (College) de Jesús, María y José
+- Colegio (High School) de Jesús, María y José
 
-	- St. Josep Manyanet y Vives, founder, 12/17 (chapel)
+	- St. Josep Manyanet y Vives, priest/founder, 12/17 (chapel)
+
+- La cripta de Colegio Mayor Bonaigua/l’Oratori de Bonaigua de Barcelona (Carrer Jiménez i Iglesias, 3)
+
+  - Ven. María Montserrat Grases García, teen Opus Dei laywoman, d. 3/26/1959
+
+- Comunidad de la Compañía de Santa Teresa de Jesús \"Teresianas\"
+
+  - Bl. María Mercedes del Sagrado Corazón (née María Mercè Prat i Prat), STJ, religious/martyr, 7/24 (in the chapel)
 
 - Instituto Secular de Operarias Parroquiales (Passage Torras i Bages, 5, Sarrià-Sant Gervasi)
 
@@ -1197,8 +1159,7 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
   - Bl. Sergio Cid Pazo, SDB, priest/martyr, 7/30
 
-- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery
-  (Dep. I, illa 2a, núm. 47)
+- Cementiri del Poblenou/Cementerio de Pueblo Nuevo/New City Cemetery (Dep. I, illa 2a, núm. 47)
 
   - Bl. Agustín Ibarra Anguela, priest/martyr, 8/15
 
@@ -1297,13 +1258,11 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
 
   - Bl. Guillermo Giraldi, O. de M., religious, 3/5-3/6
 
-- Bl. Guillermo Vives, O. de M., friar, 1/3 ("buried at the monastery at
-  Barcelona, Spain" ... Convento de la Mercè de Barcelona?)
+  - Bl. Guillermo Vives, O. de M., friar, 1/3 ("buried at the monastery at Barcelona, Spain" ... Convento de la Mercè de Barcelona?)
 
   - Bl. Gumersindo Valtierra Alonso, priest/martyr, 2/1 & 7/26
 
-  - Bl. Ildefons Lluís (née José/Josep) Casas Lluch, FSC, religious/martyr,
-    10/22
+  - Bl. Ildefons Lluís (née José/Josep) Casas Lluch, FSC, religious/martyr, 10/22
 
   - Bl. Isabel Berti, O. de M., widow/religious, 1/19
 
@@ -1321,24 +1280,20 @@ Heart of Jesus (Ctra. de Vallvidrera al Tibidabo, 111)
     buried in La Secuita, Province of Tarragona, his hometown, maybe at the
     church, Santa María de la Secuita)
 
-  - Bl. Lamberto Carlos (née Jaime) Mases Boncompte, FSC, religious/martyr,
-    12/16 (burned alive by a militiawoman)
+  - Bl. Lamberto Carlos (née Jaime) Mases Boncompte, FSC, religious/martyr, 12/16 (burned alive by a militiawoman)
 
   - Bl. Lorenzo Moreno Nicolás, O. de M., religious/martyr, 11/3 (body never
     found)
 
   - Bl. Lucrecia García Solanas, laywoman/martyr, 7/23
 
-  - Bl. Luis Beltran (née Serviliano Solá Jiménez), OH, religious/martyr,
-    8/28 (his remains are not conserved)
+  - Bl. Luis Beltran (née Serviliano Solá Jiménez), OH, religious/martyr, 8/28 (his remains are not conserved)
 
   - Bl. Luis Urbano Lanaspa, OP, priest/martyr, 8/25
 
-  - Bl. Luis María de la Virgen de la Merced (née Luis) Minguel Ferrer, OCD,
-    priest/martyr, 10/22
+  - Bl. Luis María de la Virgen de la Merced (née Luis) Minguel Ferrer, OCD, priest/martyr, 10/22
 
-  - Bl. Luis Victorio (née Eleuterio Angulo Ayala), FSC, religious/martyr,
-    8/30
+  - Bl. Luis Victorio (née Eleuterio Angulo Ayala), FSC, religious/martyr, 8/30
 
   - Fr. Marc Castanyer Seda, priest, d. 4/18/1878
 
@@ -1389,49 +1344,41 @@ Barcelona (Sants neighborhood)
 
   - Bl. Fèlix Vivet Trabal, martyr, 8/26
 
-Barcelona (Sants-Montjuïc district), Province of Barcelona, Catalonia
-autonomous community
+Barcelona (Sants-Montjuïc district), Province of Barcelona, Catalonia autonomous community
 
-Cementiri de Tots Sants/Cementiri de Sants/Cementiri General de
-Barcelona (Carrer de l'Hospital, 56)
+- Cementiri de Tots Sants/Cementiri de Sants/Cementiri General de Barcelona (Carrer de l'Hospital, 56)
 
   - Bl. Jacinto Blanch Ferrer, CMF, priest/martyr, 8/21 (grave lost)
 
-Barcelona, Pedralbes barrio/neighborhood, Province of Barcelona,
-Catalonia autonomous region
+Barcelona, Pedralbes barrio/neighborhood, Province of Barcelona, Catalonia autonomous region
 
 - ???
 
   - Bl. Antonio/Antoni Junyent Estruch, CMF, religious/martyr, 2/1 & 8/18
 
-San Andrés de Palomar/Sant Andreu de Palomar barrio/neighborhood,
-Province of Barcelona, Catalonia region
+Barcelona, San Andrés de Palomar/Sant Andreu de Palomar barrio/neighborhood, Province of Barcelona, Catalonia region
 
 - Cementiri/Cemetery
 
   - Bl. Cándido/Càndid Casals Sunyer, priest/martyr, 2/1 & 7/29
 
-Barcelona, Vallibona neighborhood, Province of Barcelona, Cataluña
-autonomous community
+Barcelona, Vallibona neighborhood, Province of Barcelona, Cataluña autonomous community
 
 - Cementerio/Cemetery
 
   - Bl. Matías Cardona-Meseguer, SchP, priest/martyr, 8/20
 
-Barrios de Colina, Alfoz de Burgos comarca, Province of Burgos, Castile
-and León autonomous community
+Barrios de Colina, Alfoz de Burgos comarca, Province of Burgos, Castile and León autonomous community
 
-Monasterio de San Juan de Ortega
+- Monasterio de San Juan de Ortega
 
   - St. Juan de Ortega, religious, 6/2
 
-Barruelo de Santullán, Province of Palencia, Castile y León autonomous
-community
+Barruelo de Santullán, Province of Palencia, Castile y León autonomous community
 
 - Iglesia de Santo Tomás
 
-  - Bl. Bernat/Bernardo (née Plàcid) Fàbrega Julià, FMS,
-    teacher/religious/martyr, 10/6
+  - Bl. Bernat/Bernardo (née Plàcid) Fàbrega Julià, FMS, teacher/religious/martyr, 10/6
 
 Batea, Terra Alta comarca, Province of Tarragona, Catalonia autonomous
 region
@@ -1462,7 +1409,7 @@ Belalcázar, Province of Córdoba, Andalusia autonomous community
 
 - Cementerio de Belalcázar
 
-  - > Bl. Antonio Luque Jurado, priest/martyr, 8/14
+  - Bl. Antonio Luque Jurado, priest/martyr, 8/14
 
 Bellreguard/Bellreguart, Safor comarca, Province of Valencia, Valencian autonomous community
 
@@ -1494,8 +1441,7 @@ community
 
   - Bl. Luis Campos Górriz, layman/martyr, 11/28
 
-Benavites, Camp de Morvedre comarca, Province of Valencia, Valencian
-autonomous community
+Benavites, Camp de Morvedre comarca, Province of Valencia, Valencian autonomous community
 
 - ???
 
@@ -1505,8 +1451,7 @@ autonomous community
 
   - Bl. Rosario Ciércoles Gascón,DC, religious/martyr, 8/18
 
-Benicarló, Baix Maestrat comarca, Province of Castelló, Valencian
-autonomous community
+Benicarló, Baix Maestrat comarca, Province of Castelló, Valencian autonomous community
 
 - ???
 
@@ -1523,23 +1468,16 @@ autonomous community
 
   - Bl. Vicente Ballester Far, priest of Valencia/martyr, 9/23
 
-Benifaió, Ribera Alta comarca, Province of Valencia, Valencian
-autonomous community
+Benifaió, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
-- Iglesia Parroquial de San Pedro Apóstol (Carrer Abadia, 6,
-  34-961780249)
+- Iglesia Parroquial de San Pedro Apóstol (Carrer Abadia, 6, 34-961780249)
 
-  - Bl. Gabriel María de Benifaió (née José María Sanchís Mompó), TC,
-    priest/martyr, 8/16 (this location comes from AI; take it with a grain
-    of salt, although I have verified the address); AI says he could also be
-    buried at the Cementerio Municipal de Picassent, which is nearby, or at
-    the Iglesia Nuestra Señora de la Asunción in Benifaió, but the latter is
-    unlikely)
+  - Bl. Gabriel María de Benifaió (née José María Sanchís Mompó), TC, priest/martyr, 8/16 (this location comes from AI; take it with a grain
+    of salt, although I have verified the address); AI says he could also be buried at the Cementerio Municipal de Picassent, which is nearby, or at the Iglesia Nuestra Señora de la Asunción in Benifaió, but the latter is unlikely)
 
-Benifairó de la Valldigna, Safor comarca, Province of Valencia,
-Valencian autonomous community
+Benifairó de la Valldigna, Safor comarca, Province of Valencia, Valencian autonomous community
 
-Cementeri de Benifairó de la Valldigna
+- Cementeri de Benifairó de la Valldigna
 
   - Bl. Juan Gonga Martínez, layman/martyr, 11/13 (buried in a common grave)
 
@@ -1549,37 +1487,44 @@ Benigánim, Province of Valencia
 
 - Augustinian monastery
 
-  - Bl. Josefa Maria of Sant'Agnese (née Josefa Teresa Albinàna), religious,
-    1/21 (relics taken and destroyed by the communists)
+  - Bl. Josefa Maria of Sant'Agnese (née Josefa Teresa Albinàna), religious, 1/21 (relics taken and destroyed by the communists)
 
-Benillup, Comtat comarca, Province of Alicante, Valencian autonomous
-community
+Benillup, Comtat comarca, Province of Alicante, Valencian autonomous community
 
 - ???
 
   - Bl. Amalia Abad Casasempere, wife/martyr, 9/28
 
-Benitachell, Marina Alta region, Province of Alicante, Valencian
-autonomous community
+Benissa/Benisa, Marina Alte comarca, Province of Alicante, Valenciana autonomous community
+
+- Convento de los Padres Franciscanos (Calle Pare Zacarías, 27)
+
+	- Servant of God Humilde (née Vicente) Soria Pons, OFM, religious, d. 2/26/1905
+
+Benitachell, Marina Alta region, Province of Alicante, Valencian autonomous community
 
 - Parroquia de Santa María Magdalena
 
   - Bl. Plácido García Gilabert, OFM, priest/martyr, 8/16, 9/7, & 11/20
     (buried here in 1967)
 
-Benquerencia de la Serena, La Serena comarca, Province of Badajoz,
-Extremadura autonomous community
+Benquerencia de la Serena, La Serena comarca, Province of Badajoz, Extremadura autonomous community
 
-Cementerio de Benquerencia de la Serena
+- Cementerio de Benquerencia de la Serena
 
   - Bl. Antonio Frutos Tena Amaya, priest/martyr, 9/6
 
+Bercedo, Las Merindades comarca, Province of Burgos, Castilla y León autonomous community
+
+- ???
+
+  - Bl. Arturo Soto Tapia, priest/martyr, 11/6 (his body was found near here; no evidence as to where it was buried)
+
 Berja, Province of Almería, Andalusia autonomous community
 
-Cementerio de Berja
+- Cementerio de Berja
 
-  - Bl. Juan Moreno Juárez, priest/martyr, 9/4 (he was shot here; but is he
-    still buried here?)
+  - Bl. Juan Moreno Juárez, priest/martyr, 9/4 (he was shot here; but is he still buried here?)
 
   - Bl. Manuel López Álvarez, priest/martyr, 8/20 (mass, unmarked grave)
 
@@ -1595,11 +1540,7 @@ Cementerio de Berja
 
 Berriz, Durangaldea comarca, Province of Biscay, Basque Country
 
-Convento de la Vera Cruz (Barrio Sallobente, s/n; telephone +34 946 22
-55 30 or 915 716 303) (this is a best guess; they died here so they
-should be buried here; call before making the trip) (the nuns are
-collectively known as las Beatas 6 Religiosas Mercedarias de Berriz/the
-6 Blessed Mercedarian Religious of Berriz)
+- Convento de la Vera Cruz (Barrio Sallobente, s/n) (this is a best guess; they died here so they should be buried here; call before making the trip) (the nuns are collectively known as las Beatas 6 Religiosas Mercedarias de Berriz/the 6 Blessed Mercedarian Religious of Berriz)
 
   - Bl. Anna de Arrano, O. de M. religious, 12/24
 
@@ -1615,7 +1556,7 @@ collectively known as las Beatas 6 Religiosas Mercedarias de Berriz/the
 
 Berzocana, Province of Cáceres, Autonomous Community of Extremadura
 
-San Juan Bautista de Berzocana
+- San Juan Bautista de Berzocana
 
   - St. Florentina, abbess, 3/14 and 6/20
 
@@ -1637,21 +1578,19 @@ Besiáns, Huesca, Hoya de Huesca Comarca, Huesca Province, Aragon
 
   - Bl. Gregory of Besiáns, OP, 4/26
 
-Betxí/Bechí, Plana Baixa comarca, Province of Castellón, Valencian
-autonomous community
+Betxí/Bechí, Plana Baixa comarca, Province of Castellón, Valencian autonomous community
 
-- ???
+- Cristo de la Piedad, the focus of the patron festivities, held September 16–25.
 
 Bilbao
 
 - Iglesia de San Felicísimo
 
-  - Ven. Gerardo de San Francisco (née Francisco Sagarduy de Lasgoitia), CP,
-    religious, d. 5/29/1962
+  - Ven. Gerardo de San Francisco (née Francisco Sagarduy de Lasgoitia), CP, religious, d. 5/29/1962
 
-- Motherhouse of the Instituto de las Siervas de Jesús
+- Motherhouse of the Instituto de las Siervas de Jesús (Calle La Naja, 1)
 
-  - St. María Josefa del Corazón de Jesús, foundress, 3/20
+  - St. María Josefa del Corazón de Jesús (née María Josefa) Sancho de Guerra, foundress, 3/20
 
 - Passionist Monastery of Begoña
 
@@ -1706,13 +1645,11 @@ Blancafort, Conca de Barberà comarca, Province of Tarragona, Catalonia autonomo
 
   - Bl. Isidre Torres Balsells, priest/martyr, 8/24
 
-Blanes, Selva comarca, Province of Girona, Catalonia autonomous
-community
+Blanes, Selva comarca, Province of Girona, Catalonia autonomous community
 
-Cementiri municipal de Blanes (C/ de Santa Cecília, 5)
+- Cementiri municipal de Blanes (C/ de Santa Cecília, 5)
 
-  - Bl. Fèlix de Tortosa (née Joan) Bonavida Dellá, OFM Cap.,
-    religious/martyr, 8/1
+  - Bl. Fèlix de Tortosa (née Joan) Bonavida Dellá, OFM Cap., religious/martyr, 8/1
 
   - Bl. Sebastián Llorens Telarroja, TOSF, farmworker/martyr, 7/30
 
@@ -1722,48 +1659,36 @@ Boadilla del Monte, Madrid autonomous community
 
   - Bl. Hilario Barriocanal Quintana, CM, priest/martyr, 8/20
 
-Bolbaite, Canal de Navarrés comarca, Province of Valencia, Valencian
-autonomous community
+Bolbaite, Canal de Navarrés comarca, Province of Valencia, Valencian autonomous community
 
-Cementerio de Bolbaite (Diseminado Diseminados, 547)
+- Cementerio de Bolbaite (Diseminado Diseminados, 547)
 
-  - Bl. Vicente Sicluna Hernández, priest of Valencia/martyr, 9/22 (unmarked
-    grave)
+  - Bl. Vicente Sicluna Hernández, priest of Valencia/martyr, 9/22 (unmarked grave)
 
-Bugedo/Bujedo de Candepajares, Valle del Ebro comarca, Province of
-Burgos, Castilla y León autonomous community
+Bugedo/Bujedo de Candepajares, Valle del Ebro comarca, Province of Burgos, Castilla y León autonomous community
 
-Monasterio de Santa María de Bujedo
+- Monasterio de Santa María de Bujedo
 
   - St. Aniceto Adolfo (née Manuel) Seco Gutiérrez, FSC, religious/martyr,
     10/9
 
-  - St. Augusto Andrés (née Román) Martín Fernández, FSC, religious/martyr,
-    10/9
+  - St. Augusto Andrés (née Román) Martín Fernández, FSC, religious/martyr, 10/9
 
-  - St. Benildo (née Héctor) Valdivielso Sáez, FSC, religious/martyr, 10/9
-    (most of his relics are spread around Argentina, his home country, at La
-    Salle communities)
+  - St. Benildo (née Héctor) Valdivielso Sáez, FSC, religious/martyr, 10/9 (most of his relics are spread around Argentina, his home country, at La Salle communities)
 
-  - St. Benito de Jesús (née Héctor) Valdivieso Sáez, FSC, religious/martyr,
-    10/9
+  - St. Benito de Jesús (née Héctor) Valdivieso Sáez, FSC, religious/martyr, 10/9
 
-  - St. Benjamín Julián (née Vicente) Alonso Andrés, FSC, religious/martyr,
-    10/9
+  - St. Benjamín Julián (née Vicente) Alonso Andrés, FSC, religious/martyr, 10/9
 
   - St. Cirilo Bertrán (née José) Sanz Tejedor, FSC, religious/martyr, 10/9
 
-  - St. Julián Alfredo (née Vilfrido) Fernández Zapico, FSC,
-    religious/martyr, 10/9
+  - St. Julián Alfredo (née Vilfrido) Fernández Zapico, FSC, religious/martyr, 10/9
 
-  - St. Marciano José (née Filomeno) López y López, FSC, religious/martyr,
-    10/9
+  - St. Marciano José (née Filomeno) López y López, FSC, religious/martyr, 10/9
 
-  - St. Victoriano Pío (née Claudio) Bernabé Cano, FSC, religious/martyr,
-    10/9
+  - St. Victoriano Pío (née Claudio) Bernabé Cano, FSC, religious/martyr, 10/9
 
-Burgos, Alfoz de Burgos comarca, Province of Burgos, Castile y León
-autonomous community
+Burgos, Alfoz de Burgos comarca, Province of Burgos, Castile y León autonomous community
 
 - La Catedral Basílica Metropolitana de Santa María
 
@@ -1773,11 +1698,9 @@ autonomous community
 
 - Iglesia de San Lesmes Abad (Plaza de San Juan)
 
-  - St. Adelelmus (aka, Adelelm; Aleaunie; Alleaume; Elesmes; Lesmes), OSB,
-    abbot, 1/30
+  - St. Adelelmus (aka, Adelelm; Aleaunie; Alleaume; Elesmes; Lesmes), OSB, abbot, 1/30
 
-El monasterio de Santa María la Real de las Huelgas (aka, Monasterio de
-las Huelgas)
+- El monasterio de Santa María la Real de las Huelgas (aka, Monasterio de las Huelgas)
 
   - Martyrs of Cardeña, 8/6 (two urns of their relics)
 
@@ -1785,17 +1708,29 @@ las Huelgas)
 
   - Servant of God Ignacio María Arámburu Alústiza, SJ, priest, d. 1/5/1935
 
-  - Servant of God Marta Obregón Rodríguez, martyr for chastity, d.
-    1/21/1992
+  - Servant of God Marta Obregón Rodríguez, martyr for chastity, d. 1/21/1992
 
 Burriana/Borriana, Province of Castellón, Valencian autonomous community
 
 - ???
 
-  - Bl. Benito María of Burriana (née Manuel Ferrer Jordá), TC,
-    priest/martyr, 9/16
+  - Bl. Benito María of Burriana (née Manuel Ferrer Jordá), TC, priest/martyr, 9/16
+
+Bustamante, Campoo-Los Valles comarca, Cantabria Province, Cantabria autonomous community
+
+- Cementerio de Bustamante/Cemetery of Bustamante
+
+  - Bl. Isidoro Gutiérrez González, priest/martyr, 11/6
+
+Cabañas de Virtus, Las Merindades comarca, Burgos Province, Castilla y León autonomous community
+
+- ???
+
+  - Bl. Arsenio Patrocinio García Lavid, priest/martyr, 11/6
 
 Cáceres, Province of Cáceres, Extremadura autonomous community
+
+- Santuario de la Virgen de la Montaña/Shrine of the Virgin of the Mountain (Calle Ntra. Sra. de la Montaña s/n)(Google Plus Code)(39.4625° N, 6.3517° W)
 
 - ???
 
@@ -1818,22 +1753,19 @@ Cádiz (Cadiz), Province of Cádiz, Andalusia
   - Ven. Vicente Lopez de Uralde Lazcano, SM, priest/teacher, d. 9/15/1990
     (he\'s buried in a chapel)
 
-Calaf, Anoia comarca, Province of Barcelona, Catalonia autonomous
-community
+Calaf, Anoia comarca, Province of Barcelona, Catalonia autonomous community
 
-San Jaume/St. James
+- San Jaume/St. James
 
   - St. Calamanda, virgin martyr, 2/5
 
 Calafell, Province of Tarragona, Catalonia autonomous community
 
-La Casa de los Hospitalarios de San Juan de Dios (Hazlo Bien Hermanos)
+- La Casa de los Hospitalarios de San Juan de Dios (Hazlo Bien Hermanos)
 
-All the Hospitallers of St. John of God martyrs killed in Calafell are
-entombed here.
+  - All the Hospitallers of St. John of God martyrs killed in Calafell are entombed here.
 
-  - Bl. Braulio María (née Pablo) Corres Díaz de Cerio, OH, and 14
-    companions, 7/30
+  - Bl. Braulio María (née Pablo) Corres Díaz de Cerio, OH, and 14 companions, 7/30
 
 Calahorra, Rioja Baja comarca, Rioja Baja autonomous community
 
@@ -1843,8 +1775,7 @@ Calahorra, Rioja Baja comarca, Rioja Baja autonomous community
 
   - St. Prudentius of Tarazona, bishop, 4/28 (relics)
 
-Calanda, Bajo Aragón comarca, Province of Teruel, Aragon autonomous
-community
+Calanda, Bajo Aragón comarca, Province of Teruel, Aragon autonomous community
 
 - ???
 
@@ -1864,29 +1795,31 @@ community
 
   - Bl. Tirso Manrique Melero, OP, martyr, 7/29
 
-Calp, Marina Alta comarca, Province of Alicante, Valencian autonomous
-community
+Calp, Marina Alta comarca, Province of Alicante, Valencian autonomous community
 
 - Iglesia de Nuestra Señora Virgen de las Nieves
 
   - Bl. Francisco Sendra Ivars, priest/martyr, 9/4
 
-Camallera village, Saus, Camallera i Llampaies municipality, Alt Empordà
-comarca, Province of Girona, Catalonia autonomous community
+Camallera village, Saus, Camallera i Llampaies municipality, Alt Empordà comarca, Province of Girona, Catalonia autonomous community
 
 - ???
 
   - Bl. Esiqui Josep (née Baldomer(o) Margenat Puigmitja), FSC, 9/2
 
-Campo de Mirra/El Camp de Mirra, Alt Vinalopó comarca, Province of
-Alicante, Valencian autonomous community
+Campo de Mirra/El Camp de Mirra, Alt Vinalopó comarca, Province of Alicante, Valencian autonomous community
 
 - ???
 
   - Bl. José María Ferrándiz Hernández, priest of Valencia/martyr, 9/24
 
-Campredó, municipality of Tortosa, Bas Ebro region, Province of
-Tarragona, Catalonia autonomous community
+Campos, Mallorca, Islas Baleares autonomous community
+
+- Casa de la congregació/Convent dels Sagrats Cors/Ca ses Monges de les Missioneres dels Sagrats Cors de Jesús i Maria/House of the Sisters of the Missionaries of the Sacred Hearts of Jesus and Mary (Carrer del Pare Alzina, 11)
+
+  - Ven. Maria Rafela del Sagrat Cor de Jesús (née Sebastiana) Lladó i Sala, M.SS.CC., religious/foundress, d. 3/8/1899
+
+Campredó, municipality of Tortosa, Bas Ebro region, Province of Tarragona, Catalonia autonomous community
 
 - ???
 
@@ -1930,7 +1863,7 @@ Asturias autonomous community
   Royal of Covadonga, next to the Santa Cueva de Covadonga/Holy Cave of
   Covadonga
 
-Nuestra Señora de Covadonga/Our Lady of Covadonga (\"La Santina\"), 9/8
+	- Nuestra Señora de Covadonga/Our Lady of Covadonga (\"La Santina\"), 9/8
 
 Cantalapiedra, Las Guareñas Comarca, Province of Salamanca, Castilla y León autonomous community
 
@@ -1938,12 +1871,9 @@ Cantalapiedra, Las Guareñas Comarca, Province of Salamanca, Castilla y León au
 
 	- Servant of God Juan Tomás González y González-Arintero, OP, priest, d. 2/20/1928
 
-- ???
+- Monasterio del Sagrado Corazón de Jesús/Church of the Monastery of the Sacred Heart of Jesus (Paseo de la Estación, 24)
 
-  - Ven. María Amparo del Sagrado Corazón de Jesús (nee María Amparo)
-    Delgado García, PC, religious, d. 7/6/1941 (she died here, is she buried
-    here? She is possibly buried at Monzón, Province of Huesca, Aragón
-    autonomous community possibly at the Monasterio de las Clarisas)
+	- Ven. María Amparo del Sagrado Corazón de Jesús (nee María Amparo) Delgado García, PC, religious, d. 7/6/1941
 
 Carcaixent/Carcagente, Ribera Alta comarca, Province of Valencia, Valencian autonomous community
 
@@ -2253,8 +2183,7 @@ region
 
 - ???
 
-- Bl. Juan Soler García, priest/martyr, 8/23 (either Iglesia San Isidoro
-  (Church of Chirivel) or Cementerio Municipal de Chirivel)
+- Bl. Juan Soler García, priest/martyr, 8/23 (either Iglesia San Isidoro (Church of Chirivel) or Cementerio Municipal de Chirivel)
 
 Chulilla, Los Serranos comarca, Valencia
 
@@ -2264,33 +2193,32 @@ Chulilla, Los Serranos comarca, Valencia
 
 Ciempozuelos, La Sagra, Province of Madrid, Madrid autonomous community
 
-Casa Madre de la Congregación de Hermanas Hospitalarias del Sagrado
-Corazón de Jesús/Mother House, Congregation of Hospitaller Sisters of
-the Sacred Heart of Jesus
-
-  - St. Benedetto Menni, OH, founder, 4/24
-
 - Iglesia del Centro San Juan de Dios
 
-  - Bl. Juan de la Cruz (née Eloy Francisco Felipe Delgado Pastor), OH,
-    religious/martyr, 7/25
+  - Bl. Juan de la Cruz (née Eloy Francisco Felipe Delgado Pastor), OH, religious/martyr, 7/25
 
-- Iglesia del Hospital San Juan de Dios/Capilla Hospitalaria Orden de San
-  Juan de Dios/Hospital Order of Saint John of God's Chapel (Calle San
+- Iglesia del Hospital San Juan de Dios/Capilla Hospitalaria Orden de San Juan de Dios/Hospital Order of Saint John of God's Chapel (Calle San
   Juan de Dios, 1)
 
   - Bl. Benito Iñiguez de Heredia Alzola, OH, religious/martyr, 8/1
 
   - Bl. Federico (née Carlos Rubio Álvarez), OH, religious/martyr, 7/25
 
-Sanatorio de Ciempozuelos
+- Sanatorio de Ciempozuelos
 
   - Bl. Jerónimo Ochoa Urdangarín, OH, religious/martyr, 7/25
 
   - Bl. Primo Martínez de San Vicente Castillo
 
-- Cementerio de los Hermanos de San Juan de Dios/Cemetery of the Brothers
-  of Saint John of God
+- Casa Madre de la Congregación de Hermanas Hospitalarias del Sagrado Corazón de Jesús/Mother House, Congregation of Hospitaller Sisters of the Sacred Heart of Jesus
+
+  - St. Benedetto (née Angelo Ercole) Menni Figini, OH, priest/founder, 4/24
+
+- Casa de Espiritualidad Oblatas en Ciempozuelos/Spirituality House of the Oblate Sisters of the Most Holy Redeemer (Avenida Venerable Madre Antonia, 20)
+
+  - Ven. Antonia María de Merced (née Antonia) de Oviedo Schöntal, OSR, cofoundress, d. 2/28/1898
+
+- Cementerio de los Hermanos de San Juan de Dios/Cemetery of the Brothers of Saint John of God
 
   - Bl. Jacinto Hoyuelos Gonzalo, OH, religious/martyr, 9/18 & 7/30
 
@@ -2346,10 +2274,13 @@ community
 
 Comillas, Province of Cantabria, Cantabria autonomous community
 
-Panteón del Palacio de Sobrellano
+- Panteón del Palacio de Sobrellano
 
-  - Servant of God Claudio López Bru, nobleman/wealthy businessman, d.
-    4/18/1925
+  - Servant of God Claudio López Bru, nobleman/wealthy businessman, d. 4/18/1925
+
+- Cementerio de Comillas/Comillas Cemetery (Calle las Paserucas, 25)
+
+  - Bl. Manuel Crespo Vega, priest/martyr, 11/6
 
 Compostela/Santiago de Compostela
 
@@ -2525,7 +2456,7 @@ Cementerio de San Rafael (Calle San Rafael, s/n/)
 
 Coria, Province of Cáceres, Extremadura autonomous community
 
-Cementerio Municipal de Coria
+- Cementerio Municipal de Coria
 
   - Servant of God Honorio María Sánchez de Bustamante, priest, d. 8/15/1965
 
@@ -2614,8 +2545,7 @@ Cuenca
 
   - Bl. Pedro Romero Espejo, priest/martyr, 7/4 & 11/6
 
-Cuestas de Belinchón *pedanía* (hamlet), Belinchón municipality,
-Province of Cuenca, Castile-La Mancha autonomous community
+Cuestas de Belinchón *pedanía* (hamlet), Belinchón municipality, Province of Cuenca, Castile-La Mancha autonomous community
 
 - ???
 
@@ -2627,10 +2557,9 @@ Cuteclara (near Cordoba; nothing remains of it)
 
   - St. Martha of Córdoba, religious/martyr, 11/24
 
-Daimiel, Campo de Calatrava comarca, Ciudad Real, Castile-La Mancha
-autonomous community
+Daimiel, Campo de Calatrava comarca, Ciudad Real, Castile-La Mancha autonomous community
 
-Monasterio Pasionista del Santo Cristo de la Luz
+- Monasterio Pasionista del Santo Cristo de la Luz
 
   - Bl. Abilio of the Cross (Abilio Ramos y Ramos), CP, seminarian/martyr,
     7/24
@@ -2756,8 +2685,7 @@ community
 
   - St. Pedro del Barco, priest/hermit, 8/12
 
-El Burgo de Osma, Burgo de Osma-Ciudad de Osma, Soria province, Castilla
-y León autonomous community
+El Burgo de Osma, Burgo de Osma-Ciudad de Osma, Soria province, Castilla y León autonomous community
 
 - Catedral de la Asunción de la Virgen
 
@@ -2767,13 +2695,17 @@ y León autonomous community
 
   - St. Pedro de Osma, OSB, bishop, 8/2
 
-El Catllar, Tarragonès comarca, Province of Tarragona, Catalonia
-autonomous region
+El Cabaco, Sierra de Francia comarca, Province of Salamanca, Castilla y León autonomous community
+
+- Santuario de Nuestra Señora de la Peña de Francia (at the top of the Peña de Francia mountain)(SA-203 road, s/n)(40°30′44″ N, 6°10′07″ W)
+
+	- Nuestra Señora de Peñafrancia/Our Lady of Peñafrancia, 9/8
+
+El Catllar, Tarragonès comarca, Province of Tarragona, Catalonia autonomous region
 
 - ???
 
-  - Bl. Augusto María (née Arsenio) Merino Miguel, FSC, religious/martyr,
-    10/29 (unknown burial place)
+  - Bl. Augusto María (née Arsenio) Merino Miguel, FSC, religious/martyr, 10/29 (unknown burial place)
 
 El Masnou, Province of Barcelona, Catalonia autonomous region
 
@@ -2781,16 +2713,21 @@ El Masnou, Province of Barcelona, Catalonia autonomous region
 
   - Bl. Joan Roig i Diggle, layman/martyr, 9/11
 
-El Pont d'Armentera, Alt Camp comarca, Province of Tarragona, Catalonia
-autonomous region
+El Pont d'Armentera, Alt Camp comarca, Province of Tarragona, Catalonia autonomous region
 
-Cementerio de El Pont d'Armentera
+- Cementerio de El Pont d'Armentera
 
   - Bl. Jaume/Jaime Tarragó Iglesias, priest/martyr, 8/28
 
+El Puerto de Santa María, Province of Cádiz, Andalusia autonomous community
+
+- Iglesia San Francisco
+
+  - Servant of God Pedro Guerrero González, SJ, priest, d. 9/3/1973
+
 El Puig de Santa Maria, Horta Nord, Province of Valencia
 
-Monasterio de Santa Maria/Santa María de los Ángeles
+- Monasterio de Santa Maria/Santa María de los Ángeles
 
   - Bl. Arnaldo de Rossinol, O. de M., master general, 5/3
 
@@ -2812,29 +2749,17 @@ Monasterio de Santa Maria/Santa María de los Ángeles
 
 El Saler, Province of Valencia, Valencian autonomous community
 
-Cementerio de El Saler (Carrer del Cementeri, 2)
+- Cementerio de El Saler (Carrer del Cementeri, 2)
 
-  - Bl. Carmen de San Felipe Neri (née Nazaria Gómez Lezaun), SChP,
-    religious/martyr, 8/8
+  - Bl. Carmen de San Felipe Neri (née Nazaria Gómez Lezaun), SChP, religious/martyr, 8/8
 
-  - Bl. Clemencia/Climenta de San Juan Bautista (née Antonia Riba Mestres),
-    SChP, religious/martyr, 8/8
+  - Bl. Clemencia/Climenta de San Juan Bautista (née Antonia Riba Mestres), SChP, religious/martyr, 8/8
 
-  - Bl. María del Niño Jesús (née Maria Baldillou Bullit), SChP,
-    religious/martyr, 8/8
+  - Bl. María del Niño Jesús (née Maria Baldillou Bullit), SChP, religious/martyr, 8/8
 
-  - Bl. María Luisa de Jesús (née María Luisa Girón Romera), SChP,
-    religious/martyr, 8/8
+  - Bl. María Luisa de Jesús (née María Luisa Girón Romera), SChP, religious/martyr, 8/8
 
-  - Bl. Presentación de la Sagrada Familia (née Pascuala Gallén Martí),
-    SChP, religious/martyr, 8/8
-
-El Puerto de Santa María, Province of Cádiz, Andalusia autonomous
-community
-
-- Iglesia San Francisco
-
-  - Servant of God Pedro Guerrero González, SJ, priest, d. 9/3/1973
+  - Bl. Presentación de la Sagrada Familia (née Pascuala Gallén Martí), SChP, religious/martyr, 8/8
 
 Elche, Province of Alicante, Valencian autonomous community
 
@@ -2868,15 +2793,13 @@ community
 
 	- Ven. Arcàngela (née Carme) Badosa Cuatrecasas, religious, d. 11/27/1918
 
-Elorrio, Durangaldea comarca, Province of Biscay, Basque Country
-autonomous community
+Elorrio, Durangaldea comarca, Province of Biscay, Basque Country autonomous community
 
 - Iglesia de la Purísima Concepción/Church of the Immaculate Conception
 
   - St. Valentín Faustino Berrio Ochoa, OP, bishop/martyr in Vietnam, 11/1
 
-Elvira, city of Marbella, Costa del Sol Occidental comarca, Province of
-Málaga, Andalusia autonomous community
+Elvira, city of Marbella, Costa del Sol Occidental comarca, Province of Málaga, Andalusia autonomous community
 
 - ???
 
@@ -2911,16 +2834,13 @@ Catalonia autonomous community
 - Monasterio de Santa María de Montsió/women's Dominican convent of this
   city (Carrer de l'Església, 82)
 
-  - Bl. Josefina (née Ventureta) Sauleda Paulís, OP, religious/first
-    contemplative martyr of the war, 8/31
+  - Bl. Josefina (née Ventureta) Sauleda Paulís, OP, religious/first contemplative martyr of the Civil War, 8/31
 
 - ???
 
-  - Bl. Juan Bautista Egozcuezábal Aldaz, OH, martyr, 7/29 (his body was
-    dumped in a field)
+  - Bl. Juan Bautista Egozcuezábal Aldaz, OH, martyr, 7/29 (his body was dumped in a field)
 
-Fernán Caballero, Province of Ciudad Real, Castile-La Mancha autonomous
-community
+Fernán Caballero, Province of Ciudad Real, Castile-La Mancha autonomous community
 
 - Iglesia de los Mártires Claretianos/Church of the Claretian Martyrs
 
@@ -2937,61 +2857,61 @@ community
     (died at the Estación de Fernán Caballero \[train station\] with 13
     companions)
 
-Vicente María Robles
-
-Claudio Lopez
-
-Antonio Orrego
-
-Melecio Pardo
-
-Abelardo García
-
-Antonio Lasa
-
-Thomas Cordero
-
-Otilio Delamo
-
-Primitive Berrocoso
-
-Angel Lopez
-
-Angel Perez
-
-Gabriel Barriopedro
-
-Candide Catalan
-
-Angel López Martínez, CMF, 7/28
-
-Angel Pérez Murillo, CMF, 7/28
-
-Antonio Lasa Vidauretta, CMF, 7/28
-
-Antonio Orrego Fuentes, CMF, 7/28
-
-Cándido Catalán Lasala, CMF, 7/28
-
-Claudio López Martínez, CMF, 7/28
-
-Gabriel Barriopedro Tejedor, CMF, 7/28
-
-Jesús Aníbal Gómez y Gómez, CMF, 7/28
-
-Melecio Pardo Llorente, CMF, 7/28
-
-Otilio Del Amo Palomino, CMF, 7/28
-
-Primitivo Berrocoso Maillo, CMF, 7/28
-
-Tomás Cordero y Cordero, CMF, 7/28
-
-Vicente Robles Gómez, CMF, 7/28
-
-Ferrerias, Province of Islas Baleares, Baleares autonomous community
-
-Parròquia de Sant Bartomeu
+	Vicente María Robles
+	
+	Claudio Lopez
+	
+	Antonio Orrego
+	
+	Melecio Pardo
+	
+	Abelardo García
+	
+	Antonio Lasa
+	
+	Thomas Cordero
+	
+	Otilio Delamo
+	
+	Primitive Berrocoso
+	
+	Angel Lopez
+	
+	Angel Perez
+	
+	Gabriel Barriopedro
+	
+	Candide Catalan
+	
+	Angel López Martínez, CMF, 7/28
+	
+	Angel Pérez Murillo, CMF, 7/28
+	
+	Antonio Lasa Vidauretta, CMF, 7/28
+	
+	Antonio Orrego Fuentes, CMF, 7/28
+	
+	Cándido Catalán Lasala, CMF, 7/28
+	
+	Claudio López Martínez, CMF, 7/28
+	
+	Gabriel Barriopedro Tejedor, CMF, 7/28
+	
+	Jesús Aníbal Gómez y Gómez, CMF, 7/28
+	
+	Melecio Pardo Llorente, CMF, 7/28
+	
+	Otilio Del Amo Palomino, CMF, 7/28
+	
+	Primitivo Berrocoso Maillo, CMF, 7/28
+	
+	Tomás Cordero y Cordero, CMF, 7/28
+	
+	Vicente Robles Gómez, CMF, 7/28
+	
+	Ferrerias, Province of Islas Baleares, Baleares autonomous community
+	
+	Parròquia de Sant Bartomeu
 
   - Bl. Joan/Juan Huguet Cardona, priest/martyr, 7/23
 
@@ -3010,8 +2930,7 @@ Fiñana, Province of Almería, Andalusia autonomous community
   - Bl. Melitón Martínez Gómez, priest/martyr, 9/18 (he is buried at the
     parish church; this looks like the only one in town)
 
-Foios/Foyos, Horta Nord comarca, Province of Valencia, Valencian
-autonomous community
+Foios/Foyos, Horta Nord comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio/Cemetery
 
@@ -3019,9 +2938,15 @@ autonomous community
 
 Fontscaldes, Province of Tarragona, Cataluña autonomous community
 
-Cementerio de Fontscaldes.
+- Cementerio de Fontscaldes
 
   - Bl. Joaquim Balcells Bosch, priest/martyr, 9/3
+
+Fresno del Río, Campoo-Los Valles comarca, Cantabria Province, Cantabria autonomous community
+
+- Cementerio de Fresno del Río/Municipal Cemetery (Calle San José, 5)
+
+  - Bl. José Gutiérrez Huerta, priest/martyr, 11/6
 
 Fresno de Río Tirón, Burgos province
 
@@ -3029,11 +2954,9 @@ Fresno de Río Tirón, Burgos province
 
   - St. Victor of Cerezo, priest/martyr, 8/26
 
-Fuente del Fresno, municipality of San Sebastián de los Reyes, Community
-of Madrid
+Fuente del Fresno, municipality of San Sebastián de los Reyes, Community of Madrid
 
-- Cementerio de Fuente del Fresno/Cemetery of Fuente del Fresno (Calle del
-  Cementerio)
+- Cementerio de Fuente del Fresno/Cemetery of Fuente del Fresno (Calle del Cementerio)
 
   - Bl. Felipe José (née Pedro Álvarez Pérez) FSC, religious/martyr, 8/8
 
@@ -3307,8 +3230,11 @@ Granada, Province of Granada, Andalusia
   - Bl. María de la Concepción (Conchita) Barrecheguren García, laywoman,
     5/13 (Francisco's daughter)
 
-- Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada
-(Plaza Sor Cristina de la Cruz, 1)
+- Casa Madre — Congregación de Santo Domingo (Hermanas Dominicas de Granada) (C/ Matilde Cantos, 13, Bloque 1º, 4ºB-C)
+
+	- Servant of God Teresa de Jesús (née Teresa) Titos Garzón, CSDG, foundress, d. 2/14/1915
+
+- Casa Madre de Misioneras del Santísimo Sacramento y María Inmaculada (Plaza Sor Cristina de la Cruz, 1)
 
   - Bl. María Emilia Riquelme y Zayas, religious/foundress, 12/10
 
@@ -3347,8 +3273,7 @@ Granada's eastern section of Sacromonte
 
 	- 11 other martyrs
 
-Granollers, Vallès Oriental comarca, Province of Barcelona, Catalonia
-region
+Granollers, Vallès Oriental comarca, Province of Barcelona, Catalonia region
 
 - Convento de San Francisco (Carrer de Corró, 47)
 
@@ -3443,18 +3368,19 @@ Mancha region
 
 Guadix, Province of Granada, Andalusia autonomous community
 
-- Catedral de Guadix/Cathedral
+- Catedral de la Encarnación de Guadix/Cathedral (Pl. Catedral)
 
   - Bl. Manuel Medina Olmos, bishop/martyr, 8/30 & 11/16
 
+  - Servant of God Maximiano Fernández del Rincón Soto y Dávilak, bishop/founder, d. 7/24/1907
+
 Guardia dels Prats, Tarragona
 
-Sant Jaume de la Guàrdia dels Prats
+- Sant Jaume de la Guàrdia dels Prats
 
   - Bl. Pedro Armengol, O. de M., martyr, 4/27
 
-Gumiel de Izán, Ribera del Duero, Province of Burgos, Castilla y León
-autonomous community
+Gumiel de Izán, Ribera del Duero, Province of Burgos, Castilla y León autonomous community
 
 - Monasterio de San Pedro de Gumeil de Izán/Monastery of St. Peter
 
@@ -3462,8 +3388,7 @@ autonomous community
 
   - Bl. Manés de Guzmán, OP, cofounder of the Dominicans, 7/30
 
-Gurb/Gurb de la Plana, Osona comarca, Province of Barcelona, Catalonia
-region
+Gurb/Gurb de la Plana, Osona comarca, Province of Barcelona, Catalonia region
 
 - Cementerio/Cemetery
 
@@ -3473,8 +3398,13 @@ region
 
   - Bl. Josep Casals Badía, CMF, religious/martyr, 2/1 and 10/12
 
-Hellín/Hellin, Province of Albacete, Castilla-La Mancha autonomous
-community
+Hazas de Cesto, Trasmiera comarca, Cantabria Province, Cantabria autonomous region
+
+- Cementerio Parroquial de Hazas de Cesto/Cementerio de Beranga/Local Cemetery (Plus Code: 8CMRCC9M+8X)(43° 25′ 6″ N, 3° 33′ 54″ W)
+
+  - Bl. Lucas Mena Angulo, priest/martyr, 11/6
+
+Hellín/Hellin, Province of Albacete, Castilla-La Mancha autonomous community
 
 - Parroquia de la Asunción
 
@@ -3482,8 +3412,7 @@ community
 
 - Casa Madre de Congregación Religiosa de la Misioneras de la Caridad y la Providencia
 
-  - Servant of God María Luisa Zancajo de la Mata, foundress/mystic, d.
-    6/5/1954
+  - Servant of God María Luisa Zancajo de la Mata, foundress/mystic, d. 6/5/1954
 
 Higuera de la Sierra, Sierra de Huelva comarca, Province of Huelva, Andalusia autonomous community
 
@@ -3497,15 +3426,17 @@ Hinojosa del Duque, Los Pedroches comarca, Province of Cordoba, Andalucia autono
 
   - Bl. Antonio María Martín Povea, O. Carm., religious/martyr, 8/14
 
+- Monasterio de las Madres Concepcionistas 
+
+	- Servant of God Teresa de Jesús (née Jacinta María) Romero Balmaseda, OIC, religious, d. 5/12/1910
+
 - Cementerio de Hinojosa del Duque
 
   - Bl. Carmelo María (née Crispulo) Moyano Linares, O. Carm., priest/martyr, 9/23 (common grave)
 
 - ???
 
-  - Bl. José María Ruiz Cardeñosa, O. Carm, religious/martyr, 8/18 (possibly
-    in the cemetery; he's buried in a mass grave according to the
-    postulator)
+  - Bl. José María Ruiz Cardeñosa, O. Carm, religious/martyr, 8/18 (possibly in the cemetery; he's buried in a mass grave according to the postulator)
 
   - Servant of God Santos Franco Sánchez, 11-year-old, d. 2/6/1954
 
@@ -3546,41 +3477,53 @@ Huete, municipality Cuenca, Castile-La Mancha
 
   - Bl. Juan of Huete, Mercedarian friar, 5/24
 
-Ibi, Alcoià comarca, Province of Alicante, Valencian autonomous
-community
+Ibi, Alcoià comarca, Province of Alicante, Valencian autonomous community
 
 - Cementerio de Ibi/Ibi cemetery
 
   - Bl. Joaquín Vilanova Camallonga, priest/martyr, 7/27
 
-Ibiza, Balearic Islands
+Ibiza Island, Province of Balearic Islands, Balearic Islands autonomous community
 
-- Cathedral of Nuestra Señora de las Nieves (Ibiza Cathedral)
+- Catedral de la Verge de les Neus/Catedral de Nuestra Señora de las Nieves/Ibiza Cathedral (Plaça de la Catedral, 1)
 
-	- Mass grave inside the cathedral for most of the following martyrs, but which ones is not known
-
-- ???Martyrs of Ibiza
-
-	- Bl. Juan (Joan) Torres Torres, priest/martyr, d. 8/1936 (body thrown into the sea)
-	- Bl. Antonio (Antoni) Tur Costa, priest/martyr, d. 8/8/1936 
-	- Bl. Antonio (Antoni) Roig Guasch, priest/martyr, d. 9/1936 
-	- Bl. José (Josep) Tur Bennassar, priest/martyr, d. 9/13/1936
-	- Bl. Miguel (Miquel) Planells Tur, priest/martyr, d. 9/13/1936
-	- Bl. José Ramón (Josep Ramón) Escandell, priest/martyr, d. 9/13/1936
-	- Bl. Joaquín (Joaquim) Cirer Sala, priest/martyr, d. 9/13/1936
-	- Bl. José (Josep) Riera Bonet, priest/martyr, d. 9/13/1936
-	- Bl. Antonio (Antoni) Cardona Vingut, priest/martyr, d. 9/13/1936
-	- Bl. José (Josep) Torres Torres, priest/martyr, d. 9/13/1936
-	- Bl. Mariano Roig Marí, priest/martyr, d. 9/13/1936
-	- Bl. José (Josep) Ferrer Guasch, priest/martyr, d. 9/13/1936
-	- Bl. Antonio (Antoni) Marí Torres, priest/martyr, d. 9/13/1936
-	- Bl. Ignacio (Ignasi) Serra Riera, priest/martyr, d. 9/13/1936
-	- Bl. Antonio Ramón Orvay, priest/martyr, d. 9/13/1936
-	- Bl. Mariano Escandell Roig, priest/martyr, d. 9/13/1936
-	- Bl. Miguel (Miquel) Riera Bonet, priest/martyr, d. 9/13/1936
-	- Bl. Andrés (Andreu) Tur Tur, priest/martyr, d. 9/13/1936
-	- Bl. José (Josep) Tur Ferrer, priest/martyr, d. 9/13/1936
-	- Bl. José (Josep) Serra Ribas, priest/martyr, d. 9/13/1936
+	- Bl. Andrés Tur Tur, priest, 11/6
+	
+	- Bl. Antonio Cardona Vingut, priest, 11/6
+	
+	- Bl. Antonio Marí Torres, priest, 11/6
+	
+	- Bl. Antonio Ramón Orvay, priest, 11/6
+	
+	- Bl. Antonio Roig Guasch, priest, 11/6
+	
+	- Bl. Antonio Tur Costa, priest, 11/6
+	
+	- Bl. Ignacio Serra Riera, priest, 11/6
+	
+	- Bl. Joaquín Cirer Sala (aka, Sala Joaquín Cirer), priest, 11/6
+	
+	- Bl. José Ferrer Guasch, priest, 11/6
+	
+	- Bl. José Ramón Escandell (aka, José Ramón Escandel), priest, 11/6
+	
+	- Bl. José Riera Bonet, priest, 11/6
+	
+	- Bl. José Torres Torres, priest, 11/6
+	
+	- Bl. Juan Torres Torres, priest, 11/6
+	
+	- Bl. José Tur Bennassar, priest, 11/6
+	
+	- Bl. José Tur Ferrer, priest, 11/6
+	
+	- Bl. Mariano Escandell Roig, priest, 11/6
+	
+	- Bl. Mariano Roig Marí, priest, 11/6
+	
+	- Bl. Miguel Planells Tur, priest, 11/6
+	
+	- Bl. Miguel Riera Bonet, priest, 11/6
 
 Igualada, Anoia county, Penedès region, Barcelona Province Catalonia autonomous region
 
@@ -3748,7 +3691,13 @@ La Llosa de Ranes, Costera comarca, Province of Valencia, Valencian autonomous c
 
 - ???
 
-  - Bl. María del Calvario (née Josefa Romero Clariana, DC, religious/martyr, 9/26 & 11/20
+  - Bl. María del Calvario (née Josefa Romero Clariana, DC), religious/martyr, 9/26 & 11/20
+
+La Montaña, Torrelavega municipality, Cantabria Province, Cantabria autonomous region (43°19′24″N 4°01′00″O)
+
+- ???
+
+	- Bl. Eloy Sedaño Hoyos, priest/martyr, 11/6 (his body was tied to a tree, mutilated, and found the next day; no burial site is known; maybe at The Hermitage of St. Blas)
 
 La Muela, Valdejalón comarca, Province of Zaragoza, Aragon autonomous community
 
@@ -3885,7 +3834,7 @@ Las Matas, Las Rozas de Madrid, Community of Madrid
 
 - Capilla del Centro Mariápolis Luminosa
 
-  - Servant of God Margarita (Luminosa) Bavosi, laywoman, d. 3/7/1985
+  - Ven. Margarita “Luminosa” Bavosi, laywoman, d. 3/7/1985
 
 Las Pedroñeras, Province of Cuenca, Castilla-La Mancha autonomous community
 
@@ -3900,32 +3849,29 @@ Las Palmas de Gran Canaria, Canary Islands
   - Servant of God Buenaventura Codina y Augerolas, bishop, d. 11/18/1857
     (incorrupt)
 
+- Capilla de la Comunidad de San José/Chapel of the Community of San José (Paseo de San José, 107A)
+
+	- Servant of God José Cueto y Díez de la Maza, OP, bishop/founder, d. 8/17/1908
+
 - ???
 
   - Ven. Antonio Vicente González Suárez, priest, d. 6/22/1851
 
-  - Servant of God Catalina de San Mateo de La Concepción (Catalina de
-    Balboa y Ugarte), religious, d. 5/26/1695
+  - Servant of God Catalina de San Mateo de La Concepción (Catalina de Balboa y Ugarte), religious, d. 5/26/1695
 
-  - Servant of God José María Cueto y Díez de la Maza, OP, bishop/foundress,
-    d. 8/17/1908 (maybe at the cathedral)
+  - Servant of God José María Cueto y Díez de la Maza, OP, bishop/foundress, d. 8/17/1908 (maybe at the cathedral)
 
-  - Servant of God Petronila de San Esteban Montgruí y Covos, religious, d.
-    9/7/1759
+  - Servant of God Petronila de San Esteban Montgruí y Covos, religious, d. 9/7/1759
 
 Las Rozas de Madrid, Madrid autonomous community
 
-- Capilla de la Curia de Las Rozas de Madrid/Chapel of the Curia of Las
-  Rozas de Madrid (Misioneras de Cristo Sacerdote, C/ María Dolores
-  Segarra, 1, 28231 Las Rozas de Madrid)
+- Capilla de la Curia de Las Rozas de Madrid/Chapel of the Curia of Las Rozas de Madrid (Misioneras de Cristo Sacerdote, C/ María Dolores Segarra, 1, 28231 Las Rozas de Madrid)
 
-  - Ven. María Dolores Segarra Gestoso, religious/founder, d. 3/1/1959 (in
-    the crypt)
+  - Ven. María Dolores Segarra Gestoso, religious/founder, d. 3/1/1959 (in the crypt)
 
 - Cementerio de Las Rozas
 
-  - Servant of God Ignacio Echeverría Miralles de Imperial, murdered
-    layman/"the skateboard hero", d. 6/3/2017
+  - Servant of God Ignacio Echeverría Miralles de Imperial, murdered layman/"the skateboard hero", d. 6/3/2017
 
 La Vid, Province of Burgos, Castilla y León region
 
@@ -4119,65 +4065,65 @@ Lleida (aka, Lérida), Province of Lleida, Catalonia
 
   - St. Bernard/Achmed, martyr, 8/21
 
-	- Bl. Damián de Portu, O. de M., friar, 10/3 (at the convent of Santa Eulalia if it still exists)
+  - Bl. Damián de Portu, O. de M., friar, 10/3 (at the convent of Santa Eulalia if it still exists)
 
-	- Bl. Eliseo Maneus Besalduch, O.Carm., martyr, 7/29
+  - Bl. Eliseo Maneus Besalduch, O.Carm., martyr, 7/29
 
-	- Bl. Francesc Llagostera Bonet, O. de M., priest/martyr, 8/20
+  - Bl. Francesc Llagostera Bonet, O. de M., priest/martyr, 8/20
 
-	- Bl. Frederic Codina Picasso, CMF, priest/martyr, 2/1 & 7/21
+  - Bl. Frederic Codina Picasso, CMF, priest/martyr, 2/1 & 7/21
 
-	- Bl. Gabriel Escoto Ruiz, O.Carm., martyr, 7/29
+  - Bl. Gabriel Escoto Ruiz, O.Carm., martyr, 7/29
 
-	- Bl. Ginés Garre Egea, O.Carm., martyr, 7/29
+  - Bl. Ginés Garre Egea, O.Carm., martyr, 7/29
 
-	- St. Gracia of Lerida, martyr, 8/21
+  - St. Gracia of Lerida, martyr, 8/21
 
-	- Bl. Joan/Juan Busquet Llucia, CMF, priest/martyr, 2/1 & 8/25 (at Campo de Marte)
+  - Bl. Joan/Juan Busquet Llucia, CMF, priest/martyr, 2/1 & 8/25 (at Campo de Marte)
 
-	- Bl. Joan Maria Puigmitjà Rubió, O.Carm., martyr, 7/29
+  - Bl. Joan Maria Puigmitjà Rubió, O.Carm., martyr, 7/29
 
-	- Bl. Joan Prat Colldecarrera, O.Carm., martyr, 7/29
+  - Bl. Joan Prat Colldecarrera, O.Carm., martyr, 7/29
 
-	- Bl. José Elcano Liberal, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. José Elcano Liberal, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Josep Maria Casademont Vila, CMF, religious/martyr, 2/1 & 7/26 (shot at the cemetery)
+  - Bl. Josep Maria Casademont Vila, CMF, religious/martyr, 2/1 & 7/26 (shot at the cemetery)
 
-	- Bl. Josep Solé Rovira, O.Carm., martyr, 7/29
+  - Bl. Josep Solé Rovira, O.Carm., martyr, 7/29
 
-	- Bl. Lluis Fontdecava Quiroga, O.Carm., martyr, 7/29
+  - Bl. Lluis Fontdecava Quiroga, O.Carm., martyr, 7/29
 
-	- Bl. Lluís Hortós Tura, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. Lluís Hortós Tura, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Lluís Plana Rabugent, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. Lluís Plana Rabugent, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Manuel Serrano Buj, O.Carm., martyr, 7/29
+  - Bl. Manuel Serrano Buj, O.Carm., martyr, 7/29
 
-	- Bl. Manuel Torres Nicolau, CMF, priest/martyr, 2/1 & 7/25
+  - Bl. Manuel Torres Nicolau, CMF, priest/martyr, 2/1 & 7/25
 
-	- St. María of Lerida, martyr, 8/21
+  - St. María of Lerida, martyr, 8/21
 
-	- Servant of God María Carmen de Jesús (née Maria Carme Surroca de Pastors), SFU, religious, d. 8/3/1916
+  - Servant of God María Carmen de Jesús (née Maria Carme Surroca de Pastors), SFU, religious, d. 8/3/1916
 
-  	- Bl. Miguel Oscoz Arteta, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. Miguel Oscoz Arteta, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Miquel Baixeras Berenguer, CMF, priest/martyr, 2/1 & 7/25
+  - Bl. Miquel Baixeras Berenguer, CMF, priest/martyr, 2/1 & 7/25
 
-	- Bl. Miquel Soler Sala, O.Carm., martyr, 7/29
+  - Bl. Miquel Soler Sala, O.Carm., martyr, 7/29
 
-	- Bl. Onésimo Agorreta Zabaleta, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. Onésimo Agorreta Zabaleta, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Pere Caball Juncà, religious/martyr, 2/1 & 7/26
+  - Bl. Pere Caball Juncà, religious/martyr, 2/1 & 7/26
 
-	- Bl. Pere Dorca Coromina, O.Carm., martyr, 7/29
+  - Bl. Pere Dorca Coromina, O.Carm., martyr, 7/29
 
-	- Bl. Pere Ferrer Marín, O.Carm., martyr, 7/29
+  - Bl. Pere Ferrer Marín, O.Carm., martyr, 7/29
 
-	- Bl. Xavier Amargant Boada, CMF, religious/martyr, 2/1 & 7/26
+  - Bl. Xavier Amargant Boada, CMF, religious/martyr, 2/1 & 7/26
 
-	- Bl. Xavier Morell Cabiscol, CMF, priest/martyr, 2/1 & 8/21
+  - Bl. Xavier Morell Cabiscol, CMF, priest/martyr, 2/1 & 8/21
 
-	- Bl. Xavier Sorribas Dot, CMF, priest/martyr, 2/1 & 7/26
+  - Bl. Xavier Sorribas Dot, CMF, priest/martyr, 2/1 & 7/26
 
 Llíria/Liria, Camp de Túria comarca, Province of Valencia, Valencian autonomous community
 
@@ -4331,8 +4277,7 @@ Madrid
 
   - Bl. Benjamín Fernández de Legaria Goñi, priest/martyr, 8/11
 
-  - Bl. Bienvenido María de Dos Hermanas (née José de Miguel Arahal), TC,
-    priest/martyr, 8/1
+  - Bl. Bienvenido María de Dos Hermanas (née José de Miguel Arahal), TC, priest/martyr, 8/1
 
 - Parroquia de San Alberto Magno de Madrid (Calle Benjamín Palencia, 9)
 
@@ -4438,12 +4383,11 @@ Madrid
 
 - Colegio del Pilar (Calle de Castelló, 56)
 
-  - Ven. Domingo Lázaro y Castro, SM, priest, d. 2/22/1935 (la capilla
-    Gótica/Gothic chapel)
+  - Ven. Domingo Lázaro y Castro, SM, priest, d. 2/22/1935 (la capilla Gótica/Gothic chapel)
 
-La capilla del Colegio de Villaverde Alto
+- Colegio Nuestra Señora del Carmen (Avenida Real de Pinto, 41)
 
-  - Ven. Isabel Larrañaga Ramírez, HCSCJ, foundress, d. 1/17/1899
+  - Ven. Isabel del Corazón de Jesús (née Isabel) de Larrañaga Ramírez, HCSCJ, foundress, d. 1/17/1899
 
 - Capilla del Fundador del Instituto Secular de las Siervas Seculares de Jesucristo Sacerdote in San Juan de Avila, Madrid (???Bravo Murillo, 198 5° -- H 28020 -- Madrid)
 
@@ -4456,14 +4400,12 @@ La capilla del Colegio de Villaverde Alto
 
 - Convento de las Hermanas Pasionistas (Avenida Arturo Soria, 257; pasionistas.madrid@gmail.com; Tel. \[34\] (91) 302.0618)
 
-  - Ven. María Magdalena de Jesús en el Santísimo Sacramento/Maria Maddalena
-    di Gesù Sacramentato (née Giuseppina Marcucci), CP, religious/visionary,
+  - Ven. María Magdalena de Jesús en el Santísimo Sacramento/Maria Maddalena di Gesù Sacramentato (née Giuseppina Marcucci), CP, religious/visionary,
     d. 2/10/1962
 
 - Convento de los Capuchinos de Vallehermoso (Calle Vallehermoso, 79)
 
-  - Bl. Fernando of Santiago (née Fernando Olmedo Reguera), OFM Cap.,
-    priest/martyr, 8/2
+  - Bl. Fernando of Santiago (née Fernando Olmedo Reguera), OFM Cap., priest/martyr, 8/2
 
 - Cementerio de Convento de las Franciscanas Misioneras de la Madre del Divino Pastor (Calle de Ferraz, 26)
 
@@ -4614,6 +4556,10 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
   - Bl. Proceso (née Joaquin) Ruiz Cascales, OH, priest/martyr, 9/1
 
   - Bl. Rufino (née Crescencio) Lasheras Aizcorbe, OH, religious/martyr, 9/1
+
+- Colegio de las Concepcionistas de la Enseñanza (Calle Princesa, 19–21)
+
+	- St. María del Carmen (née Carmen de Jesús) Sallés y Barangueras, RCM, foundress, 7/25
 
 - Colegio Divina Pastora Capilla (chapel)
 
@@ -4806,7 +4752,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Emilio Arce Díez, SDB, religious/martyr, 7/23
 
-	- Servant of God Francisca "Paquita" Domínguez Susín de Alvira, laywoman, d. 8/29/1994 (She is either buried in the Cemetery of La Almudena in   Madrid or the cemetery of Tauste, Zaragoza, Spain)
+  - Servant of God Francisca "Paquita" Domínguez Susín de Alvira, laywoman, d. 8/29/1994 (She is either buried in the Cemetery of La Almudena in Madrid or the cemetery of Tauste, Zaragoza, Spain)
 
   - Bl. Félix González Tejedor, SDB, priest/martyr, 8/24 (either at is the Cementerio de la Almudena in Madrid or the Sacramental de San Lorenzo y San José cemetery in Madrid, probably the latter)
 
@@ -4836,7 +4782,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Junián Alberto (née Alberto José) Larrazábal Michelena), FSC, religious/martyr, 8/30
 
-	- Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
+  - Ven. Justa Domínguez de Vidaurreta e Idoy, DC, religious, d. 12/18/1958
 
   - Bl. León María de Alaquàs/Alacuás (née Manuel) Legua Martí, TC, priest/martyr, 9/26
 
@@ -4856,7 +4802,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
   - Bl. Manuel Borrajo Míguez, SDB, seminarian/martyr, 10/2
 
-  - St. María del Carmen Sallés y Barangueras, RCM, foundress, 7/25 (possibly at the mother house for the Religiosas Concepcionistas Misioneras de la Enseñanza, Calle Sánchez Guerrero, 16 y 18)
+  - St. María del Carmen (née Carmen de Jesús) Sallés y Barangueras, RCM, foundress, 7/25 
 
   - Bl. Maria del Consuelo Remiñán Carracedo, FMMDP, religious/martyr, 7/7 (grave lost)
 
@@ -5125,17 +5071,17 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
 - Santuario de la Victoria/Sanctuary of Victory
 
-  - Servant of God José Gálvez Ginachero, physician, d. 4/29/1952 (in the
-    crypt under la Capilla de la Inmaculada/the Chapel of the Immaculate
-    Conception)
+  - Servant of God José Gálvez Ginachero, gynecologist, d. 4/29/1952 (in the crypt under la Capilla de la Inmaculada/the Chapel of the Immaculate Conception)
 
 - Convento de San Agustín (Calle San Agustín, 1-3)
 
-  - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (could be at the
-    cathedral, instead)
+  - Bl. Fortunato Merino Vegas, OSA, priest/martyr, 8/25 (might be at the cathedral, instead)
 
-  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according
-    to AI; take it with a grain of salt; could be at the cathedral, instead)
+  - Bl. Luis Gutiérrez Calvo, OSA, religious/martyr, 8/25 (this is according to AI; take it with a grain of salt; might be at the cathedral, instead)
+
+- Cementerio de San Miguel/St. Michael Cemetery (Plaza del Patrocinio, 8) (36°44′02″N 4°25′05″W)
+
+	- Bl. Juan Nepomuceno Zegrí y Moreno, priest/founder, 3/17 (in the panteón de los canónigos/chapter’s pantheon)
 
 - Cementerio de San Rafael (there are five mass graves here)
 
@@ -5149,12 +5095,10 @@ Málaga/Malaga, Province of Málaga, Andalusia autonomous community
 
 - ???
 
-  - Bl. Félix Paco Escartín, SDB, priest/martyr, 8/31 (possibly in a common
-    grave at Cementerio de San Rafael, which is where he was shot and
+  - Bl. Félix Paco Escartín, SDB, priest/martyr, 8/31 (possibly in a common grave at Cementerio de San Rafael, which is where he was shot and
     killed)
 
-  - Bl. José Becerra Sánchez, priest/martyr, 9/19 (body recovered, but
-    burial place unknown)
+  - Bl. José Becerra Sánchez, priest/martyr, 9/19 (body recovered, but burial place unknown)
 
 Malla, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
@@ -5164,8 +5108,7 @@ Malla, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
   - Bl. Miquel Codina Ventayol, priest/martyr, 2/1 & 10/12
 
-Manises, Horta Oest comarca, Province of Valencia province, Valencian
-autonomous community
+Manises, Horta Oest comarca, Province of Valencia province, Valencian autonomous community
 
 - Church of San Juan Batista
 
@@ -5179,8 +5122,7 @@ autonomous community
 
   - Servant of God José Ramón Garcia Planells, layman, d. 9/12/1959
 
-Manlleu, Osona comarca, Province of Barcelona, Catalonia autonomous
-community
+Manlleu, Osona comarca, Province of Barcelona, Catalonia autonomous community
 
 - ???
 
@@ -5194,33 +5136,28 @@ Manresa, Bages County, Province of Barcelona
   - Servant of God Àngela Margarida (Angela Serafina) Prat, foundress, d.
     12/24/1608 (remains disappeared in 1909)
 
-Cementerio de Manresa
+- Cementerio de Manresa
 
-- Bl. Benet of Santa Coloma de Gramenet (née Josep Domènech Bonet), OFM
-  Cap., priest/martyr, 8/6
+	- Bl. Benet of Santa Coloma de Gramenet (née Josep Domènech Bonet), OFM Cap., priest/martyr, 8/6
 
-- Bl. Domènec de Sant Pere de Riudebitlles (née Joan Romeu y Canadell),
-  OFM Cap, priest/martyr, 7/27 (mass grave)
+	- Bl. Domènec de Sant Pere de Riudebitlles (née Joan Romeu y Canadell), OFM Cap, priest/martyr, 7/27 (mass grave)
 
   - Bl. Josep Oriol de Barcelona (née Jaume Baríau y Martí), OFM Cap,
     priest/martyr, 7/24 (mass grave)
 
-Marchena, La Campiña comarca, Province of Seville, Andalusia autonomous
-community
+Marchena, La Campiña comarca, Province of Seville, Andalusia autonomous community
 
-Cementerio San Roque
+- Cementerio San Roque
 
   - Bl. Emanuele Luque Ramos, layman/martyr, 7/22
 
 Marcilla, Province of Navarre, Navarre autonomous community
 
-Convento de los Agustinos Recoletos (Calle del Monasterio)
+- Santuario de Nuestra Señora la Blanca/Convento de los Agustinos Recoletos (Calle del Monasterio)
 
-  - Ven. Mariano Gazpio Ezcurra, OAR, priest, d. 9/22/1989 (his remains have
-    been translated, but from where to where?)
+  - Ven. Mariano Gazpio Ezcurra, OAR, priest, d. 9/22/1989 (his remains have been translated, but from where to where?)
 
-María, Los Vélez region, Province of Almeria, Andalusia autonomous
-community
+María, Los Vélez region, Province of Almeria, Andalusia autonomous community
 
 - Cementerio/Cemetery
 
@@ -5228,14 +5165,13 @@ community
 
 Marquina-Xemein, Province of Biscay/Vizcaya
 
-Santa María de la Piedad/La Merced
+- Santa María de la Piedad/La Merced
 
   - Bl. Menda Isategui, O. de M., religious, 6/4
 
 Martos, Province of Jaen, Andalusia autonomous community
 
-- Santuario de Santa María de la Villa/Sanctuary of Santa María de la
-  Villa
+- Santuario de Santa María de la Villa/Sanctuary of Santa María de la Villa
 
   - Bl. Manuel Aranda Espejo, seminarian/martyr, 8/8
 
@@ -5247,37 +5183,30 @@ Monasterio de la Santísima Trinidad
   - Bl. Francisca de la Encarnación (née Maria Francisca Espejo y Martos),
     O.SS.T, religious/martyr, 1/13 (incorrupt but covered with wax)
 
-Massamagrell, Horta Nord comarca, Province of Valencia, Valencian
-autonomous community
+Massamagrell, Horta Nord comarca, Province of Valencia, Valencian autonomous community
 
-- Sagrada Familia/Iglesia de las Terciarias Capuchinas/Holy Family/Church
-  of the Tertiary Capuchins)
+- Sagrada Familia/Iglesia de las Terciarias Capuchinas/Holy Family/Church of the Tertiary Capuchins)
 
   - Ven. Luis de Massamagrell (José María) Amigó Ferrer, OFM Cap., bishop,
     d. 10/1/1934 (He is buried next to the church/junto a la iglesia)
 
-- Convento de Santa María Magdalena/Capuchin friary/convent of Santa Maria
-  Magdalena, Chapel of the Martyrs
+- Convento de Santa María Magdalena/Convento de la Magdalenas/Capuchin friary/convent of Santa Maria Magdalena, Chapel of the Martyrs
 
-  - Bl. Buenaventura de Puzol (née Julio Esteve Flors), OFM Cap.,
-    priest/martyr, 9/26
+  - Bl. Buenaventura de Puzol (née Julio Esteve Flors), OFM Cap., priest/martyr, 9/26
 
-  - Bl. Santiago de Rafelbuñol (née Santiago Mestre Iborra), OFM Cap.,
-    priest/martyr, 9/29
+  - Ven. Francisco de Orihuela (née Francisco) Simón y Ródenas, OFM Cap., bishop, d. 8/22/1914
 
-  - Bl. José Ample Alcaide (née Aurelio da Vinalesa, OFM Cap.,
-    priest/martyr, 8/28
+  - Bl. Santiago de Rafelbuñol (née Santiago Mestre Iborra), OFM Cap., priest/martyr, 9/29
 
-  - Bl. Pedro de Benisa (née Alejandro Más Ginester), OFM Cap., friar/youth
-    minister/martyr, 8/25
+  - Bl. Aurelio da Vinalesa (née José Ample Alcaide), OFM Cap., priest/martyr, 8/28
 
-Massanassa, Horta Sud comarca, Province of Valencia, Valencia autonomous
-community
+  - Bl. Pedro de Benisa (née Alejandro Más Ginester), OFM Cap., friar/youth minister/martyr, 8/25
+
+Massanassa, Horta Sud comarca, Province of Valencia, Valencia autonomous community
 
 - Parroquia de San Pedro de Massanassa
 
-  - Bl. Francisca/Francesca Cualladó Baixauli, laywoman/martyr, 9/19
-    (Capilla del Santísimo Sacramento)
+  - Bl. Francisca/Francesca Cualladó Baixauli, laywoman/martyr, 9/19 (Capilla del Santísimo Sacramento)
 
 Matamargó, municipality of Pinós, Province of Lerida, Catalonia
 autonomous region
@@ -5517,6 +5446,10 @@ Fruitós de Bages, Comarca Bages, Catalonia region)
 
   - Bl. Pere Roca Toscas, priest/martyr, 3/4
 
+- Convento de las Hermanas Franciscanas de la Inmaculada/Convent de les Germanes Franciscanes de la Immaculada/Convent of the Franciscan Sisters of the Immaculate (Carrer Salvador Giner, 1)
+
+	- Ven. Francisca de la Concepción (née Francisca Pascual) Doménech, HFIC, foundress, d. 4/26/1903
+
 - Cementerio de Montcada/Montcada cemetery
 
   - Bl. Antoni Tort Reixachs, jeweler/martyr,
@@ -5642,33 +5575,27 @@ Fruitós de Bages, Comarca Bages, Catalonia region)
 
 - ???
 
-  - Bl. Antonio Mascaró Colomina, religious/martyr, 1/27 (body never
-    found)
+  - Bl. Antonio Mascaró Colomina, religious/martyr, 1/27 (body never found)
 
-Monteagudo, Tudela comarca, Province of Navarra, Navarra autonomous
-community (far north of the country)
+Monteagudo, Tudela comarca, Province of Navarra, Navarra autonomous community (far north of the country)
 
 - Iglesia de la Virgen del Camino del Convento de Monteagudo
 
   - St. Ezequiél Moreno y Díaz, OAR, bishop, 8/19 (incorrupt)
 
-- Iglesia de los Misioneros Agustinos Recoletos (possibly at Avenida de
-  los Fueros, 22)
+- Iglesia de los Misioneros Agustinos Recoletos (possibly at Avenida de los Fueros, 22)
 
-  - Ven. María Esperanza de la Cruz (née Salustiana Antonia) Ayerbe
-    Castillo, religious/cofoundress, d. 5/23/1967
+  - Ven. María Esperanza de la Cruz (née Salustiana Antonia) Ayerbe Castillo, religious/cofoundress, d. 5/23/1967
 
-Montemayor preserve, near Moguer, Huelva province, Andalusia autonomous
-province
+Montemayor preserve, near Moguer, Huelva province, Andalusia autonomous province
 
 - La Ermita de Montemayor/Hermitage of Montemayor
 
-Nuestra Señora de Montemayor, 6/15
+	- Nuestra Señora de Montemayor, 6/15
 
-Montes de Valdueza, Province of León, autonomous community of Castilla y
-León
+Montes de Valdueza, Province of León, autonomous community of Castilla y León
 
-Monasterio de San Pedro de Montes
+- Monasterio de San Pedro de Montes
 
   - St. Valerio/Valerius of San Pedro de Montes
 
@@ -5678,41 +5605,32 @@ Montilla
 
   - St. Juan de Avila/John of Avila, extraordinary preacher, 5/10
 
-Montmaneu, Anoia comarca, Province of Barcelona, Catalonia autonomous
-community
+Montmaneu, Anoia comarca, Province of Barcelona, Catalonia autonomous community
 
 - ???
 
-  - Bl. Joan Prats Gibert, priest/martyr, 2/1 & 8/17 (his remains were
-    collected in July 1939)
+  - Bl. Joan Prats Gibert, priest/martyr, 2/1 & 8/17 (his remains were collected in July 1939)
 
-Montserrat, Monistrol de Montserrat, Bages county, Province of
-Barcelona, Centre Region, Catalonia autonomous community
+Montserrat, Monistrol de Montserrat, Bages county, Province of Barcelona, Centre Region, Catalonia autonomous community
 
-Santa Maria de Montserrat
+- Santa Maria de Montserrat
 
-Our Lady of Montserrat ("La Moreneta"), 4/24
+	- Our Lady of Montserrat (“La Moreneta”), 4/24
 
-Montserrat, Ribera Alta comarca, Province of Valencia, Valencia
-autonomous community
+Montserrat, Ribera Alta comarca, Province of Valencia, Valencia autonomous community
 
 - ???
 
   - Bl. Germán Gozalvo Andreu, priest of Valencia/martyr, 9/22
 
-  - Bl. Recaredo María de Torrent (née José María Llópez Mora), TC,
-    priest/martyr, 9/18
+  - Bl. Recaredo María de Torrent (née José María Llópez Mora), TC, priest/martyr, 9/18
 
-Monzón, Cinca Medio comarca, Province of Huesca, Aragon autonomous
-community
+Monzón, Cinca Medio comarca, Province of Huesca, Aragon autonomous community
 
-- Either the Cementerio Municipal (municipal cemetery) or the Cementerio
-  Parroquial (parish cemetery)
+- Either the Cementerio Municipal (municipal cemetery) or the Cementerio Parroquial (parish cemetery)
 
-  - Bl. Dionisio Pamplona-Polo, SchP, priest/martyr & 12 Companions, 7/25
-    ("His remains were thrown into a common grave in the town cemetery."
-    "Sus restos fueron arrojados a una fosa común en el cementerio del
-    pueblo.")
+  - Bl. Dionisio Pamplona-Polo, SchP, priest/martyr & 12 Companions, 7/25 (“His remains were thrown into a common grave in the town cemetery.”
+    “Sus restos fueron arrojados a una fosa común en el cementerio del pueblo.”)
 
 Mora, Province of Toledo, Castile-La Mancha autonomous region
 
@@ -5720,41 +5638,35 @@ Mora, Province of Toledo, Castile-La Mancha autonomous region
 
   - Bl. Agrícola Rodríguez García de Los Huertos, priest/martyr, 7/21
 
-Monasterio del Sagrado Corazón de Jesús o Convento de las Mínimas
+- Monasterio del Sagrado Corazón de Jesús o Convento de las Mínimas
 
   - Ven. Filomena Ferrer Galcerán (Galzeran), religious, d. 8/13/1868
 
-Mosquerela, Province of Teruel, Aragon autonomous
-community'7\]\\\\\\\\84
+Mosquerela, Province of Teruel, Aragon autonomous community
 
 - ???
 
-  - Bl. Antonio Gil-Monforte, FSC, religious/martyr, 9/22 (unknown burial
-    place)
+  - Bl. Antonio Gil-Monforte, FSC, religious/martyr, 9/22 (unknown burial place)
 
-  - Bl. Félix Adriano (née Francisco) Vicente Edo, FSC, religious/martyr,
-    9/22
+  - Bl. Félix Adriano (née Francisco) Vicente Edo, FSC, religious/martyr, 9/22
 
-Mota del Marques, Province of Valladolid, Castilla y León autonomous
-community
+Mota del Marques, Province of Valladolid, Castilla y León autonomous community
 
-Cementerio de la Compañía del Salvador (Company of the Savior's
-cemetery)
+- Cementerio de la Compañía del Salvador (Company of the Savior’s cemetery)
 
   - Ven. María Félix Torres, foundress, d. 1/12/2001
 
-Motril, Costa Tropical comarca, Province of Granada, Andalusia
-autonomous community
+Motril, Costa Tropical comarca, Province of Granada, Andalusia autonomous community
 
-Nuestra Señora de la Encarnación
+- Nuestra Señora de la Encarnación
 
   - Bl. Manuel Martín Sierra, priest/martyr, 7/26
 
   - Bl. Vicente Pinilla Ibáñez, OAR, priest/martyr, 7/26
 
-Several martyrs are buried here.
+  - Several martyrs are buried here.
 
-Cementerio Municipal de Motril
+- Cementerio Municipal de Motril
 
 - The Martyrs of Motril (in the mausoleum dedicated to the seven Spanish
   Blessed Augustinians Recollects martyrs -- Fathers Vincente Soler,
@@ -5762,8 +5674,7 @@ Cementerio Municipal de Motril
   Julian Moreno, and Brother Jose Ricardo Diez -- and a diocesan priest,
   Father Manuel Martín Sierra), 7/25
 
-  - Bl. Manuel Vázquez Alfalla, priest/martyr, 7/25 (buried in a common
-    grave with other martyrs)
+  - Bl. Manuel Vázquez Alfalla, priest/martyr, 7/25 (buried in a common grave with other martyrs)
 
 - ???
 
@@ -5775,14 +5686,11 @@ Muniesa, Province of Teruel, Aragon autonomous community
 
 - ???
 
-  - Bl. Francisco Gargallo Gascón, O. de M., priest/martyr, 8/7 (body burned
-    where he was shot)
+  - Bl. Francisco Gargallo Gascón, O. de M., priest/martyr, 8/7 (body burned where he was shot)
 
-  - Bl. Manuel Sancho Aguilar, O. de M., priest/martyr, 8/7 (body burned
-    where he was shot)
+  - Bl. Manuel Sancho Aguilar, O. de M., priest/martyr, 8/7 (body burned where he was shot)
 
-Munera, Campo de Montiel comarca, Province of Albacete, Castile-La
-Mancha autonomous community
+Munera, Campo de Montiel comarca, Province of Albacete, Castile-La Mancha autonomous community
 
 - Parroquia de San Sebastián/Parish of Saint Sebastian
 
@@ -5790,8 +5698,7 @@ Mancha autonomous community
 
 Murcia
 
-- Iglesia Catedral de Santa María en Murcia/Cathedral (Pl. del Cardenal
-  Belluga, s/n)
+- Iglesia Catedral de Santa María en Murcia/Cathedral (Pl. del Cardenal Belluga, s/n)
 
   - Bl. Andrés Hibernón Real, Franciscan friar, 4/18 (some relics)
 
@@ -5805,13 +5712,11 @@ Murcia
 
 - Iglesia Franciscana de la Misericordia/Franciscan Church of Mercy
 
-  - Bl. Buenaventura (née Baltasar Mariano Muñoz Martínez), OFM,
-    religious/martyr, 9/4
+  - Bl. Buenaventura (née Baltasar Mariano Muñoz Martínez), OFM, religious/martyr, 9/4
 
   - Bl. Miguel Faúndez López, OFM, priest/martyr, 8/22 & 9/19
 
-- Iglesia de la Merced y Convento de los Padres Franciscanos (C/ Santo
-  Cristo 2)
+- Iglesia de la Merced y Convento de los Padres Franciscanos (C/ Santo Cristo 2)
 
   - Bl. Antonio (née Miguel) Faúndez López, OFM, priest/martyr, 9/19
 
@@ -5819,8 +5724,11 @@ Murcia
 
   - Bl. Maria Angela Astorch, abbess, 5/23
 
-Cementerio de Hermanas Apostólicas de Cristo Crucificado (C. Alfonso
-XIII)
+- Hospital Quirónsalud Murcia/Hospital San Carlos/St. Charles Hospital (Calle Miguel Hernández, 12)
+
+	- Ven. Paula de Jesús (née Francisca Paula) Gil Cano, HFIC, foundress, d. 1/18/1913
+
+- Cementerio de Hermanas Apostólicas de Cristo Crucificado (C. Alfonso XIII)
 
   - Ven. María Séiquer Gayá, foundress, d. 7/17/1975
 
@@ -5854,46 +5762,44 @@ Cementerio Municipal de Nerva
 
   - Servant of God Luisa Sosa Fontenla, foundress, d. 11/25/2017
 
-Nocito, Nueno municipality, Province of Huesca, Aragon autonomous
-community
+Nocito, Nueno municipality, Province of Huesca, Aragon autonomous community
 
 - Santuario de San Úrbez/Sanctuary of San Úrbez
 
   - St. Ubicio/Úrbez, hermit, 12/15 (he was incorrupt until the
     Revolutionaries burned his corpse)
 
-Novelda, Vinalopó Mitjà comarca, Province of Alicante, Valencian
-autonomous community
+Novelda, Vinalopó Mitjà comarca, Province of Alicante, Valencian autonomous community
 
-Colegio de las Carmelitas Misioneras de Novelda
+- Colegio de las Carmelitas Misioneras de Novelda
 
-  - Ven. Teresa del Niño Jesús de Praga (nee Teresa) Mira García, CMT,
-    religious, d. 2/26/1941 (en la capilla/in the chapel)
+  - Ven. Teresa del Niño Jesús de Praga (nee Teresa) Mira García, CMT, religious, d. 2/26/1941 (en la capilla/in the chapel)
 
 Ocaña, Province of Toledo, Castilla--La Mancha autonomous community
 
-Convento de Santo Domingo de Ocaña
+- Convento de Santa Clara/Convent of St. Clare
+
+	- Servant of God Isabel del Santísimo Sacramento née Isabel Juliana) García-Suelto Pantoja, OSC, religious/mystic, d. 7/5/1902
+
+- Convento de Santo Domingo de Ocaña
 
   - St. José María Díaz Sanjurjo, OP, bishop/martyr, 7/20 (head only)
 
 Òdena, Anoia comarca, Catalonia
 
-Cementerio
+- Cementerio
 
-  - Bl. Ignasi de San Ramon (née Ignasi) Casanovas Perramón, SchP,
-    priest/martyr, 9/16 (buried in his family's tomb)
+  - Bl. Ignasi de San Ramon (née Ignasi) Casanovas Perramón, SchP, priest/martyr, 9/16 (buried in his family's tomb)
 
 O Incio, Province of Lugo, Galicia autonomous community
 
-Santa María do Mao
+- Santa María do Mao
 
   - St. Euphrasius of Andujar, missionary, 5/15
 
-Olesa de Montserrat, Baix Llobregat comarca, Province of Barcelona,
-Catalonia autonomous community
+Olesa de Montserrat, Baix Llobregat comarca, Province of Barcelona, Catalonia autonomous community
 
-??? Possibly at the Monasterio/Casa de las escolapias (the Piarists)
-(she died here so it's assumed she's buried here)
+- ??? Possibly at the Monasterio/Casa de las escolapias (the Piarists)(she died here so it's assumed she's buried here)
 
   - St. Paula Montal Fornés de San José de Calasanz, religious, 2/26
 
@@ -6029,6 +5935,12 @@ Orozko/Orozco, Province of Biscay, Basque autonomous community
 
   - Bl. Clara de Ugarte, O. de M., religious, 1/4 (her remains may no longer be here)
 
+Osa de la Vega, Province of Cuenca, Castilla-La Mancha autonomous community
+
+- Iglesia de la Asunción/Church of the Assumption (Calle de la Iglesia, s/n)
+
+	- El Divino Rostro (Second Friday of September)
+
 Oviedo, Asturias
 
 - Cathedral of San Salvador
@@ -6148,12 +6060,19 @@ Palma de Mallorca, Mallorca Island, Islas Baleares
 
 - Church of San Francisco
 
-  - Bl. Raymond Lull, married, Franciscan tertiary, converter of Muslims,
-    6/30
+  - Bl. Raymond Lull, married, Franciscan tertiary, converter of Muslims, 6/30
 
 - Iglesia de los Padres Capuchinos
 
   - Servant of God Eduardo Bonnín Aguiló, layman/founder of Cursillo, d. 2/6/2008
+
+- Iglesia de los Sagrados Corazones/Església del Sagrat Cor/Church of the Sacred Hearts (Carrer de Sant Gaietà, 9)
+
+	- Ven. Joaquim Rosselló i Ferrà, priest/founder, d. 12/20/1909
+
+- Centro Eucarístico/Capilla de las Zeladoras del Culte Eucarístic (Calle Calatrava 10 in the Calatrava quarter)
+
+  - Ven. Miquel Maura i Montaner, d. 9/19/1915
 
 - Monasterio de San Honorato
 
@@ -6609,28 +6528,29 @@ Castilla-La Mancha autonomous community
     Iglesia de Nuestra Señora de la Esperanza de Peñas de San Pedro or the
     cemetery)
 
-Picassent, Horta Sud comarca, Province of Valencia, Valencian autonomous
-community
+Picassent, Horta Sud comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio de Picassent/Cemetery of Picassent
 
-  - Bl. Fernando González Añon, priest/martyr, 8/27 (in a common grave, but
-    he has his own memorial marker)
+  - Bl. Fernando González Añon, priest/martyr, 8/27 (in a common grave, but he has his own memorial marker)
 
-Planes, Comtat comarca, Province of Alicante, Valencian autonomous
-community
+Planes, Comtat comarca, Province of Alicante, Valencian autonomous community
 
 - Iglesia Parroquial de Planes
 
-  - Bl. María Luisa Montesinos Orduña, laywoman/martyr, 1/28 (Capilla del
-    Santísimo Sacramento/Chapel of the Blessed Sacrament)
+  - Bl. María Luisa Montesinos Orduña, laywoman/martyr, 1/28 (Capilla del Santísimo Sacramento/Chapel of the Blessed Sacrament)
+
+Plasencia, Province of Caceres, Extremadura autonomous community
+
+- Casa Madre de Instituto de Hermanas Josefinas de la Santísima Trinidad (Ctra. Virgen del Puerto, 22)
+
+	- Ven. Eladio Mozas Santamera, priest/founder, d. 3/18/1897
 
 Playa de la Malvarrosa, Valencia
 
 - ???
 
-  - Bl. Jaime (née Armando) Óscar Valdés, OH, religious/martyr, 8/11 (his
-    remains, left on the beach, are missing)
+  - Bl. Jaime (née Armando) Óscar Valdés, OH, religious/martyr, 8/11 (his remains, left on the beach, are missing)
 
 Pollença, Sierra de Tramontana comarca, Province of the Balearic Islands, Islas Baleares autonomous community
 
@@ -6650,21 +6570,17 @@ Pontils (formerly Santa Perpètua de Gaià), Conca de Barberà region, Province 
 
   - St. Raymond Nonnatus, priest, 8/31 (sources conflict where he's buried)
 
-Portichol de Valldigna, Province of Valencia, Valencian autonomous
-community
+Portichol de Valldigna, Province of Valencia, Valencian autonomous community
 
 - ???
 
-  - Bl. María Patrocinio de San Juan (née María Cinta Asunción) Giner Gomis,
-    RMI, religious/martyr, 11/13 (buried in a mass grave)
+  - Bl. María Patrocinio de San Juan (née María Cinta Asunción) Giner Gomis, RMI, religious/martyr, 11/13 (buried in a mass grave)
 
-Pozo de Cantavieja, Tahal, Province of Almería, Andalucía autonomous
-community
+Pozo de Cantavieja, Tahal, Province of Almería, Andalucía autonomous community
 
 - ???
 
-  - Bl. Adolfo Martínez Sáez, layman/martyr, 9/26 (body may have been
-    exhumed after the war)
+  - Bl. Adolfo Martínez Sáez, layman/martyr, 9/26 (body may have been exhumed after the war)
 
   - Bl. Aurelio María (née Bienvenido) Villalón Acebrón, FSC,
     religious/martyr, 9/13 & 11/16 (body thrown into a well or a deep place,
@@ -6723,8 +6639,7 @@ Pozuelo de Alarcón, Community of Madrid
 
 Capilla del Colegio-Hogar del Buen Consejo (Paseo De la Concepción, 12)
 
-  - Servant of God Enriqueta (Maria Teresa de Jesús) Rodon i Asencio,
-    foundress, d. 12/28/1903
+  - Servant of God Enriqueta (María Teresa de Jesús) Rodón i Asencio, foundress, d. 12/28/1903
 
 - ???
 
@@ -7168,10 +7083,9 @@ Santander
   - Bl. Alejo de Santibáñez Pan Lopez, priest/martyr, 12/27 (buried in the
     church's presbytery)
 
-- Cementerio de Ciriego/Ciriego cemetery (San Román de la Llanilla)
+- Cementerio de Ciriego/Ciriego cemetery (Calle la Cuevona, 66)
 
-  - Bl. Ambrosio de Santibáñez (née Alejo Pan López), OFM Cap.,
-    priest/martyr, 12/27 (common grave of 160 people)
+  - Bl. Ambrosio de Santibáñez (née Alejo Pan López), OFM Cap., priest/martyr, 12/27 (common grave of 160 people)
 
 - ???
 
@@ -7360,25 +7274,19 @@ Province of Barcelona, Catalonia autonomous region
 
   - Bl. Francesc Xavier Ponsa Casallach, OH, novice/martyr, 7/30 & 9/28
 
-Sant Feliu de Llobregat, Baix Llobregat comarca, Province of Barcelona,
-Catalonia region
+Sant Feliu de Llobregat, Baix Llobregat comarca, Province of Barcelona, Catalonia region
 
-Cementiri de Sant Feliu de Llobregat (Església de Sant Pere de Ribes
-section)
+- Cementiri de Sant Feliu de Llobregat (Església de Sant Pere de Ribes section)
 
   - Bl. Antoni Nogués Martí, priest/martyr, 8/12 (sources conflict)
 
-San Fernando, Bay of Cádiz comarca, Province of Cádiz, Andalusia
-autonomous community
+San Fernando, Bay of Cádiz comarca, Province of Cádiz, Andalusia autonomous community
 
 - ???
 
-  - Servant of God Maria Cristina de Jesus Sacramentado de los Reyes
-    Olivera, OCD, religious, d. 3/24/1980 (possibly at the Carmelitas
-    Delcalzas chapel)
+  - Servant of God Maria Cristina de Jesus Sacramentado de los Reyes Olivera, OCD, religious, d. 3/24/1980 (possibly at the Carmelitas Delcalzas chapel)
 
-Sant Hipòlit de Voltregà, Osona comarca, Province of Barcelona,
-Catalonia autonomous region
+Sant Hipòlit de Voltregà, Osona comarca, Province of Barcelona, Catalonia autonomous region
 
 - Església de Sant Hipòlit/Church of St. Hippolytus (Carrer de
   l\'Església, 8)
@@ -7451,17 +7359,15 @@ autonomous community
 
   - Bl. Vicente Montserrat Millán, priest/martyr, 8/1
 
-Cementerio del Monasterio de San Lorenzo de El Escorial
+- Cementerio del Monasterio de San Lorenzo de El Escorial
 
   - Servant of God Alfonso María López Sendín, O Carm, priest, d. 2/1/2002
 
-Sanlúcar de Barrameda, Costa Noroeste de Cádiz comarca, Province of
-Cádiz, Andalusia autonomous community
+Sanlúcar de Barrameda, Costa Noroeste de Cádiz comarca, Province of Cádiz, Andalusia autonomous community
 
 - Iglesia La Merced (now a deconsecrated cultural building)
 
-  - Bl. Teresa de Jesús, O. de M., child, 11/23 (grave likely lost to time
-    and anti-Catholic actions)
+  - Bl. Teresa de Jesús, O. de M., child, 11/23 (grave likely lost to time and anti-Catholic actions)
 
 Sanlúcar la Mayor, El Aljarafe comarca, Province of Seville
 
@@ -7682,20 +7588,6 @@ Convento de las Hermanas de la Caridad
 
 Seville/Sevilla
 
-- ???
-
-  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns,
-    10/7
-
-  - Ss. Germanus and Servandus of Cadiz, soldiers, 10/23
-
-  - Bl. Juan de Jesus, O. de M., monk, 6/21
-
-  - St. Laureano, bishop/martyr, 7/4
-
-  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious,
-    10/31
-
 - Cathedral
 
   - Bl. Beatrice of Swabia, Queen
@@ -7710,11 +7602,15 @@ Seville/Sevilla
 
   - St. Leandro/Leander, bishop, 2/27
 
-  - Bl. Marcelo Spinola y Maestre, cardinal, 1/19
+  - Bl. Marcelo Spínola y Maestre, cardinal, 1/19
 
 - Parroquia de San Antonio M. Claret (Av. Padre García Tejero, 8)
 
   - Bl. José María Ruiz Cano, CMF, priest/martyr, 7/27
+
+- Iglesia del Sagrado Corazón de Jesús/Church of the Sacred Heart of Jesus (Calle Jesús del Gran Poder, 40/37°23′45″N 5°59′43″W)
+
+	- Ven. Francisco de Paula Tarín y Arnau, SJ, priest, d. 12/12/1910
 
 - Iglesia de Santo Tomás de Aquino
 
@@ -7750,49 +7646,62 @@ Seville/Sevilla
 
   - Bl. Sebastián Sáinz López, OP, religious/marty, 8/14
 
-- Convent of Santa Ángela de la Cruz, Calle Santa Ángela de la Cruz,
-  Capilla de Santa Ángela de la Cruz/126​ Casa Madre de las Hermanas de la
+- Convent of Santa Ángela de la Cruz, Calle Santa Ángela de la Cruz, Capilla de Santa Ángela de la Cruz/126​ Casa Madre de las Hermanas de la
   Cruz (calle Santa Ángela de la Cruz)
 
-  - St. Angela de la Cruz Guerrero (aka, María de los Ángeles Guerrero
-    González), HCC, religious, 3/2
+  - St. Angela de la Cruz Guerrero (aka, María de los Ángeles Guerrero González), HCC, religious, 3/2
 
-  - St. María de la Purísima de la Cruz (née María Isabel) Salvat Romero,
-    HCC, religious, 9/18 or 10/31
-
-Convento de Santa Paula (C. Sta. Paula, 11, Casco Antiguo)
-
-  - Servant of God María Cristina de Arteaga y Falguera, religious, d.
-    7/13/1984
+  - St. María de la Purísima de la Cruz (née María Isabel) Salvat Romero, HCC, religious, 9/18 or 10/31
 
 - Convento de la Asunción/Convent of the Assumption (C. San Vicente, 104)
 
-  - Bl. Agustina de la Asunción, O. de M., religious, 10/3Monasterio de la
-    Merced Calzada
+  - Bl. Agustina de la Asunción, O. de M., religious, 10/3
+
+- Convento de Santa Isabel (Plaza de Santa Isabel, 4, Casco Antiguo)
+
+	- Ven. María Dolorosa (née Dolores) Márquez Romero de Onoro, FMD, foundress, d. 7/31/1904
+
+- Convento de Santa Paula (Calle Sta. Paula, 11, Casco Antiguo)
+
+  - Servant of God María Cristina de Arteaga y Falguera, religious, d. 7/13/1984
+
+- Monasterio de la Merced Calzada
 
   - St. Beatrice de Roelas, O. de M., religious, 8/21
 
-- Bl. Francisca Martel, religious/founded this monastery, 6/23
+  - Bl. Francisca Martel, religious/founded this monastery, 6/23
 
   - Bl. Magdalena de la Concepción, O. de M., religious, 6/8
 
   - Bl. Magdalena la mayor, O. de M., religious, 10/3
 
-  - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious,
-    5/28
+  - Bl. María de la Natividad (aka, Anna de Corro), O. de M., religious, 5/28
 
-> La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la
-> calle Cervantes)
+- La Casa Matriz Hermanas de Santa Ángela de la Cruz (el n.º 12 de la calle Cervantes)
 
   - Bl. José Torres Padilla, priest/theologian, d. 4/23/1878
 
-Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha
-autonomous community
+- Colegio Sagrado Corazón/Sacred Heart School (C. Virgen de los Buenos Libros, 2, Casco Antiguo)
+
+	- Ven. María Teresa del Corazón de Jesús (née Celia) Méndez Delgado, ADC, cofoundress, d. 6/2/1908 (in the Capilla de la Inmaculada/Chapel of the Immaculate Conception)
+
+- ???
+
+  - Bl. Agnes, Maddalena, Caterina, Bianca, and Marianna, Mercedarian nuns, 10/7
+
+  - Ss. Germanus and Servandus of Cadiz, soldiers, 10/23
+
+  - Bl. Juan de Jesus, O. de M., monk, 6/21
+
+  - St. Laureano, bishop/martyr, 7/4
+
+  - St. María Isabel de la Purísima de la Cruz Salvat Romero, religious, 10/31
+
+Sigüenza/Siguenza, Provincia de Guadalajara, Castilla-La Mancha autonomous community
 
 - Catedral de Santa María de Sigüenza
 
-  - Servant of God Jesús Pla Gandía, bishop, d. 11/8/2000 (in the Capilla de
-    la Inmaculada Concepción)
+  - Servant of God Jesús Pla Gandía, bishop, d. 11/8/2000 (in the Capilla de la Inmaculada Concepción)
 
   - St. Liberata, martyr, 1/11
 
@@ -8542,11 +8451,11 @@ San Vicente Mártir
 
   - Bl. Victoriano Calvo Lozano, CSsR, religious/martyr, 8/10
 
-Real Colegio Seminario del Corpus Christi
+- Real Colegio Seminario del Corpus Christi
 
   - St. Juan de Ribera, archbishop, 1/6
 
-Residencia Sagrado Corazón (La Cenia, 10; Tel. 963 154 369)
+- Residencia Sagrado Corazón (La Cenia, 10; Tel. 963 154 369)
 
   - Bl. Dario Hernández Morató, SJ, priest/martyr, 9/29
 
@@ -8554,21 +8463,20 @@ Residencia Sagrado Corazón (La Cenia, 10; Tel. 963 154 369)
 
   - Bl. Vicente Sales Genovés, SJ, religious/martyr, 9/29
 
-Colegio Nuestra Señora del Pilar
+- Colegio Nuestra Señora del Pilar
 
   - Ven. Faustino Pérez-Manglano Magro, layman, March 3, 1963
 
-Casa Madre de Hermanitas de los Ancianos Desamparados (Calle Madre
-Teresa Jornet, 1/Carrer de la Mare Teresa Jornet, 1)
+- Casa Madre de Hermanitas de los Ancianos Desamparados (Calle Madre Teresa Jornet, 1/Carrer de la Mare Teresa Jornet, 1)
 
   - Ven. Saturnino López Novoa, priest/cofounder, d. 3/12/1905
 
-Convento de Santo Domingo
+- Convento de Santo Domingo
 
   - St. Luis Beltrán (Luis Bertrán/Louis Bertrand), OP, friar "Apostle of
     the Americas," 10/9
 
-Convento Mercedario de San Domingo
+- Convento Mercedario de San Domingo
 
   - Bl. Pedro Nolasco Perra, O. de M., religious, 12/25
 
@@ -8576,7 +8484,7 @@ Convento Mercedario de San Domingo
 
   - St. Teresa de Jesús Jornet y Ibars, foundress, 8/26
 
-Congregación R. R. Adoratrices (Calle Hernan Cortes, 29)
+- Congregación R. R. Adoratrices (Calle Hernan Cortes, 29)
 
   - St. María Micaela del Santísimo Sacramento (née Micaela Desmaisières
     López de Dicastillo), AASC, foundress, 8/24 (she\'s buried at the
@@ -8591,60 +8499,49 @@ Congregación R. R. Adoratrices (Calle Hernan Cortes, 29)
   - Bl. Amparo (née Teresa) Rosat Balasch, DC, religious/martyr, 9/26 &
     11/20
 
-Colegio Nuestra Senora del Pilar/Our Lady of Pilar School
+- Colegio Nuestra Senora del Pilar/Our Lady of Pilar School
 
   - Servant of God Faustino Pérez-Manglano Magro, teen layman, d. 3/3/1963
 
-Casa Madre de las Esclavas de María (calle de Balmes, 27)
+- Casa Madre de las Esclavas de María (calle de Balmes, 27)
 
   - Bl. Juana María Condesa Lluch, foundress, 1/16
 
-Hogar San Eugenio (Calle de la Miraculosa, 13)
+- Hogar San Eugenio (Calle de la Miraculosa, 13)
 
   - Bl. Joaquina Rey Aguirre, DC, religious/martyr, 10/29
 
-- Sanatorio de Fontilles/Fontilles Sanatorium church (Carretera de Orba a
-  Fontilles, Km 4)
+- Sanatorio de Fontilles/Fontilles Sanatorium church (Carretera de Orba a Fontilles, Km 4)
 
   - Servant of God Carlos Ferris Vila, SJ, priest, d. 10/18/1924
 
-  - Servant of God Joaquín Ballester Lloret,
-    lawyer/politician/philanthropist, d. 2/25/1951
+  - Servant of God Joaquín Ballester Lloret, lawyer/politician/philanthropist, d. 2/25/1951
 
-Cementerio de Benimaclet (C/ Ntra. Sra. Asunción 2, in the Benimaclet
-neighborhood)
+- Cementerio de Benimaclet (C/ Ntra. Sra. Asunción 2, in the Benimaclet neighborhood)
 
-  - Bl. Florencio Martín (née Álvaro) Ibáñez Lázaro, FSC, religious/martyr,
-    10/23
+  - Bl. Florencio Martín (née Álvaro) Ibáñez Lázaro, FSC, religious/martyr, 10/23
 
-  - Bl. Honorato Andrés (née Andrés) Zarraquino Herrero, FSC,
-    religious/martyr, 10/23
+  - Bl. Honorato Andrés (née Andrés) Zarraquino Herrero, FSC, religious/martyr, 10/23
 
   - Bl. José Calasanz Marqués, SDB, priest/martyr, 7/29 and 9/22
 
 - Cementerio General de Valencia (Avenida de los Naranjos, s/n)
 
-  - Bl. Alfredo Simón-Colomina, SJ, priest/martyr, 11/28 (panteón de la
-    Compañía de Jesús/pantheon of
+  - Bl. Alfredo Simón-Colomina, SJ, priest/martyr, 11/28 (panteón de la Compañía de Jesús/pantheon of
 
-	- Bl. Antonio Arrué Pairó, FDP, novice/martyr, 8/3 (mass grave)
+  - Bl. Antonio Arrué Pairó, FDP, novice/martyr, 8/3 (mass grave)
 
-  - Bl. Bertrán Francisco (née Francisco) Lahoz Moliner, FSC,
-    religious/martyr, 11/22 (buried in a common grave)
+  - Bl. Bertrán Francisco (née Francisco) Lahoz Moliner, FSC, religious/martyr, 11/22 (buried in a common grave)
 
   - Bl. Jaime Buch Canal, SDB, religious/martyr, 7/31
 
-  - Bl. Josefa Martínez Pérez, DC, religious/martyr, 10/15 (in el panteón Nº
-    103 de las Hijas de la Caridad/pantheon No. 103 of the Daughters of
-    Charity)
+  - Bl. Josefa Martínez Pérez, DC, religious/martyr, 10/15 (in el panteón Nº 103 de las Hijas de la Caridad/pantheon No. 103 of the Daughters of Charity)
 
-  - Bl. Leonardo Olivera Buera, priest of Zaragoza/martyr, 10/23 (grave
-    never identified)
+  - Bl. Leonardo Olivera Buera, priest of Zaragoza/martyr, 10/23 (grave never identified)
 
   - Bl. Pasquale/Pascual Torres Lloret, layman/martyr, 9/6
 
-  - Bl. Ricardo Gil Barcelón, FDP, former soldier/priest/martyr, 8/3 (mass
-    grave)
+  - Bl. Ricardo Gil Barcelón, FDP, former soldier/priest/martyr, 8/3 (mass grave)
 
 ???Valencia
 
@@ -8652,11 +8549,9 @@ neighborhood)
 
   - Bl. Alfonso Sebastia Vinals, martyr, 9/1
 
-  - Bl. Ambrosio de Benaguacil (née Luis Valls Matamales), OFM Cap.,
-    priest/martyr, 8/26
+  - Bl. Ambrosio de Benaguacil (née Luis Valls Matamales), OFM Cap., priest/martyr, 8/26
 
-  - Bl. Ambrosio León (née Pedro) Lorente Vicente, FSC, religious/martyr,
-    10/23 & 9/22 (died in the Benimaclet neighborhood)
+  - Bl. Ambrosio León (née Pedro) Lorente Vicente, FSC, religious/martyr, 10/23 & 9/22 (died in the Benimaclet neighborhood)
 
   - Bl. Antonio Martín Hernández, SDB, religious/martyr, 9/22 & 12/10
 
@@ -8692,15 +8587,13 @@ neighborhood)
 
   - Bl. Julián Rodríguez Sánchez, SDB, priest/martyr, 12/9
 
-  - Bl. Leonci (née Ramon Rosell Laboria), OH, priest/martyr, 8/11 (he died
-    here, but his remains are not preserved)
+  - Bl. Leonci (née Ramon Rosell Laboria), OH, priest/martyr, 8/11 (he died here, but his remains are not preserved)
 
   - Bl. María Pilar Nalda Franco, DC, religious/martyr, 12/9
 
   - Bl. Narciso Basté y Basté, SJ, priest/martyr, 10/15
 
-  - Bl. Pacifico de Valencia (née Pedro Salcedo Puchades), OFM Cap.,
-    religious/martyr, 10/12 ("He was buried in a cemetery in Valencia \[in a
+  - Bl. Pacifico de Valencia (née Pedro Salcedo Puchades), OFM Cap., religious/martyr, 10/12 ("He was buried in a cemetery in Valencia \[in a
     mass grave\], but could not be identified.")
 
   - Bl. Pedro de Cuneo, OFM, friar/martyr, 2/11
@@ -8715,8 +8608,7 @@ neighborhood)
 
   - Bl. Vicente Vilar David, layman, martyr, monk/martyr, 2/14
 
-Valencia, Benicalap district, Province of Valencia, Valencian autonomous
-community
+Valencia, Benicalap district, Province of Valencia, Valencian autonomous community
 
 - ???
 
@@ -8782,14 +8674,11 @@ Valladolid
 
 - Convento de los dominicos de San Pablo/Dominican Convent of St. Paul
 
-  - St. Francisco Fernández de Capillas, OP, priest/protomartyr of China,
-    1/15 (head only; his body is lost)
+  - St. Francisco Fernández de Capillas, OP, priest/protomartyr of China, 1/15 (head only; his body is lost)
 
 - Convento de San Agustín de Valladolid/Augustinian Convent of Valladolid
 
-  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\“Sus
-    restos mortales se encuentran en el convento agustiniano de
-    Valladolid.\”)
+  - Ven. Gregorio Tomás Suárez Fernández, OSA, priest, d. 4/23/1949 (\“Sus restos mortales se encuentran en el convento agustiniano de Valladolid.\”)
 
 - Oratorio de la Casa General de las Discípulas de Jesús/Casa General Discípulas de Jesús (Cno. del Cementerio, 17)
 
@@ -8797,16 +8686,15 @@ Valladolid
 
 Cementerio de El Carmen
 
-  - Servant of God Encarnación (Encarnita) Ortega Pardo, laywoman, d.
-    12/1/1995
+  - Servant of God Encarnación (Encarnita) Ortega Pardo, laywoman, d. 12/1/1995
 
-  - Servant of God José Luis Gago de Val, OP, radio priest, d. 12/22/2012
-    (grave of the Dominican Fathers)
+  - Servant of God José Luis Gago de Val, OP, radio priest, d. 12/22/2012 (grave of the Dominican Fathers)
 
 - ???
 
-  - Bl. Bernardo Francisco de Hoyos Seña, SJ, priest, 11/28 (whereabouts of
-    his remains are unknown)
+	- Servant of God Agustina de la Consolación (née Victoriana) Sáez Martínez, religious, d. 9/27/1910 (possibly at Monasterio del Espíritu Santo (Calle Bretón, 1, La Farola)
+
+  - Bl. Bernardo Francisco de Hoyos Seña, SJ, priest, 11/28 (whereabouts of his remains are unknown)
 
   - Bl. Luis de la Piedad, O. de M., friar, 5/16
 
@@ -8902,14 +8790,11 @@ Cementerio de Vic
 
 - ???
 
-  - Servant of God Anna Narcisa Maria Soler Pi (Anna od Saint Sabina), O.
-    Carm., superior general, d. 11/2/1896
+  - Servant of God Ana de Santa Sabina (née Anna Narcisa Maria) Soler Pi, O. Carm., superior general, d. 11/2/1896
 
-  - Servant of God María Lourdes (née Carme) Sala Bigas, OP, religious, d.
-    12/28/1952 (possibly at the Convento de Santa Clara de Vic)
+  - Servant of God María Lourdes (née Carme) Sala Bigas, OP, religious, d. 12/28/1952 (possibly at the Convento de Santa Clara de Vic)
 
-  - Ven. Paula Delpuig i Gelabert (Paula de Sant Lluís), religious, d.
-    2/23/1889 (buried at Mas Escorial near Vic)
+  - Ven. Paula Delpuig i Gelabert (Paula de Sant Lluís), religious, d. 2/23/1889 (buried at Mas Escorial near Vic)
 
 Vila-rodona, Tarragona
 
@@ -9049,77 +8934,54 @@ Casa Noviciado de las Carmelitas de la Caridad de Vinalesa
   - Bl. Àgueda de la Mare de Déu de les Virtuts/Águeda de Nuestra Señora de
     las Virtudes (née Agueda) Hernández Amorós, CCV, religious/martyr, 8/19
 
-  - Bl. Antonia de San Timoteo (née Antonia Gosens Sáez De Ibarra), CCV,
-    religious/martyr, 11/24
+  - Bl. Antonia de San Timoteo (née Antonia) Gosens Sáez De Ibarra, CCV, religious/martyr, 11/24
 
-  - Bl. Cándida de Nuestra Señora de los Ángeles (née Cándida) Cayuso
-    González, CCV, religious/martyr, 11/24
+  - Bl. Cándida de Nuestra Señora de los Ángeles (née Cándida) Cayuso González, CCV, religious/martyr, 11/24
 
-  - Bl. Clara de Nuestra Señora de la Esperanza (née Clara) Ezcurra Urrutia,
-    CCV, religious/martyr, 11/24
+  - Bl. Clara de Nuestra Señora de la Esperanza (née Clara) Ezcurra Urrutia, CCV, religious/martyr, 11/24
 
-  - Bl. Concepción de Santa Magdalena (née Concepción) Rodríguez Fernández,
-    CCV, religious/martyr, 11/24
+  - Bl. Concepción de Santa Magdalena (née Concepción) Rodríguez Fernández, CCV, religious/martyr, 11/24
 
-  - Bl. Daría de Santa Sofía (née Daría) Campillo Paniagua, CCV,
-    religious/martyr, 11/24
+  - Bl. Daría de Santa Sofía (née Daría) Campillo Paniagua, CCV, religious/martyr, 11/24
 
-  - Bl. Elvira de la Natividad de Nuestra Señora (née Elvira) Torrentallé
-    Paraire, CCV, religious/martyr, 8/19
+  - Bl. Elvira de la Natividad de Nuestra Señora (née Elvira) Torrentallé Paraire, CCV, religious/martyr, 8/19
 
-  - Bl. Erundina de Nuestra Señora del Carmen (née Erundina) Colino Vega,
-    CCV, religious/martyr, 11/24
+  - Bl. Erundina de Nuestra Señora del Carmen (née Erundina) Colino Vega, CCV, religious/martyr, 11/24
 
-  - Bl. Feliciana de Nuestra Señora del Monte Carmelo (née Feliciana) de
-    Uribe Orbe, CCV, religious/martyr, 11/24
+  - Bl. Feliciana de Nuestra Señora del Monte Carmelo (née Feliciana) de Uribe Orbe, CCV, religious/martyr, 11/24
 
-  - Bl. Francisca de Santa Teresa (née Francisca) de Amezúa Ibaibarriaga,
-    CCV, religious/martyr, 8/19
+  - Bl. Francisca de Santa Teresa (née Francisca) de Amezúa Ibaibarriaga, CCV, religious/martyr, 8/19
 
-  - Bl. Justa de la Inmaculada (née Justa) Maiza Goicoechea, CCV,
-    religious/martyr, 11/24
+  - Bl. Justa de la Inmaculada (née Justa) Maiza Goicoechea, CCV, religious/martyr, 11/24
 
-  - Bl. María Concepción de San Ignacio (née María Concepción) Odriozola
-    Zabalía, CCV, religious/martyr, 11/24
+  - Bl. María Concepción de San Ignacio (née María Concepción) Odriozola Zabalía, CCV, religious/martyr, 11/24
 
-  - Bl. María Consuelo del Santísimo Sacramento (née María Consuelo) Cuñado
-    González, CCV, religious/martyr, 11/24
+  - Bl. María Consuelo del Santísimo Sacramento (née María Consuelo) Cuñado González, CCV, religious/martyr, 11/24
 
-  - Bl. María de las Nieves de la Santísima Trinidad (née María de las
-    Nieves) Crespo López, CCV, religious/martyr, 8/19
+  - Bl. María de las Nieves de la Santísima Trinidad (née María de las Nieves) Crespo López, CCV, religious/martyr, 8/19
 
-  - Bl. María de Nuestra Señora de la Providencia (née María) Calaf Miracle,
-    CCV, religious/martyr, 8/19
+  - Bl. María de Nuestra Señora de la Providencia (née María) Calaf Miracle, CCV, religious/martyr, 8/19
 
-  - Bl. María Desamparados del Santísimo Sacramento (née María Desamparados)
-    Giner Sixta, CCV, religious/martyr, 8/19
+  - Bl. María Desamparados del Santísimo Sacramento (née María Desamparados) Giner Sixta, CCV, religious/martyr, 8/19
 
-  - Bl. María Dolores de San Francisco Javier (née María Dolores) Vidal
-    Cervera, CCV, religious/martyr, 8/19
+  - Bl. María Dolores de San Francisco Javier (née María Dolores) Vidal Cervera, CCV, religious/martyr, 8/19
 
-  - Bl. Niceta de San Prudencio (née Niceta) Plaja Xifra, CCV,
-    religious/martyr, 11/24
+  - Bl. Niceta de San Prudencio (née Niceta) Plaja Xifra, CCV, religious/martyr, 11/24
 
-  - Bl. Paula de Santa Anastasia (née Paula) Isla Alonso, CCV,
-    religious/martyr, 11/24
+  - Bl. Paula de Santa Anastasia (née Paula) Isla Alonso, CCV, religious/martyr, 11/24
 
-  - Bl. Rosa de Nuestra Señora del Buen Consejo (née Rosa) Pedret Rull, CCV,
-    religious/martyr, 8/19
+  - Bl. Rosa de Nuestra Señora del Buen Consejo (née Rosa) Pedret Rull, CCV, religious/martyr, 8/19
 
-  - Bl. Teresa de la Divina Pastora (née Teresa) Chambó y Palet, CCV,
-    religious/martyr, 8/19
+  - Bl. Teresa de la Divina Pastora (née Teresa) Chambó y Palet, CCV, religious/martyr, 8/19
 
-Vinaròs, Baix Maestrat region, Province of Castellón, Valencian
-autonomous community
+Vinaròs, Baix Maestrat region, Province of Castellón, Valencian autonomous community
 
-Cementerio Municipal de Vinaròs
+- Cementerio Municipal de Vinaròs
 
-  - Bl. Alejandro Juan (née Fermín) Gellida Cornelles, SDB,
-    religious/martyr, 8/18 (this is AI's best guess; take it with a grain of
+  - Bl. Alejandro Juan (née Fermín) Gellida Cornelles, SDB, religious/martyr, 8/18 (this is AI's best guess; take it with a grain of
     salt)
 
-Vinyols i els Arcs, Baix Camp comarca, Province of Tarragona, Catalonia
-autonomous community
+Vinyols i els Arcs, Baix Camp comarca, Province of Tarragona, Catalonia autonomous community
 
 - Cementerio de Viñols y Archs/cemetery
 

@@ -1,4 +1,4 @@
-import { marked } from 'marked'
+import { Marked } from 'marked'
 import { useEffect, useRef, useState } from 'react'
 import './RegionsPage.css'
 
@@ -23,22 +23,26 @@ const REGIONS = [
   { label: 'Switzerland', file: 'switzerland.md' },
 ]
 
-// Configure marked to add IDs to headings for TOC anchor links
-const renderer = new marked.Renderer()
-renderer.heading = ({ text, depth, raw }: { text: string; depth: number; raw: string }) => {
-  const id = raw.toLowerCase().replace(/[^\w]+/g, '-').replace(/^-+|-+$/g, '')
-  return `<h${depth} id="${id}">${text}</h${depth}>`
-}
-marked.use({ renderer })
+// Scoped Marked instance that shifts Markdown headings down by one level
+// (h1 → h2, h2 → h3, …) so the page keeps a single <h1> and strict heading order.
+const regionsMarked = new Marked({
+  renderer: {
+    heading({ text, depth, raw }) {
+      const id = raw.toLowerCase().replace(/[^\w]+/g, '-').replace(/^-+|-+$/g, '')
+      const level = Math.min(depth + 1, 6)
+      return `<h${level} id="${id}" class="region-heading-${depth}">${text}</h${level}>`
+    },
+  },
+})
 
 function buildToc(html: string, file: string): string {
   if (file.toLowerCase().includes('italy')) return ''
   const temp = document.createElement('div')
   temp.innerHTML = html
-  const h1s = Array.from(temp.querySelectorAll('h1'))
-  if (h1s.length === 0) return ''
-  const links = h1s.map((h) => `<a href="#${h.id}">${h.textContent}</a>`).join('')
-  return `<div class="regions-toc"><h3>Jump to Country</h3><div class="regions-toc-links">${links}</div></div>`
+  const countryHeadings = Array.from(temp.querySelectorAll('h2.region-heading-1'))
+  if (countryHeadings.length === 0) return ''
+  const links = countryHeadings.map((h) => `<a href="#${h.id}">${h.textContent}</a>`).join('')
+  return `<div class="regions-toc"><h2>Jump to Country</h2><div class="regions-toc-links">${links}</div></div>`
 }
 
 export function RegionsPage() {
@@ -62,7 +66,7 @@ export function RegionsPage() {
         return r.text()
       })
       .then((md) => {
-        const parsed = marked.parse(md) as string
+        const parsed = regionsMarked.parse(md) as string
         setToc(buildToc(parsed, selected))
         setHtml(parsed)
 

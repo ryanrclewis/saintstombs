@@ -107,6 +107,12 @@ Golla (possibly Chotogolla or Choto Golla), Nayansree, Nawabganj, Dhaka, Dhaka D
 
 # Cambodia
 
+Bokor Hill Station/ស្ថានីយភ្នំបូកគោ, Preah Monivong Bokor National Park, Kampot Province
+
+- ព្រះវិហារភ្នំបូកគោ/Mount Bokor Catholic Church (About 37 kilometers (23 miles) west of Kampot city center)(J2GF+Q2X)(10.62700, 104.02260)
+
+  - It’s a place of pilgrimage because it survived the Khmer Rouge.
+
 Kdol Leu/ក្តុល លូវ, Kampong Siem District/កំពង់សៀម, Kampong Cham Province/កំពង់ចាម
 
 - ព្រះវិហារក្តុលលើ/Kdol Leu Church/St. Joseph Church
@@ -144,6 +150,12 @@ Ankang (安康), Hanbin District (汉滨区), Shaanxi Province (陕西)
 - 耶稣圣心主教座堂/Cathedral of the Sacred Heart of Jesus/安康市天主堂/Ankang City Catholic Church (汉滨区金银巷45号/No. 45 Jinyin Lane, Hanbin District)
 
   - Since there is no grave for the above Servant of God, you can pray for his intercession here.
+
+Beijing
+
+- 救世主堂/北堂/Church of the Savior/Xishiku Church/Beitang Cathedral (3 Xishiku Ave, 西安门 Xicheng District)
+
+  - Shrine of Our Lady of Deliverance, Empress of China (destroyed during the Cultural Revolution)
 
 Beiwangtou, Shenzhou City, Hebei Province
 
@@ -188,11 +200,11 @@ Chunmuyu, Xushui County
 
 - Cemetery for deceased bishops faithful to the Church
 
-Daijiazhuang, South Shandong/Shantung
+Daijiazhuang (戴家庄) Rencheng District, Jining, South Shandong
 
-- Parish church cemetery, at the 12^th^ Station of the Cross
+- 戴庄天主教堂/Daijiazhuang Catholic Church (No. 1 Jidai Road, Liying Street)/山东省济宁市任城区李营街道济岱路1号 (戴庄天主教堂)
 
-  - St. Joseph Freinademetz, priest, 1/18
+  - St. Joseph Freinademetz, SDV, priest, 1/18 (His tomb is located at the 12th Station of the Cross just north of the main church in the missionary cemetery known as the “Holy Wood" [圣林 - Sheng Lin].)
 
 Dailucun, Shenzhou city, Hebei province
 
@@ -416,11 +428,17 @@ Shanghai
 
 - Cemetery of Liu-Ka-Vay
 
-Saintly Russian Orthodox Abbess Rufina, d. August 15, 1937
+  - Saintly Russian Orthodox Abbess Rufina, d. August 15, 1937
 
 - 震旦大學/The former Aurora University or a nearby cemetery
 
   - 张必达/Beda Chang/Zhang Boda, SJ, priest/martyr, d. 11/11/1951 (grave unmarked) (non-causa)
+
+Shanghai, 松江区/Songjiang District
+
+- 佘山天主教堂/Basilica of Holy Mary, Help of Christians (上海市松江区外青松公路9142号西佘山园山顶/No. 9142 Waiqingsong Highway)
+
+  - 佘山聖母/Our Lady of Sheshan/Our Lady of Luck/Our Lady of Good Luck/Mother of China, patroness of China, 5/24
 
 Shenzhou City, Hebei Province 
 
@@ -697,7 +715,7 @@ Ajmer, Rajasthan
 
 - Cathedral of the Immaculate Conception (Kaisar Ganj)
 
-  - Servant of God Fortunat de Tours (nee Henri Caumont), OFM Cap.,
+  - Servant of God Fortunat de Tours (née Henri Caumont), OFM Cap.,
     bishop/cofounder, d. 8/6/1930
 
 Alappuzha (Alleppey) Alappuzha district, Kerala state
@@ -711,7 +729,7 @@ Ambapara (Amba Para), Banswara (city), Rajasthan
 
 - ???
 
-  - Servant of God Charles de Ploemeur (nee Alfred Le Neouannis), OFM
+  - Servant of God Charles de Ploemeur (née Alfred Le Neouannis), OFM
     Cap., priest, d. 8/6/1941
 
 Ambazhakad (near Chalakudy and Malak), Thrissur district, Kerala state
@@ -751,7 +769,7 @@ Bharananganam, Kerala
 
 - St. Mary's Forane Church (St. Alphonsama Chapel)
 
-  - St. Alphonsa of the Immaculate Conception (nee Anna
+  - St. Alphonsa of the Immaculate Conception (née Anna
     Muttathupadathu), FCC, religious/prophetess, 7/28
 
 Bramavara (Brahmavar), Karnataka 576213
@@ -873,8 +891,7 @@ Edathua, Alappuzha, Kerala state
 
 - St. George Forane Church
 
-  - Servant of God Thommachan Puthenparampil, TOSF, married layman, d.
-    11/1/1968
+  - Servant of God പുത്തൻപറമ്പിൽ തൊമ്മച്ചൻ/Thommachan Puthenparampil, TOSF, married layman, d. 11/1/1908
 
 Eluru (Powerpet suburb), Eluru district, Andhra Pradesh state
 
@@ -886,8 +903,7 @@ Ernakulam, City of Kochi, Ernakulam district, Kerala state
 
 - St. Francis Assisi Cathedral "Smrithimandhiram"
 
-  - Servant of God Joseph Attipetty (ജോസഫ്
-    അട്ടിപ്പേറ്റി), archbishop, d. 1/21/1970
+  - Servant of God ജോസഫ് അട്ടിപ്പേറ്റി/Joseph Attipetty, archbishop, d. 1/21/1970
 
 Goa
 
@@ -895,7 +911,7 @@ Goa
 
   - St. Francis Xavier, evangelist, 12/3 (incorrupt)
 
-Colégio São Paulo (may be no longer extant)
+- Colégio São Paulo (may be no longer extant)
 
   - St. João de Brito (Swami Arulanandar), SJ, priest/martyr, 2/4
     (relics only)
@@ -921,7 +937,7 @@ Guntur, Coastal Andhra region, Andhra Pradesh
 
 Jharsuguda, Jharsuguda district, Odisha state
 
-- SVD Provincial House cemetery (Shanti Bhavan, Jharsuguda -- 2)
+- SVD Provincial House cemetery (Shanti Bhavan, Jharsuguda - 2)
 
   - Servant of God Marian Żelazek, SVD, priest, d. 4/30/2006
 
@@ -937,33 +953,31 @@ Kallikulam, Tamil Nadu
 
 Kannur, Kannur district, Kerala state
 
-One of the city\'s cemeteries (probably Holy Family)
+- One of the city’s cemeteries (probably Holy Family)
 
-മരിയ സെലിന്‍ കണ്ണനായ്ക്കല്‍/Ven.
-Maria Celine Kannanaikal, UMI, religious/mystic, d. 7/26/1957
+  - മരിയ സെലിന്‍ കണ്ണനായ്ക്കല്‍/Ven. Maria Celine Kannanaikal, UMI, religious/mystic, d. 7/26/1957
 
 Karukutty, Ernakulam district, Kerala state
 
 - ???
 
-  - Servant of God Mary Celine (Annakutty) Payyappilly, CMC,
-    religious, d. 4/23/1993
+  - Servant of God Mary Celine (Annakutty) Payyappilly, CMC, religious, d. 4/23/1993
 
 Kattappana, Idukki district, Kerala state
 
-  - St. John's Hospital Kattappana
+  - St. John’s Hospital Kattappana
 
-  - Servant of God Fortunatus (née Bernhard) Thanhäuser,
-    religious/founder, d. 11/21/2005
+  - Servant of God Fortunatus (née Bernhard) Thanhäuser, religious/founder, d. 11/21/2005
+
+Kayakunnu, Nadavayal, in Wayanad, Kerala state
+
+- National Shrine of Our Lady of La Salette/La Salette Ashram (The shrine sits along the Panamaram - Nadavayal - Kenichira - Bathery Road. It is located near the Kayakunnu Post Office.)(Q32X+FFQ)
 
 Kilacheri, Tiruvallur district, Tamil Nadu state
 
 - Sacred Heart Church cemetery
 
-  - Servant of God Thatipatri Gnanamma (தாடிபத்திரி
-    ஞானம்மா
-
-  - > తతిపత్రి జ్ఞానమ్మ), widow/foundress, d. 12/21/1874
+  - Servant of God Thatipatri Gnanamma (தாடிபத்திரி ஞானம்மா - > తతిపత్రి జ్ఞానమ్మ), widow/foundress, d. 12/21/1874
 
 Kochi (Ernakulam Island), Kerala
 
@@ -971,12 +985,9 @@ Kochi (Ernakulam Island), Kerala
 
   - Servant of God Archbishop Joseph Attipetty, January 21, 1970
 
-<!-- -->
-
 - St. Antony's Church (Kacheripady, Kochi, Kerala 682018)
 
-  - Servant of God Immanuel Lopez (ഇമ്മാനുവൽ
-    ലോപ്പസ്), "the Vianney of Kerala," priest, d. 3/20/2004
+  - Servant of God Immanuel Lopez (ഇമ്മാനുവൽ ലോപ്പസ്), "the Vianney of Kerala," priest, d. 3/20/2004
 
 Konthuruthy Island, Kochi, Ernakulam district, Kerala state
 
@@ -994,8 +1005,7 @@ Krishnanagar, Nadia district, West Bengal state
 
 - Krishnanagar Cathedral Church
 
-  - Ven. Francesco Convertini, SDB, priest, d. 2/11/1976 (he is buried
-    in the garden next to the cathedral)
+  - Ven. Francesco Convertini, SDB, priest, d. 2/11/1976 (he is buried in the garden next to the cathedral)
 
 Kurianad, Kottayam district, Kerala state
 
@@ -1008,8 +1018,7 @@ Kuthuparamba, Kannur, Kerala
 
 - ???
 
-  - Servant of God Paula Mönnigmann (Sr. Petra Dinadassi), foundress, d.
-    6/5/1976
+  - Servant of God Paula Mönnigmann (Sr. Petra Dinadassi), foundress, d. 6/5/1976
 
 Kutungia, area of Ranchi, Jharkhand state
 
@@ -1025,51 +1034,39 @@ Kuzhikattussery, Thrissur district, Kerala state
 
   - St. Mariam Thresia Chiramel Mankidiyan, cofoundress, 6/8
 
-Mumbai, Mahim/माहिम neighborhood, Konkan division,
-Maharashtra state
+Mumbai, Mahim/माहिम neighborhood, Konkan division, Maharashtra state
 
-सेंट मायकल चर्च/St. Michael\'s
-Church cemetery (+91 77383 89886; Lady Jamshedji Road)
+- सेंट मायकल चर्च/St. Michael’s Church cemetery (+91 77383 89886; Lady Jamshedji Road)
 
   - Ven. Fernanda Riva, FdCC, religious, d. 1/22/1956
 
-Maniamkunnu (aka, Maniyamkunnu), Panachippara village, Poonjar town,
-Kottayam District, Kerala
+Maniamkunnu (aka, Maniyamkunnu), Panachippara village, Poonjar town, Kottayam District, Kerala
 
 - ???
 
-  - Servant of God Mariam Arampulickal (Mary Collette of the Infant
-    Jesus/Kolethamma/Colethamma), FCC, religious, d. 12/18/1984
-    (probably at the FCC Convent Maniamkunnu)
+  - Servant of God Mariam Arampulickal (Mary Collette of the Infant Jesus/Kolethamma/Colethamma), FCC, religious, d. 12/18/1984 (probably at the FCC Convent Maniamkunnu)
 
 Manjummel, Ernakulam district, Kerala state
 
 - Immaculate Conception Church
 
-  - Bl. Eliswa Vakayil (Eliswa of the Blessed Virgin Mary), OCD, d.
-    7/18/1913
+  - Bl. Eliswa Vakayil (Eliswa of the Blessed Virgin Mary), OCD, d. 7/18/1913
 
-  - Ven. Aureliano of the Blessed Sacrament (nee Pedro Landetta
-    Azcueta), OCD, priest, d. 11/16/1963
+  - Ven. Aureliano of the Blessed Sacrament (née Pedro Landetta Azcueta), OCD, priest, d. 11/16/1963
 
-  - Ven. Zacarias of Saint Teresa (nee Zacarias Salterain Bizkarra),
-    OCD, priest, 5/23/1957
+  - Ven. Zacarias of Saint Teresa (née Zacarias Salterain Bizkarra), OCD, priest, 5/23/1957
 
 Mannanam, Kerala state
 
-സെൻ്റ് ജോസഫ് പള്ളി/St. Joseph
-Church
+- സെൻ്റ് ജോസഫ് പള്ളി/St. Joseph Church
 
   - Bl. Kuriakose (aka, Cyriac) Elias Chavara, priest, 1/3 & 2/18
 
 Mariyapuram (near Pariyaram) Kannur district, Kerala state
 
-ഔർ ലേഡി ഓഫ്
-പെർപെച്വൽ സക്കർ ചർച്ച്/Our Lady of
-Perpetual Succour Church
+- ഔർ ലേഡി ഓഫ് പെർപെച്വൽ സക്കർ ചർച്ച്/Our Lady of Perpetual Succour Church
 
-  - Servant of God Lino Maria "Zucolachan" Zucol, SJ, priest, d.
-    1/6/2014
+  - Servant of God Lino Maria "Zucolachan" Zucol, SJ, priest, d. 1/6/2014
 
 Mawlai, East Khasi Hills district, Meghalaya state
 
@@ -1077,13 +1074,11 @@ Mawlai, East Khasi Hills district, Meghalaya state
 
   - Ven. Constantine Vendrame, SDB, priest, d. 1/30/1957
 
-Melapudur, Sangillyandapuram, Tiruchirappalli (aka, Trichy),
-Tiruchirappalli District, Tamil Nadu
+Melapudur, Sangillyandapuram, Tiruchirappalli (aka, Trichy), Tiruchirappalli District, Tamil Nadu
 
 - ???
 
-  - Servant of God Annammal Selvanayagam Pillai, widow/foundress, d.
-    6/8/1883
+  - Servant of God Annammal Selvanayagam Pillai, widow/foundress, d. 6/8/1883
 
 Mohana, Gajapati district, Odisha state
 
@@ -1101,8 +1096,7 @@ Mumbai, Mumbai Metropolitan Region, Konkan district, Maharashtra state
 
 - ???
 
-  - Servant of God George Fernandes, priest/founder, d. 6/2/1970
-    (possibly at Divine Child Church)
+  - Servant of God George Fernandes, priest/founder, d. 6/2/1970 (possibly at Divine Child Church)
 
 Nagercoil, Tamil Nadu
 
@@ -1114,25 +1108,21 @@ Nagpur, Vidarbha region, Maharashtra state
 
 - Mary Immaculate Convent chapel (near the district court, Civil Lines)
 
-  - Servant of God Sr. Marie-Gertrude of the Precious Blood Gros (Félicie
-    Gros), SMMI, cofoundress, d. 3/18/1905
+  - Servant of God Marie-Gertrude of the Precious Blood (née Félicie) Gros, SMMI, cofoundress, d. 3/18/1905
 
 New Delhi
 
 - Sisters of the Holy Cross Convent (21, Kalu Sarai)
 
-  - Servant of God Sr. Fidelis (née Kochuthresia) Thaliath,
-    gynecologist/religious, d. 1/17/2008
+  - Servant of God Sr. Fidelis (née Kochuthresia) Thaliath, gynecologist/religious, d. 1/17/2008
 
 Ollur, Thrissur, Kerala, South India
 
 - St. Anthony's Forane Church ("India's Sistine Chapel")
 
-- Chapel of the Convent of St. Mary, the Congregation of the Mother of
-  Carmel
+- Chapel of the Convent of St. Mary, the Congregation of the Mother of Carmel
 
-  - St. Euphrasia of the Sacred Heart of Jesus Eluvathingal (aka, the
-    "Praying Mother"), religious, 8/29
+  - St. Euphrasia of the Sacred Heart of Jesus Eluvathingal (aka, the “Praying Mother”), religious, 8/29
 
 Orur, Tiruvadanai taluk, Ramanathapuram district, Tamil Nadu state
 
@@ -1140,7 +1130,7 @@ Orur, Tiruvadanai taluk, Ramanathapuram district, Tamil Nadu state
 
 Panjampatti, Dindigul, Tamil Nādu state
 
-Congregation of the Immaculate Conception
+- Congregation of the Immaculate Conception (I.C. Convent, N)
 
   - Servant of God Augustine Pereira, priest/founder, d. 10/21/1911 ("in
     1986 during the Platinum jubilee of the congregation, the mortal remains
@@ -1151,39 +1141,32 @@ Pala, Kottayam district, Kerala state
 
 - Provincial House Chapel of the Sacred Heart Sisters (Ph: 0482 2212225)
 
-  - Ven. Mathew Kadalikattil (Kadalikkattil Mathai Kathanar),
-    priest/founder, d. 5/23/1985
+  - Ven. Mathew Kadalikattil (Kadalikkattil Mathai Kathanar), priest/founder, d. 5/23/1985
 
-Palayamkottai neighborhood, Tirunelveli City, Pandya Nadu region, Tamil
-Nadu state
+Palayamkottai neighborhood, Tirunelveli City, Pandya Nadu region, Tamil Nadu state
 
 - ???
 
-  - Servant of God Peter Reddy (aka, Paul Chenappan Reddiar or Paradeshi
-    Peter), OFS, layman, d. 6/21/1958
+  - Servant of God Peter Reddy (aka, Paul Chenappan Reddiar or Paradeshi Peter), OFS, layman, d. 6/21/1958
 
 Patna, Patna District, Bihar state
 
-- Former Cathedral of the Visitation of the Blessed Virgin Mary (Padri ki
-  Haveli) or at St. Joseph's Pro-Cathedral (he\'s buried at the "old
+- Former Cathedral of the Visitation of the Blessed Virgin Mary (Padri ki Haveli) or at St. Joseph's Pro-Cathedral (he\'s buried at the "old
   Cathedral" of Patna)
 
-  - Ven. Joseph Alois Hartmann (Anastasius of Altwis), OFM. Cap., bishop, d.
-    4/24/1886
+  - Ven. Joseph Alois Hartmann (Anastasius of Altwis), OFM. Cap., bishop, d. 4/24/1886
 
 Pattaram, Iritty municipality, Kannur district, Kerala state
 
 - Vimalagiri Ashram
 
-  - Servant of God Armond "Armandachan" Madhavath (ആര്‍മണ്ട്
-    മാധവത്ത്), OFM Cap., priest, d. 1/12/2001
+  - Servant of God ആര്‍മണ്ട് മാധവത്ത്/Armond “Armandachan” Madhavathf. OFM Cap., priest, d. 1/12/2001
 
 Pattom region of Thiruvananthapuram, Kerala state
 
 - St. Mary Malankara Syrian Catholic Cathedral
 
-  - Ven. Geevarghese Mar Ivanios (Geevarghese Thomas Panickerveetil),
-    archbishop/founder, d. 7/15/1953
+  - Ven. Geevarghese Mar Ivanios (Geevarghese Thomas Panickerveetil), archbishop/founder, d. 7/15/1953
 
 Peda Avutapalli (Pedavutapally), Krishna district, Andhra Pradesh
 
@@ -1193,22 +1176,21 @@ Peda Avutapalli (Pedavutapally), Krishna district, Andhra Pradesh
 
 Pilar village, Goa state (roughly 10 km from the state capital Panaji)
 
-Pilar Saibinnichi Igorz (Our Lady of Pilar)
+- Pilar Saibinnichi Igorz/Our Lady of Pilar
 
   - Ven. Agnelo de Souza, SFX, preacher, d. 11/20/1927
 
 Pondicherry, Puducherry district, Puducherry union territory
 
-Immaculate Heart of Mary Generalate (No.19, St. Therese Street)
+- Immaculate Heart of Mary Generalate (No.19, St. Therese Street)
 
-  - Servant of God Fr. Louis Savinien Dupuis, MEP, priest/founder, d.
-    6/4/1874
+  - Servant of God Fr. Louis Savinien Dupuis, MEP, priest/founder, d. 6/4/1874
 
 Ponnurinni, Ernakulam district, Kerala state
 
 - Chapel attached to Capuchin Ashram Ponnurunni
 
-  - Ven. Theophane of Kottappuram (nee Michael Koodalloor), OFM Cap., priest, d. 4/4/1968
+  - Ven. Theophane of Kottappuram (née Michael Koodalloor), OFM Cap., priest, d. 4/4/1968
 
 Poondi, Thiruvallur taluk of Tiruvallur district, Tamil Nadu state
 
@@ -1218,25 +1200,21 @@ Poondi, Thiruvallur taluk of Tiruvallur district, Tamil Nadu state
 
 Prayagraj, Prayagraj district, Prayagraj division, Uttar Pradesh
 
-सेंट जोसेफ़्स कैथेड्रल,
-इलाहाबाद/St. Joseph Cathedral
+- सेंट जोसेफ़्स कैथेड्रल, इलाहाबाद/St. Joseph Cathedral
 
-  - Ven. Anastasius of Altwis (nee Joseph Alois Hartmann), OFM. Cap.,
-    bishop, d. 4/24/1886
+  - Ven. Anastasius of Altwis (née Joseph Alois Hartmann), OFM. Cap., bishop, d. 4/24/1886
 
 Pune (Poona), Maharashtra state
 
-- Sisters of Our Lady of Fatima Convent, Fatima Nagar,
+- Sisters of Our Lady of Fatima Convent, Fatima Nagar (FR7C+CH)(18.5029° N 73.8967° E)
 
-  - Servant of God Francis Xavier Kroot, MHM, priest/founder, d.
-    1/5/1900
+  - Servant of God Francis Xavier Kroot, MHM, priest/founder, d. 1/5/1900
 
 Ramapuram, Kerala, India
 
 - Church of St. Augustine
 
-  - Bl. Augustinose/Augustine Thevarparampil (aka, Kunjachan), priest,
-    10/16 (in front of the altar of St. Augustine)
+  - Bl. Augustinose/Augustine Thevarparampil (aka, Kunjachan), priest, 10/16 (in front of the altar of St. Augustine)
 
 Ranchi, Jharkhand state
 
@@ -1244,10 +1222,16 @@ Ranchi, Jharkhand state
 
   - Servant of God Constant Lievens, SJ, priest, d. 11/7/1893
 
-Daughters of St. Anne of Ranchi Motherhouse (DSA, Namkum, Ranchi)
+- Daughters of St. Anne of Ranchi Motherhouse (DSA, Namkum, Ranchi)
 
   - Servant of God Mary Bernadette Prasad Kispotta, DSA, foundress, d.
     4/16/1961
+
+Rangapuram, Sathuvachari parish (Vellore Diocese), Vellore District, Tamil Nadu state
+
+- Sacred Heart Novitiate and Generalate (Narkarunai Nagar, Phase-1, 33rd Cross Street, Sathuvachari Post)
+
+  - Servant of God Scholastica of Kanyakumari (née  Jesuvadiyal Savarimuthu), SSHJ, foundress, d. 10/12/1993
 
 Sarugani, Nedodai, Sivaganga District, Tamil Nadu state
 
@@ -1265,13 +1249,13 @@ Somme Village, Khibito (India-China border)/Sommeu, Dzayul province
 
 - ???
 
-  - Servant of God Fr. Nicolas-Michel Krick, MEP, priest/martyr, d.
-    8/2/1854 (body thrown into a river)
+  - Servant of God Fr. Nicolas-Michel Krick, MEP, priest/martyr, d. 8/2/1854 (body thrown into a river)
 
-  - Servant of God Fr. Augustin-Etienne Bourry, MEP, priest/martyr, d.
-    8/2/1854 (body lost)
+  - Servant of God Fr. Augustin-Etienne Bourry, MEP, priest/martyr, d. 8/2/1854 (body lost)
 
 Tura, West Garo Hills, Meghalaya state
+
+- Bosco Mount Aspirantate, Oreste Marengo Memorial Chapel in Rongkhon (Plus Code: G6VH+2F3) (not necessarily where he is buried)
 
 - ???
 
@@ -1279,15 +1263,12 @@ Tura, West Garo Hills, Meghalaya state
 
 Thiruvananthapuram, Thiruvananthapuram district, Kerala state
 
-- ???
+- Discalced Carmelite monastery on Carmel Hill (Located near Vazhuthacaud Junction along Pangodu Road, directly across from the Government Girls Higher Secondary School (GHSS) Cotton Hill.)
 
-  - Servant of God Aloysius of Saint Mary (nee Adelrich) Benziger, OCD,
-    bishop, d. 8/17/1942 (could be buried in Quilon; Thiruvananthapuram
+  - Servant of God Aloysius of Saint Mary (née Adelrich) Benziger, OCD, bishop, d. 8/17/1942 (could be buried in Quilon; Thiruvananthapuram
     is where he died)
 
-  - Servant of God Adeodatus of St. Peter (nee Julianus
-    Buyck/Muthiyavila Valiyachan), OCD, priest, d. 10/20/1968 (he is
-    buried next to Bishop Benziger)
+  - Servant of God Adeodatus of St. Peter (née Julianus Buyck/Muthiyavila Valiyachan), OCD, priest, d. 10/20/1968 (he is buried next to Bishop Benziger)
 
 Thottakom, Vaikom, Kottayam District, Kerala state
 
@@ -1295,14 +1276,11 @@ Thottakom, Vaikom, Kottayam District, Kerala state
 
   - Servant of God Varkey Kattarath, VC, priest/founder, d. 10/23/1931
 
-Tiruchirappalli (Tiruchi or Trichy), Tiruchirapalli District, Tamil Nadu
-state
+Tiruchirappalli (Tiruchi or Trichy), Tiruchirapalli District, Tamil Nadu state
 
-- Amalannai Parish and Amalashram (St. Antony\'s Shrine) at Order of
-  Friars Minor Capuchin
+- Amalannai Parish and Amalashram (St. Antony\'s Shrine) at Order of Friars Minor Capuchin
 
-  - Servant of God John Peter Savarinayagam, OFM Cap, priest, d.
-    3/2/1979
+  - Servant of God John Peter Savarinayagam, OFM Cap, priest, d. 3/2/1979
 
 Udainagar, Dewas district, Madhya Pradesh state
 
@@ -1314,8 +1292,7 @@ Udupi, Udupi District, Tulu Nadu, Karnataka state
 
 - Bramavara Church Cemetery
 
-  - Servant of God Peter John Roche (Alfred of Moodahadu), OFM Cap., d.
-    12/31/1996
+  - Servant of God Peter John Roche (Alfred of Moodahadu), OFM Cap., d. 12/31/1996
 
 Vadakkankulam, Radhapuram Taluka, Tirunelveli District, Tamil Nadu state
 
@@ -1327,51 +1304,43 @@ Vadakkankulam, Radhapuram Taluka, Tirunelveli District, Tamil Nadu state
 
 - Fatimagiri Ashram (Rosarians House)
 
-  - Servant of God Antony Susainather/அந்தோனி
-    சூசைநாதர் (nee Antony Fernando/அந்தோனி
-    பர்னாந்து), CR, priest/hermit, d. 6/8/1968
+  - Servant of God Antony Susainather/அந்தோனி சூசைநாதர் (née Antony Fernando/அந்தோனி பர்னாந்து), CR, priest/hermit, d. 6/8/1968
 
 Vagamon village, Peerumedu Taluk, Kottayam district, Kerala state
 
 - Kurisumala Ashram/Our Lady of Kurisumala Abbey
 
-  - Servant of God Francis Acharya (nee Jean-Richard Mahieu), OCSO, monk, d.
-    1/31/2002
+  - Servant of God Francis Acharya (née Jean-Richard Mahieu), OCSO, monk, d. 1/31/2002
 
 Velankanni, Nagapattinam district, Tamil Nadu state
 
 - Basilica of Our Lady of Good Health
 
-ஆரோக்கிய அன்னை/Our Lady of Health of Velankanni,
-9/8
+  - ஆரோக்கிய அன்னை/Our Lady of Health of Velankanni, 9/8
 
 Varapuzha/Varappuzha, Ernakulam district, Kerala state
 
 - St. Joseph\'s Convent
 
-  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (
-    tomb chapel, "Smruthi Mandhiram")
+  - Ven. Mother Eliswa Vakayil, TOCD, widow/foundress, d. 7/18/1913 (    tomb chapel, "Smruthi Mandhiram")
 
 Vedalai, Ramanathapuram district, Tamil Nadu state
 
 - ???
 
-  - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body
-    lost but there may be a shrine to him there)
+  - Servant of God Antonio Criminali, SJ, priest, d. 5/26/1549 (body lost but there may be a shrine to him there)
 
-- Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
+ Vilakkannur, Kannur District, Kerala State
 
-  - Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
+- Christ the King Church
 
-  - Ss. Josaphat and Baarlam, martyrs, 11/27
+  - Vatican approved eucharistic miracle of 11/15/2013
 
-  - Servants of God Kantheswar Digal and 34 companions, martyrs of
-    Kandhamal, d. 8/2008
-
-  - Servant of God Mary Grace D'Lima (Teresa of Saint Rose of Lima), CSST,
-    foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of
-    Bangalore/Bengaluru, Karnataka state, where the generalate of the order
-    she founded is located)
+Bl. Alphonsus Pacheco, martyr, the old cathedral at Goa, India, 7/27
+Servant of God Jerome Fernandez, bishop/founder, d. 2/27/1992
+Ss. Josaphat and Baarlam, martyrs, 11/27
+Servants of God Kantheswar Digal and 34 companions, martyrs of Kandhamal, d. 8/2008
+Servant of God Teresa of Saint Rose of Lima D’Lima (née Mary Grace), CSST, foundress, d. 9/12/1902 (possibly in the Geddalahalli neighborhood of Bangalore/Bengaluru, Karnataka state, where the generalate of the order she founded is located)(her order does not want to disclose the location of her grave while her cause is in process)
 
 # Indonesia
 
@@ -1379,26 +1348,33 @@ Banda Aceh, Aceh Province, Sumatra region
 
 - ???
 
-  - Bl. Denis of the Nativity (Pierre Berthelot), OCD, priest/martyr,
-    11/29 (body lost; thrown into the sea)
+  - Bl. Denis of the Nativity (Pierre Berthelot), OCD, priest/martyr, 11/29 (body lost; thrown into the sea)
 
-  - Bl. Redemptus of the Cross (Tomás Rodrigues da Cunha),
-    religious/martyr, 11/29 (body lost; thrown into the sea)
+  - Bl. Redemptus of the Cross (Tomás Rodrigues da Cunha), religious/martyr, 11/29 (body lost; thrown into the sea)
+
+- Kolser, Kei Kecil sub-district, Southeast Maluku/Kabupaten Maluku Tenggara, Maluku Province/Kolser, Kecamatan Kei Kecil, Maluku Tenggara/Kabupaten Maluku Tenggara, Provinsi Maluku
+
+  - Gua Kuil Maria Dikandung Tanpa Noda/Shrine Grotto of the Immaculate Conception of Mary (8PQC+CV7)
 
 Langgur, Kei Kecil Island, Southeast Maluku Province
 
-Kei Martyrs Pilgrimage Park
+- Kei Martyrs Pilgrimage Park
 
-  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12
-    Missionaries of the Sacred Heart (MSC) Companions
+  - Servant of God Bishop Arnoldus Johannes Hubertus Aerts and his 12 Missionaries of the Sacred Heart (MSC) Companions, d. 7/30/1942
 
-Larantuka, East Flores Regency, Flores Island, East Nusa Tenggara
-province
+Larantuka, East Flores Regency, Flores Island, East Nusa Tenggara province
 
 - Princess Reinha Rosari Central Convent Park,
 
-  - Servant of God Gabriel Wilhelmus (Lay Tjong Sie) Manek, SVD,
-    bishop, d. 11/30/1989
+  - Servant of God Gabriel Wilhelmus (Lay Tjong Sie) Manek, SVD, bishop, d. 11/30/1989
+
+Tanjung Lewouran, East Nusa Tenggara Province
+
+- Gereja Stasi Santo Petrus Rasul/St. Peter the Apostle Mission Station Church
+
+  - Soil from the tomb of St. Peter
+  
+  - A stone from the Holy Door at the Basilica of San Pietro in Vaticano/St. Peter's Basilica
 
 # Iran
 
@@ -1406,10 +1382,9 @@ Hamadan, Central district, Hamadan County, Hamadan Province
 
 - Tomb of Esther and Mordechai (Persian: آرامگاه استر و
   مردخای)
+  - Queen St. Esther, 7/1
 
-  - Queen St. Esther
-
-Mordechai
+  - Mordechai
 
 Hubaham
 
@@ -1512,13 +1487,13 @@ Al Kifl, Al-Hillah district, Babylon province
 
 - Tomb of Dhu al-Kifl
 
-Prophet Ezekiel, 7/23
+  - Prophet Ezekiel, 7/23
 
 Alqosh/ألقوش, Tel Kaif District, Nineveh governorate
 
-الكنيس/The synagogue
+الكنيس/The synagogue- 
 
-ناحوم/The Prophet Nahum, 12/1
+ناحوم/  - The Prophet Nahum, 12/1
 
 - دير الربان هرمزد/Rabban Hormizd Monastery
 
@@ -1539,6 +1514,16 @@ Der Serkis, west of Edessa
 
   - St. Ephrem (aka, Ephraem; Ephraim the Syrian; Ephraim; Harp of the
     Holy Spirit; Sun of the Syrians), Church Father/Doctor, 6/9
+
+Erbil, Ankawa/Ainkawa/Ain Kawa neighborhood, Kurdistan Region
+
+- مزار القديس إيليا/Shrine of St. Elijah/Elias/Ilyas, patriarch of Baghdad (6XMV+QCX)
+
+  - The Elijah referenced refers to the Old Testament prophet, and a 6th century Assyrian monk
+
+  - Elijah Abdoka (Mirakor), local lay martyr, d. ca. 1831 (non-causa)
+
+- Maryamana Shrine/Shrine of Our Lady/مزار مريميانا (Near Mar Gewargis [St. George's] Church)
 
 Kirkuk
 
@@ -1609,13 +1594,17 @@ Beit Sahour (بيت ساحور), Bethlehem Governorate, Palestinian Authority
 
 - Greek Orthodox Monastery of the Shepherds/Kenisat er-Ruwat
 
-Beit Shemesh/בית שמש, Jerusalem District
+Beit Shemesh/בית שמש, Judean Foothills, Jerusalem District
 
 בית ג\'מאל/بيت جمال
 /الحك/Beit Jimal Salesian Monastery
 
   - Ven. سمعان سروجي/Sim\'ān "Simon" Srūjī, SDB,
     religious, d. 11/27/1943
+
+- Deir Rafat/Sanctuary of Our Lady, Queen of Palestine and of the Holy Land/דיר ראפאת/دير رفات
+
+  - Our Lady, Queen of Palestine and of the Holy Land, 10/25
 
 Bethlehem, West Bank
 
@@ -1673,8 +1662,7 @@ Ein Karem/Ain Karem (עין כרם), Jerusalem, Jerusalem District
 
 - The Virgin Spring
 
-Eleutheropolis (\"city of the free\") was the Greek name of a Roman city
-in Palestine, some 53 km southwest of Jerusalem
+Eleutheropolis (\"city of the free\") was the Greek name of a Roman city in Palestine, some 53 km southwest of Jerusalem
 
 - ???
 
@@ -1762,7 +1750,7 @@ Jerusalem
 
 - Basilica of St. Stephen (Nablus Road 83)
 
-  - Servant of God Marie-Joseph (nee Albert) Lagrange, OP, priest, d. 3/10/1938
+  - Servant of God Marie-Joseph (née Albert) Lagrange, OP, priest, d. 3/10/1938
 
 - Monastery of Saint Saviour (1 St. Francis Street)
 
@@ -1807,12 +1795,11 @@ Jerusalem
 
 - Convent of the Dominican Sisters of the Most Holy Rosary/Rosary Church
 
-  - St. Mariam Sultaneh Danil Ghattas/Marie-Alphonsine Danil Ghattas,
-    foundress, 3/25
+  - St. Mariam Sultaneh Danil Ghattas/Marie-Alphonsine Danil Ghattas, foundress, 3/25
 
 - Monastery Sainte Claire (Hanock Albeck, 3; tel. +972 02.671.75.34; clarisse.gerusalemme@gmail.com)
 
-  - Servant of God Mary of the Trinity (nee Louisa Jaques), PC, religious, d. 6/25/1942
+  - Servant of God Mary of the Trinity (née Louisa Jaques), PC, religious, d. 6/25/1942
 
 - Tomb of King David
 
@@ -1830,9 +1817,7 @@ Jerusalem
 
   - Ss. Andronicus and Athanasia, spouses, 10/9
 
-  - St. Chariton the Confessor of Palestine, confessor, 9/28 (buried in
-    a church built on the site of the robbers\' cave on the outskirts of
-    Jerusalem)
+  - St. Chariton the Confessor of Palestine, confessor, 9/28 (buried in a church built on the site of the robbers\' cave on the outskirts of Jerusalem)
 
   - St. Cyril of Jerusalem, Church Father, Church Doctor, 3/18
 
@@ -1878,20 +1863,19 @@ Kever Shmuel ha-Navi/Nebi Samuel/Nebi Samwil
 - Tomb of Samuel/النبي صموئيل/קבר שמואל
   הנביא/Nabi Samwil mosque
 
-The Prophet Samuel, 8/20
+  - The Prophet Samuel, 8/20
 
 الخان الأحمر/חאן אל-אחמאר/Khan
 al-Ahmar, Jerusalem Governorate, West Bank
 
 - دير أوثيميوس/מנזר אותימיוס/Monastery of
-  Euthymius/Lavra of Euthymius (its ruins stand on the main
-  Jerusalem-Jericho highway)
+  Euthymius/Lavra of Euthymius (its ruins stand on the main Jerusalem-Jericho highway)
 
   - St. Euthymius the Great, abbot, 1/20
 
 Kiryat Arba/Qiryat Arba, Hebron
 
-Cave of Machpela
+- Cave of Machpela
 
   - St. Sarah the Matriarch, wife of Moses, 8/19
 
@@ -2092,12 +2076,12 @@ Koguchi village, Ōmura, Nagasaki prefecture
 
 - ???
 
-  - Bl. Fernando de San José (nee Fernando/Ferdinand Ayala), OSA,
+  - Bl. Fernando de San José (née Fernando/Ferdinand Ayala), OSA,
     priest/martyr, 9/28
 
 Kokura (小倉市), Kitakyushu, Fukuoka Prefecture
 
-All of their bodies were burned and their ashes scattered
+- All of their bodies were burned and their ashes scattered
 
   - Bl. Iacobus Bunzo Gengoro, boy martyr, 8/16
 
@@ -2136,15 +2120,29 @@ Kyoto
     Ikegami • Bl. Thomas Kajiya Yoemon • Bl. Thomas Kian • Bl. Thomas
     Koshima Shinshiro • Bl. Thomas Toemon • Bl. Ursula Sakurai
 
-Mount Unzen/雲仙岳, near Shimabara/島原市, Nagasaki Prefecture, Kyushu
-Island
+Mount Unzen/雲仙岳, near Shimabara/島原市, Nagasaki Prefecture, Kyushu Island
 
 - ???
 
-  - Bl. マイケル・ナカシマ・サブローエモン/Michaël Nakashima Saburoemon,
-    SJ, layman/martyr, 12/25 (he died here, but where is he buried?)
+  - Bl. マイケル・ナカシマ・サブローエモン/Michaël Nakashima Saburoemon, SJ, layman/martyr, 12/25 (he died here, but where is he buried?)
 
 Nagasaki
+
+- 浦上天主堂/浦上教会/Urakami Cathedral (1-79 Motoomachi/长崎県長崎市本尾町1-79)
+
+  - 長崎の被爆のマリア/Our Lady of Nagasaki (relic from the atomic bomb explosion)
+
+- 大浦天主堂/Ōura Tenshudō/Ōura Church/Basilica of the Twenty-Six Holy Martyrs of Japan (長崎県長崎市南山手町5-3/5-3 Minamiyamate-machi
+
+  - Bl. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/14
+
+- 坂本国際墓地/Sakamoto International Cemetery (長崎県長崎市坂本1丁目2/1-2 Sakamoto)
+
+  - Servant of God 森山みどり まりな/Midori Marina Moriyama Midori, laywoman, d. 8/9/1945
+
+  - Servant of God パオロ・ナガイ・タカシ/Takashi Paolo Nagai, doctor, d. 5/1/1951
+
+???
 
   - Bl. Alexius Nakamura, layman, 11/27
 
@@ -2214,7 +2212,7 @@ Nagasaki
 
   - Bl. Francisco de Morales, OP, martyr, 9/10
 
-  - St. Francisco de San Miguel (nee Francisco) Andrade Arco, 2/6
+  - St. Francisco de San Miguel (née Francisco) Andrade Arco, 2/6
 
   - Bl. Francisca Pinzokere, TOSD, laywoman/martyr, 8/27
 
@@ -2222,8 +2220,7 @@ Nagasaki
 
   - Bl. Francisco Castellet Vinale, OP, priest, 8/8 & 9/8
 
-  - Bl. Francisco Pacheco, SJ, priest/martyr, 6/20 (ashes thrown into the
-    water)
+  - Bl. Francisco Pacheco, SJ, priest/martyr, 6/20 (ashes thrown into the water)
 
   - Bl. Franciscus Kuhyoe, TOSF, layman/martyr, 8/27
 
@@ -2333,11 +2330,9 @@ Nagasaki
 
   - St. Marina of Omura, TOSD, laywoman/martyr, 11/11 (burned alive)
 
-  - St. Martín de la Ascensión (nee Martin) Loynaz de Aguirre, OFM,
-    missionary, 2/6
+  - St. Martín de la Ascensión (née Martin) Loynaz de Aguirre, OFM, missionary/martyr, 2/6
 
-  - Bl. Martín de San Nicolás (nee Martín) Lumbreras Peralta, OAR,
-    priest/martyr, 9/28 & 12/11 (burned alive)
+  - Bl. Martín de San Nicolás (née Martín) Lumbreras Peralta, OAR, priest/martyr, 9/28 & 12/11 (burned alive)
 
   - Bl. Matthaeus Alvarez Anjin, TOSD/TOSF, layman/martyr, 9/3
 
@@ -2347,8 +2342,7 @@ Nagasaki
 
   - Bl. Matthias Nakano, layman, 11/27
 
-  - Bl. Melchor de San Agustín Sánchez Pérez, OAR, priest/martyr, 9/28 &
-    12/11
+  - Bl. Melchor de San Agustín Sánchez Pérez, OAR, priest/martyr, 9/28 & 12/11
 
   - Bl. Michaël Díaz Hori, layman/martyr, 8/19
 
@@ -2420,18 +2414,6 @@ Nagasaki
 
   - Bl. Vincentius Kaun, SJ, priest/martyr, 6/20 (ashes thrown into the sea)
 
-- Ōura Church/Basilica of the Twenty-Six Holy Martyrs of Japan
-
-  - Bl. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/14
-
-- 坂本国際墓地/Sakamoto International Cemetery
-
-  - Servant of God 森山みどり まりな/Midori Marina Moriyama Midori,
-    laywoman, d. 8/9/1945
-
-  - Servant of God パオロ・ナガイ・タカシ/Takashi Paolo Nagai,
-    doctor, d. 5/1/1951
-
 Nishizaka, Nagasaki
 
 - ???
@@ -2466,14 +2448,14 @@ Nishizaka, Nagasaki
   - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, OP,
     priest/martyr, 8/17 (body burned, ashes thrown into the sea)
 
-  - Bl. Jerome de la Cruz de Torres (nee Hieronymus Iyo), TOSF,
+  - Bl. Jerome de la Cruz de Torres (née Hieronymus Iyo), TOSF,
     priest/martyr, 9/3
 
   - St. Lazaro of Kyoto, layman/martyr, 9/29
 
   - Bl. Leonardus Kimura, SJ, lay catechist/martyr, 11/17
 
-  - St. Lucas del Espíritu Santo (nee Lucas) Alonso Gorda, OP,
+  - St. Lucas del Espíritu Santo (née Lucas) Alonso Gorda, OP,
     priest/martyr, 10/19
 
   - St. Magdalena of Nagasaki, lay catechist/martyr, 9/28, 10/15, &
@@ -2489,10 +2471,10 @@ Nishizaka, Nagasaki
 
   - St. Thomas Hioji Nishi Rokuzaemon, OP, priest/martyr, 11/17
 
-  - Bl. Thomas Jihyoe of St. Augustine (nee Thomas Ochia Jihyoe), OSA,
+  - Bl. Thomas Jihyoe of St. Augustine (née Thomas Ochia Jihyoe), OSA,
     priest, martyr, 9/28 & 11/6
 
-  - Bl. Vicente de Santo António (nee Vicente Simões de Carvalho), OSA,
+  - Bl. Vicente de Santo António (née Vicente Simões de Carvalho), OSA,
     priest/martyr, 9/3 & 9/28
 
   - St. Vicente Shiwozuka de la Cruz, OP, priest/martyr, 9/29
@@ -2544,7 +2526,7 @@ Okinoshima Island
 
   - Bl. Mancio de la Cruz, OP, Japanese layman/martyr, 7/29
 
-  - Bl. Mancius of Saint Thomas (nee Mancius Shibata), OP,
+  - Bl. Mancius of Saint Thomas (née Mancius Shibata), OP,
     religious/martyr, 9/12 (burned alive)
 
   - Bl. Mancius Yukimoto Ichizaemon, layman/martyr, 9/28 & 10/28
@@ -2563,7 +2545,7 @@ Okinoshima Island
   - Bl. Petrus Sawaguchi Kuhyoe/Pedro Terai Kuhioye, layman/martyr, 9/28
     & 10/28
 
-  - Bl. Tomás del Espíritu Santo (nee Tomás de Zumárraga Lazcano), OP,
+  - Bl. Tomás del Espíritu Santo (née Tomás de Zumárraga Lazcano), OP,
     priest/martyr, 9/12 (burned alive)
 
   - Bl. Thomas Terai Kahyoe, layman/martyr, 9/28 & 10/28
@@ -2593,7 +2575,7 @@ Prefecture
 
 - ???
 
-  - Bl. Camillus (nee Giovanni Battista) Costanzo, SJ, priest/martyr,
+  - Bl. Camillus (née Giovanni Battista) Costanzo, SJ, priest/martyr,
     9/15 (they have a very large memorial to him; he was burned to death
     so no relics likely exist)
 
@@ -3254,8 +3236,7 @@ Batroun (Arabic: ٱلْبَتْرُون al-Batrūn), Batroun District, North Gov
 
 - 
 •الدير الأم لراهبات العائلة المقدسة المارونيات/Congrégation des Sœurs Maronites de la Sainte Famille/Mother House of the Maronite Sisters of the Holy Family/
-  - Bl. Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
-
+  - Bl. Elias Peter Hoayek/Elias Boutros Al-Hawik/إلياس بطرس الحويك, patriarch, d. 12/24/1931
 
 Beirut
 
@@ -3307,7 +3288,7 @@ Kfifan, Batrūn, Ash Shamāl
 - دير القديسين كبريانوس و جوستين/ Monastère de Saint
   Cyprien et Sainte Justine/Monastery of Ss. Cyprian and Justina
 
-  - Bl. يوسف نعمة/Esțfān (nee Yūsuf) Nehmé, monk, 8/30
+  - Bl. يوسف نعمة/Esțfān (née Yūsuf) Nehmé, monk, 8/30
 
   - St. نعمة الله الحرديني/Nimatullah Kassab
     al-Hardini/Yusuf Jurj Kassab al-Hardini, OLM, monk/priest12/14
@@ -3315,6 +3296,12 @@ Kfifan, Batrūn, Ash Shamāl
 Maghdouché, Sidon District, South Governorate
 
 - Shrine of Our Lady of Mantara/Our Lady of Awaiting, 6/11
+
+Qaa/القاع, Bekaa/Beqaa Valley, Baalbek-Hermel Governorate
+
+- Jabal al-Salib/Mount of the Cross/جبل الصليب
+
+  - Monumental statue of Christ
 
 Qannoubine (قنوبين), North
 
@@ -3421,8 +3408,7 @@ Taungoo/တောင်ငူမြို့, Bago Region
 
 Khushpur, Samundri Theshil, Faisalabad District, Province of Punjab
 
-- Shrine of Baba Gurbaksh Das (کش داس دی سمادھی) Isaaion da
-  mazaar (عیسائی)
+- Shrine of Baba Gurbaksh Das (کش داس دی سمادھی) Isaaion da mazaar (عیسائی)
 
 - خوش پور میں مسیحی قبرستان/Christian Cemetery in Khushpur
 
@@ -3452,13 +3438,17 @@ Angeles City/Lungsod ng Angeles, 1st District, Pampanga Province, Central Luzon 
 
   - Servant of God Cesar Maria Guerrero, bishop, d. 3/27/1961
 
+Barangay Balintocatok (Dariuk Hills), City of Santiago, Province of Isabela, Cagayan Valley region
+
+- Shrine of Our Lady of La Salette (JGPX+6QC)(16.714983° N, 121.553719° E)
+
 Binondo, Manila
 
-- Binondo Church
+- Binondo Church (1006 Plaza Lorenzo Ruiz)
 
-  - St. Domingo Ibáñez de Erquicia, 8/13
+  - St. Domingo Ibáñez de Erquicia, OP, priest/martyr, 8/13 (shrine only; ashes thrown into the sea)
 
-  - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine only)
+  - St. Jacobo Kyushei Gorobioye Tomonaga de Santa María, 8/17 (shrine only; ashes thrown into the sea)
 
   - St. Lorenzo Ruiz, layman/martyr, 9/28 (shrine only; ashes thrown into the sea)
 
@@ -3478,6 +3468,10 @@ Carcar City (Barangay Valladolid), Cebu province
 
   - Ven. Teofilo Camomot, archbishop, d. 9/27/1988
 
+Cavite City/Lungsod ng Kabite, Province of Cavite, Calabarzon region
+
+- Diocesan Shrine of Our Lady of Solitude of Porta Vaga/San Roque Church (P. Burgos Avenue)
+
 Dona Remedios Trinidad, Bulacan Province
 
 - Our Lady of Piat Shrine, 7/2 (X39J+G36)
@@ -3492,7 +3486,7 @@ Iloilo City, Molo district, Province of Iloilo, Western Visayas region (Region V
 
 - Dominican Sisters Motherhouse (Avancena St.)
 
-  - Ven. Rosario Arroyo de la Visitacion (nee Maria Beatriz del Rosario Pidal Arroyo), OP, religious/foundress, d. 6/14/1957 (in the chapel
+  - Ven. Rosario Arroyo de la Visitacion (née Maria Beatriz del Rosario Pidal Arroyo), OP, religious/foundress, d. 6/14/1957 (in the chapel
     of the museum dedicated to her memory)
 
 Jose Dalman, Zamboanga, Zamboanga del Norte Province, 2nd District
@@ -3521,10 +3515,10 @@ Manila
 
 - ???
 
-  - Ven. Madre Consuelo (nee Joaquina Maria Mercedes) Barcelo Pages,
+  - Ven. Madre Consuelo (née Joaquina Maria Mercedes) Barcelo Pages,
     OSA, cofoundress, d. 8/4/1840
 
-  - Bl. Trinidad del Sagrado Corazon de Jesus (nee Florencia Cuesta
+  - Bl. Trinidad del Sagrado Corazon de Jesus (née Florencia Cuesta
     Valluerca), O. Carm., religious, d. 10/4/1967 (died in Manila, but
     might be buried at Dumaguete, Province of Negros Oriental, where her
     convent was located)
@@ -3546,6 +3540,14 @@ Marikina City, Metro Manila
 
 - Shrine of Our Lady of the Abandoned (aka, Nuestra Señora de los
   Desamparados)
+
+Naga City, Camarines Sur Province, Bicol Region
+
+- Peñafrancia Basilica (13°37′55″N 123°12′00″E)
+
+  - Nuestra Señora de Peñafrancia/Our Lady of Peñafrancia (Third Saturday of September)
+  
+  - El Divino Rostro (Second Friday of September)
 
 Novaliches, Quezon City
 
@@ -3611,11 +3613,16 @@ Taguig City, National Capital Region
 
 Tayabas, Province of Quezon, Calabarzon region
 
-Compound of the Missionary Catechists of St. Therese of the Infant
-Jesus (MCST Generalate, Bishop Alfredo Ma. Obviar St.)
+- Compound of the Missionary Catechists of St. Therese of the Infant Jesus (MCST Generalate, Bishop Alfredo Ma. Obviar St.)
 
   - Ven. Alfredo María Obviar y Aranda, bishop/missionary/founder, d.
     10/1/1978
+
+Tacloban, Province of Leyte, Eastern Visayas region
+
+- Archdiocesan Shrine of Santo Niño Parish Church (Juan Luna Street [located between P. Zamora St. and Real St.])(11°14′29″N 125°00′21″E)
+
+  - The revered colonial-period image of Señor Santo Niño de Tacloban, affectionately known as El Capitan
 
 Verde Island, Batangas
 
@@ -3727,7 +3734,7 @@ Aleppo/ﺣَﻠَﺐ
 
 - كنيسة الساليزيان/Salesian Church
 
-  - Servant of God Mātīld (nee Shelḩot) Salīm/ماتيلد
+  - Servant of God Mātīld (née Shelḩot) Salīm/ماتيلد
     شلحت ﺴﻟﻳﻢ, ASC, laywoman, d. 2/27/1961
 
 Antioch
@@ -3750,13 +3757,20 @@ Antioch
 
   - St. Eustachius of Antioch, bishop, 2/21
 
+Syria
+
+Apamea, NW of Hama
+- ???
+  - St. Antoninus, 9/2
+  - St. Julian of Apamea, 12/9
+
 Cyrus
 
 Damascus
 
 - ???
 
-Our Lady of Damascus/Our Lady of Tears, 1/24
+  - Our Lady of Damascus/Our Lady of Tears, 1/24
 
   - St. Caesarius, martyr, 11/1
 
@@ -3805,19 +3819,15 @@ Edessa
 
   - St. Mary of Edessa, converted prostitute, anchoress, 10/29
 
-Himo village (قرية هيمو), Qamishli district, Al-Hasakah
-governorate, northeastern Syria
+Himo village (قرية هيمو), Qamishli district, Al-Hasakah governorate, northeastern Syria
 
 - Monastery of Saint Febronia of Nisibis (دير القديسة فيبرونيا
   النصيبين)
-
-  - St. Febronia of Nisibis, martyr, 6/25 (allegedly, her body was
-    transferred to Constantinople in 363)
+  - St. Febronia of Nisibis, martyr, 6/25 (allegedly, her body was transferred to Constantinople in 363)
 
 Homs (formerly Emesa)
 
-- Church of Saint Elian (كنيسة مار اليان, Kaneesat Mar
-  Elian)
+- Church of Saint Elian (كنيسة مار اليان, Kaneesat Mar Elian)
 
   - St. Elian/Julian of Emesa, physician/martyr, 2/6, 2/7, & 3/7
 
@@ -3829,13 +3839,13 @@ Homs (formerly Emesa)
 
   - St. Silvanus, bishop, martyr, 2/6
 
-Latakia
+Latakia/اللَّاذِقِيَّة
 
 - ???
 
   - St. Eusebius of Laodicea, bishop, 7/3
 
-Rufiananas
+Rufiananas/ الرفنية/al-Rafaniyya, Hama governorate (34°56′03″N 36°23′48″E)(now in ruins)
 
 - Monastery of St. Hypatius
 
@@ -3849,7 +3859,7 @@ Saidnaya/صيدنايا, al-Tall district, Rif Dimashq governorate
 Saideneida icon (شاغورة/Shaghoura \"the
 Illustrious"\, 2/3
 
-Anatolius of Alexandria, Laodicea, Syria, 7/3
+  - Anatolius of Alexandria, Laodicea, Syria, 7/3
 
   - St. Ananias of Arbela (Syria), 12/1
 
@@ -3863,11 +3873,17 @@ Anatolius of Alexandria, Laodicea, Syria, 7/3
 
 # Thailand
 
+Ayutthaya, Phra Nakhon Si Ayutthaya province
+
+- วัดนักบุญยอแซฟ อยุธยา/St. Joseph Church (Samphao Lom, Phra Nakhon Si Ayutthaya district)
+
+  - ปีแยร์ ล็องแบร์ เดอ ลา ม็อต/Servant of God Pierre Lambert de la Motte, MEP, missionary bishop, d. 6/15/1679
+
 Bangkok
 
 - อาสนวิหารอัสสัมชัญ/Assumption Cathedral
 
-  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
+  - Bl. Nicholas Bunkerd Kitbamrun, priest/martyr, 1/12 (relic only)
 
 - ???
 
@@ -3879,44 +3895,64 @@ Penang
 
   - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (relic only)
 
-Songkhon/ทรงคน, Pong Kham subdistrict, Wan Yai
-District,\2\ Mukdahan Province, northeastern Thailand
+Songkhon/ทรงคน, Pong Kham subdistrict, Wan Yai District, Mukdahan Province, northeastern Thailand
 
-- ศาลพระแม่มารีแห่งมรณสักขี/Shrine of Our Lady of the Martyrs of
-  Thailand
+- ศาลพระแม่มารีแห่งมรณสักขี/Shrine of Our Lady of the Martyrs of Thailand
 
 Tambon Chanot/ตำบลชะโนด, Province of Mukdahan
 
-วัดทรงขันธ์/Wat Song Khan/Our Lady of the Martyrs of
-Thailand Shrine
+- วัดทรงขันธ์/Wat Song Khan/Our Lady of the Martyrs of Thailand Shrine
 
   - Proto-martyrs of Thailand, 12/26
 
-  - Bl. อากาตะ พุทธบี/Agatha Phutta,
-    cook/laywoman
+  - Bl. อากาตะ พุทธบี/Agatha Phutta, cook/laywoman
 
   - Bl. อักเนส ฟิลา/Agnes Phila, religious
 
-  - Bl. เซซิเลีย บัตซี่/Cecilia Butsi,
-    cook/laywoman
+  - Bl. เซซิเลีย บัตซี่/Cecilia Butsi, cook/laywoman
 
-  - Bl. ฟิลิป ซิพงศ์ โอนพิทัก/Filip
-    Siphong Onphitak, layman, 12/16
+  - Bl. ฟิลิป ซิพงศ์ โอนพิทัก/Filip Siphong Onphitak, layman, 12/16
 
   - Bl. ลูซี่ คำบัง/Lucy Khambang, religious
 
-  - Bl. มาเรีย ฟอน/Maria Phon,
-    student/laywoman
+  - Bl. มาเรีย ฟอน/Maria Phon, student/laywoman
 
-  - Bl. วิเวียน คัมฟายฟ์/Vivian Khamphaiv,
-    student/laywoman
+  - Bl. วิเวียน คัมฟายฟ์/Vivian Khamphaiv, student/laywoman
 
 Tha Kham sub-district, Sam Phran district, Nakhon Pathom province
 
 - Shrine Of Blessed Nicholas Bunkerd
 
-  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (his ashes and effigy are
-    here)
+  - Bl. Nicholas Bunkerd Kitbamrun, martyr, 1/12 (his ashes and effigy are here)
+
+# Uzbekistan
+
+Samarkand
+
+- Калисои Юҳаннои Таъмиддиҳанда/Avliyo Yahyo Cho’mdiruvchi cherkovi (Mahmud Qoshg’ariy ko’chasi, 86)/Church of St. John the Baptist (кӯчаи Маҳмуд Кошғарӣ, 86/Mahmud Qoshg’ariy ko’chasi, 86/Mahmud Koshgari Street, 86)
+
+  - Ёдгории салиби ҳақиқӣ/Haqiqiy xochning yodgorligi/Relic of the True Cross
+  - Санге аз кӯҳи Голгота/Go’lgota tog’idan olingan tosh/A stone from Mount Golgotha
+  - Муҷассамаи Хонуми Мо аз Луҷан/Lujan xonimimiz haykali/Shrine of Our Lady of Luján
+  - Гроттои Хонуми Мо/Bizning Xonimimiz G’ori/Grotto of Our Lady
+
+Tashkent
+
+- Калисои Муқаддаси Қалб (маънои онро “Калисои Лаҳистон” меноманд)/Muqaddas Yurak sobori (ya’ni “Polsha cherkovi”)/Sacred Heart Cathedral (aka, “the Polish Church”)(Кӯчаи Маҳтумқулӣ, 80/Mahtumquli ko’chasi, 80/Mahtumkuli Street, 80/1)
+  - The only English language Mass in the entire country
+  - The only Catholic church in the capital
+  - Unique stained glass windows
+  - Unique bronze Stations of the Cross
+  - Life-sized bronze statue of Christ
+  - Rare example of neo-Gothic architecture in Central Asia
+
+- Калисои православии Успенсияи Муқаддас/Muqaddas Assumption pravoslav sobori/Holy Assumption Orthodox Cathedral (Кӯчаи Авлиёта, 91/Avliyoota ko’chasi, 91/Avliyoota Street, 91)
+  - Relic of the True Cross
+  - Relics of the Kiev-Pechersk Lavra saints
+
+- Калисои Санкт-Сергиюси Радонеж/Radonejning Avliyo Sergius cherkovi/Church of St. Sergius of Radonzeh (Туйтепа махалла, райони Яшнобод/Makhallinsky skhod grazhdan Tuytepa/Tuytepa Mahallah, Yashnabad District)
+
+  - Сергиюси Радонеж/Radonejning Avliyo Sergius cherkovi/St. Sergius of Radonzeh, monk/reformer, 7/18 (relic only)
 
 # Vietnam
 
@@ -4443,7 +4479,7 @@ Huyện Yên Bình district, Province of Yên Bái
 
 - ???
 
-  - Servant of God Marcel (nee Gioakim) Nguyễn Tấn
+  - Servant of God Marcel (née Gioakim) Nguyễn Tấn
     Văn, CSsR, priest/martyr, d. 7/10/1959 (he is at the bottom of
     Hồ Thác Bà/Thac Ba Hydroelectric Lake)
 

@@ -134,7 +134,7 @@
   pointer-events: none;
 }
 
-.card h3 {
+.card h2 {
   font-family: var(--font-heading);
   font-size: 1.15rem;
   color: var(--accent-color);

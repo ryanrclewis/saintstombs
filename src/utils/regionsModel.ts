@@ -1,20 +1,26 @@
 export type SaintTitle =
   | 'St.'
+  | 'Ss.'
   | 'Bl.'
+  | 'Bls.'
   | 'Ven.'
   | 'Saint'
   | 'Blessed'
   | 'Venerable'
   | 'Servant of God'
+  | 'Servants of God'
 
 export const SAINT_TITLES: SaintTitle[] = [
   'St.',
+  'Ss.',
   'Bl.',
+  'Bls.',
   'Ven.',
   'Saint',
   'Blessed',
   'Venerable',
   'Servant of God',
+  'Servants of God',
 ]
 
 export interface SaintEntry {

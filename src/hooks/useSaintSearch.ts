@@ -11,9 +11,16 @@ export type Saint = {
   summary: string
 }
 
-type FiltersData = {
+export type IndexStats = {
+  saints: number
+  locations: number
+  countries: number
+}
+
+export type FiltersData = {
   continents: string[]
   countriesByContinent: Record<string, string[]>
+  stats?: IndexStats
 }
 
 const DEFAULT_FILTERS: FiltersData = {
@@ -30,6 +37,7 @@ type PreparedSaint = Saint & {
   normalizedSearchText: string
 }
 
+let filtersPromise: Promise<FiltersData> | null = null
 let dataPromise: Promise<SearchData> | null = null
 const saintNameCollator = new Intl.Collator(undefined, {
   numeric: true,
@@ -56,20 +64,33 @@ const compareSaintNames = (left: PreparedSaint, right: PreparedSaint) => {
   )
 }
 
+export const loadFiltersData = async (): Promise<FiltersData> => {
+  if (!filtersPromise) {
+    filtersPromise = (async () => {
+      const filtersResponse = await fetch('/data/filters.json')
+      if (!filtersResponse.ok) {
+        throw new Error('Failed to load filters dataset.')
+      }
+      return (await filtersResponse.json()) as FiltersData
+    })()
+  }
+
+  return filtersPromise
+}
+
 const loadSearchData = async (): Promise<SearchData> => {
   if (!dataPromise) {
     dataPromise = (async () => {
-      const [saintsResponse, filtersResponse] = await Promise.all([
+      const [saintsResponse, filters] = await Promise.all([
         fetch('/data/saints.json'),
-        fetch('/data/filters.json'),
+        loadFiltersData(),
       ])
 
-      if (!saintsResponse.ok || !filtersResponse.ok) {
+      if (!saintsResponse.ok) {
         throw new Error('Failed to load saints dataset.')
       }
 
       const saints = (await saintsResponse.json()) as Saint[]
-      const filters = (await filtersResponse.json()) as FiltersData
       const preparedSaints: PreparedSaint[] = saints.map((saint) => ({
         ...saint,
         tags: saint.tags ?? [],

@@ -1,3 +1,5 @@
+# Switzerland
+
 Agno, Lugano District, Canton of Ticino
 
 - Chiesa dei Santi Giovanni Battista e Provino/Parish church of Ss. John
@@ -141,12 +143,17 @@ Fischingen, Canton of Thurgau
 
   - Bl. Ida of Toggenburg, anchoress, 11/4
 
-Fribourg
+Fribourg, Fribourg Canton
 
-- Church of St. Michael/General House of the FSSP (or at the Collège
-  Saint-Michel (German: Kollegium St. Michael)
+- Church of St. Michael/General House of the FSSP (or at the Collège Saint-Michel (German: Kollegium St. Michael)
 
   - St. Peter Canisius, SJ, reformer, 12/21 & 4/27
+
+Fribourg, Saanebezirk/Sarine District, Fribourg canton
+
+- University of Fribourg, Chapelle de l’université Miséricorde (Avenue de l’Europe 20)
+
+  - Servant of God Maximilian Westermaier, botanist, d. 5/1/1903
 
 Geneva
 
@@ -366,8 +373,7 @@ Ufnau Island, Lake Zürich, Höfe district, Canton of Schwyz
 
 Winterthur, Canton of Zurich
 
-Kloster Töss (deteriorated and ultimately destroyed because of the
-Protestant Revolt)
+- Kloster Töss (deteriorated and ultimately destroyed because of the Protestant Revolt)
 
   - Bl. Elisabeth Stagel, OP, prioress, 5/30 (grave lost)
 
@@ -375,14 +381,13 @@ Wolfenschiessen, Nidwalden
 
 - Bettelrüti Chapel
 
-  - Bl. Conrad Scheuber, hermit, 3/5 (died here; not sure if he\'s buried
-    here; beautiful walk, though)
+  - Bl. Conrad Scheuber, hermit, 3/5 (died here; not sure if he’s buried here; beautiful walk, though)
 
 Ziteil (between Piz Curvér and Piz Toissa), Canton of Graubünden
 
 - Marian Shrine Ziteil (highest pilgrimage site in Europe)
 
-Our Lady of Ziteil, 7/16
+  - Our Lady of Ziteil, 7/16
 
 Zurich
 
@@ -390,10 +395,9 @@ Zurich
 
   - Servant of God Toni (Antonio) Zweifel, engineer, d. 11/24/1989
 
-Grossmünster
+- Grossmünster
 
-  - Ss. Felix, Regula, and Exsuperantius, martyrs/patron saints of Zurich,
-    9/11 (may be lost because this is now a Protestant church, although
+  - Ss. Felix, Regula, and Exuperantius, martyrs/patron saints of Zurich, 9/11 (may be lost because this is now a Protestant church, although
     Wikipedia says they're still here)
 
 Grossmünster treasury

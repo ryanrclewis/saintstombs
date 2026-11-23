@@ -1,4 +1,4 @@
-import type { SaintEntry, RegionDocument } from './regionsModel'
+import type { SaintEntry, RegionDocument } from './regionsModel.ts'
 
 function serializeSaint(saint: SaintEntry): string {
   if (saint.rawLine) {
@@ -16,7 +16,7 @@ export function serializeRegionsDocument(doc: RegionDocument): string {
   let firstContent = true
 
   for (const country of doc.countries) {
-    if (doc.hasExplicitCountryHeadings) {
+    if (doc.hasExplicitCountryHeadings && country.name.trim()) {
       if (!firstContent) parts.push('')
       parts.push(`# ${country.name}`)
       firstContent = false

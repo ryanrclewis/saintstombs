@@ -1,7 +1,6 @@
 # Germany
 
-Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia
-state
+Aachen, Aachen district, Köln admin. region, North Rhine-Westphalia state
 
 - Cathedral
 
@@ -1130,18 +1129,15 @@ Saxony/Niedersachsen
 
 - Friedhof neben der St. Peterskirche/Cemetery next to St. Peter\'s Church
 
-Apparitions of Our Lady of Heede, Queen of the Poor Souls in Purgatory,
-11/1 (not officially recognized)
+  - Apparitions of Our Lady of Heede, Queen of the Poor Souls in Purgatory, 11/1 (not officially recognized)
 
-Hegne
+Hegne, Allensbach municipality, Konstanz district, Freiburg administrative region, Baden-Württemberg
 
-Die Barmherzigen Schwestern vom Heiligen Kreuz von Ingenbohl/The Sisters
-of Mercy of the Holy Cross of Ingenbohl
+- Die Barmherzigen Schwestern vom Heiligen Kreuz von Ingenbohl/The Sisters of Mercy of the Holy Cross of Ingenbohl
 
-- Bl. Ulrika Nisch, visionary/religious, 5/8 (church crypt)
+  - Bl. Ulrika (née Franziska) Nisch, visionary/religious, 5/8 (church crypt)
 
-Heidenfeld, Röthlein municipality, Schweinfurt district, Lower Franconia
-administrative district, Bayern/Bavaria state
+Heidenfeld, Röthlein municipality, Schweinfurt district, Lower Franconia administrative district, Bayern/Bavaria state
 
 - Pfarrkirche St. Laurentius/Church of St. Lawrence
 
@@ -1187,21 +1183,19 @@ Hildesheim
 
 - Dom
 
-  - St. Epiphanius the Peacemaker of Pavia, Glory of Italy, Light of
-    Bishops, bishop, 1/21
+  - St. Epiphanius the Peacemaker of Pavia, Glory of Italy, Light of Bishops, bishop, 1/21
 
   - St. Godehard of Hildesheim, bishop, 5/5
 
-  - King St. Oswald of Northumbria, 8/5
+  - King St. Oswald of Northumbria, 8/5 (reliquary bust only)
 
 - Dom museum
 
-- St. Jacob of Nisibis, bishop, 7/15 (head reliquary)
+  - St. Jacob of Nisibis, bishop, 7/15 (head reliquary)
 
-Basilika St. Godehard
+- Basilika St. Godehard
 
-  - Bl. Arnold of Hildesheim, abbot, 7/16 (He died here when it was the
-    abbey church, but is he still buried here?)
+  - Bl. Arnold of Hildesheim, abbot, 7/16 (He died here when it was the abbey church, but is he still buried here?)
 
   - Bl. Bernhard I of Hildesheim, bishop, 7/20
 
@@ -1209,8 +1203,7 @@ Basilika St. Godehard
 
   - St. Bernward of Hildesheim, bishop, 11/20
 
-Hirsau, Calw District, Karlsruhe administrative region,
-Baden-Württemberg state
+Hirsau, Calw District, Karlsruhe administrative region, Baden-Württemberg state
 
 - Pfarrkirche St. Aurelius/Parish church of St. Aurelius
 
@@ -1668,6 +1661,12 @@ Munich (Neuhausen district)
 
   - Bl. Winthir von Neuhausen, itinerant preacher, 8/6
 
+Münnerstadt, Bad Kissingen landkreis/district, Unterfranken regierungsbezirk/administrative region, Bayern/Bavaria state
+
+- Augustinerkloster St. Michael (Klostergasse 10)
+
+  - Ven. Pius (née Johannes) Klasser, OSA, priest, d. 3/15/1904
+
 Münster, Munster administrative region, Nordhein-Westphalen
 
 - St.-Paulus-Dom/Munster Cathedral
@@ -1805,22 +1804,19 @@ Obermarchtal, Alb-Donau-Kreis District, Baden-Württemberg
 Odenthal (Altenberg district), Rheinisch-Bergischer Kreis, Köln/Cologne,
 Nordrhein-Westfalen state
 
-Abtei Altenberg
+- Abtei Altenberg
 
-  - Bl. Daniel von Wichtrich OCarm (also von Wichterich), monk, 3/7 (he died
-    here; not certain if he is buried here)
+  - Bl. Daniel von Wichtrich OCarm (also von Wichterich), monk, 3/7 (he died here; it’s not certain he is buried here)
 
-Olpe, Arnsberg administrative region, Nordrhein-Westfalen/North
-Rhine-Westphalia
+Olpe, Arnsberg administrative region, Nordrhein-Westfalen/North Rhine-Westphalia
 
-- St.-Martinus-Pfarrkirche
+- St. Martinus-Pfarrkirche (Kirchgasse 2)
 
-  - Bl. Maria Theresia (nee Regina Christine Wilhelmine) Bonzel, TOSF, OSF,
-    foundress, 2/6
+  - Bl. Maria Theresia (née Regina Christine Wilhelmine) Bonzel, TOSF, OSF, foundress, 2/6
 
 Oranienburg, Oberhavel district, Brandenburg state
 
-Sachsenhausen concentration camp
+- Sachsenhausen concentration camp
 
   - Bl. Michał Piaszczyński, priest, 12/20 & 6/12
 
@@ -1844,11 +1840,9 @@ Osnabrück, Urban district, Lower Saxony
 
   - St. Gosbert of Osnabrück, bishop, 2/13
 
-Ottobeuren, Unterallgäu district, Swabia administrative region,
-Bayern/Bavaria state
+Ottobeuren, Unterallgäu district, Swabia administrative region, Bayern/Bavaria state
 
-- Kloster Ottobeuren/Ottobeuren Abbey/Basilika St. Alexander und St.
-  Theodor
+- Kloster Ottobeuren/Ottobeuren Abbey/Basilika St. Alexander und St. Theodor
 
   - St. Bernold of Ottobeuren, OSB, monk/priest, 11/25
 
@@ -1880,14 +1874,11 @@ Passau, Niederbayern/Lower Bavaria, Bayern/Bavaria state
 
   - St. Maximilian of Celje, bishop, 10/12 (empty sarcophagus)
 
-Petersberg, Fulda district, Hesse state (almost in the center of the
-country)
+Petersberg, Fulda district, Hesse state (almost in the center of the country)
 
-- Pfarrei St. Lioba- Kirche St. Peter/Liobakirche/Church of St. Lioba
-  (formerly St. Peter) (located on Petersberg, the mountain)
+- Pfarrei St. Lioba- Kirche St. Peter/Liobakirche/Church of St. Lioba (formerly St. Peter) (located on Petersberg, the mountain)
 
-  - St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is
-  here, too)
+  - St. Lioba of Bischofsheim, OSB, abbess, 9/28 (her skull reliquary is here, too)
 
 Petershausen, Dachau District, Upper Bavaria Region, State of Bavaria
 
@@ -2517,7 +2508,7 @@ Waldbreitbach, Neuwied, Rheinland-Palatinate state
 
 - Kirche des Mutterhauses der Franziskanerinnen der Seligen Jungfrau Maria vom Engel/Church of the Motherhouse of the Franciscan Sisters of the Blessed Virgin Mary of the Angels
 
-  - Bl. Margaretha Flesche, foundress, 3/25
+  - Bl. Maria Rosa (née Margaretha) Flesch, FBMVA, foundress, 3/25
 
 Walldürn, Neckar-Odenwald-Kreis district, Karlsruhe region, Baden-Württemberg state
 

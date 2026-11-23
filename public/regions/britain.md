@@ -1,3 +1,5 @@
+# United Kingdom
+
 Aberdeen, Scotland
 
 - ???
@@ -14,8 +16,7 @@ Aberdour, Scotland
 
 - ???
 
-  - St. Drostan (aka, Drostán mac Coscreig of Deer, Drust, Drustan, Dustan,
-    Throstan, Trust), OSB, abbot, 7/11
+  - St. Drostan (aka, Drostán mac Coscreig of Deer, Drust, Drustan, Dustan, Throstan, Trust), OSB, abbot, 7/11
 
 Abingdon, Berkshire, England
 
@@ -73,8 +74,7 @@ region
 
   - St. Beornwald/Berenwald/Byrnwald/Bernwald of Bampton, priest, 12/21
 
-- Bardney Abbey, Lincolnshire County, East Midlands and Yorkshire and
-  Humber regions
+Bardney Abbey, Lincolnshire County, East Midlands and Yorkshire and   Humber regions
 
 - Abbey church (most likely, but it is almost all but gone)
 
@@ -82,7 +82,7 @@ region
 
   - St. Osthryth
 
-  - St. Oswald of Northumbria
+  - King St. Oswald of Northumbria, 8/5
 
 Bardsey, Gwynedd, Wales
 
@@ -92,9 +92,9 @@ Bardsey, Gwynedd, Wales
 
 Bardsey Island, Wales
 
-- ???
+- ??? Individual graves here are hard to pinpoint, but it is said that over 20,000 saints and martyrs are buried here.
 
-  - St. Deiniol of Bangor, evangelist, 9/11
+  - St. Deiniol of Bangor, evangelist and first bishop of Bangor, 9/11
 
 Barking, London Borough of Barking and Dagenham
 
@@ -144,6 +144,12 @@ Beverley, East Riding of Yorkshire
 
   - St. John of Beverly, bishop, 5/7 & 10/12
 
+Binsey, Oxfordshire
+
+- Church of St. Margaret of Antioch (Binsey Lane)
+
+  - St. Frideswide’s Well
+
 Birmingham
 
 - Cathedral of St. Chad
@@ -156,11 +162,17 @@ Bodfari, Denighshire, Wales
 
   - St. Deifer of Bodfari, hermit, 3/7 or 3/8
 
+Bodmin/Bosvena, Cornwall, England
+
+- St. Petroc Church (Church Square, Priory Road)(50.4714°N 4.7168°W)
+
+  - St. Petroc, prince/monastery founder, 6/4 (his reliquary casket; Protestants threw out his relics; his remains were reputed to have ended up in the bay of Hailemouth near Padstow)
+
 Braunton, Devonshire
 
-- Monastery
+- Monastery Church of St. Brannock (Church Street)(6MJ2+CC for the monastery; 9C3Q4R7R+53 for the church)(51.1111° N, -4.1622° W for the monastery; 51.11299° N,-4.15978° W for the church)
 
-  - St. Brannock/Barnoc/Brannoc, abbot, 1/7
+  - St. Brannock/Barnoc/Brannoc, abbot, 1/7 (the pastor said in October 2016 that the saint’s remains are traditionally believed to still rest beneath the high altar)
 
 Brecon, Brecknockshire (aka, County of Brecon), Wales
 
@@ -186,6 +198,12 @@ Bridlington, East Yorkshire, Yorkshire (north of Hull)
 
   - St. John Twenge of Bridlington, CRSA, prior, 10/9, 10/21 (magnificent
     shrine destroyed by order of Henry VIII)
+
+Brookwood, Woking District, Surrey County, South East region 
+
+- St. Edward the Martyr Orthodox Church
+
+  - King St. Edward, martyr, 3/18
 
 Buckingham, Buckinghamshire, South East region
 
@@ -289,10 +307,9 @@ Canterbury
 
   - St. Wilfrid of York, bishop, 10/12 & 4/24
 
-- Abbey of St. Augustine (formerly the Abbey of Ss. Peter and Paul and now
-  an utter ruin)
+- Abbey of St. Augustine (formerly the Abbey of Ss. Peter and Paul and now an utter ruin)
 
-- St. Adrian of Canterbury, Canterbury Cathedral, 1/9
+  - St. Adrian of Canterbury, Canterbury Cathedral, 1/9
 
   - St. Augustine of Canterbury, 5/27
 
@@ -317,14 +334,17 @@ Canterbury
 
   - St. Theodore of Canterbury, bishop, 3/19 (buried on the lawn?)
 
-  - St. Gregory Hospital
+- St. Gregory Priory (built over but formerly located at roughly 90–91 Northgate Street)
+
+  - Queen St. Ethelburga/Æthelburh, queen/abbess, 9/8 (shrine destroyed and relics dispersed)
+
+- St. Gregory Hospital
 
   - St. Edburga, abbess, 12/12
 
   - St. Mildred, 2/20
 
-- Church of St. John the Baptist (it was located on the cathedral's west
-  side)
+- Church of St. John the Baptist (it was located on the cathedral's west side)
 
   - St. Cuthbert of Canterbury, archbishop, 10/26
 
@@ -545,8 +565,7 @@ Dryburne, near Durham
 
   - Bl. Richard Holiday, priest/martyr, 5/27
 
-Four common criminals professed that they died Catholic with the other
-four martyrs of that day, 5/27
+  - Four common criminals professed that they died Catholic with the other four martyrs of that day, 5/27
 
 Dufftown, County Banff(shire), Scotland
 
@@ -558,7 +577,7 @@ Dunblane, Stirling Council area, Stirling and Falkirk lieutenancy area
 
 - Dunblane Cathedral
 
-- Bl. Clement of Dunblane, OP, bishop, 3/19 (in the choir)
+  - Bl. Clement of Dunblane, OP, bishop, 3/19 (in the choir)
 
 Dunfermline, Fife, Scotland
 
@@ -566,15 +585,13 @@ Dunfermline, Fife, Scotland
 
   - King St. David, 1/11 and 5/24
 
-  - Queen St. Margaret of Scotland, 11/16 (most relics destroyed by the
-    Protestants)
+  - Queen St. Margaret of Scotland, 11/16 (most relics destroyed by the Protestants)
 
 Dunstable, Bedfordshire
 
 - Dunstable Priory
 
-- St. Fremund of Dunstable, hermit/martyr, 5/11 (shrine destroyed by the
-  Protestants)
+  - St. Fremund of Dunstable, hermit/martyr, 5/11 (shrine destroyed by the Protestants)
 
 Durham
 
@@ -582,10 +599,9 @@ Durham
 
   - St. Baldred the Hermit of Tyninghame, 3/6
 
-  - St. Balther of Lindisfarne, OSB, hermit, 3/6 (grave likely lost; was in
-    the shrine of St. Cuthbert)
+  - St. Balther of Lindisfarne, OSB, hermit, 3/6 (grave likely lost; was in the shrine of St. Cuthbert)
 
-- St. Bede the Venerable (Galilee Chapel)
+  - St. Bede the Venerable (Galilee Chapel)
 
   - St. Boisil, 2/24
 
@@ -595,18 +611,19 @@ Durham
 
   - St. Ethelwald of Lindisfarne, monk/bishop, 2/12 (relics likely lost)
 
-  - St. Oswald (skull only)
-
   - St. Nicholas
 
-  - Bl. Thomas Plumtree, priest/martyr, 1/4
+  - King St. Oswald of Northumbria, 8/5 (skull only)
+
+  - King St. Oswin, martyr, 8/20 (only a small relic is all that's left of him)
+
+ - Bl. Thomas Plumtree, priest/martyr, 1/4
 
 - ???
 
   - St. Edbert (aka, Eadbert; Eadbeorht) of Lindisfarne, bishop, 5/6
 
-  - St. Ethelwald (Aethelweald; Aedilauld; Ethilwald; Ethelwold) of
-    Lindisfarne, bishop, 2/12
+  - St. Ethelwald (Æthelwold, Aethelweald; Aedilauld; Ethilwald; Ethelwold) of Lindisfarne, bishop, 2/12
 
   - St. Gobert of Apremont, O.Cist., 8/20
 
@@ -632,15 +649,15 @@ Ely, Cambridgeshire
 
 - Cathedral
 
+  - St. Etheldreda, princess/abbess, 6/23 (Her shrine was destroyed during the Reformation, but its former location is marked so that pilgrims can pray there.)
+
   - St. Wendreda, nun, 1/22
 
-- St. Wihtburh/Withburga/Withburge, princess/abbess, 3/17 (tomb destroyed
-  by the Protestants)
+  - St. Wihtburh/Withburga/Withburge, princess/abbess, 3/17 (tomb destroyed by the Protestants)
 
 - Church of St. Etheldreda (on Egremont St.)
 
-- St. Etheldreda (left hand only) (she was at the cathedral, but her
-  shrine was destroyed during the dissolution of the monasteries)
+  - St. Etheldreda (left hand only) (she was at the cathedral, but her shrine was destroyed during the dissolution of the monasteries)
 
 Erdington, Birmingham
 
@@ -756,6 +773,10 @@ Glastonbury
 
 Gloucester, Gloucestershire
 
+- St. Oswald’s Prior (Archdeacon Street)(in ruins)
+
+  - King St. Oswald of Northumbria, 8/5 (main body; likely buried under what was once the priory church)
+
 - ???
 
   - Bl. John Sandys, priest/martyr, 8/11
@@ -784,6 +805,12 @@ Hayle, Cornwall
 - St. Gwinear/Guigner, martyr, 3/23 (a now lost basilica was built over
   his grave)
 
+Heavenfield, Northumberland
+
+- Cross of St. Oswald
+
+  - Marks the site where King St. Oswald of Northumbria raised a wooden battle standard before his victory in the Battle of Heavenfield.
+
 Hereford, Herefordshire, West Midlands
 
 - Hereford Cathedral
@@ -800,7 +827,7 @@ Hexham, Northumberland, North East
 
 - Cathedral
 
-- St. Alcmund, shrine destroyed by the Scots, 9/7
+  - St. Alcmund, shrine destroyed by the Scots, 9/7
 
 - Abbey of St. Andrew (Hexham Abbey)
 
@@ -808,10 +835,15 @@ Hexham, Northumberland, North East
 
 Hibaldstow, Lincolnshire
 
-St Hybald
+- St Hybald (Church Street)
 
-  - St. Hybald, abbot, 9/18 (body rediscovered in 1864; what happened to it
-    after that is anyone's guess; call the parish at (01652) 600 860)
+  - St. Hybald, abbot, 9/18 (body rediscovered in 1864; what happened to it after that is anyone's guess; call the parish at (01652) 600 860)
+
+Hinderwell, Saltburn-by-the-Sea, North Yorkshire, England
+
+- St. Hilda Church (Rosedale Lane [just off the main A174 village road])
+
+  - St. Hilda’s Well
 
 Holborn, London Borough of Camden, Greater London
 
@@ -875,15 +907,19 @@ Inchinnan, Renfrewshire, Scotland
 
   - St. Conval (destroyed to make way for the Glasgow Airport)
 
-  - St. Conval, evangelist, 4/1
+    - St. Conval, evangelist, 4/1
 
-Ingleby, South Derbyshire district, Derbyshire County, East Midlands
-region
+Ingleby, South Derbyshire district, Derbyshire County, East Midlands region
 
 - Anchor Church/Anchorite caves
 
-  - St. Eardwulf/Hardulph, deposed king/hermit, 8/21 (reputed to be where he
-    died and was laid to rest)
+  - St. Eardwulf/Hardulph, deposed king/hermit, 8/21 (reputed to be where he died and was laid to rest)
+
+Inner Farne Island, the Farne Islands, North Sunderland, Northumbria
+
+- Chapel of St. Cuthbert built on the site of his former cell and where he died (reachable by boat)(55° 37’ 01.2” N, 1° 39’ 18.9”/55.616990, -1.655256)
+
+  - St. Bartholomew of Farne, hermit, 6/24 (buried under the chapel)
 
 Iona
 
@@ -935,7 +971,15 @@ Isle of Lismore
 
 - Cathedral of St. Moluag
 
-- Shrine of St. Moluag, abbot, 6/25
+  - Shrine of St. Moluag, abbot, 6/25
+
+Jarrow, South Tyneside, Tyne and Wear County, North East Region
+
+- Abbey of Sts. Peter and Paul
+
+  - Museum dedicated to St. Bede the Venerable (he was originally buried here) 
+
+  - St. Esterwine of Wearmouth, abbot, 3/7 (grave was near the high altar; likely lost)
 
 Kew, Cornwall, England
 
@@ -943,12 +987,11 @@ Kew, Cornwall, England
 
   - St. Kigwe (aka, Ciwa; Ciwg; Cwick; Kewe; Kigwoe; Kuet; Kywere), 2/8
 
-  - Kingarth, Isle of Bute, Scotland
+Kingarth, Isle of Bute, Scotland
 
 - ???
 
-- St. Blane, 8/10 (either St. Blane's chapel of Kingarth abbey, both
-  probably ruined, or maybe even Dunblane Cathedral)
+  - St. Blane, 8/10 (either St. Blane's chapel of Kingarth abbey, both probably ruined, or maybe even Dunblane Cathedral)
 
 Kirkwall, Orkney Islands
 
@@ -966,8 +1009,7 @@ Lacock, County of Wiltshire, South West region
 
 - Lacock Abbey
 
-- Bl. Ela of Lacock, peeress/noblewoman/abbess, 2/1 & 8/24 (her tomb still
-  exists)
+  - Bl. Ela of Lacock, peeress/noblewoman/abbess, 2/1 & 8/24 (her tomb still exists)
 
 Lancaster
 
@@ -1007,7 +1049,7 @@ Lastingham, Ryedale district, North Yorkshire
 
 - Parish Church of St. Mary
 
-- St. Cedd/Cedda, OSB, abbot/bishop/monk, 1/7 or 10/26 (crypt)
+  - St. Cedd/Cedda, OSB, abbot/bishop/monk, 1/7 or 10/26 (crypt)
 
 Leeds
 
@@ -1033,7 +1075,7 @@ Lincoln
 
 - Cathedral
 
-- St. Hugh of Lincoln, 11/17 (south choir road)
+  - St. Hugh of Lincoln, 11/17 (south choir road)
 
 - ???
 
@@ -1055,11 +1097,19 @@ Llanbadarn
 
 Llanbabo, Gwynedd, Anglesey, Tref Alaw
 
+- St. Pabo Church (One 2017 visitor found it locked, so check access before travelling.)
+
+  - Tombstone of St. Pabo, prince, 11/9 (he is supposedly buried in the churchyard) 
+
 Llandaff, South Glamorgan County, Cardiff, Wales
 
 - Llandaff Cathedral
 
+  - St. Dyfrig/Dubricius, abbot, 11/14
+
   - St. Oudoceus, bishop, 7/2
+
+  - St. Teilo, bishop/abbot, 2/9
 
 Llanddwyn Island, Anglesey
 
@@ -1122,6 +1172,100 @@ Llanilltud Fawr, aka, Llan-Illtut (Llantwit Major), Glamorgan County
 
 London
 
+- St. Dominic’s Priory Church/Our Lady of the Rosary and St. Dominic (Southampton Road)
+
+  - The Rosary Shrine
+
+- Church of St. Etheldreda (14 Ely Place, Holborn, London– oldest continually active Catholic church in England)
+
+  - St. Etheldreda’s relics are reputedly here.
+
+- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation chapel
+
+- St. Patrick Church, London (21A Soho Square)
+
+  - St. Cuthbert Mayne, priest/martyr, 11/25 (relics only)
+
+  - St. Oliver Plunkett, archbishop/martyr, 7/1
+
+- Brompton Oratory/Church of the Immaculate Heart of Mary,
+
+  - St. Eutropius of Orange, bishop, 5/27
+
+- Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
+
+  - Bl. Anthony Turner, SJ, priest/martyr, 6/20
+
+  - Bl. John Fenwick, SJ, priest/martyr, 6/20
+
+  - Bl. John Gavan, priest/martyr
+
+  - Bl. Thomas Whitbread, priest/martyr, 6/20
+
+  - Bl. William Barrow, priest/martyr, 6/20
+
+- Cathedral of St. Paul
+
+  - St. Alphege of Winchester, bishop, 4/19
+
+  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics lost to Protestant destruction and the Great Fire of London)
+
+- St. Paul Cathedral churchyard
+
+  - Bl. John Felton, martyr, 8/8
+
+- Tower of London, Chapel of St. Peter ad Vincula
+
+  - Bl. Margaret Pole, lay martyr, 5/28
+
+  - Ss. Thomas More and John Fisher, martyrs (relics only)
+
+- Tyburn Convent
+
+  - Linen and straw stained with the blood of five Jesuit martyrs:
+
+  - Thomas Whitbread
+    
+  - William Harcourt
+    
+  - John Fenwick
+    
+  - Antony Turner
+    
+  - John Gavan
+
+  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
+
+  - Vertebra and precordia of John Lockwood
+
+  - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
+
+  - Bone of St. Oliver Plunkett, martyr, 7/1
+
+  - Fingernail of Bl. Thomas Holland, SJ, priest/martyr, 12/22
+
+- Westminster Abbey
+
+  - King St. Edward the Confessor, 10/13 (behind the high altar)
+
+  - King St. Ethelbert, martyr, 5/20 (head only)
+
+  - Bl. Queen Matilda Canmore of Scotland, 4/30
+
+  - Mary Queen of Scots, d. Feb. 8, 1587 (non-causa but ended how she did because she was a Catholic)
+
+- Westminster Cathedral, Chapel of the Martyrs
+
+  - Bl. John Lockwood, priest/martyr, 4/13
+
+  - St. John Southworth, priest/martyr, 6/28
+
+- British Museum
+
+  - St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
+
+  - St. Valerie of Limoges, martyr, 12/9
+
 - ???
 
   - St. Alban Bartholomew Roe, OSB, priest/martyr, 1/21, 10/25, & 10/29
@@ -1157,8 +1301,7 @@ London
 
   - Bl. George Haydock, priest/martyr, 2/12 at Tyburn
 
-  - Bl. Henry Morse, SJ, convert/priest/martyr, 2/1, 10/25, & 10/29 at
-    Tyburn
+  - Bl. Henry Morse, SJ, convert/priest/martyr, 2/1, 10/25, & 10/29 at Tyburn
 
   - Bl. Henry Webley, layman/martyr, 8/28
 
@@ -1189,11 +1332,9 @@ London
 
   - Bl. John Hewett, priest/martyr, 10/5
 
-  - St. John Houghton, priest/martyr, 5/3 (remains scattered throughout
-    London as a warning to others)
+  - St. John Houghton, priest/martyr, 5/3 (remains scattered throughout London as a warning to others)
 
-Bls. John Larke, John Ireland, vicar of Eltham, and German Gardiner,
-priest martyrs, 3/7
+  - Bls. John Larke, John Ireland, vicar of Eltham, and German Gardiner, priest martyrs, 3/7
 
   - Bl. John Lowe, priest/martyr, 10/8, 10/29, & 11/22
 
@@ -1237,8 +1378,7 @@ priest martyrs, 3/7
 
   - Bl. Richard Bere, O.Cart., monk, 8/9
 
-- Bl. Richard Creagh of Armagh, bishop/martyr (died at the Tower of
-  London), 10/14
+  - Bl. Richard Creagh of Armagh, bishop/martyr (died at the Tower of London), 10/14
 
   - Bl. Richard Langhorne, lay martyr, 7/14
 
@@ -1304,8 +1444,7 @@ priest martyrs, 3/7
 
   - Bl. William Carter, martyr, 1/11
 
-  - Bl. William Dean, priest-martyr, 8/28 (died at Mile End Green, East
-    London)
+  - Bl. William Dean, priest-martyr, 8/28 (died at Mile End Green, East London)
 
   - Bl. William Exmew, monk, martyr, 6/19 at Tyburn
 
@@ -1331,102 +1470,17 @@ priest martyrs, 3/7
 
   - Bl. William Way, priest/martyr, 9/23
 
-- Church of St. Ethedreda (Ely Place, Holborn, London-- oldest continually
-  active Catholic church in England)
+London, Roehampton district
 
-- Ss. Anselm and Cecilia Chapel, Kingsway, first Catholic post-Reformation
-  chapel
+- Maryfield Convent (Mount Angelus Road)
 
-- St. Patrick Church, London
+  - Ven. Mary Magdalen of the Sacred Heart (née Frances Margaret) Taylor, SMG, foundress/convert, d. 6/9/1900
 
-  - St. Cuthbert Mayne, priest/martyr, 11/25 (relics only)
+Lyminge, Kent
 
-  - St. Oliver Plunkett, archbishop/martyr, 7/1
+- St. Mary and St Ethelburga’s Church
 
-- Brompton Oratory/Church of the Immaculate Heart of Mary,
-
-  - St. Eutropius of Orange, bishop, 5/27
-
-Saint Giles-in-the-Fields Churchyard (60 St Giles High Street, London)
-
-  - Bl. Anthony Turner, SJ, priest/martyr, 6/20
-
-  - B. John Fenwick, SJ, priest/martyr, 6/20
-
-  - Bl. John Gavan, priest/martyr
-
-  - Bl. Thomas Whitbread, priest/martyr, 6/20
-
-  - Bl. William Barrow, priest/martyr, 6/20
-
-- Cathedral of St. Paul
-
-  - St. Alphege of Winchester, bishop, 4/19
-
-  - St. Erconwald (aka, Erkenwald) of London, bishop, 4/30 & 5/13 (relics
-    lost to Protestant destruction and the Great Fire of London)
-
-- St. Paul Cathedral churchyard
-
-  - Bl. John Felton, martyr, 8/8
-
-- Tower of London, Chapel of St. Peter ad Vincula
-
-  - Bl. Margaret Pole, lay martyr, 5/28
-
-  - Ss. Thomas More and John Fisher, martyrs (relics only)
-
-- Tyburn Convent
-
-  - Linen and straw stained with the blood of five Jesuit martyrs:
-
-    - Thomas Whitbread
-    
-    - William Harcourt
-    
-    - John Fenwick
-    
-    - Antony Turner
-    
-    - John Gavan
-
-  - Servant of God Mother Marie Adèle Garnier of St. Peter, foundress, d. 6/17/1924
-
-  - Vertebra and precordia of John Lockwood
-
-  - St. John Roberts, OSB, martyr, 10/25, 12/9, 12/1 (finger only)
-
-  - Bone of St. Oliver Plunkett, martyr, 7/1
-
-  - Fingernail of Bl. Thomas Holland, SJ, priest/martyr, 12/22
-
-- Westminster Abbey
-
-  - King St. Edward the Confessor, 10/13 (behind the high altar)
-
-  - King St. Ethelbert, martyr, 5/20 (head only)
-
-  - Bl. Queen Matilda Canmore of Scotland, 4/30
-
-  - Mary Queen of Scots, d. Feb. 8, 1587 (non-causa but ended how she did because she was a Catholic)
-
-- Westminster Cathedral, Chapel of the Martyrs
-
-  - Bl. John Lockwood, priest/martyr, 4/13
-
-  - St. John Southworth, priest/martyr, 6/28
-
-British Museum
-
-- St. Eustace/Eustachius, general/martyr, 9/19 (reliquary bust only)
-
-  - St. Valerie of Limoges, martyr, 12/9
-
-Lyming
-
-- Abbey
-
-  - Queen St. Ethelburga, abbess, 9/8
+  - Queen St. Ethelburga/Æthelburh, queen/abbess, 9/8 (this was her tomb for 400 years)
 
 Manchester
 
@@ -1519,13 +1573,14 @@ Much Wenlock (aka, Wenlock), Shropshire
 
 - Ruined Abbey
 
-  - St. Milburge, abbess, 2/23
+  - St. Milburga, abbess, 2/23 (The relics of St. Milburga were publicly burned and destroyed in the marketplace during the Dissolution of the Monasteries in 1540 under Edward VI.)
 
 Neston, Cheshire West and Chester, Chesire County, North West region
 
-  - St. Winefride
+  - St. Winefride Church (5 Burton Road, Little Neston)
 
-  - St. John Plessington, priest/martyr, 7/19 (his vestments)
+    - St. John Plessington, priest/martyr, 7/19 (his vestments)
+    - Servant of God Teresa Helena Higginson, laywoman, d. 2/15/1905
 
 Newcastle-on-Tyne
 
@@ -1555,9 +1610,14 @@ Norham, Northumberland, North East region
 
 - ???
 
-  - King St. Ceowulf/Ceowullf, 1/15 (He "was buried at the door of the
-    church in Norham, but the location of his resting place is unknown,
-    because today's church is in a different place."
+  - King St. Ceowulf/Ceowullf, 1/15 (He "was buried at the door of the church in Norham, but the location of his resting place is unknown,
+    because today's church is in a different place.")
+
+Nottingham, Nottinghamshire, England
+
+- Cathedral Church of St. Barnabas/Nottingham Catholic Cathedral
+
+  - Ven. Mary Potter, LCM, foundress, foundress, d. 4/9/1913
 
 Oxford, England
 
@@ -1606,19 +1666,17 @@ Pershore, Worcestershire, England
 
 Peterborough, shire county/district of Cambridgeshire
 
-- Peterborough Cathedral (the Cathedral Church of St Peter, St Paul and St
-  Andrew)[^2]
+- Peterborough Cathedral (the Cathedral Church of St. Peter, St. Paul and St. Andrew)[^2]
 
   - Queen Catherine of Aragon
 
   - St. Cyneswith
 
-- St. Hedda of Peterborough, under the Hedda Stone in the Lady Chapel
-  behind the High Altar, martyr, 4/9
+  - St. Hedda of Peterborough, under the Hedda Stone in the Lady Chapel behind the High Altar, martyr, 4/9
 
   - St. Kyneburga/Cyneburgh/Cyneburga of Castor, OSB, abbess, 3/6
 
-  - St. Oswald of Northumbria (one of his arms)
+  - King St. Oswald of Northumbria (one of his arms), 8/5
 
   - St. Swithun (arm)
 
@@ -1665,18 +1723,19 @@ Rednal, Metropolitan Borough of Birmingham, West Midlands
 
   - St. John Henry Newman, cardinal, 8/11 & 10/9
 
-Redruth, Cornwall
+Rhoscrowther, Angle community, Pembrokeshire, Wales
 
-- ???
+- St. Decuman Church
 
-  - St. Day, 1/18
+  - Shrine of St. Decuman (only the base of it is left)
+
+  - St. Decuman, nobleman/martyr, 2/27 & 8/27 (likely his remains were scattered)
 
 Rievaulx, North Yorkshire, Yorkshire and the Humber region
 
 - Rievaulx Abbey (in ruins)
 
-  - St. Aelred of Rievaulx, O.Cist., abbot, 1/12 (he was buried behind the
-    high altar)
+  - St. Aelred of Rievaulx, O.Cist., abbot, 1/12 (he was buried behind the high altar)
 
 Ripon, North Yorkshire
 
@@ -1700,11 +1759,15 @@ Rochester, Kent
 
   - Bl. Miles Gerard, priest/martyr, 4/13 or 4/20
 
-Roehampton
+Roehampton, London Borough of Wandsworth, Greater London, England
+
+- Sacred Heart Chapel/Old Lodge and Chapel of the Sacred Heart, Digby Stuart College (Roehampton Lane)
+
+  -Servant of God Janet Erskine Stuart, RSCJ, religious, d. 10/21/1914
 
 - ???
 
-  - St. Edmund Campion, martyr, 12/1
+  - St. Edmund Campion, martyr, 12/1 (likely only a relic)
 
 Romsey, Test Valley district, Hampshire
 
@@ -1791,8 +1854,7 @@ Salisbury, Wiltshire
 
 - Salisbury Cathedral
 
-- St. Osmund (aka, Edimund; Edmund; Osimund), bishop, 12/4 (in the Chapel
-  of Our Lady, look for the marble slab that reads "MXCIX")
+- St. Osmund (aka, Edimund; Edmund; Osimund), bishop, 12/4 (in the Chapel of Our Lady, look for the marble slab that reads "MXCIX")
 
 - ???
 
@@ -1813,7 +1875,7 @@ Shrewsbury, Shropshire
   - St. Winifred of Wales, abbess/martyr, 11/2 (relics returned here from
     Rome in 1852)
 
-Smithfield
+Smithfield/West Smithfield, City of London, Greater London (51.519°N 0.102°W)
 
 - ???
 
@@ -1821,27 +1883,31 @@ Smithfield
 
   - Bl. John Forest, martyr, 5/22 (relics may still be hidden here)
 
-  - Bl. Richard Featherstone, chaplain to Queen Catherine of Aragon, martyr,
-    7/30
+  - Bl. Richard Featherstone, chaplain to Queen Catherine of Aragon, martyr, 7/30
 
   - Bl. Thomas Abel, martyr, 7/30
 
-  - St. Andrews, Fife, Scotland
+St. Andrews, Fife, Scotland
 
 - St. Andrew Cathedral (successor to St. Regulus Church, and now a ruin)
 
-  - Relics of St. Andrew (likely lost after the Protestant rampage of June
-    1559)
+  - Relics of St. Andrew (likely lost after the Protestant rampage of June 1559)
 
   - St. Regulus, bishop, 3/30 (grave lost)
 
-  - St. Ives, Cambridgeshire
+St. Day village, Cornwall
+
+- Shrine/Chapel of St. Day (Demolished. Site is at the end by the parish council’s town trail.)(Not to be confused with the ruined Holy Trinity Chapel/St. Day Church)
+
+  - St. Day, 1/18 (may or may not have been buried here, but this was the pilgrimage site)
+
+St. Ives, Cambridgeshire
 
 - ???
 
   - St. Ivo, bishop, 6/10
 
-  - St. Mawgan, Cornwall, South West region
+St. Mawgan, Cornwall, South West region
 
 - St. Mawgan-in-Pydar Church
 
@@ -1853,13 +1919,11 @@ Saint Thomas' Waterings, Camberwell, (Southwark?,) England
 
   - Bl. John Pibush, priest/martyr, 2/18
 
-Stanbrook, Callow End, near Malvern, Worcestershire, in the Severn
-Valley
+Stanbrook, Callow End, near Malvern, Worcestershire, in the Severn Valley
 
-- Benedictine abbey
+- Benedictine abbey (Stanbrook Abbey, Crieff Farm, Wass)
 
-  - Carmelite martyrs of Compiègne, second class relics only, 7/17
-  - St. Fulgentia
+  - Carmelite martyrs of Compiègne, second class relics only, 7/17   - St. Fulgentia
 
 Stanton Harcourt, Oxfordshire
 
@@ -1950,25 +2014,27 @@ Tynemouth
 
   - St. Henry of Coquet, hermit, 1/16
 
-  - King St. Oswin, martyr
+  - King St. Oswin, martyr, 8/20 (shrine destroyed and almost all relics destroyed)
 
-Tullicht
+Tullich/An Tulach, Aberdeenshire, Scotland
 
-- ???
+- Tullich Kirk (now in ruins)
 
-  - St. Nathalan, bishop, 1/8
+  - St. Nathalan, bishop, 1/8 (relics dispersed in the Protestant Revolt) 
+
+Ushaw Moor, County Durham
+
+- Ushaw Historic House (Woodland Road)
+
+  - 14 chapels
+
+  - Oratory of the Holy Family (many relics up above in a glass case; remains unidentified)
 
 Usk, Monmouthshire (10 miles NE of Newport)
 
 - St. Mary's Priory Anglican church
 
   - St. David Lewis, priest/martyr, 8/27
-
-Wareham
-
-- ???
-
-  - King St. Edward, martyr, 3/18
 
 Warwick, Warwickshire
 
@@ -1988,21 +2054,11 @@ Wass village, Byland civil parish, North Yorkshire
 
   - St. Fulgentia
 
-Wearmouth-Jarrow
-
-- Abbey of Sts. Peter and Paul
-
-  - St. Bede the Venerable, 5/25 (**DBL CHECK**)
-
-  - St. Esterwine of Wearmouth, abbot, 3/7 (grave was near the high altar;
-    likely lost)
-
 Weedon, Northamptonshire
 
 - ???
 
-  - St. Cadoc of Llancarvan (aka, Cadocus, Cadvael, Cathmael, Cartwg Ddoeth,
-    Cattwg the Wise, Docus), martyr, 9/25
+  - St. Cadoc of Llancarvan (aka, Cadocus, Cadvael, Cathmael, Cartwg Ddoeth, Cattwg the Wise, Docus), martyr, 9/25
 
 Welsh Newton, Herefordshire
 
@@ -2012,12 +2068,11 @@ Welsh Newton, Herefordshire
 
 West Grinstead, Catholic Diocese of Arundel and Brighton
 
-- The Shrine of Our Lady of Consolation (oldest continuous shrine in
-  England)
+- The Shrine of Our Lady of Consolation (oldest continuous shrine in England)
 
-  - Blessed Francis Bell, martyr
+  - Blessed Arthur “Francis” Bell, OFM, priest/martyr, 12/11
 
-Renowned author Hilaire Belloc
+  - Renowned author Hilaire Belloc (non-causa)
 
 Whitby, North Yorkshire
 
@@ -2139,9 +2194,15 @@ Wrexham, Wrexham County Borough, Wales
 
   - St. Richard Gwyn, layman/martyr, 10/17 & 10/25 (relics only)
 
+Yeavering, Kirknewton civil parish, Northumberland
+
+- The River Glen Ad Gefrin/St. Paulinus monument 55.567958° N, 2.117205° W/55°34’04.7”N, 2°07’01.9”W)
+
+  - Marking showing where St. Paulinus baptized the local people in 627 after instructing them for 36 days.
+
 York
 
-York Minster (aka, St. Peter's)
+- York Minster (aka, St. Peter's)
 
   - King St. Edwin of Northumbria, 10/12 (head only)
 

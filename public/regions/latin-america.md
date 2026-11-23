@@ -18,11 +18,15 @@ Apóstoles, Province of Misiones
 
   - Servant of God Софронія/Sofronia/ (née Серафіна/Serafina) Ерделі/Erdely, OSBM, religious, d. 10/14/1961
 
-Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal,
+Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal
 
 - El templo de Jesús Sacramentado or Santuario Jesús Sacramentado
 
   - Ven. María Benita Arias, foundress, d. 9/25/1894
+
+- Iglesia de San José del Tala/Santuario Nuestra Señora Desatadora de Nudos/Shrine of Our Lady, Undoers of Knots
+
+  - Nuestra Señora Desatadora de Nudos/Our Lady, Undoer of Knots, 9/28
 
 - Iglesia de Nuestra Señora de la Merced
 
@@ -40,17 +44,21 @@ Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal,
 
   - Servant of God María Bernardita de la Inmaculada (née Adela Sesso), PSSJ, religious, d. 12/12/2001 (in the chapel of the Padres Teatinos)
 
-- Capilla de Sán Hector
+- Capilla de Sán Hector (Rio Bamba 650)
 
   - St. Benito de Jesús, Spanish civil war martyr, 10/9
 
-- Iglesia de San José del Tala/Santuario Nuestra Señora Desatadora de Nudos/Shrine of Our Lady, Undoers of Knots
+- Casa Madre de la Congregación de las Hermanas Terciarias Franciscanas de la Caridad (next to the Parroquia San Ildefonso at Guise 1941 [in the Palermo neighborhood])
 
-  - Nuestra Señora Desatadora de Nudos/Our Lady, Undoer of Knots, 9/28
+  - Servant of God María Mercedes del Niño Jesús (née Maria Mercedes) Guerra, HTFC, foundress, d. 7/31/1901
 
-- Cementerio de Chacarita, Panteón Social de la Federación de Círculos Católicos de Obreros
+- Cementerio de Chacarita, Panteón Social de la Federación de Círculos Católicos de Obreros (Av. Guzmán 680, C1427)
 
   - Servant of God Federico (Friedrich) Grote, C.Ss.R., priest, 4/30/1940
+
+    - Ven. Maria Eufrasia (née Maria Giuseppa Amalia Sofia) Iaconis, FIC, foundress, d. 8/2/1916
+  
+    - Servant of God María de Lujan (née Serapia) Sierra, HNSL, foundress, d. 7/18/1916
 
 - Cementerio de la Recoleta, Recoleta, Comuna 2 (Junín 1760)
 
@@ -120,7 +128,7 @@ Córdoba, Capital department, Province of Córdoba
 
 - Basílica de Santo Domingo
 
-  - Servant of God Reginaldo Toro, OP, bishop, d. 8/21/1904
+  - Servant of God Reginaldo de San Domingo (née Ángel José) Toro, OP, bishop, d. 8/21/1904
 
 - Santa Catalina de Siena Monastery
 
@@ -130,7 +138,7 @@ Córdoba, Capital department, Province of Córdoba
 
   - Servant of God Pura Rosa del Carmen (née Secundina Guadalupe Olmos), religious, d. 7/28/1965 (she died at the motherhouse of Hermanas Carmelitas de Santa Teresa de Jesús)
 
-  - Bl. Saturnina (Madre Catalina de María) Rodríguez de Zavalía, foundress, 4/5
+  - Bl. Madre Catalina de María (née Saturnina) Rodríguez de Zavalía, foundress, 4/5
 
 Curuzú Cuatiá, Curuzú Cuatiá department, Province of Corrientes
 
@@ -200,9 +208,11 @@ Luján, Luján Division, Argentina
 
 - Basílica Menor de Nuestra Señora de Luján
 
-- Our Lady of Luján
+  - Our Lady of Luján
 
   - Bl. Eduardo Francisco Pironio, cardinal, 2/5
+
+  - Servant of God Jorge María (née George) Salvaire, priest, d. 2/4/1899
 
 - Capilla de Pedro de Montalvo/Pedro de Montalvo chapel
 
@@ -218,13 +228,19 @@ Mendoza, Capital department, Province of Mendoza
 
   - Servant of God José Jorge Bunade, TOSF, layman, d. 9/11/1952
 
+Mercedes, Province of Buenos Aires, 
+
+- Hermanas Pobres Bonaerenses de San José (Calle 32 Nº 562)
+
+  - Servant of God Maria Antonia (née Antonia Luisa) Cerini, foundress, d. 11/2/1911
+
 Muñiz, San Miguel Partido of Buenos Aires Province
 
 - Capilla de Casa Madre de Hermanas Pobres Bonaerenses de San José
 
-  - Ven. Camila Rolón, foundress, d. 2/16/1913
+  - Ven. Camila de San José (née Camila) Rolón, HPB, foundress, d. 2/16/1913
 
-O'Higgins, Province of Buenos Aires
+O’Higgins, Province of Buenos Aires
 
 - Cementerio de Mariápolis Lía
 
@@ -291,6 +307,10 @@ Cementario del Colegio Máximo
   - Servant of God Mauricio Jiménez Arteaga, SJ, priest, d. 12/8/1954
 
 San Miguel de Tucumán (aka, Tucumán), Province of Tucumán, Capital department
+
+- Capilla del Dulce Nombre de Jesús/Chapel of the Sweet Name of Jesus (Av. Sarmiento 253–299, at the corner of Avenida Sarmiento and Rivadavia)
+
+  - Servant of God María Dominga del Santísimo Sacramento (née Nicolasa Elmina) Paz de Gallo, widow/foundress, HDSNJ, d. 11/11/1911
 
 - Cementerio Parque San Agustín/St. Augustine Park Cemetery
 
@@ -460,7 +480,7 @@ Barretos, São Paulo state, Southeast region
 
 Baturité, Ceará State, Northeast region
 
-Igreja Matriz de Nossa Senhora da Palma
+- Igreja Matriz de Nossa Senhora da Palma
 
   - Servant of God Clemência (née Francisca Benícia) de Oliveira, DC, religious, d. 7/6/1966
 
@@ -514,7 +534,7 @@ Caetés, Pernambuco state, Northeast region
 
 Caibaté, Rio Grande do Sul state
 
-Santuário do Caaró (site of the martyrdoms of the following)
+- Santuário do Caaró (site of the martyrdoms of the following)
 
   - St. Alonso (Alfonso) Rodriguez, SJ, martyr, 11/15
 
@@ -527,6 +547,12 @@ Campinas, São Paulo state, Southeast region
 - Convento da Congregação das Irmãs Missionárias de Jesus Crucificado/Convent of the Congregation of the Missionary Sisters of Jesus Crucified
 
   - Nossa Senhora das Lágrimas/Our Lady of Tears, 6/2 or 6/13 or 8/29
+
+Campo Grande, Mato Grosso do Sul state, Central-West Region
+
+- Paróquia (Igreja) São José (Rua Pedro Celestino, 1446 - Centro)
+
+  - Servant of God Giovanni/João Crippa, SDB, priest, d. 8/1/1941
 
 Canela, Rio Grande do Sul
 
@@ -592,13 +618,13 @@ Fortaleza, Ceará state, Northeast region
 
   - Ven. Antônio de Almeida Lustosa, SDB, archbishop, d. 8/14/1974
 
-Capela da primeira casa do Instituto Josefino, chamada Casa Mãe/Chapel of the first house of her Institute, Casa Mãe (Rua J. da Penha, 55???; there are several places with the words "Casa Mãe" in them in this large city)
+- Capela da primeira casa do Instituto Josefino, chamada Casa Mãe/Chapel of the first house of her Institute, Casa Mãe (Rua J. da Penha, 55???; there are several places with the words "Casa Mãe" in them in this large city)
 
   - Servant of God Rosita Paiva, religious/cofoundress, d. 8/19/1991
 
 - ???
 
-  - Ven. Giovanni Pietro da Sesto San Giovanni (née Clemente Recalcati), OFM Cap, priest, d. 12/5/1913
+  - Ven. Jôao Pedro/Giampietro da Sesto San Giovanni (née Clemente) Recalcati, OFM Cap., priest/founder, d. 12/5/1913
 
 Frutal, Triângulo Mineiro region, Minas Gerais state, Southeast region
 
@@ -644,7 +670,7 @@ Igreja do Patrocínio
 
 Igreja do Senhor do Horto e São Lázaro (Church of the Lord of the Garden and St. Lazarus)
 
-  - Servant of God Bento Dias Pacheco, priest, d. 3/6/1964
+  - Servant of God Bento Dias Pacheco, priest, d. 3/6/1911
 
 Jacobina, Centro Norte Baiano mesoregion, Bahia state
 
@@ -765,6 +791,10 @@ Montes Claros, Norte de Minas, Minas Gerais state, Southeast
   - Servant of God Maria Beata (née Wilhelmina) Lauwen, religious, d. 8/8/1952 (possibly at Santa Casa de Montes Claros)
 
 Natal, Rio Grande do Norte, Northeast region
+
+- Igreja de Nossa Senhora de Lourdes/Our Lady of Lourdes (Travessa Aprígio Alves, 738, Alto do Jurua neighborhood, border of the Petrópolis/Areia Preta areas)
+
+  - Servant of God João Maria Cavalcanti de Brito, priest, d. 10/16/1905
 
 - ???
 
@@ -892,7 +922,9 @@ Rio de Janeiro, Botafogo neighborhood, Rio de Janeiro state, South Zone
 
 Rio de Janeiro, South Zone, Gávea bairro/neighborhood
 
-- Igreja Nossa Senhora da Conceição
+- Paróquia Igreja Nossa Senhora da Conceição/Church of Our Lady of the Conception (Rua Marquês de São Vicente, 19)
+
+  - Servant of God Jerônimo de Castro Abreu Magalhães, layman/husband, 
 
   - Servant of God Maria do Santíssimo Sacramento (née Elisa “Zélia”) Pedreira Abreu Magalhães, widow/religious, d. 9/8/1919
 
@@ -1040,7 +1072,7 @@ Colégio Santa Luzia (R. Cônego Eugênio Leite, 825 - Pinheiros)
 
 - ???
 
-  - Servant of God Giuseppe Marchetti, MSCS, priest, d. 12/14/1896
+  - Ven. José/Giuseppe Marchetti, MSCS, priest, d. 12/14/1896
 
 São Paulo, Bairro Jardim Aladim, São Paulo state
 
@@ -1250,9 +1282,9 @@ Templo Santo Domingo
 
   - Servant of God María del Carmen Benavides y Mujica (Beatita Benavides), laywoman, d. 6/1/1849
 
-Santiago
+Santiago 
 
-- Basílica del Corazón de María
+- Basílica del Corazón de María (Calle Zenteno 764, at the corner of Zenteno and Copiapó streets)
 
   - Ven. Maríano Avellana Lasierra, CMF, priest/missionary, d. 5/14/1904
 
@@ -1374,7 +1406,7 @@ Cartagena
 
 - ???
 
-  - Servant of God Nicolás Rodríguez Campo (Nicolau Rodrigues), SJ, priest, d. 9/30/1900
+  - Servant of God Nicolau (née Nicolás) Rodríguez Campo, SJ, priest, d. 9/30/1900
 
 El Santuario, Oriente subregion, Antioquia department
 
@@ -1678,7 +1710,7 @@ Quito
 
 Metropolitan Cathedral
 
-  - President Gabriel Garcia Moren, martyr, 8/6/1875 (non-causa, but considered by many to be a martyr; his last words were "God does not die.")
+  - Servant of God Gabriel García Moreno, President/martyr, d. 8/6/1875 (his last words were “God does not die.”)
 
   - Servant of God José Ignacio Checa y Barba, archbishop/martyr, d. 3/30/1877
 
@@ -1704,7 +1736,7 @@ Painting of the Miracle of the Virgin of Sorrows
 
 - Santuario Hermano Miguel
 
-  - St. Miguel Febres Cordero Muñoz, FSC, religious, 2/9
+  - St. Miguel (née Francisco) Febres-Cordero Muñoz, FSC, religious, 2/9
 
 - ???
 
@@ -1716,13 +1748,13 @@ Painting of the Miracle of the Virgin of Sorrows
 
 Riobamba, Chimborazo Province
 
-Casa Madre de las Hermanas de Maríana de Jesús/Congregación de las Maríanitas
+- Casa Madre de las Hermanas de Maríana de Jesús/Congregación de las Maríanitas
 
   - Bl. Mercedes de Jesús Molina Ayala, foundress, 6/12
 
-- ???
+- Colegio San Felipe Neri/Templo Expiatorio de San Felipe (Juan de Velasco 2406)
 
-  - Bl. Victor Emilio Moscoso Cárdenas, SJ, priest/martyr, 5/4 & 11/23 (possibly at the Hospital de las Hermanas de la Caridad)
+  - Bl. Victor Emilio Moscoso Cárdenas, SJ, priest/martyr, 5/4 & 11/23 
 
 San Miguel de Los Bancos (Los Bancos), Pichincha Province
 
@@ -1970,17 +2002,15 @@ Cañada de Caracheo, Cortazar municipality, Guanajato state
 
 Chalchihuites, Zacatecas
 
-- ???
+- Parroquia de San Pedro Apóstol/Church of St. Peter the Apostle (Iturbide 102)
 
-  - St. David Roldán-Lara, layman, 5/25 & 8/15
-
-  - St. Luis Batiz Sainz, martyr, 5/25 & 8/15
-
-  - St. Manuel Miranda, martyr, 5/25
-
-  - St. Manuel Moralez, martyr, 5/25
-
-  - St. Salvador Lara, martyr, 5/25
+  - St. David Roldán-Lara, layman/martyr, 5/25 & 8/15
+  
+  - St. Luis Batis Sáinz, priest/martyr, 5/25 & 8/15
+  
+  - St. Manuel Morales, layman/martyr
+  
+  - St. Salvador Lara Puente, layman/martyr, 5/25
 
 Chihuahua
 
@@ -2064,13 +2094,19 @@ Durango, Durango state
 
 - ???
 
-Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuanes
+  - Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuanes
 
 Ecuandureo, Michoacan
 
-- ???
+- Parroquia del Señor de la Paz/Our Lord of Peace (Calle Leonardo Castellanos #14, Frente a la Plaza Municipal, Colonia Centro)
 
   - Ven. Leonardo Castellanos y Castellanos, bishop, d. 12/21/1912
+
+El Cubilete (La Montana), Silao de la Victoria Municipality, Guanajuato
+
+- Santuario de Cristo Rey (Cerro del Cubilete S/N)
+
+  - Bl. Leonardo Pérez Larios, layman/martyr, 4/27
 
 El Tarengo, La Barca, Jalisco state
 
@@ -2190,13 +2226,17 @@ Jalostotitlán, Jalisco
 
 León, Guanajuato
 
-Sanctuary of Guadalupe
+- Sanctuary of Guadalupe
 
   - Ven. Pablo de Anda Padilla, founder, d. 6/29/1904
 
-Templo del Inmaculado Corazón de María
+- Templo del Inmaculado Corazón de María
 
   - Bl. Andrés Solá Molist, priest/martyr, 4/25
+
+- Templo de las Tres Ave Marías/Iglesia de la Santísima/Templo de la Santísima Trinidad y de las Tres Aves Marías (5 de Mayo 343, Colonia Obregón)
+
+  - Bl. Leonardo Pérez Larios, lay martyr, 4/25
 
 - ???
 
@@ -2356,6 +2396,12 @@ Mexico City/Ciudad de Mexico
 
   - Servant of God Juana Inés de Asbaje y Ramírez de Santillana (Sor Juana Inés de la Cruz), OSH, religious/writer/philosopher, d. 4/17/1695
 
+Mexico City, Cuauhtémoc borough
+
+- Templo de la Sagrada Familia (Santa María la Ribera No. 69)
+
+  - Servant of God Josep Maria Vilaseca i Aguilera/José María Vilaseca Aguilera, MJ, priest/founder, d. 4/3/1910
+
 Mexico City, Villa Guadalupe
 
 - Basílica de Nuestra Señora de Guadalupe (Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero)
@@ -2382,9 +2428,13 @@ Monterrey, Nuevo León
 
 Panteón del Carmen (María Luisa, Centro)
 
-  - Ven. Gloría María of Jesus (née Gloria Esperanza Elizondo García), religious, d. 12/8/1966
+  - Ven. Gloría María of Jesus (née Gloría Esperanza) Elizondo García, religious, d. 12/8/1966
 
 Morelia, Michoacán state
+
+- Catedral de Morelia/Cathedral of the Transfiguration (Av. Francisco I. Madero Poniente S/N)
+
+  - Servant of God Atenógenes Timoteo Silva y Álvarez Tostado, archbishop, d. 2/26/1911
 
 - Cementerio de San Agustín
 
@@ -2424,7 +2474,7 @@ Puebla
 
   - Ven. Ramon Ibarra Gonzalez, archbishop, d. 2/1/1917 (Arzobispado de Puebla, Aptdo. 235. Av. 2 sur N. 305)
 
-San Francisco, Chapel of the Virgin of the Conquest
+- San Francisco, Chapel of the Virgin of the Conquest
 
   - Bl. Sebastian of Aparicio (incorrupt), OFM, widower/monk, 2/25
 
@@ -2432,11 +2482,11 @@ San Francisco, Chapel of the Virgin of the Conquest
 
   - The "China Poblana," Catarina of San Juan (not a saint, but venerated as one)
 
-Monasterio de la Purisima (Calle Diagonal Diaz Ordaz Nte. 4313, Col. San Baltazar Campeche)
+- Monasterio de la Purisima (Calle Diagonal Diaz Ordaz Nte. 4313, Col. San Baltazar Campeche)
 
   - Ven. María Tomelin del Campo (María of Jesus), religious, 6/11/1637
 
-Central House of the Servants of the Sacred Heart of Jesus and the Poor (Avenida 3 Poniente,1512)
+- Casa Central de las Siervas del Sagrado Corazón de Jesús y los Pobres/Central House of the Servants of the Sacred Heart of Jesus and the Poor (Avenida 3 Poniente,1512)
 
   - St. José María de Yermo y Parres, priest, 9/20
 
@@ -2649,9 +2699,11 @@ Zacatecas
 
   - St. Mateo Correa Magallanes, priest/martyr, 2/6 
 
-- ???
+- Santuario de Nuestra Señora de Guadalupe (commonly called “Guadalupito”)(Av Morelos 1218, Sierra de Alica)
 
-  - Servant of God José Anastasio Diaz Lopez, founder, d. 9/6/1905
+  - Servant of God José Anastasio “Padre Tachito” Diaz Lopez, founder, d. 9/6/1905
+
+- ???
 
   - Bl. Sebastián Montanol, OP, missionary priest/martyr, 12/10
 
@@ -2662,6 +2714,14 @@ Zacatecas, Guadalupe suburb
   - Ven. Antonio Margil Ros (Antonio de Jesús), OFM, priest, d. 8/6/1726
 
 Zamora, Michoacán
+
+- La Catedral de la Inmaculada Concepción de Zamora de Hidalgo/Immaculate Conception Cathedral (Vicente Guerrero Oriente 92, Centro)(19°59′1″N 102°17′6″W)
+
+  - Servant of God José María Cázares y Martínez, bishop/founder, d. 3/30/1909 (in the south transept)
+
+- Santuario Guadalupano/Diocesan Sanctuary of Our Lady of Guadalupe (Av. 5 de Mayo s/n, Centro)(19°59′01.13″N 102°16′50.95″W)
+
+  - During the Revolution, soldiers shot many here because of their faith by firing squad.
 
 - ???
 
@@ -2797,13 +2857,19 @@ Caravelí, Province of Caravelí, Arequipa region
 
 - Convento Cenáculo de Caravelí, 6JGP+XQP, Unnamed Road
 
-  - Servant of God Friedrich Kaiser Depel, MSC, bishop/founder, d. 9/26/1993
+  - Ven. Friedrich Kaiser Depel, MSC, bishop/founder, d. 9/26/1993
 
 Chachapoyas, Chachapoyas district, Chachapoyas Province, Amazonas region
 
 - Catedral de San Juan Bautista/Cathedral of St. John the Baptist
 
   - Ven. Octavio Ortiz Arrieta, SDB, bishop, d. 3/1/1958
+
+Chiclayo, Lambayeque region, Chiclayo Province
+
+- Parroquia San Juan María Vianney (64JQ+2RR, Juan Tomis Stack)
+
+  - Servant of God Juan Tomis Stack, missionary priest, d. 6/29/1986
 
 Chincha Alta, Province of Chincha, Ica region
 
@@ -2825,7 +2891,7 @@ Ciudad Obregón, Cajeme municipality, Sonora state
 
 Cusco/Cuzco, Cusco Province, Cusco Region, Peru
 
-Monasterio de las Oblatas de la Orden de San Agustín (in ruins; now a hotel)
+- Monasterio de las Oblatas de la Orden de San Agustín (in ruins; now a hotel)
 
   - Servant of God Francisco Tito Yupanqui, indigenous sculptor/layman, d. 1616 (he died here, but is he buried here?)
 
@@ -2847,15 +2913,17 @@ Grocio Prado District, Province of Chincha
 
 Huánuco, Province of Huánuco, Huánuco department
 
-- Catedral del Señor de Burgos
+- Catedral del Señor de Burgos (Jirón Dámaso Beraún 741)
 
-  - Servant of God Alfonso María De La Cruz Sardinas Zavala, OFM, bishop, d. 1902
+  - Servant of God Alfonso María de la Cruz Sardinas, OFM, bishop/founder, d. 6/26/1902
 
 - ???
 
   - Servant of God Matilde de Jesús (née Nicolasa) Castillo Negron, religious, d. 6/19/1965 (she died here, but where is she buried?)
 
 Humay
+
+- Iglesia/Santuario de San Pedro de Huma (74H7+2F5; Vía Los Libertadores highway [at approximately Kilometer 31])
 
   - Servant of God Luisa De La Torre Rojas, laywoman, d. 11/21/1869
 
@@ -2975,15 +3043,21 @@ San Francisco de la Victoria de Vilcabamba (city overtaken by the forest)
 
   - Servant of God Diego Ruiz Ortiz, OSA, protomartyr of Peru, d. between May and July 1571 (relics lost)
 
-Santa Rosa de Ocopa district, Province of Concepción, Department of Junin
+Santa Rosa, Santa Rosa de Ocopa district, Province of Concepción, Department of Junin
 
-- Convent of Santa Rosa de Ocopa (laicized)
+- Convent of Santa Rosa de Ocopa (laicized)(Avenida Carlos Lafuente S/N)
 
   - Br. Francisco de San José, OFM, founder of the convent
 
   - Servant of God Pío Sarobe Otaño, OFM, priest, d. 3/7/1910
 
   - St. John of Saint Fagondez de Castrillo of Sahagun, preacher, 6/12 (relics here)
+
+Zaña or Saña, Chiclayo Province, Lambayeque
+
+- Santuario de Santo Toribio/Shrine of St. Toribio de Montenegro (Jirón Toribio Rodríguez de Mendoza 126)
+
+  - This is the original burial place of St. Toribio
 
 # Puerto Rico
 
@@ -3037,9 +3111,9 @@ Port of Spain
 
 Maldonado, Maldonado Department
 
-- ???
+- Catedral de San Fernando/Catedral de Maldonado/ Cathedral of Saint Ferdinand of Maldonado (18 de Julio 833)(34.9088°S 54.9589°W)
 
-  - Servant of God Umberto Domingo Orsetti (Domingo from Tacuarembó), OFM Cap, d. 1/8/1994
+  - Servant God Domingo de Tacuarembó (née Umberto Domingo) Orsetti, OFM Cap, d. 1/8/1994
 
 Montevideo
 
@@ -3057,9 +3131,9 @@ Montevideo
 
   - Servant of God Victor Loyódice, CSSR, d. 1/10/1916
 
-- Capilla Santuario de la Beata Francisca Rubatto
+- Capilla Santuario de la Beata Francisca Rubatto (Avenida Carlos María Ramírez 56, Belvedere neighborhood)
 
-  - St. Anna María (María Francesca de Jesus) Rubatto, foundress, 8/6
+  - St. Anna María (née María Francesca de Jesus) Rubatto, foundress, 8/6
 
 - Cementerio del Buceo
 

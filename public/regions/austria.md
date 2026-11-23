@@ -12,8 +12,7 @@ Alkoven, Eferding district, Upper Austria
 
 - Schloss Hartheim
 
-  - Servant of God Euzebiusz Józef Huchracki, OFM, priest/martyr, d.
-    5/6/1942 (grave likely lost)
+  - Servant of God Euzebiusz Józef Huchracki, OFM, priest/martyr, d. 5/6/1942 (grave likely lost)
 
 - NS-Tötungsanstalt Hartheim, Alkoven, Eferding
 
@@ -64,6 +63,12 @@ Eben am Achensee, Tyrol
 
   - St. Notburga, servant girl, miracle worker, 9/14
 
+Feldkirch, Vorarlberg state
+
+- Kirche Mariä Opferung/Church of the Immolation of the Virgin Mary/Kapuzinerkirche/Capuchin church (Bahnhofstraße 4)
+
+  - St. Fidelis of Sigmaringen, OFM Cap, martyr, 4/24
+
 Garsten, Steyr-Land district, Oberösterreich
 
 - Kath. Pfarrkirche Mariä Himmelfahrt/Catholic parish church of St. Mary
@@ -99,16 +104,19 @@ Götzens, Innsbruck Land district, Tyrol state
 
 Graz, Eggenberg Distrikt, Steiermark/Styria state
 
-- Kloster der Franziskanerinnen von der unbefleckten Empfängnis
-(Kaiser-Franz-Josef Kai 16)
+- Kloster der Franziskanerinnen von der unbefleckten Empfängnis (Kaiser-Franz-Josef Kai 16)
 
   - Ven. Maria Klara (nee Rosa Maria) Fietz, religious, d. 6/15/1937
+
+- Vinzentinerinnenkonvent Graz/Kirche zur Unbefleckten Empfängnis/Church of the Immaculate Conception (Mariengasse 12)
+
+  - Servant of God Maria Josefa (born Leopoldine) Brandis, MSWM, foundress, d. 11/11/1900 (You should call ahead before visiting.)
 
 Gurk, Sankt Veit an der Glan district, Kärnten/Carinthia state
 
 - Dom/Cathedral
 
-- St. Hemma of Gurk, laywoman, 6/29 (in the crypt)
+  - St. Hemma of Gurk, laywoman, 6/29 (in the crypt)
 
 Güssing, Burgenland
 
@@ -116,8 +124,7 @@ Güssing, Burgenland
 
   - Bl. László/Lazlo (aka, Ladislaus) Batthyány-Strattmann, doctor, 1/22
 
-  - Servant of God Coreth Mária Terézia/Maria Theresia von Coreth zu Coredo
-    und Starkenberg Batthyány-Strattmann, laywoman, d. 3/14/1951
+  - Servant of God Coreth Mária Terézia/Maria Theresia von Coreth zu Coredo und Starkenberg Batthyány-Strattmann, laywoman, d. 3/14/1951
 
 Heiligenkreuz, Baden District, Lower Austria state
 
@@ -330,7 +337,7 @@ Sankt Florian, Linz-Land district, Oberösterreich
 
   - St. Gerold, Bludenz, Vorarlberg state
 
-Sankt Gerold
+- Sankt Gerold
 
   - St. Gerold von Großwalsertal, hermit, 4/19
 
@@ -346,49 +353,47 @@ Traunkirchen, Gmunden district, Oberösterreich/Upper Austria state
 
   - Bl. Gertrud of Traunkirchen, OSB, abbess, 1/6 (her grave is likely lost)
 
-Vienna
+Vienna/Wien
 
 - Stephansdom/St. Stephen Cathedral (Stephansplatz 3)
 
   - Ss. Felix and Adauctus of Rome, martyrs, 8/30
 
-Emperor Frederick III (not a saint)
+  - Emperor Frederick III (not a saint)
 
-Maria Pötsch icon
+  - Maria Pötsch icon
 
-- Chapel of St. Valentine (hundreds of relics)
+  - Chapel of St. Valentine (hundreds of relics)
 
-- Barmherzigenkirche/Kirche der Barmherzigen Brüder/Church of the Brothers
-  of Mercy (Taborstraße 14)
+- Barmherzigenkirche/Kirche der Barmherzigen Brüder/Church of the Brothers of Mercy (Taborstraße 14)
 
-  - Bl. Gabriel von Ferrara/Gabriele (nee Camillo) of Ferrara, OH,
-    religious/surgeon, 1/15
+  - Bl. Gabriel von Ferrara/Gabriele (nee Camillo) of Ferrara, OH, religious/surgeon, 1/15
 
-- Kloster St. Elisabeth/Elisabethenkirche/Convent of St. Elizabeth
-  (Landstraßer Hauptstraße 4a)
-
-  - Queen St. Elizabeth of Hungary, 11/17 (skull, some relics, and her
-    crown)
-
-- Franziskanerkirche/Franciscan Church in Vienna\'s 1^st^ district
-  (Franziskanerpl. 4)
+- Franziskanerkirche/Franciscan Church in Vienna\'s 1^st^ district (Franziskanerpl. 4)
 
   - St. Hilaria, religious, 8/12
 
   - Servant of God Otto (Petrus) Pavlicek, OFM, priest, d. 12/14/1982
 
-Hofburg Schatzkammer/Hofburg Imperial Treasure House (Schweizerhof,
-Hofburg)
+- Hofburg Schatzkammer/Hofburg Imperial Treasure House (Schweizerhof, Hofburg)
 
-Lance of St. Longinus
+  - Lance of St. Longinus
 
 - Kapuzinerkirche/Capuchin Church (Tegetthoffstraße 2)
 
-  - Bl. Marco d'Aviano/Mark of Aviano (née Carlo Domenico Cristofori), OFM
-    Cap, 8/13
+  - Bl. Marco d’Aviano/Mark of Aviano (née Carlo Domenico Cristofori), OFM Cap, 8/13
 
-  - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the
-    crypt)
+  - Servant of God Empress Zita of Bourbon-Parma, d. 3/14/1989 (in the crypt)
+
+- Karmelitinnenkloster Wien (13th district [Hietzing])
+
+  - Kapelle Kloster St. Josef/Chapel of St. Joseph (Hanschweg 1)
+
+    - Ss. Beinius, Fabius, Emanuel and Fermus, martyrs, 5/21
+
+- Kloster St. Elisabeth/Elisabethenkirche/Convent of St. Elizabeth (Landstraßer Hauptstraße 4a)
+
+  - Queen St. Elizabeth of Hungary, 11/17 (skull, some relics, and her crown)
 
 - St. Maria am Gestade (Salvatorgasse 12)
 
@@ -398,34 +403,27 @@ Lance of St. Longinus
 
 - Ruprechtskirche (Ruprechtspl. 1)
 
-  - St. Vitalis of Salzburg, archbishop, 10/20 (his sarcophagus, which
-    supposedly contains the remains of a Roman martyr)
+  - St. Vitalis of Salzburg, archbishop, 10/20 (his sarcophagus, which supposedly contains the remains of a Roman martyr)
 
 - Schwesterngemeinschaft Caritas Socialis/Sisterhood of Caritas Socialis Headquarters (Pramergasse 7)
 
-  - Bl. Hildegard Burjan, wife/mother/politician/foundress, 6/12 (in the
-    Hildegard Burjan Chapel)
+  - Bl. Hildegard Burjan, wife/mother/politician/foundress, 6/12 (in the Hildegard Burjan Chapel)
 
 - Mutterhaus und Generalat von der Kalasantiner: Maria Hilfe der Christen (P. Schwartz Gasse 8)
 
   - Bl. Anton Maria Schwartz, founder, 9/15 (in front of the high altar)
 
-- Wiener Zentralfriedhofs/Vienna Central Cemetery (Simmeringer Hauptstraße
-  234)
+- Wiener Zentralfriedhofs/Vienna Central Cemetery (Simmeringer Hauptstraße 234)
 
   - Servant of God Leopold Figl, politician, d. 5/9/1965
 
-  - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (row 30,
-    grave number 158; NOTE: it's a mass grave with some 2,700 bodies buried
-    in it)
+  - Bl. Maria Restituta (Helena) Kafka, martyr of the Nazis, 3/30 (row 30, grave number 158; NOTE: it's a mass grave with some 2,700 bodies buried in it)
 
-- ???
+Vorau, Furstenfeld district, Styria state
 
-Weltkirchen, Feldkirch, Vorarlberg state
+- Stiftsfriedhof Vorau (Vorau 3)
 
-- Capuchin church
-
-  - St. Fidelis of Sigmaringen, OFM Cap, martyr, 4/24
+  - Servant of God Barbara Sicharter, CCIM, foundress, d. 2/9/1905
 
 Wenigzell, Hartberg-Fürstenfeld district, Styria state
 

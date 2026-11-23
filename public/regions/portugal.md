@@ -133,7 +133,7 @@ Ermesinde, Valongo, Porto District, Porto metropolitan area, Norte region
 
 - Igreja do Sagrado Coração de Jesus (Church of the Sacred Heart of Jesus)
 
-  - Bl. Maria do Divino Coração/Mary of the Divine Heart (née Maria Droste zu Vischering), visionary/religious, 6/8
+  - Bl. Maria do Divino Coração de Jesus/Maria vom Göttlichen Herzen Jesu (née Maria) Droste zu Vischering, visionary/religious, 6/8
 
 Este (São Pedro e São Mamede), Braga municipality, Cávado intermunicipal district, Norte region
 
@@ -435,7 +435,7 @@ Viseu, Viseu Dão Lafões intermunicipal community, Centro region
 
 - Instituto de Jesus, Maria e José/Institute of Jesus, Mary and Joseph
 
-  - Bl. Rita Amada de Jesus (Rita López de Almeida), JMS, religious/foundress, 1/6 (she is buried in the chapel)
+  - Bl. Rita Amada de Jesus (née Rita López de Almeida), JMJ, religious/foundress, 1/6 (she is buried in the chapel)
 
 Vouzela, Viseu district, Viseu Dão Lafões intermunicipal community, Centro region
 

@@ -1,5 +1,6 @@
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { loadFiltersData, type IndexStats } from '../hooks/useSaintSearch'
 import './HomePage.css'
 
 const FEATURED_SAINTS = [
@@ -13,11 +14,11 @@ const FEATURED_SAINTS = [
 
 const CARD_COUNT = FEATURED_SAINTS.length
 
-const STATS = [
-  { value: 12061, label: 'Saints and Holy Figures', sublabel: 'Blesseds, Venerables, and Servants of God' },
-  { value: 5629, label: 'Locations', sublabel: 'Shrines, tombs, and sacred sites' },
-  { value: 133, label: 'Countries', sublabel: 'Spanning every continent' },
-]
+const FALLBACK_STATS: IndexStats = {
+  saints: 13632,
+  locations: 4779,
+  countries: 141,
+}
 
 function useCountUp(target: number, active: boolean, duration = 1800) {
   const [count, setCount] = useState(0)
@@ -57,6 +58,34 @@ export function HomePage() {
   const cardsRef = useRef<(HTMLDivElement | null)[]>([])
   const statsRef = useRef<HTMLElement>(null)
   const [statsVisible, setStatsVisible] = useState(false)
+  const [indexStats, setIndexStats] = useState<IndexStats | null>(null)
+
+  useEffect(() => {
+    let cancelled = false
+    loadFiltersData()
+      .then((data) => {
+        if (cancelled) return
+        if (data.stats) {
+          setIndexStats(data.stats)
+        } else {
+          const countries = new Set(Object.values(data.countriesByContinent).flat()).size
+          setIndexStats({ ...FALLBACK_STATS, countries: countries || FALLBACK_STATS.countries })
+        }
+      })
+      .catch(() => {
+        if (!cancelled) setIndexStats(FALLBACK_STATS)
+      })
+    return () => { cancelled = true }
+  }, [])
+
+  const statsItems = useMemo(() => {
+    const resolved = indexStats ?? FALLBACK_STATS
+    return [
+      { value: resolved.saints, label: 'Saints and Holy Figures', sublabel: 'Blesseds, Venerables, and Servants of God' },
+      { value: resolved.locations, label: 'Locations', sublabel: 'Shrines, tombs, and sacred sites' },
+      { value: resolved.countries, label: 'Countries', sublabel: 'Spanning every continent' },
+    ]
+  }, [indexStats])
 
   const shuffle = useCallback(() => {
     setCardOrder((prev) => {
@@ -144,7 +173,7 @@ export function HomePage() {
               >
                 <img src={saint.img} alt={saint.name} style={saint.imgPosition ? { objectPosition: saint.imgPosition } : undefined} />
                 <div className="card-content">
-                  <h3>{saint.name}</h3>
+                  <h2>{saint.name}</h2>
                   <p className="card-location">{saint.location}</p>
                 </div>
               </div>
@@ -154,8 +183,8 @@ export function HomePage() {
       </section>
 
       <section className="home-stats" ref={statsRef} aria-label="Database statistics">
-        {STATS.map((stat) => (
-          <StatCounter key={stat.label} {...stat} active={statsVisible} />
+        {statsItems.map((stat) => (
+          <StatCounter key={stat.label} {...stat} active={statsVisible && indexStats !== null} />
         ))}
       </section>
     </>

@@ -199,7 +199,7 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
               {!loading
                 ? results.slice(0, 12).map((saint) => (
                     <article key={`global-${saint.id}`} className="saint-card">
-                      <h2>{saint.name}</h2>
+                      <h3>{saint.name}</h3>
                       <p className="summary">{saint.summary}</p>
                       <ul className="meta">
                         <li>

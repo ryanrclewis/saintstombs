@@ -127,7 +127,9 @@ export function AdminPage() {
   )
 
   const lineCount = content.split('\n').length
-  const entryCount = (content.match(/^\s+-\s+(St\.|Saint|Bl\.|Blessed|Venerable|Servant of God)/gim) ?? []).length
+  const entryCount = (
+    content.match(/^\s+-\s+(St\.|Ss\.|Saint|Bl\.|Bls\.|Blessed|Ven\.|Venerable|Servants? of God)/gim) ?? []
+  ).length
 
   // ── Loading auth state ──────────────────────────────────
   if (user === undefined) {

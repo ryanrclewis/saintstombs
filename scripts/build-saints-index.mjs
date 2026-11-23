@@ -10,6 +10,32 @@ const contentDir = path.join(projectRoot, 'content', 'saints')
 const outputDir = path.join(projectRoot, 'public', 'data')
 const SUMMARY_MAX_LENGTH = 200
 
+// Load the shared TypeScript AST parser directly (Node 22.18+) with an esbuild
+// fallback for older Node runtimes (e.g. Node 20 in CI).
+const loadRegionsParser = async () => {
+  const parserPath = path.join(projectRoot, 'src', 'utils', 'regionsParser.ts')
+  try {
+    return await import(parserPath)
+  } catch (err) {
+    if (err?.code !== 'ERR_UNKNOWN_FILE_EXTENSION' && err?.code !== 'ERR_MODULE_NOT_FOUND') {
+      throw err
+    }
+    const esbuild = await import('esbuild')
+    const built = await esbuild.build({
+      entryPoints: [parserPath],
+      bundle: true,
+      write: false,
+      format: 'esm',
+      platform: 'node',
+      target: 'node20',
+    })
+    const code = built.outputFiles[0].text
+    return import(`data:text/javascript;base64,${Buffer.from(code).toString('base64')}`)
+  }
+}
+
+const { parseRegionsMarkdown, SAINT_REGEX } = await loadRegionsParser()
+
 const CONTINENT_BY_FILENAME = {
   'africa.md': 'Africa',
   'asia.md': 'Asia',
@@ -85,60 +111,86 @@ const inferContinent = (filePath, explicitValue) => {
 
 const parseLegacyRegionsMarkdown = (fileText, filePath, relativeSource) => {
   const fileName = path.basename(filePath)
-  if (/^(readme|about)\.md$/i.test(fileName)) {
+  if (/^(readme|about|donate)\.md$/i.test(fileName)) {
     return []
   }
 
-  const lines = fileText.split(/\r?\n/)
-  const firstHeading = lines.find((line) => /^#\s+/.test(line.trim()))
-  let currentCountry = firstHeading ? compactSpaces(firstHeading.replace(/^#\s+/, '')) : titleFromFilename(filePath)
-  let currentLocation = 'Unknown'
+  const doc = parseRegionsMarkdown(fileText)
+  const fallbackCountry = titleFromFilename(filePath)
   const continent = inferContinent(filePath)
   const saints = []
 
-  for (const rawLine of lines) {
-    const line = compactSpaces(rawLine)
-    if (!line) continue
+  for (const countrySection of doc.countries) {
+    const currentCountry = compactSpaces(countrySection.name) || fallbackCountry
 
-    if (/^#\s+/.test(line)) {
-      currentCountry = compactSpaces(line.replace(/^#\s+/, '')) || currentCountry
-      continue
+    for (const location of countrySection.locations) {
+      const currentLocation = compactSpaces(location.name) || 'Unknown'
+
+      for (const building of location.buildings) {
+        for (const entry of building.saints) {
+          if (entry.rawLine) {
+            const rawText = compactSpaces(entry.rawLine)
+            if (!SAINT_REGEX.test(rawText)) {
+              continue
+            }
+
+            const nameMatch = rawText.match(
+              /((?:Servants?\s+of\s+God|Venerable|Blessed|Saint|Ven\.|Bls\.|Bl\.|Ss\.|St\.)\s+[^,;(]+)/i,
+            )
+            const feastMatch = rawText.match(/\b(\d{1,2}\/\d{1,2}(?:\/\d{2,4})?)\b/)
+            const saintName = nameMatch ? compactSpaces(nameMatch[1]) : rawText.slice(0, 80)
+
+            saints.push(
+              normalizeSaint(
+                {
+                  name: saintName,
+                  feast_day: feastMatch ? feastMatch[1] : 'Unknown',
+                  continent,
+                  country: currentCountry,
+                  city_or_region: currentLocation,
+                  summary: rawText,
+                  tags: [],
+                  aliases: [],
+                },
+                relativeSource,
+                saints.length,
+              ),
+            )
+            continue
+          }
+
+          const saintName = compactSpaces(`${entry.title} ${entry.name}`)
+          if (!saintName) {
+            continue
+          }
+
+          let summary = saintName
+          if (entry.role) summary += `, ${entry.role}`
+          if (entry.feastDay) summary += `, ${entry.feastDay}`
+          if (entry.notes) summary += ` (${entry.notes})`
+
+          const feastMatch = entry.feastDay.match(/\b(\d{1,2}\/\d{1,2}(?:\/\d{2,4})?)\b/)
+          const feastDay = feastMatch ? feastMatch[1] : entry.feastDay || 'Unknown'
+
+          saints.push(
+            normalizeSaint(
+              {
+                name: saintName,
+                feast_day: feastDay,
+                continent,
+                country: currentCountry,
+                city_or_region: currentLocation,
+                summary,
+                tags: [],
+                aliases: [],
+              },
+              relativeSource,
+              saints.length,
+            ),
+          )
+        }
+      }
     }
-
-    if (!line.startsWith('-') && !/^#{2,6}\s+/.test(line) && line.length < 140) {
-      currentLocation = line
-      continue
-    }
-
-    if (!line.startsWith('-')) {
-      continue
-    }
-
-    const entry = compactSpaces(line.replace(/^-+\s*/, ''))
-    if (!/(st\.|saint|bl\.|blessed|venerable|servant of god)/i.test(entry)) {
-      continue
-    }
-
-    const nameMatch = entry.match(/((?:St\.|Saint|Bl\.|Blessed|Venerable|Servant of God)\s+[^,;(]+)/i)
-    const feastMatch = entry.match(/\b(\d{1,2}\/\d{1,2})\b/)
-    const saintName = nameMatch ? compactSpaces(nameMatch[1]) : entry.slice(0, 80)
-
-    saints.push(
-      normalizeSaint(
-        {
-          name: saintName,
-          feast_day: feastMatch ? feastMatch[1] : 'Unknown',
-          continent,
-          country: currentCountry,
-          city_or_region: currentLocation,
-          summary: entry,
-          tags: [],
-          aliases: [],
-        },
-        relativeSource,
-        saints.length,
-      ),
-    )
   }
 
   return saints
@@ -250,7 +302,15 @@ const generate = async () => {
     await fs.writeFile(path.join(outputDir, 'saints.json'), '[]\n')
     await fs.writeFile(
       path.join(outputDir, 'filters.json'),
-      JSON.stringify({ continents: [], countriesByContinent: {} }, null, 2) + '\n',
+      JSON.stringify(
+        {
+          continents: [],
+          countriesByContinent: {},
+          stats: { saints: 0, locations: 0, countries: 0 },
+        },
+        null,
+        2,
+      ) + '\n',
     )
     return
   }
@@ -265,11 +325,17 @@ const generate = async () => {
     }))
 
   const countriesByContinent = {}
+  const uniqueCountries = new Set()
+  const uniqueLocations = new Set()
   for (const saint of saints) {
     if (!countriesByContinent[saint.continent]) {
       countriesByContinent[saint.continent] = new Set()
     }
     countriesByContinent[saint.continent].add(saint.country)
+    uniqueCountries.add(saint.country)
+    if (saint.city_or_region && saint.city_or_region !== 'Unknown') {
+      uniqueLocations.add(`${saint.country}::${saint.city_or_region}`)
+    }
   }
 
   const filters = {
@@ -282,6 +348,11 @@ const generate = async () => {
           Array.from(value).sort((a, b) => a.localeCompare(b)),
         ]),
     ),
+    stats: {
+      saints: saints.length,
+      locations: uniqueLocations.size,
+      countries: uniqueCountries.size,
+    },
   }
 
   await fs.writeFile(path.join(outputDir, 'saints.json'), JSON.stringify(saints) + '\n')
