@@ -3695,6 +3695,8 @@ La Llosa de Ranes, Costera comarca, Province of Valencia, Valencian autonomous c
 
 La Montaña, Torrelavega municipality, Cantabria Province, Cantabria autonomous region (43°19′24″N 4°01′00″O)
 
+- Hermitage of San Blas
+
 - ???
 
 	- Bl. Eloy Sedaño Hoyos, priest/martyr, 11/6 (his body was tied to a tree, mutilated, and found the next day; no burial site is known; maybe at The Hermitage of St. Blas)
@@ -3969,6 +3971,14 @@ Liébana, Cantabria autonomous community
 
   - St. Toribio/Turibius of Palencia, abbot, 11/11
 
+Liendo, east coast of Cantabria, Cantabria Province, Cantabria autonomous community
+
+- ???
+
+	- Bl. Ángel Mijares Herrero, priest/martyr, 11/6 (his body was found here, but there is no word on where it was buried)
+	
+	- Bl. Félix Legido Herrero, parish/martyr, 11/6 (his body was found here, but there is no word on where it was buried)
+
 Linares, Province of Jaén, Andalusia autonomous region
 
 - Santuario de Nuestra Señora de Linares
@@ -3979,13 +3989,11 @@ Linares, Province of Jaén, Andalusia autonomous region
 
   - Bl. Manuel Lozano Garrido, journalist, d. 11/3/1971
 
-Llavorsí, Pallars Sobirà comarca, Province of Lleida, Catalonia
-autonomous community
+Llavorsí, Pallars Sobirà comarca, Province of Lleida, Catalonia autonomous community
 
 - ???
 
-  - Bl. Antoni Carmaniú Mercarder, CM, priest/martyr, 8/17 (His body was
-    covered with sand and gravel and was carried away by the current of the
+  - Bl. Antoni Carmaniú Mercarder, CM, priest/martyr, 8/17 (His body was covered with sand and gravel and was carried away by the current of the
     river. His body was never recovered.)
 
 Lleida (aka, Lérida), Province of Lleida, Catalonia
@@ -5208,17 +5216,21 @@ Massanassa, Horta Sud comarca, Province of Valencia, Valencia autonomous communi
 
   - Bl. Francisca/Francesca Cualladó Baixauli, laywoman/martyr, 9/19 (Capilla del Santísimo Sacramento)
 
-Matamargó, municipality of Pinós, Province of Lerida, Catalonia
-autonomous region
+Matamargó, municipality of Pinós, Province of Lerida, Catalonia autonomous region
 
 - ???
 
-  - Bl. Francesc Mitjá i Mitjá, O. de M., religious/martyr, 10/13 (possibly
-    the cemetery)
+  - Bl. Francesc Mitjá i Mitjá, O. de M., religious/martyr, 10/13 (possibly the cemetery)
+
+Mataporquera, Valdeolea municipality, Cantabria Province, Cantabria autonomous community
+
+- ???
+
+	- Bl. Graciano Pérez González, priest/martyr, 11/16 (he was murdered here, but his burial place is unknown with two unidentified companions)
 
 Mataró, Maresme region, Province of Barcelona, Catalonia region
 
-Basílica de Santa Maria de Mataró
+- Basílica de Santa Maria de Mataró
 
   - Bl. Cosme (née Simo Isidre Joaquim) Brun Arara, OH, religious/martyr,
     9/1 (relics only)
@@ -5742,23 +5754,19 @@ Murcia (Algezares pedania/district), Murcia autonomous community
 
 Nájera
 
-- Real Abadía de Nuestra Señora de Nájera/Royal Abbey of Our Lady at
-  Nájera
+- Real Abadía de Nuestra Señora de Nájera/Royal Abbey of Our Lady at Nájera
 
   - St. Columba de Córdoba, martyr, 9/17
 
-Náquera/Nàquera, Camp de Túria comarca, Province of Valencia, Valencian
-autonomous community
+Náquera/Nàquera, Camp de Túria comarca, Province of Valencia, Valencian autonomous community
 
-Residencia de la Obra Social Femenina/Residence of the Women\'s Social
-Work (Calle La Mina, 18)
+- Residencia de la Obra Social Femenina/Residence of the Women’s Social Work (Calle La Mina, 18)
 
   - Servant of God Manuel Pérez Arnal, priest/founder, d. 6/4/1946
 
-Nerva, Cuenca Minera comarca, Province of Huelva, Andalusia autonomous
-community
+Nerva, Cuenca Minera comarca, Province of Huelva, Andalusia autonomous community
 
-Cementerio Municipal de Nerva
+- Cementerio Municipal de Nerva
 
   - Servant of God Luisa Sosa Fontenla, foundress, d. 11/25/2017
 
@@ -5766,8 +5774,19 @@ Nocito, Nueno municipality, Province of Huesca, Aragon autonomous community
 
 - Santuario de San Úrbez/Sanctuary of San Úrbez
 
-  - St. Ubicio/Úrbez, hermit, 12/15 (he was incorrupt until the
-    Revolutionaries burned his corpse)
+  - St. Ubicio/Úrbez, hermit, 12/15 (he was incorrupt until the Revolutionaries burned his corpse)
+
+Novales, Alfoz de Lloredo comarca, Cantabria Province, Cantabria autonomous community
+
+- ???
+
+	- Bl. Félix Carriazo García, priest/martyr, 11/6 
+	
+	- Bl. Lauro García Fernández, priest/martyr, 11/6
+	
+	- Bl. Manuel Macho Iturbe, priest/martyr, 11/6
+	
+	- Bl. Ramón Martín Martínez, priest/martyr, 11/6
 
 Novelda, Vinalopó Mitjà comarca, Province of Alicante, Valencian autonomous community
 
@@ -5985,8 +6004,7 @@ Oviedo, Asturias
 
   - Bl. Vicente Pastor Vicente, priest/martyr, 10/13
 
-- Cementerio del Salvador/Cemetery of Our Savior (Aldea Los
-  Arenales/Carretera de San Esteban de las Cruces, s/n)
+- Cementerio del Salvador/Cemetery of Our Savior (Aldea Los Arenales/Carretera de San Esteban de las Cruces, s/n)
 
   - Servant of God Benedicto Santos López, priest, d. 6/26/2001
 
@@ -6003,7 +6021,7 @@ Oviedo, Asturias
 
 	- Servant of God María Serafina (née Marie-Adeline) Couderc Caminade, SAC, religious, d. 6/20/1923 (possibly at the Casa Madre de las Hermanas del Ángel de la Guarda, Calle Velasquita Giráldez, 14)
 
-   - Ven. Práxedes Fernández García, TOSD, laywoman, d. 10/6/1936
+ Ven. Práxedes Fernández García, TOSD, laywoman, d. 10/6/1936
 
   - Bl. Salustiano González Crespo, CM, religious/martyr, 10/13 (cremated)
 
@@ -6106,8 +6124,7 @@ Palma de Mallorca, Mallorca Island, Islas Baleares
 
   - St. Alfonso Rodriguez, confessor, 10/31
 
-Pamplona, Cuenca de Pamplona *comarca*, Navarre province, Navarre
-autonomous community
+Pamplona, Cuenca de Pamplona *comarca*, Navarre province, Navarre autonomous community
 
 - Iglesia de San Lorenzo/St. Lawrence
 
@@ -6115,25 +6132,25 @@ autonomous community
 
 - Discalced Carmelite Convent
 
-  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín,
-    OCD, religious, d. 1/3/1594 (incorrupt)
+  - Servant of God Catalina (Catalina de Cristo) de Balmaseda y San Martín, OCD, religious, d. 1/3/1594 (incorrupt)
 
-Dominican Missionaries Motherhouse
+- Dominican Missionaries Motherhouse
 
-  - Bl. María Ascensión del Corazón de Jesús (nee Florentina) Nicol y Goñi,
-    OP, foundress, 2/24
+  - Bl. María Ascensión del Corazón de Jesús (nee Florentina) Nicol y Goñi, OP, foundress, 2/24
 
 - Mercedarian convent
 
   - Bl. Garcia Darlet, monk, 11/6
 
-Carretera Cementerio, Cuadro 24
+- Carretera Cementerio, Cuadro 24
 
-  - Servant of God Eduardo Ortiz de Landázuri, doctor/layman of Opus Dei, d.
-    5/20/1985
+  - Servant of God Eduardo Ortiz de Landázuri, doctor/layman of Opus Dei, d. 5/20/1985
 
-  - Servant of God Laura Busca Otaegui Ortiz de Landázuri, laywoman of Opus
-    Dei, d. 10/11/2000
+  - Servant of God Laura Busca Otaegui Ortiz de Landázuri, laywoman of Opus Dei, d. 10/11/2000
+
+- Cementerio Municipal de San José/St. Joseph Municipal Cemetery (Carretera Cementerio, s/n)(8CJWR88H+M4)(42.8167° N, 1.6721° W)
+
+  - Bl. José María Soler Pla, layman/martyr, 11/6
 
 - ???
 
@@ -6141,11 +6158,9 @@ Carretera Cementerio, Cuadro 24
 
 Paracuellos de Jarama, Comunidad Autónoma de Madrid
 
-Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
-(Carretera de Belvis del Jarama, s/n) (immense cemetery on the hill)
+- Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints (Carretera de Belvis del Jarama, s/n)(immense cemetery on the hill)
 
-  - Bl. Alberto María (née Francisco) Marco Alemán, O.Carm., priest/martyr,
-    & 30 Companions, 11/18
+  - Bl. Alberto María (née Francisco) Marco Alemán, O.Carm., priest/martyr, & 30 Companions, 11/18
 
   - Bl. Ángel Sastre Corporales, OH, novice/martyr, 11/28
 
@@ -6155,8 +6170,7 @@ Cementerio de Paracuellos de Jarama/Campo de los Santos/Field of Saints
 
   - Bl. Clemente Díez Sahagún, OH, religious/martyr, 7/30 & 11/28
 
-  - Bl. Diego de Cádiz (née Santiago) García Molina, OH, religious/martyr,
-    7/30 & 11/30
+  - Bl. Diego de Cádiz (née Santiago) García Molina, OH, religious/martyr, 7/30 & 11/30
 
   - Bl. Eduardo Bautista Jiménez, OH, religious/martyr, 7/30 & 11/28
 
@@ -6462,8 +6476,7 @@ Sisters of Christian Doctrine
   - Bl. Corazón de Jesus (née María Purificación) Gómez Vives, DC,
     religious/martyr, 11/20
 
-Bl Ignacia del Santísimo Sacramento (née Josefa) Pascual Pallardó, DC,
-religious/martyr, 11/21
+  - Bl Ignacia del Santísimo Sacramento (née Josefa) Pascual Pallardó, DC, religious/martyr, 11/21
 
   - Bl. Ismael "Soldado de Cristo" Escrihuela Esteve, layman/martyr, 9/8
     (killed at Escuela de equitación de Paterna, but where is he buried?)
@@ -6502,8 +6515,7 @@ religious/martyr, 11/21
   - Bl. Teresa de San José (née Ascensión) Duart Roig, DC, religious/martyr,
     11/20
 
-Pedreguer, Marina Alta comarca, Province of Alicante, Valencian
-autonomous community
+Pedreguer, Marina Alta comarca, Province of Alicante, Valencian autonomous community
 
 - Parroquia de la Santa Cruz/Parish of the Holy Cross (Plaça Major, 1)
 
@@ -6652,41 +6664,44 @@ Capilla del Colegio-Hogar del Buen Consejo (Paseo De la Concepción, 12)
 
   - Bl. Juan Pedro del Cotillo Fernández, OMI, priest/martyr, 7/24 & 11/28
 
-Prat de Compte, Terra Alta comarca, Province of Tarragona, Catalonia
-autonomous community
+Prat de Compte, Terra Alta comarca, Province of Tarragona, Catalonia autonomous community
 
-Cementerio de la Comunidad Salesiana de Prat de Compte/Salesian
-Community Cemetery in Prat de Compte (Carrer del Cementiri)
+- Cementerio de la Comunidad Salesiana de Prat de Compte/Salesian Community Cemetery in Prat de Compte (Carrer del Cementiri)
 
   - Bl. Miquel Domingo Cendra, SDB, religious/martyr, 8/11 & 9/22
 
-Puerto de Castilla, Province of Ávila, Castile y León autonomous
-community
+Praves, Hazas de Cesto comarca, Cantabria Province, Cantabria autonomous region
 
-Visitación de Nuestra Señora/Visitation of Our Lady
+- Cementerio de Praves/Cementerio Parroquial de Praves/Praves Parochial Cemetery
 
-  - Bl. Agustín Bermejo Miranda, priest/martyr, 8/28 ("Finalmente \[sus
-    restos fueron trasladados\] a la iglesia parroquial de Puerto de
-    Castilla/Finally \[his remains were translated\] to the parish church of
-    Puerto de Castilla.")
+  - Bl. Ernesto González de la Pedrosa, priest/martyr, 11/6
 
-Puente la Reina, Pamplona merindad, Province of Navarra, Navarre
-autonomous community
+Puerto de Alisas, Asón-Agüera comarca, Cantabria Province, Cantabria autonomous community
+
+- ??? 
+
+  - Bl. José Echevarría Rivero, priest/martyr, 11/6 (he died here, but his burial place is not known) Pedro Tuyet, Jesuit seminarian (non-causa; he died here, but his burial place is not known)
+
+Puerto de Castilla, Province of Ávila, Castile y León autonomous community
+
+- Visitación de Nuestra Señora/Visitation of Our Lady
+
+  - Bl. Agustín Bermejo Miranda, priest/martyr, 8/28 ("Finalmente \[sus restos fueron trasladados\] a la iglesia parroquial de Puerto de 
+    Castilla/Finally \[his remains were translated\] to the parish church of Puerto de Castilla.")
+
+Puente la Reina, Pamplona merindad, Province of Navarra, Navarre autonomous community
 
 - Iglesia del Crucifijo
 
-  - Bl. Juan María de la Cruz (née Mariano García Méndez), SCJ,
-    priest/martyr, 8/23
+  - Bl. Juan María de la Cruz (née Mariano García Méndez), SCJ, priest/martyr, 8/23
 
 Puerto de la Cruz, Tenerife, Canary Islands
 
 - ???
 
-  - Servant of God María de San Antonio Lorenzo y Fuentes, OP, religious, d.
-    5/10/1741 (relics disappeared in a fire)
+  - Servant of God María de San Antonio Lorenzo y Fuentes, OP, religious, d. 5/10/1741 (relics disappeared in a fire)
 
-Purroy de la Solana, Benabarre municipality, Ribagorza comarca, Province
-of Huesca, Aragón autonomous community
+Purroy de la Solana, Benabarre municipality, Ribagorza comarca, Province of Huesca, Aragón autonomous community
 
 - ???
 
@@ -6733,28 +6748,38 @@ Rabassada, Province of Barcelona
 
   - Bl. Ricardo Guerra-Villazan, religious/martyr, 2/15
 
-Rafelbunyol/Rafelbuñol, Horta Nord comarca, Province of Valencia,
-Valencian autonomous community
+Rafelbunyol/Rafelbuñol, Horta Nord comarca, Province of Valencia, Valencian autonomous community
 
 - ???
 
   - Bl. Vicente María Izquierdo Alcón, priest/martyr, 8/18
 
-The parish priest of Puzol who was killed with Bl. Vicente
+  - The parish priest of Puzol who was killed with Bl. Vicente
 
-Requena, Requena-Utiel comarca, Province of Valencia, Valencian
-autonomous community
+Reinosa, Campoo comarca, Cantabria Province, Cantabria autonomous community
+
+- Cementerio de San Esteban/Cementerio Municipal/St. Stephen Cemetery/Municipal Cemetery (Paseo del Doctor Jiménez Díaz, 1)
+
+  - Bl. Egberto (née Leonardo) Arce Ruiz, FMS, religious/martyr, 11/6
+
+  - Bl. Félix Sainz López, priest/martyr, 11/6
+
+  - Bl. Lino López Ruiz, priest/martyr, 11/6
+
+  - Bl. Santos Carrera Pereda, priest/martyr, 11/6
+
+  - Bl. Teófilo Martín (née Martín) Erro Ripa, FMS, religious/martyr, 11/6
+
+Requena, Requena-Utiel comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio de Requeno/Requeno cemetery
 
   - Bl. Josefa de San Juan de Dios (née Josefa Ruano García, HAD,
     religious/martyr, 9/8
 
-  - Bl. María Dolores de Santa Eulalia (née Dolores Puig Bonany), HAD,
-    religious/martyr, 9/8
+  - Bl. María Dolores de Santa Eulalia (née Dolores Puig Bonany), HAD, religious/martyr, 9/8
 
-Reus, Bajo Campo comarca/Baix Camp County, Province of Tarragona,
-Catalonia region
+Reus, Bajo Campo comarca/Baix Camp County, Province of Tarragona, Catalonia region
 
 - Iglesia Prioral de San Pedro (Plaça Sant Pere)
 
@@ -6766,17 +6791,15 @@ Catalonia region
 
   - Bl. Miquel Rué Gené, priest/martyr, 8/17
 
-Capella de les Missioneres Claretianes
+- Capella de les Missioneres Claretianes
 
   - Ven. Maria Antònia París i Riera, foundress, d. 1/17/1885
 
-Cementiri de Reus
+- Cementiri de Reus
 
-  - Bl. Agapit Modest (née Modest Pamplona Falguera), FSC, religious/martyr,
-    8/28
+  - Bl. Agapit Modest (née Modest Pamplona Falguera), FSC, religious/martyr, 8/28
 
-  - Bl. Andreu/Andrés Felíu Bartomeu, CMF, religious/martyr, 10/26 (mass
-    grave)
+  - Bl. Andreu/Andrés Felíu Bartomeu, CMF, religious/martyr, 10/26 (mass grave)
 
   - Bl. Andrés Prats Barrufet, priest/martyr, 8/13
 
@@ -6810,21 +6833,25 @@ Cementiri de Reus
   - Bl. Pablo/Pau Castell´ Barber´, CMF, religious/martyr, 9/26 (he died
     here, but where is he buried?)
 
-Ribarroja del Turia/Riba-roja de Túria, Camp de Túria comarca, Province
-of Valencia, Valencian autonomous community
+Ribarroja del Turia/Riba-roja de Túria, Camp de Túria comarca, Province of Valencia, Valencian autonomous community
 
 - Cementerio de Ribarroja/Ribarroja Cemetery
 
   - Bl. José González Huguet, priest/martyr, 10/12
 
-Ribas de Sil, Quiroga comarca, Province of Lugo, Galicia autonomous
-community
+Ribas de Sil, Quiroga comarca, Province of Lugo, Galicia autonomous community
 
 - ???
 
   - St. Ansurius/Isauri of Orense, bishop/monk, 1/26
 
   - St. Hermogius of Tuy, bishop, 6/26
+
+Riocorvo, Cartes municipality, Cantabria Province, Cantabria autonomous community
+
+- ???
+
+	- Bl. Agustín Domingo Incera Torre, priest/martyr, 11/6 (he was murdered here, but no one knows where he is buried)
 
 Rioja, Province of Almería, Andalucia autonomous community
 
@@ -7068,11 +7095,41 @@ Sama, municipality of Langreo, Asturias autonomous community
 
 Santander
 
-- Parroquia del Santo Cristo de la Catedral de Santander/Church of Holy
-  Christ at the Cathedral
+- Parroquia del Santo Cristo de la Catedral de Santander/Church of Holy   Christ at the Cathedral
 
-  - Bl. Alfredo de la Virgen (née Alfredo) Parte-Saiz, SchP, priest/martyr,
-    12/27
+  - Bl. Adolfo Mantecón Sánchez, priest/martyr, 11/6
+
+  - Bl. Alfredo de la Virgen (née Alfredo) Parte-Saiz, SchP, priest/martyr, 12/27
+
+  - Bl. Anselmo de la Torre Fuertes, priest/martyr, 11/6
+
+  - Bl. Aurelio Velasco Martínez, priest/martyr, 11/6
+
+  - Bl. Eliseo Alonso Pumarejo, priest/martyr, 11/6
+
+  - Bl. Eloy Martínez Muñoz, priest/martyr, 11/6
+
+  - Bl. Felipe Sobrado Fernández, priest/martyr, 11/6
+
+  - Bl. Francisco González de Córdova, priest/martyr, 11/6
+
+  - Bl. Francisco Sánchez Trallero, layman/martyr, 11/6
+
+  - Bl. Hilario Arce Cañarte, priest/martyr, 11/6
+
+  - Bl. José Angulo Zaballa, seminarian/martyr, 11/6
+
+  - Bl. Juan Palencia Díaz, priest/martyr, 11/6
+
+  - Bl. Luis Mosquera Caramelo, layman/judge/martyr, 11/6
+
+  - Bl. Maximino de la Virgen del Carmen (née Maximino) Sáez Martínez, OCD, priest/martyr, 11/6
+
+  - Bl. Ramón Tresgallo Arenal, seminarian/martyr, 11/6
+
+  - Bl. Serafín Villar Laso, priest/martyr, 11/6
+
+  - Bl. Vicente Poo Noriega, priest/martyr, 11/6
 
 - Abbey of San Emeterio y San Celedonio
 
@@ -7087,7 +7144,25 @@ Santander
 
   - Bl. Ambrosio de Santibáñez (née Alejo Pan López), OFM Cap., priest/martyr, 12/27 (common grave of 160 people)
 
-- ???
+  - Bl. Daniel Rivas Mendiondo, priest/martyr, 11/6
+
+  - Bl. Enrique Pacheco Gómez, priest/martyr, 11/6
+
+  - Bl. José Salcines Salas, priest/martyr, 11/6
+
+  - Bl. Lino Velasco Ruigómez, priest/martyr, 11/6
+
+  - Bl. Teodoro Sánchez Vacas, priest/organist/martyr, 11/6
+
+- Cementerio Municipal de San Román de la Llanilla (Calle de Victoriano Fernández, 70)
+
+  - Bl. Jesús Torre Torre, priest/martyr, 11/6
+
+???Santander
+
+  - Bl. Abdón Muñoz López, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Adalberto Susilla Bustamante, layman/martyr, 11/6 (body thrown into the sea)
 
   - Bl. Alvaro González López, OCSO, religious/martyr, 12/3
 
@@ -7095,36 +7170,45 @@ Santander
 
   - Bl. Andrés Gómez Sáez, SDB, priest/martyr
 
+  - Bl. Ángel García Mantilla González, priest/martyr, 11/6
+
   - Bl. Ángel (née Francisco) de la Vega González, religious/monk, 12/4
 
-  - Bl. Antonio (née Francisco) Delgado González, OCSO, postulant/martyr,
-    12/3
+  - Bl. Antonio (née Francisco) Delgado González, OCSO, postulant/martyr, 12/3
 
-  - Bl. Bernardino Irurzun Otermín, OP, religious, 12/23 (thrown into the
-    sea)
+  - Bl. Antonio Fernández Olea, priest/martyr, 11/6
+
+  - Bl. Atanasio del Sagrado Corazón (née Gregorio María) Aguiñagalde Aguirreche, OCD, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Aurelio Balbás Sánchez, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Benedicto Fernández Calderón, priest/martyr, 11/6
+
+  - Bl. Benedicto Sandoval Prieto, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Bernardino Hoyos Bustamante, priest/martyr, 11/6
+
+  - Bl. Bernardino Irurzun Otermín, OP, religious, 12/23 (thrown into the sea)
 
   - Bl. Bienvenido (née Robustiano) Mata Ubierna, OCSO, novice/martyr, 12/4
 
-  - Bl. Claudio Julían García San Román, OSA, priest/martyr, 10/28 (body
-    thrown into the sea)
+  - Bl. Claudio Julían García San Román, OSA, priest/martyr, 10/28 (body thrown into the sea)
 
-  - Bl. Eleuterio Marne Mansilla, OP, religious, 12/23 (body thrown into the
-    sea)
+  - Bl. Eduardo Díez Lorenzo, priest/martyr, 11/6
 
-  - Bl. Eliseo Miguel Lagro, OP, priest/martyr, 12/23 (body thrown into the
-    sea)
+  - Bl. Eleuterio Marne Mansilla, OP, religious, 12/23 (body thrown into the sea)
 
-  - Bl. Enrique Cañal Gómez, OP, priest/martyr, 12/23 (body thrown into the
-    sea)
+  - Bl. Eliseo Miguel Lagro, OP, priest/martyr, 12/23 (body thrown into the sea)
 
-  - Bl. Enrique Izquierdo Palacios, OP, priest/martyr, 12/23 (body thrown
-    into the sea)
+  - Bl. Emilio Fernández Gandarillas, priest/martyr, 11/6 (body thrown into the sea)
 
-  - Bl. Epifanio Gómez Alvaro, OSA, priest/martyr, 12/23 (body thrown into
-    the sea; his body washed up on the beaches of La Vendée, France)
+  - Bl. Enrique Cañal Gómez, OP, priest/martyr, 12/23 (body thrown into the sea)
 
-  - Bl. Eugenio Cernuda Febrero, OSA, priest/martyr, 12/18 (body possibly
-    thrown into the sea)
+  - Bl. Enrique Izquierdo Palacios, OP, priest/martyr, 12/23 (body thrown into the sea)
+
+  - Bl. Epifanio Gómez Alvaro, OSA, priest/martyr, 12/23 (body thrown into the sea; his body washed up on the beaches of La Vendée, France)
+
+  - Bl. Eugenio Cernuda Febrero, OSA, priest/martyr, 12/18 (body possibly thrown into the sea)
 
   - Bl. Eulogio Álvarez López, OCSO, religious/martyr, 12/4
 
@@ -7132,44 +7216,69 @@ Santander
 
   - Bl. Ezequiel Álvaro de La Fuente, OCSO, religious/martyr, 12/4
 
-  - Bl. José María García Tabar, OP, religious/martyr (body thrown into the
-    sea)
+  - Bl. Gerardo González Martínez-Laso, priest/seminary professor/martyr, 11/6
+
+  - Bl. Gregorio Blanco Varona, priest/martyr, 11/6
+
+  - Bl. Guillermo Alonso Setién, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Indalecio Balbás González, priest/martyr, 11/6
+
+  - Bl. Jaime de la Lama y Ruiz-Escajadillo, layman/martyr, 11/6
+
+  - Bl. Joaquín Fernández Martínez, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. José María García Tabar, OP, religious/martyr (body thrown into the sea)
+
+  - Bl. José Martínez Colina, priest/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. José Susilla Bustamante, seminarian/martyr, 11/6 (body thrown into the sea)
 
   - Bl. Juan Bautista Ferris Llopis, OCSO, priest/martyr, 12/3
 
-  - Bl. Leandro Gómez Gil, OCSO, religious/martyr, 12/31 (body disappeared
-    forever)
+  - Bl. Leandro Gómez Gil, OCSO, religious/martyr, 12/31 (body disappeared forever)
 
-  - Bl. Leoncio Lope García, OSA, religious/martyr, 10/28 (body thrown into
-    the sea)
+  - Bl. Leoncio Lope García, OSA, religious/martyr, 10/28 (body thrown into the sea)
 
-  - Bl. Manuel Gutiérrez Ceballos, OP, priest/martyr, 12/23 (body thrown
-    into the sea)
+  - Bl. Lorenzo González Macho, priest/martyr, 11/6 (body thrown into the sea)
 
-  - Bl. Marcelino (née Emérico) Martín Rubio, OCSO, novice/martyr, 12/10
+  - Bl. Lucio Herrero Maza, priest/martyr, 11/6 (body thrown into the sea)
 
-  - Ven. Maria Mercedes Cabezas Terrero, foundress, d. 9/30/1993 (possibly
-    at Operarias Misioneras del Sagrado Corazón)
+  - Bl. Manuel Cagigas Marroquín, priest/martyr, 11/16 (body thrown into the sea)
 
-  - Bl. Miguel Rodríguez González, OP, priest/martyr, 12/23 (body thrown
-    into the sea)
+  - Bl. Manuel González Martínez, priest/martyr, 11/6
 
-  - Bl. Miguel San Román Fernández, OSA, priest/martyr, 12/18 (body possibly
-    thrown into the sea)
+  - Bl. Manuel Gutiérrez Ceballos, OP, priest/martyr, 12/23 (body thrown into the sea)
 
-  - Bl. Pedro Luís y Luís, OP, religious/martyr, 12/23 (body thrown into the
-    sea)
+  - l. Marcelino (née Emérico) Martín Rubio, OCSO, novice/martyr, 12/10
 
-  - Bl. Pío (Julián Heredia Zubia), O.Cist., priest/martyr, 12/3 (body
-    thrown into the sea)
+  - Bl. Marcelino Pedro Lucio Gutiérrez-Cañas, layman, 11/6 (body thrown into the sea)
+
+  - Ven. Maria Mercedes Cabezas Terrero, foundress, d. 9/30/1993 (possibly at Operarias Misioneras del Sagrado Corazón)
+
+  - Bl. Miguel Rodríguez González, OP, priest/martyr, 12/23 (body thrown into the sea)
+
+  - Bl. Miguel San Román Fernández, OSA, priest/martyr, 12/18 (body possibly thrown into the sea)
+
+  - Bl. Pedro Díez Delgado, priest/martyr, 11/6
+
+  - Bl. Pedro Luís y Luís, OP, religious/martyr, 12/23 (body thrown into the sea)
+
+  - Bl. Pío (Julián Heredia Zubia), O.Cist., priest/martyr, 12/3 (body thrown into the sea)
+
+  - Bl. Ruperto de la Cruz (née Ruperto) Andueza Larraya, OCD, religious/martyr, 11/6 (body thrown into the sea)
+
+  - Bl. Segundo Toyos Galarza, priest/martyr, 11/6 (body thrown into the sea) 
+
+  - Bl. Servando Saiz Peña, priest/martyr, 11/6 (body thrown into the sea)
 
   - Bl. Valeriano Rodríguez García, OCSO, priest/martyr, 12/3
 
-Sant Boi de Llobregat, Baix Llobregat comarca, Province of Barcelona,
-Catalonia autonomous region
+  - Bl. Victorino Ortega Oteo, priest/martyr, 11/6 (body thrown into the sea)
 
-- Iglesia del Parque Sanitari Sant Joan de Déu/Church of the Parc Sanitari
-  Sant Joan de Déu (Carrer del Dr. Antoni Pujadas, 42)
+Sant Boi de Llobregat, Baix Llobregat comarca, Province of Barcelona, Catalonia autonomous region
+
+- Iglesia del Parque Sanitari Sant Joan de Déu/Church of the Parc Sanitari Sant Joan de Déu (Carrer del Dr. Antoni Pujadas, 42)
 
   - Bl. Avelí/Avelino Martínez de Arenzana Candela, OH, oblate/martyr, 10/4
 
@@ -7179,7 +7288,7 @@ Catalonia autonomous region
 
   - Bl. José Miguel Peñarroya Dolz, OH, religious/martyr, 10/4
 
-- Bl. Leandro (née José) Aloy Doménech, OH, religious/martyr, 10/4
+  - Bl. Leandro (née José) Aloy Doménech, OH, religious/martyr, 10/4
 
   - Bl. Leopoldo (née Juan) de Francisco Pío, OH, religious/martyr, 10/4
 
