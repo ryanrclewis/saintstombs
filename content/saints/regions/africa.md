@@ -192,6 +192,12 @@ Nkolbisson, Yaoundé
 
   - Ven. Jean-Thierry of the Child Jesus and of the Passion Ebogo, OCD, priest, d. 1/5/2006
 
+Yaoundé, Mvolyé neighborhood, Centre region
+
+- Basilique Marie-Reine-des-Apôtres
+
+  - Servant of God Gehard Heinrich Vieter, SAC, bishop, d. 11/7/1914
+
 # Central African Republic
 
 Bangui, Bangui Prefecture
