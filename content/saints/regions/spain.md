@@ -8793,7 +8793,7 @@ Valladolid
 
   - Bl. Pedro Ruiz de los Paños Angel, priest/founder/martyr, 7/23
 
-Cementerio de El Carmen
+- Cementerio de El Carmen
 
   - Servant of God Encarnación (Encarnita) Ortega Pardo, laywoman, d. 12/1/1995
 
@@ -8809,15 +8809,23 @@ Cementerio de El Carmen
 
   - St. Michael de Sanctis the Ecstatic, priest, 4/10
 
-Valls, Province of Tarragona, Alt Camp county, Camp de Tarragona region,
-Catalonia autonomous community
+Vallejuelo, Valle de Mena municipality, Burgos Province, Castilla y León autonomous community
+
+- In the family panteon/pantheon (but there is no indication of where that is)
+
+  - Bl. José López Torre, priest/martyr, 11/6
+
+- Cementerio de Vallejuelo (43.0739, -3.3353)(near the parish church of San Esteban Protomártir along local road BU-V-5437)
+
+  - Bl. Luis Moreno Escudero, priest/martyr, 11/6 (in the family burial vault/el panteón familiar)
+
+Valls, Province of Tarragona, Alt Camp county, Camp de Tarragona region, Catalonia autonomous community
 
 - Iglesia de San Juan Bautista (Plaça Església, 1)
 
-  - Bl. Josep Maria Panadés Terré, priest/martyr, 8/25 (this is according to
-    AI, so take this with a grain of salt)
+  - Bl. Josep Maria Panadés Terré, priest/martyr, 8/25 (this is according to AI, so take this with a grain of salt)
 
-Cementerio de Valls
+- Cementerio de Valls
 
   - Bl. Antoni Prenafeta Soler, priest/martyr, 8/25
 
@@ -8844,6 +8852,12 @@ Valverde del Camino, Huelva
 
   - Bl. Eusebia Palomino Yenes, FMA, religious, 2/10
 
+Vega de Pas, Valles Pasiegos comarca, Cantabria Province, Cantabria autonomous region
+
+- Cementerio El Riguilón (Diseminado Candolias, 42)
+
+  - Bl. Bonifacio Angulo González, priest/martyr, 11/6 (buried in a mass grave with his female cousins who were gang raped, machine gunned in the legs, and buried alive; their grave is expected to be moved)
+
 Vera, Province of Almería, Andalusia autonomous community
 
 - ???
@@ -8856,8 +8870,7 @@ Viator, Province of Almería, Andalusia autonomous community
 
 - ???
 
-  - Bl. Antonio Martínez García, priest/martyr, d. 9/16 (the communists
-    wouldn't allow him to be buried in the cemetery)
+  - Bl. Antonio Martínez García, priest/martyr, d. 9/16 (the communists wouldn't allow him to be buried in the cemetery)
 
 Vic, Osona comarca, Province of Barcelona
 
@@ -8869,19 +8882,19 @@ Vic, Osona comarca, Province of Barcelona
 
   - Servant of God Ramon Strauch i Vidal, OFM, murdered bishop, d. 4/16/1823
 
-Església de Sant Antoni Maria Claret
+- Església de Sant Antoni Maria Claret
 
   - St. Antoni Maria Claret, founder, 10/24
 
-Capella de les Sant Josep de les Josefines de la Caritat
+- Capella de les Sant Josep de les Josefines de la Caritat
 
   - Ven. Caterina Coromina i Agustí, foundress, d. 7/11/1893
 
-Casa madre, Congregación de las Carmelitas de la Caridad
+- Casa madre, Congregación de las Carmelitas de la Caridad
 
   - St. Joaquina de Vedruna Vidal de Mas, widow/foundress, 8/28 & 5/22
 
-Casa mare de les Serventes del Sagrat Co
+- Casa mare de les Serventes del Sagrat Co
 
   - Ven. Juan Collell Cuatrecasas, priest, d. 10/5/1921
 
@@ -8889,7 +8902,7 @@ Casa mare de les Serventes del Sagrat Co
 
   - Bl. Francisco Coll Guitart, founder, 4/2
 
-Cementerio de Vic
+- Cementerio de Vic
 
   - Bl. Josep Puigdeséns Pujol, CMF, priest/martyr, 8/17 & 2/1 (buried in a
     mass grave; remains lost)
@@ -8921,7 +8934,7 @@ Vila-rodona, Tarragona
 
 Villafamés, Province of Castellón, Valencian autonomous community
 
-Cementerio de Villafamés
+- Cementerio de Villafamés
 
   - Bl. Joaquín de Albocácer (née José Ferrer Adell), OFM Cap.,
     priest/martyr, 8/30 (remains unidentified)
