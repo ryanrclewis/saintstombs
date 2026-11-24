@@ -2943,6 +2943,8 @@ Lima
 
 - Basílica Catedral Metropolitana de San Juan el Evangelista/Cathedral Basilica of St. John the Evangelist
 
+  - Nuestra Señora de la Evangelización (a statue that has been the focal point of Peruvian Marian devotion since the 16th century)
+
   - Servant of God Andrea Aziani (aka, Andres Aziani Samek-Lodovici), layman/professor, d. 7/30/2008 (in the crypt)
 
   - Servant of God Emilio Lissón y Chávez, CM, archbishop, d. 12/24/1961
