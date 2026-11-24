@@ -1184,7 +1184,7 @@ Bergamo, Province of Bergamo, Lombardia region
   - Ven. Alberto Maria da Milano (née Enrico Beretta), OFM Cap., priest, d.
     8/10/2001
 
-  - Servant of God Giulia Gabrieli, teen laywoman, d. 8/19/2011
+  - Ven. Giulia Gabrieli, teen laywoman, d. 8/19/2011
 
 - ???
 
@@ -8421,8 +8421,6 @@ Palermo
 
   - Servant of God Maria Stella (née Teresa) Purpura, FMC, religious, d. 6/24/1945 (she died here, but where is she buried?)
 
-  - Ven. Rosella Stàltari, religious, d. 1/4/1974
-
 Palestrina
 
 - Duomo di San Agapito
@@ -9661,7 +9659,7 @@ Santa Maria in Porto
 
 Opera Santa Teresa Ravenna (Via Santa Teresa, 8)
 
-  - Servant of God Angelo Lolli, priest/founder, d. 4/17/1958
+  - Ven. Angelo Lolli, priest/founder, d. 4/17/1958
 
 - ???
 
@@ -9757,22 +9755,23 @@ Regalbuto, Sicily
 
 Reggio Calabria, Metropolitan City of Reggio Calabria, Calabria region
 
-- Basilica Cattedrale Metropolitana di Maria Santissima Assunta in Cielo
-  (Via Tommaso Campanella, 46)
+- Basilica Cattedrale Metropolitana di Maria Santissima Assunta in Cielo (Via Tommaso Campanella, 46)
 
-  - St. Elias the Younger, abbot, 8/17 (this is according to AI; take it
-    with a grain of salt)
+  - St. Elias the Younger, abbot, 8/17 (this is according to AI; take it with a grain of salt)
 
   - Servant of God Enrico Montalbetti, Obs. SC, archbishop, d. 1/31/1943
 
   - Ven. Giovanni Ferro, CRS, bishop, d. 4/18/1992
 
-Congregazione Suore Veroniche del Volto Santo (Via Padre Catanoso, 2;
-Santo Spirito section of the city)
+- Chiesa di Gesù e Maria (Via del Torrione)
+
+  - Bl. Rosa Stàltari/Staltari, FMC,  religious/teacher, d. 1/4/1974
+
+Congregazione Suore Veroniche del Volto Santo (Via Padre Catanoso, 2; Santo Spirito section of the city)
 
   - St. Gaetano Catanoso, priest/founder, 4/4
 
-Reggio Calabria, Armo frazione, Metropolitan City of Regio Calabria,
+Reggio Calabria, Armo *frazione*, Metropolitan City of Regio Calabria,
 Calabria region
 
 - Chiesa di Sant'Eustrazio (may no longer be extant)
