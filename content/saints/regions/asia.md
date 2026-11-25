@@ -3695,11 +3695,9 @@ Jaffna, Northern Province
   - Ven Bastiampillai Anthonipillai Thomas, OMI, priest/founder, d.
     1/26/1964
 
-Kochchikade/කොච්චිකඩේ, Kotahena suburb/කොටහේන,
-Colombo District, Western Province
+Kochchikade/කොච්චිකඩේ, Kotahena suburb/කොටහේන, Colombo District, Western Province
 
-ශාන්ත අන්තෝනි සිද්ධස්ථානය/St.
-Anthony's Shrine
+- ශාන්ත අන්තෝනි සිද්ධස්ථානය/St. Anthony's Shrine
 
   - St. Anthony of Padua (relic only)
 
@@ -3727,15 +3725,13 @@ Telwatta, Galle District, Southern Province
 
 Aleppo/ﺣَﻠَﺐ
 
-- Church of St. Simeon Stylites/كنيسة القديس سمعان العمودي
+- Church of St. Simeon Stylites/Qal’at Sim’an/كنيسة القديس سمعان العمودي
 
-- St. Simeon Stylites the Elder, confessor, 7/27 (the church is in
-  ruins, but he is thought to still be buried here)
+  - St. Simeon Stylites the Elder, confessor, 7/27 (the church is in ruins, but he is thought to still be buried here)
 
-- كنيسة الساليزيان/Salesian Church
+- Salesian Church/Don Bosco Aleppo/كنيسة الساليزيان (Plus Code 647R+6RC)(36.21304° N, 37.14214° E)
 
-  - Servant of God Mātīld (née Shelḩot) Salīm/ماتيلد
-    شلحت ﺴﻟﻳﻢ, ASC, laywoman, d. 2/27/1961
+  - Servant of God Mātīld (nee Shelḩot) Salīm/ماتيلد شلحت ﺴﻟﻳﻢ, ASC, laywoman, d. 2/27/1961
 
 Antioch
 
