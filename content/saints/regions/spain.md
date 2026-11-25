@@ -111,22 +111,21 @@ Alcalá de Henares, Alcalá comarca, Province of Madrid, Madrid autonomous commu
 
   - Ss. Justus and Pastor, martyrs
 
-Son of St. Paulinus of Nola (not yet a canonized saint)
+  - Son of St. Paulinus of Nola (not yet a canonized saint)
+
+- Cementerio Jardín de Alcalá de Henares (Carretera de Pastrana, km 3)
+
+  - Servant of God Elena Calero Baamonde, laywoman, d. 11/20/2014
 
 Alcañiz, Province of Teruel, Aragón autonomous community
 
 - ???
 
-  - Bl. Estanislao Kostka (née Ismael) Tajadura Marcos, S. Petri ad vincula,
-    religious/martyr, 9/18 (do a search for the \"Las reliquias de los
-    últimos beatos burgaleses\")
+  - Bl. Estanislao Kostka (née Ismael) Tajadura Marcos, S. Petri ad vincula, religious/martyr, 9/18 
 
-Alcantarilla, Huerta de Murcia comarca, Province of Murcia, Murcia
-autonomous region
+Alcantarilla, Huerta de Murcia comarca, Province of Murcia, Murcia autonomous region
 
-Casa Madre de Salesian Sisters of the Sacred Heart of Jesus (Germanes
-Salesianes del Sagrat Cor de Jesús, Congregación de Salesianas del
-Sagrado Corazón de Jesús)
+- Germanes Salesianes del Sagrat Cor de Jesús, Congregación de Salesianas del Sagrado Corazón de JesúsCasa Madre de Salesian Sisters of the Sacred Heart of Jesus
 
   - Bl. Piedad della Cruz (née Tomasa) Ortiz Real, foundress, 2/26
 
@@ -4511,7 +4510,7 @@ Monasterio de San Alonso de Orozco (C. de la Granja, 9, Chamberí)
 
 - La capilla de las Hermandades del Trabajo (calle Raimundo Lulio, 6)
 
-  - Servant of God Abundio García Román, priest/founder, d. 11/30/1989
+  - Ven. Abundio García Román, priest/founder, d. 11/30/1989
 
 - Casa de la Congregación del Santísimo Redentor
 
