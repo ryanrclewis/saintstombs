@@ -915,8 +915,7 @@ Barcelona
 
   - St. Pastor, martyr, 8/6
 
-- Iglesia de Santa Maria de Montalegre/Església de Santa Maria de
-  Montalegre/Church of St. Mary of Montalegre
+- Iglesia de Santa Maria de Montalegre/Església de Santa Maria de Montalegre/Church of St. Mary of Montalegre
 
   - Servant of God José María Hernández Garnica, priest of Opus Dei, d.
     12/7/1972 (Capella del Santíssim Sagrament/Chapel of the Blessed
@@ -2327,13 +2326,15 @@ Cordoba (Córdoba, Cordova)
 
 - Mezquita-Catedral de Córdoba/Cordoba Cathedral
 
+  - Capilla de Santa Teresa (several relics)
+
 - Iglesia de San Acisclo
 
   - St. Flora de Córdoba, laywoman/martyr, 11/24
 
   - St. Martha of Córdoba, religious/martyr, 11/24 (skull only)
 
-Santos Cosme y Damián
+- Santos Cosme y Damián
 
   - St. Salomón, martyr, 3/13
 
@@ -2345,7 +2346,7 @@ Santos Cosme y Damián
 
   - Bl. Alvaro De Zamora, Dominican, 2/19
 
-San Ginés
+- San Ginés
 
   - St. Rodrigo de Córdoba, martyr, 3/13
 
@@ -2354,10 +2355,9 @@ San Ginés
   - St. Juan Bautista de la Concepción (née Juan) García López-Rico, OSsT,
     priest/reformer of his order, 2/14
 
-Basílica de San Pedro
+- Basílica de San Pedro
 
-Mártires de Córdoba/Martyrs of Cordoba (in the ark that guards the
-relics de los Santos Mártires de Córdoba)
+  - Mártires de Córdoba/Martyrs of Cordoba (in the ark that guards the relics de los Santos Mártires de Córdoba)
 
   - St. Amator de Córdoba, martyr, 4/30 in Martos
 
@@ -2381,26 +2381,24 @@ relics de los Santos Mártires de Córdoba)
 
   - St. Theodemir of Cordoba, OSB, monk/martyr, 7/25
 
-Institución Teresiana/Teresian Institution (C. Vandalino, 6, Nte.
-Sierra)
+- Institución Teresiana/Teresian Institution (C. Vandalino, 6, Nte. Sierra)
 
   - Bl. Vittoria Diaz y Bustos de Molina, laywoman/martyr, 8/12
 
-- Santuario de Nuestra Señora de Linares (Carretera del Santuario de
-  Linares)
+- Santuario de Nuestra Señora de Linares (Carretera del Santuario de   Linares)
 
-Nuestra Señora de Linares
+  - Nuestra Señora de Linares
 
-La capilla del Hospital San Juan de Dios
+- La capilla del Hospital San Juan de Dios
 
   - Servant of God Bonifacio Bonillo Fernández, OH, religious, d. 9/11/1978
 
-Casa Madre Hospital Jesús Nazareno (C/ Buen Suceso, 1)
+- Casa Madre Hospital Jesús Nazareno (C/ Buen Suceso, 1)
 
   - Bl. Cristóbal López (aka, Cristóbal de Santa Catalina) de Valladolid
     Orea, TOSF, hermit/founder, 7/24
 
-Cementerio de San Rafael (Calle San Rafael, s/n/)
+- Cementerio de San Rafael (Calle San Rafael, s/n/)
 
   - Bl. Ferdinando of Cardona, O. de M., superior, 8/23 (some sources say
     he's at the city's Convento de la Merced/Convent of Our Lady of Mercy)
@@ -2717,6 +2715,14 @@ El Pont d'Armentera, Alt Camp comarca, Province of Tarragona, Catalonia autonomo
 - Cementerio de El Pont d'Armentera
 
   - Bl. Jaume/Jaime Tarragó Iglesias, priest/martyr, 8/28
+
+El Puerto de la Cadena mountain pass, El Pamar, Murcia municipality, Huerta de Murcia comarca, Province of Mercia, 
+
+- ???
+
+  - Bl. Francisco Ballester Úbeda, priest/martyr, 8/12
+
+  - Bl. José Gómez Llor, priest/martyr, 8/12
 
 El Puerto de Santa María, Province of Cádiz, Andalusia autonomous community
 
