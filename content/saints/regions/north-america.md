@@ -56,9 +56,13 @@ Ashland, Ashland and Bayfield Counties, Wisconsin
 Astoria, New York
 
 - Holy Patriarchal and Cross-Pigical Monastery of Osias Irini Chrysovalantos
+
   - Relics of St. Vincent, Mary Magdalene, the holy sponte, John Chrysostom, Lucia the Martyr, from the Lord's robe, from the holy shroud, holy stone from the Lord's tomb, Ss. Cosmas and Damian, St. Stephen the First Martyr, Matthew the Evangelist, Bartholomew the Apostle, John the Baptist, Agios Iakovos of Adelfotheos.
+
   - Relic of Constantine (venerated as a saint in Orthodoxy)
+
 - Sacred Patriarchal and Stavropegial Orthodox Monastery of St. Irene Chrysovalantou
+
   - St. Mary of Egypt, 4/1 (first class relic)
 
 Atlanta, Georgia
@@ -118,27 +122,33 @@ Bay St. Louis, Hancock County, Mississippi
 Bayard, Grant County, New Mexico
 
 - Our Lady of Fatima Church (340 Main Street)
+
   - Shrine of Our Lady of Guadalupe
 
 Beavercreek, Greene County, Ohio
 
 - Bergamo Center for Lifelong Learning (4435 E. Patterson Road)
+
   - Our Lady of Lourdes Grotto
 
 Bedford, Cuyahoga County, Ohio
 
 - Villa San Bernardo Apartments
+
   - Shrine of Our Lady of Levocha Shrine (1160 Broadway, Route 14)
 
 Belleville, St. Clair County, Illinois
 
 - National Shrine of Our Lady of the Snows (442 S Demazenod Dr.)
+
 - Saint Henry's Oblate Cemetery
+
   - Fr. John Maronic, OMI, founder, d. 9/11/1985 (_non-causa_)
 
 Bellevue, Sarpy County, Nebraska
 
 - Missionary Society of St. Columban (1902 Calhoun St.)
+
   - Our Lady of Lourdes Grotto
 
 Bellevue, Eaton County, Ohio (Located in Erie, Huron, Seneca, and Sandusky counties, 61 miles/98.17 km. southwest of Cleveland)
@@ -148,11 +158,13 @@ Bellevue, Eaton County, Ohio (Located in Erie, Huron, Seneca, and Sandusky count
 Belmont, North Carolina
 
 - Belmont Abbey (100 Belmont-Mt. Holly Road)
+
   - Shrine of Our Lady of Lourdes
 
 Benton, Lafayette County, Wisconsin
 
 - St. Patrick Church churchyard
+
   - Ven. Samuel Mazzuchelli, OP, priest/founder, d. 2/23/1864
 
 Berwyn, Cook County, Illinois
@@ -168,16 +180,19 @@ Birmingham, Alabama
 Bison, Garfield County, Oklahoma, Oklahoma
 
 - St. Joseph Church (101 S. 1<sup>st</sup> Street/120 Schaubroeck)
+
   - Archdiocesan Shrine of Our Lady of Fatima
 
 Bloomingdale, Jefferson County, Ohio
 
 - St John Vianney Oratory Chapel
+
   - Servant of God Gwen Cecilia Coniker, laywoman, d. 6/15/2002 (in the crypt)
 
 Boomer, Fayette County, West Virginia
 
 - St. Anthony Church
+
   - St. Anthony's Shrine (2764 Midland Trail , Rte. 60)
 
 Boonton, Morris County, New Jersey 
@@ -203,16 +218,19 @@ Boston, Massachusetts
 Boston, Brighton neighborhood, Massachusetts
 
 - St. Gabriel Church (139 Washington St.)
+
   - Our Lady of Fatima Shrine
 
 Boston, Roxbury neighborhood
 
 - Basilica of Our Lady of Perpetual Help (1545 Tremont St.)
+
   - St. Nazarius the Soldier, martyr, June 28
 
 Boston, West Roxbury neighborhood, Massachusetts
 
 - St. Joseph Cemetery
+
   - Servant of God José Luis Múzquiz de Miguel, Opus Dei priest, d. 6/21/1983
 
 Bowling Green, Kentucky
@@ -240,33 +258,49 @@ Briggsville, Marquette County, Wisconsin
 Brooklyn, New York
 
 - Basilica of Regina Pacis (1230 65th Street)
+
   - Regina Pacis votive shrine
+
 - Our Lady of Lourdes Church and Shrine (89 Furman Avenue)
+
 - Shrine Church of Our Lady of Mount Carmel (275 North 8th Street)
+
 - Shrine Church of Our Lady of Solace (2866 W. 17th St.)
+
 - Shrine Church of St. Bernadette (8201 13<sup>th</sup> Ave.)
+
 - St. Peter Claver Church
+
   - Servant of God Msgr. Bernard J. Quinn, bishop, d. 4/7/1940
 
 Buffalo, New York
 
 - Carmelite Monastery (75 Carmel Street)
+
   - National Shrine of the Little Flower
+
 - St. Stephen Church (193 Elk Street)
+
   - St. Jude Shrine
 
 Burlington, Racine and Walworth Counties, Wisconsin
 
 - Sacred Heart Retreat Center (2457 Browns Lake Drive)
+
   - Shrine to Our Lady of Ostrabrama
+
   - Shrine to the Black Madonna of Czestochowa
+
   - Way of the Cross
+
   - Our Lady of Lourdes Grotto
+
   - Portiuncula Chapel
 
 Burton, Geauga County, Ohio
 
 - Shrine of Our Lady of Mariapoch (17486 Mumford Road)
+
   - Weeping Madonna
 
 Butte, Silver Bow County, Montana
@@ -276,12 +310,15 @@ Butte, Silver Bow County, Montana
 Cambridge Township, Lenawee County, Michigan
 
 - St. Joseph Church and Shrine
+
   - Our Lady of Lourdes Grotto
+
   - Stations of the Cross
 
 Camden, Camden County, New Jersey
 
 - Monastery of the Perpetual Rosary
+
   - Our Lady's Perpetual Rosary Shrine (1500 Haddon Avenue)
 
 Cameron, Cameron Parish, Louisiana
@@ -291,19 +328,25 @@ Cameron, Cameron Parish, Louisiana
 Canfield, Mahoning County, Ohio,
 
 - St. Paul Monastery (9531 Akron-Canfield Road; Route 224)
+
   - Wayside Shrine to St. Anthony Roadside
 
 Canton, Stark County, Ohio
 
 - St. Peter Cemetery, back section, South of Mausoleum Row 06
+
   - Servant of God Rhoda Greer Wise, laywoman, d. 7/7/1948
+
 - Central Catholic High School (4824 Tuscarawas Street W)
+
   - Our Lady of Lourdes Grotto
 
 Carey, Wyandot County, Ohio
 
 - Basilica and National Shrine of Our Lady of Consolation
+
   - Replica of the statue of Our Lady of Consolation
+
   - St. Jean-Gabriel Perboyre, CM, priest/martyr/China's first saint, 9/11 (small relic in a beautiful reliquary)
 
 Carlisle, Nicholas County, Kentucky
@@ -323,7 +366,9 @@ Carthage, Jasper County, Missouri
 Cataldo, Kootenai and Shoshone Counties, Idaho
 
 - Sacred Heart Mission (47°32′55″N 116°21′30″W; located inside )
+
   - Oldest building in Idaho
+
   - Site of Native American devotion and pilgrimage
 
 Centralia, Columbia County, Pennsylvania
@@ -355,30 +400,54 @@ Chestnut Hill, Middlesex, Norfolk, and Suffolk Counties, Massachusetts
 Chicago, Illinois
 
 - Holy Trinity Polish Mission (1118 N. Noble Street)
+
   - Bl. Karolina Kózka/Karolina Kózkówna/Karoliny Kózkówny, martyr for chastity, 11/18 (relic only)
+
 - Our Lady of Guadalupe Church
+
   - Shrine of St. Jude (relics only) (3200 E. 91st Streey)
+
 - Our Lady of Sorrows Basilica (3121 W. Jackson Boulevard)
+
   - National Shrine of Our Sorrowful Mother
+
   - National Shrine of St. Peregrine
+
 - St. John Cantius Church (825 N Carpenter Street)
+
   - Relics of 2,000 saints (including all 12 apostles)
+
   - Relics of the Holy Land
+
 - St. Joseph and St. Anne Church (2751 W. 38<sup>th</sup> Place)
+
   - National Shrine of St. Anne
+
 - St. Michael Church (1633 N. Cleveland Avenue)
+
   - Shrine of Our Lady of Perpetual Help
+
 - St. Peter Church (110 W. Madison Street)
+
   - Franciscan Shrines of Ss. Francis and Anthony
+
 - St. Pius Church (1901-1909 S. Ashland Avenue)
+
   - Dominican Shrine of St. Jude
+
 - Felician Sisters Mother of Good Counsel Convent (3800 W. Peterson Avenue)
+
   - Sacred Heart Shrine (in the provincial house chapel)
+
 - Sisters of St. Casimir Motherhouse (2601 W. Marquette Road)
+
   - Ven. Kasimira (née Maria) Kaupas, SSC, foundress, d. 4/17/1940
+
 - Shrine of Christ the King Sovereign Priest (6423 South Woodlawn Avenue)
-- Columbus Hospital
-  - Mother Cabrini Shrine (2520 N. Lakeview Avenue)
+
+- Columbus Hospital (2520 N. Lakeview Avenue)
+
+  - Mother Cabrini Shrine
 
 Childs, Cecil County, Maryland
 
@@ -395,37 +464,60 @@ Chimayo/Chimayó, Rio Arriba and Santa Fe Counties, New Mexico
 Cincinnati, Hamilton County, Ohio
 
 - Holy Cross-Immaculata Church (30 Guido St., Mount Adams)
+
   - The 180 steps devotion
+
 - Old St. Mary’s Church (123 E. Thirteenth Street)
+
   - Privileged Altar
+
   - St. Martura (nothing is know about this martyred saint)
+
 - St. Anthony Friary (500 Colerain Ave.)
+
   - National Shrine of St. Anthony
+
 - Sisters of Charity Cemetery (5900 Delhi Ave.)
+
   - Servant of God Rosa Maria (Blandina) Segale, SC, religious, d. 2/23/1941
 
 Cleveland, White County, Georgia
 
 - St. Paul the Apostle Church (1243 Hulsey Rd.)
+
   - St. Anne
+
   - St. Therese
+
   - St. Andrew the Apostle
+
   - St. Peregrine
+
   - The True Cross
+
   - A total of 33 first class relics
 
 Cleveland, Ohio
 
 - Cathedral of St. John the Evangelist (1007 Superior Ave.)
+
   - St. Christine, girl martyr, 11/5 (relics gifted by the Vatican)
+
 - Conversion of St. Paul Church (4120 Euclid Ave.)
+
   - St. Paul Shrine of Perpetual Adoration
 
 Clifton, Passaic County, New Jersey
 
 - Holy Face Monastery (1697 Route S-3)
+
   - Devotion to the Holy Face
+
   - Life sized replica of the Shroud of Turin
+
+Clinton Township, Macomb County, Michigan
+
+- Archdiocesan Shrine of Jesus, Divine Mercy (33826 Beaconsfield Street)
 
 Clyde, Nodaway County, Missouri
 
@@ -786,6 +878,8 @@ Grand Coteau, St. Landry Parish, Louisiana
     - Site of a miracle attributed to the saint's intercession
 
 Grand Rapids, Kent County, Michigan
+
+- Shrine of St. Francis Xavier and Our Lady of Guadalupe (250 Brown Street SE)
 
 - St. Jude Church (3455 Assumption Dr., NE)
 
@@ -1282,19 +1376,24 @@ Mio, Oscoda County, Michigan
 
 - Our Lady of the Woods Shrine (a composite of every Marian shrine)(100 Deyarmond Street)
 
+  - First class relics of Ss. Anne, Anthony of Padua, and Francis of Assisi
+
 Mogadore, Portage and Summit Counties, Ohio
 
 - St. Joseph Church (2643 Waterloo Road)
+
   - Our Lady of Lourdes Shrine
 
 Molokai, Hawaii
 
 - St. Philomena Church
+
   - St. Damien of Molokai, 4/15 (relic only)
 
 Monroe, Ouachita Parish
 
 - St. Matthew Church Cemetery
+
   - Servant of God Louis Marie Gergaud, priest, d. 10/1/1873
 
 Monroe, Orange County, New York
@@ -1690,8 +1789,11 @@ Reserve, St. John the Baptist Parish, Louisiana (nearly two hours from New Orlea
 Rhineland, Montgomery County, Missouri
 
 - Church of the Risen Savior (197 State Highway P)
+
   - Shrine of Our Lady of Sorrows
+
   - Stations of the Cross
+
   - Two grottoes
 
 Richard, Acadia Parish, Louisiana
@@ -1711,6 +1813,12 @@ Richmond Hill, Bryan County, Georgia
   - St. Faustina Kowalska (relic only)
 
   - St. Maximilian Kolbe (relic only)
+
+Riverview, Wayne County, Michigan
+
+- Our Lady of Fatima Archdiocesan Shrine (18637 Ray Street)
+
+  - Relics of the Fatima children and other saints
 
 Rochester, Monroe County, New York
 
@@ -2233,6 +2341,12 @@ Totowa, Passaic County, New Jersey
   - Servant of God Fr. Leo Heinrichs, OFM, priest (likely martyr)
 
   - Fr. Mychal Judge, OFM (_non-causa_; the first responder to die on 9/11)
+
+Triangle, Prince William County, Virginia
+
+- Quantico National Cemetery (18424 Joplin Road)
+
+  - Servant of God Thomas Vander Woude, layman, d. 9/8/2008
 
 Trinidad, Las Animas County, Colorado
 
