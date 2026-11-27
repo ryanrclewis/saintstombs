@@ -4749,7 +4749,11 @@ Samsun, Samsun Province, Black Sea region
 
   - St. Dorotheus the Younger of Khiliokomos, monk, 1/5
 
-Şanlıurfa/Sanli Urfa (formerly Edessa)
+Urfa/Şanlıurfa (former Edessa), Province of Şanlıurfa
+
+- Kızılkoyun Necropolis
+
+  - King St. Abgar V, king to whom Jesus dictated a letter, (possible tomb, not confirmed), 5/11, 10/28, the Wednesday or Thursday of the third week of Great Lent, fourth Friday after Easter, typically the third Saturday)
 
 - ???
 
@@ -4757,8 +4761,7 @@ Samsun, Samsun Province, Black Sea region
 
   - St. Barbea, martyr, 1/29
 
-- St. Ephrem the Syrian, Church Doctor, 6/9 (at "Der Serkis" monastery,
-  west of Edessa)
+  - St. Ephrem the Syrian, Church Doctor, 6/9 (at “Der Serkis” monastery, west of Edessa)
 
   - St. Mary, niece of St. Abraham
 
